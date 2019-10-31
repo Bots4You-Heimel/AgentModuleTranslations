@@ -1,65 +1,67 @@
-ClothesDryer:
- - Trockner
- - Wäschetrockner
- - Kleidertrockner
+de:
+    ClothesDryer:
+     - Trockner
+     - Wäschetrockner
+     - Kleidertrockner
 
-WashingMachine:
- - Waschmaschine
- - Waschautomoat
- - Wäschetrommel
- - Waschtrommel
+    WashingMachine:
+     - Waschmaschine
+     - Waschautomoat
+     - Wäschetrommel
+     - Waschtrommel
+     - Trommel
 
-ElectricalOven:
- - Ofen
- - Backofen
- - Backröhre
- - Pizzaofen
- - Ofenröhre
+    ElectricalOven:
+     - Ofen
+     - Backofen
+     - Backröhre
+     - Pizzaofen
+     - Ofenröhre
 
-GasOven:
- - Gasofen
+    GasOven:
+     - Gasofen
 
-GasCooktop:
- - Gasherd
- - Gaskocher
+    GasCooktop:
+     - Gasherd
+     - Gaskocher
 
-ElectricCooktop:
- - Glaskeramik-Kochfeld
- - Kochfeld
- - Kochplatte
- - Herd
- - Herdplatte
+    ElectricCooktop:
+     - Glaskeramik-Kochfeld
+     - Kochfeld
+     - Kochplatte
+     - Herd
+     - Herdplatte
 
-CircuitBreaker:
- - Sicherungskasten
- - Sicherung
- - Verteilerkasten
- - Sicherungsdose
- - Stromverteiler
- - Stromkasten
- - Zählerkasten
- - Stromzählerkasten
+    CircuitBreaker:
+     - Sicherungskasten
+     - Sicherung
+     - Verteilerkasten
+     - Sicherungsdose
+     - Stromverteiler
+     - Stromkasten
+     - Zählerkasten
+     - Stromzählerkasten
 
-Meter:
- - Zähler
- - Messer
- - Meßgerät
+    Meter:
+     - Zähler
+     - Messer
+     - Meßgerät
 
-ElectricMeter:
- - Elektrozähler
- - Stromzähler
- - Stromverbrauchsmesser
- - Stromverbrauchszähler
+    ElectricMeter:
+     - Elektrozähler
+     - Stromzähler
+     - Stromverbrauchsmesser
+     - Stromverbrauchszähler
 
-GasMeter:
- - Gasuhr
- - Gaszähler
- - Gasverbrauchsmesser
- - Gasverbrauchszähler
+    GasMeter:
+     - Gasuhr
+     - Gaszähler
+     - Gasverbrauchsmesser
+     - Gasverbrauchszähler
 
-WaterMeter:
- - Durchflussmesser
- - Wasseruhr
- - Wasserzähler
- - Wasserverbrauchsmesser
- - Wasserverbrauchszähler
+    WaterMeter:
+     - Durchflussmesser
+     - Wasseruhr
+     - Wasserzähler
+     - Wasserverbrauchsmesser
+     - Wasserverbrauchszähler
