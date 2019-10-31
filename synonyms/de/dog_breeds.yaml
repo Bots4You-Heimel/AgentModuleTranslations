@@ -1,368 +1,369 @@
-under_40cm:
- - Chihuahua
- - Chihuahua
- - zwergspitz-pomeranian
- - Zwergspitz
- - prager rattler
- - prague ratter
- - Prager Rattler
- - yorkshire terrier
- - yorkie
- - Yorkshire Terrier
- - dackel-teckel
- - Dackel
- - russkiy-toy
- - Russischer Toy
- - Russischer Zwergspaniel
- - Moskauer Langhaariger
- - Toy Terrier
- - Russkiy Toy
- - Pekingese
- - Pekingese Bolonka
- - zwetna
- - Bolonka Zwetna
- - Australian_Silky_Terrier
- - Austr. Silky Terrier
- - Malteser norfolk-terrier
- - Norfolk Terrier scottish terrier
- - Scottish Terrier
- - Shih Tzu
- - Havaneser Bichon Havanais
- - Havaneser Lhasa Apso
- - Lhasaterrier
- - Löwenhund
- - Lhasa Apso
- - Kleinspitz Spitz
- - Kleinspitz
- - Papillon
- - Papillon Zwergpinscher
- - Rehpinscher
- - Mini
- - pinscher
- - Zwergpinscher schipperke
- - Schipperke affenpinscher
- - Affenpinscher
- - Westi
- - west highland white terrier
- - West H.W. Terrier Welsh corgi pembroke
- - Welsh Corgi Pembroke welsh corgi cardigan
- - Welsh Corgi Cardigan Jack Russell Terrier Russel
- - Jack Russell Terrier
- - Cairn Terrier
- - tschechischer terrier
- - Cesky Terrier
- - Chinese-crested
- - chinesischer Nackthund
- - Chinese Crested
- - Mops
- - Französische Bulldogge
- - Zwergschnauzer
- - spaniel
- - Border Terrier
- - parson-russell-terrier
- - Parson Russell Terrier
- - Italian Greyhound
- - Italienisches Windspiel
- - Fox Terrier
- - Foxterrier
- - shetland-sheepdog-sheltie
- - Shetland Sheepdog
+de:
+    under_40cm:
+     - Chihuahua
+     - Chihuahua
+     - zwergspitz-pomeranian
+     - Zwergspitz
+     - prager rattler
+     - prague ratter
+     - Prager Rattler
+     - yorkshire terrier
+     - yorkie
+     - Yorkshire Terrier
+     - dackel-teckel
+     - Dackel
+     - russkiy-toy
+     - Russischer Toy
+     - Russischer Zwergspaniel
+     - Moskauer Langhaariger
+     - Toy Terrier
+     - Russkiy Toy
+     - Pekingese
+     - Pekingese Bolonka
+     - zwetna
+     - Bolonka Zwetna
+     - Australian_Silky_Terrier
+     - Austr. Silky Terrier
+     - Malteser norfolk-terrier
+     - Norfolk Terrier scottish terrier
+     - Scottish Terrier
+     - Shih Tzu
+     - Havaneser Bichon Havanais
+     - Havaneser Lhasa Apso
+     - Lhasaterrier
+     - Löwenhund
+     - Lhasa Apso
+     - Kleinspitz Spitz
+     - Kleinspitz
+     - Papillon
+     - Papillon Zwergpinscher
+     - Rehpinscher
+     - Mini
+     - pinscher
+     - Zwergpinscher schipperke
+     - Schipperke affenpinscher
+     - Affenpinscher
+     - Westi
+     - west highland white terrier
+     - West H.W. Terrier Welsh corgi pembroke
+     - Welsh Corgi Pembroke welsh corgi cardigan
+     - Welsh Corgi Cardigan Jack Russell Terrier Russel
+     - Jack Russell Terrier
+     - Cairn Terrier
+     - tschechischer terrier
+     - Cesky Terrier
+     - Chinese-crested
+     - chinesischer Nackthund
+     - Chinese Crested
+     - Mops
+     - Französische Bulldogge
+     - Zwergschnauzer
+     - spaniel
+     - Border Terrier
+     - parson-russell-terrier
+     - Parson Russell Terrier
+     - Italian Greyhound
+     - Italienisches Windspiel
+     - Fox Terrier
+     - Foxterrier
+     - shetland-sheepdog-sheltie
+     - Shetland Sheepdog
 
-between_40_and_60cm:
- - Deutscher Jagdterrier
- - Jagdterrier
- - American Cocker Spaniel
- - Amerikanischer Cocker Spaniel
- - beagle
- - Beagle
- - Staffordshire Bull Terrier
- - Bullterrier
- - Staffordshire Bullterrier
- - Tibet Terrier
- - Tibet Terrier
- - Shiba Inu
- - Shiba Ken
- - Shiba Inu
- - english cocker spaniel
- - English Cocker Spaniel
- - Boston Terrier
- - Manchester Terrier
- - Manchester Terrier
- - english Bulldog
- - Englische Bulldogge
- - English Bulldog
- - kooikerhondje
- - kooiker
- - Kooikerhondje Basenji
- - Basenji
- - Pudel
- - kleinpudel
- - grosspudel
- - zwergpudel
- - Pudel
- - Bedlington Terrier
- - Lagotto Romagnolo
- - Irish Terrier
- - Mudi
- - Kroatischer schäferhund
- - Hrvatski ovcar
- - Kroatischer Schäferhund
- - Schäferhund
- - Welsh Springer Spaniel
- - Finnenspitz
- - finnischer spitz
- - Suomenpystykorva
- - Finnen-Spitz
- - Finnenspitz
- - American Staffordshire Terrier
- - Amerikanischer Stafford
- - staff
- - Amstaff
- - Amerikanischer Stafford. Terrie
- - Deutscher Pinscher
- - Shar Pei Dog
- - chinesischer Faltenhund
- - Shar Pei
- - Entlebucher Sennenhund
- - Entleb. Sennenhund
- - whippet
- - Whippet
- - Kelpie
- - Australian Kelpie
- - Australian Kelpie
- - Australian Cattle Dog
- - Austral. Cattle Dog
- - nova scotia duck tolling retriever
- - Toller
- - DuckTollingRetriever
- - Border Collie
- - Border Collie
- - Bullterrier Bull Terrier
- - Bullterrier
- - Norwegischer Elchhund
- - Norweg. Elchhund
- - Wolfsspitz
- - wolfspitz
- - Wolfsspitz
- - Katalanischer Schäferhund
- - Perro de Pastor Catalan
- - Katalan. Hirtenhund
- - Pitbull Pit Bull Terrier American
- - Amerikanischer Pitbull Terrier
- - Portugiesischer Wasserhund
- - Cao de Agua Portugues
- - Portug. Wassserhund
- - Kleiner Münsterländer
- - Kl. Münsterländer
- - Bearded Collie
- - Terrier
- - Samojede
- - Banter Bulldogge
- - Banter Bulldogge
- - Elo Hunderasse
- - Elo
- - Karelischer Bärenhund
- - Karel. Bärenhund
- - Bärenhund
- - Koolie
- - coolie
- - Koolie
- - australian shepherd
- - aussie berger
- - Australian Shepherd
- - Harzer Fuchs
- - Altdeutscher Hütehund
- - Harzer Fuchs
- - Eurasier
- - Siberian Husky
- - schlittenhund
- - Siberian Husky
- - Labrador retriever
- - Labrador
- - West Sibirischer Laika
- - Westsibir. Laika
- - Laika
+    between_40_and_60cm:
+     - Deutscher Jagdterrier
+     - Jagdterrier
+     - American Cocker Spaniel
+     - Amerikanischer Cocker Spaniel
+     - beagle
+     - Beagle
+     - Staffordshire Bull Terrier
+     - Bullterrier
+     - Staffordshire Bullterrier
+     - Tibet Terrier
+     - Tibet Terrier
+     - Shiba Inu
+     - Shiba Ken
+     - Shiba Inu
+     - english cocker spaniel
+     - English Cocker Spaniel
+     - Boston Terrier
+     - Manchester Terrier
+     - Manchester Terrier
+     - english Bulldog
+     - Englische Bulldogge
+     - English Bulldog
+     - kooikerhondje
+     - kooiker
+     - Kooikerhondje Basenji
+     - Basenji
+     - Pudel
+     - kleinpudel
+     - grosspudel
+     - zwergpudel
+     - Pudel
+     - Bedlington Terrier
+     - Lagotto Romagnolo
+     - Irish Terrier
+     - Mudi
+     - Kroatischer schäferhund
+     - Hrvatski ovcar
+     - Kroatischer Schäferhund
+     - Schäferhund
+     - Welsh Springer Spaniel
+     - Finnenspitz
+     - finnischer spitz
+     - Suomenpystykorva
+     - Finnen-Spitz
+     - Finnenspitz
+     - American Staffordshire Terrier
+     - Amerikanischer Stafford
+     - staff
+     - Amstaff
+     - Amerikanischer Stafford. Terrie
+     - Deutscher Pinscher
+     - Shar Pei Dog
+     - chinesischer Faltenhund
+     - Shar Pei
+     - Entlebucher Sennenhund
+     - Entleb. Sennenhund
+     - whippet
+     - Whippet
+     - Kelpie
+     - Australian Kelpie
+     - Australian Kelpie
+     - Australian Cattle Dog
+     - Austral. Cattle Dog
+     - nova scotia duck tolling retriever
+     - Toller
+     - DuckTollingRetriever
+     - Border Collie
+     - Border Collie
+     - Bullterrier Bull Terrier
+     - Bullterrier
+     - Norwegischer Elchhund
+     - Norweg. Elchhund
+     - Wolfsspitz
+     - wolfspitz
+     - Wolfsspitz
+     - Katalanischer Schäferhund
+     - Perro de Pastor Catalan
+     - Katalan. Hirtenhund
+     - Pitbull Pit Bull Terrier American
+     - Amerikanischer Pitbull Terrier
+     - Portugiesischer Wasserhund
+     - Cao de Agua Portugues
+     - Portug. Wassserhund
+     - Kleiner Münsterländer
+     - Kl. Münsterländer
+     - Bearded Collie
+     - Terrier
+     - Samojede
+     - Banter Bulldogge
+     - Banter Bulldogge
+     - Elo Hunderasse
+     - Elo
+     - Karelischer Bärenhund
+     - Karel. Bärenhund
+     - Bärenhund
+     - Koolie
+     - coolie
+     - Koolie
+     - australian shepherd
+     - aussie berger
+     - Australian Shepherd
+     - Harzer Fuchs
+     - Altdeutscher Hütehund
+     - Harzer Fuchs
+     - Eurasier
+     - Siberian Husky
+     - schlittenhund
+     - Siberian Husky
+     - Labrador retriever
+     - Labrador
+     - West Sibirischer Laika
+     - Westsibir. Laika
+     - Laika
 
-between_61_and_70cm:
- - Mischling
- - Altdeutscher Tiger
- - Altdeutscher Hütehund
- - Altdeutscher Tiger
- - Hamilton Stövare
- - Hamilton Stövare
- - Thai Ridgeback
- - Thai Ridgeback
- - Collie
- - Golden Retriever
- - Dalmatiner
- - Lousianna Catahoula
- - Leopard Dog
- - Catah. Leopard Dog
- - Airedale Terrier
- - Airedale Terrier
- - Flat Coated Retriever
- - Flat coated Retriever Bardino
- - Bardino Malinois
- - Belgischer Schäferhund
- - Malinois Tervueren
- - Tervueren
- - lakenois
- - Lakenois Groenendael
- - Groenendael
- - Kraski Ovcar
- - herdenschutzhund
- - Kraski Ovcar
- - Irish Setter
- - Irischer Setter
- - deutscher boxer
- - Deutscher Boxer
- - Deutscher Schäferhund
- - Deutscher Schäferhund
- - Alaskan-Malamute
- - Schäferhund
- - Alaskan Malamute
- - Grosser Münsterländer
- - Gr. Münsterländer
- - Catahoula Bulldog
- - Bulldogge
- - Catahoula Bulldog
- - American Bulldog
- - Amerikanische Bulldogge
- - American Bulldog
- - Magyar Vizsla
- - Magyar Vizsla
- - Chesapeake Bay Retriever
- - Chesapeake Retriever
- - Gordon Setter
- - Gordon Setter
- - Deutsch Langhaar
- - Deutsch Langhaar
- - Weisser schweizer Schäferhund
- - Berger blanc suisse
- - Weisser Schäferhund
- - Berger Picard
- - Berger de Picardie
- - Curly Coated Retriever
- - Curly Coat. Retriever
- - Pudelpointer
- - Deutsch Drahthaar
- - Deutsch Drahthaar
- - rottweiler
- - Rottweiler
- - riesen schnauzer giant
- - Riesenschnauzer
- - Briard Berger de brie
- - Briard
- - English Setter
- - Englischer Setter
- - Bordeaux Dogge
- - Dogo Argentino
- - Argentinische Dogge
- - Dogo Argentino
- - rhodesian-ridgeback
- - Rhodes. Ridgeback bullmastiff
- - Bullmastiff
- - Slowakischer Rauhbart
- - Slovakian Wire-haired Pointing Dog
- - Slovensky hrubosrsty stavac
- - Slowak. Rauhbart
- - english Pointer
- - Pointer Weimaraner
- - Weimaraner
- - Otterhound
- - hovawart
- - Hovawart
- - Slovensky Cuvac
- - slowakischer tschuwatsch
- - Slowakischer Schäferhund
- - Slovacian Watchdog
- - Herdenschutzhund
- - Slovensky Cuvac saluki
- - Saluki Galgo Espanol
- - Galgo Espanol
- - Berner Sennenhund
+    between_61_and_70cm:
+     - Mischling
+     - Altdeutscher Tiger
+     - Altdeutscher Hütehund
+     - Altdeutscher Tiger
+     - Hamilton Stövare
+     - Hamilton Stövare
+     - Thai Ridgeback
+     - Thai Ridgeback
+     - Collie
+     - Golden Retriever
+     - Dalmatiner
+     - Lousianna Catahoula
+     - Leopard Dog
+     - Catah. Leopard Dog
+     - Airedale Terrier
+     - Airedale Terrier
+     - Flat Coated Retriever
+     - Flat coated Retriever Bardino
+     - Bardino Malinois
+     - Belgischer Schäferhund
+     - Malinois Tervueren
+     - Tervueren
+     - lakenois
+     - Lakenois Groenendael
+     - Groenendael
+     - Kraski Ovcar
+     - herdenschutzhund
+     - Kraski Ovcar
+     - Irish Setter
+     - Irischer Setter
+     - deutscher boxer
+     - Deutscher Boxer
+     - Deutscher Schäferhund
+     - Deutscher Schäferhund
+     - Alaskan-Malamute
+     - Schäferhund
+     - Alaskan Malamute
+     - Grosser Münsterländer
+     - Gr. Münsterländer
+     - Catahoula Bulldog
+     - Bulldogge
+     - Catahoula Bulldog
+     - American Bulldog
+     - Amerikanische Bulldogge
+     - American Bulldog
+     - Magyar Vizsla
+     - Magyar Vizsla
+     - Chesapeake Bay Retriever
+     - Chesapeake Retriever
+     - Gordon Setter
+     - Gordon Setter
+     - Deutsch Langhaar
+     - Deutsch Langhaar
+     - Weisser schweizer Schäferhund
+     - Berger blanc suisse
+     - Weisser Schäferhund
+     - Berger Picard
+     - Berger de Picardie
+     - Curly Coated Retriever
+     - Curly Coat. Retriever
+     - Pudelpointer
+     - Deutsch Drahthaar
+     - Deutsch Drahthaar
+     - rottweiler
+     - Rottweiler
+     - riesen schnauzer giant
+     - Riesenschnauzer
+     - Briard Berger de brie
+     - Briard
+     - English Setter
+     - Englischer Setter
+     - Bordeaux Dogge
+     - Dogo Argentino
+     - Argentinische Dogge
+     - Dogo Argentino
+     - rhodesian-ridgeback
+     - Rhodes. Ridgeback bullmastiff
+     - Bullmastiff
+     - Slowakischer Rauhbart
+     - Slovakian Wire-haired Pointing Dog
+     - Slovensky hrubosrsty stavac
+     - Slowak. Rauhbart
+     - english Pointer
+     - Pointer Weimaraner
+     - Weimaraner
+     - Otterhound
+     - hovawart
+     - Hovawart
+     - Slovensky Cuvac
+     - slowakischer tschuwatsch
+     - Slowakischer Schäferhund
+     - Slovacian Watchdog
+     - Herdenschutzhund
+     - Slovensky Cuvac saluki
+     - Saluki Galgo Espanol
+     - Galgo Espanol
+     - Berner Sennenhund
 
-over_70cm:
- - American Akita
- - Great Japanese Dog
- - Großer Japanischer Hund
- - Amerikanischer Akita
- - American Akita Beauceron
- - Berger de Beauce
- - Französischer Hütehund
- - Beauceron Dobermann Pinscher Dobie
- - Dobermann
- - Polski Owczarek Podhalanski
- - Podhalaner
- - Tatrahund
- - Tatra-Schäferhund Hirtenhund
- - Herdenschutzhund
- - Podhalaner
- - Neufundländer
- - Newfoundland
- - Neufundländer Maremmen-Abruzzen-Schäferhund
- - Maremmano Abruzzese
- - Herdenschutzhund
- - Maremm. Abruzzese
- - Grosser Schweizer Sennenhund
- - Großer Schweizer Sennehund
- - Schäferhund
- - Shilo Shepherd
- - Mastino Napoletano
- - Neapolitan Mastiff
- - Mastino Napoletano Fila Brasileiro
- - Brasilianischer Mastiff
- - Fila Brasileiro ungarischer Hirtenhund
- - Kuvasz
- - Herdenschutzhund
- - Kuvasz leonberger
- - Leonberger
- - Sarplaninac
- - Jugoslawischer Hirtenhund
- - Jugoslovenski Ovcarski pas
- - Schäferhund
- - Herdenschutzhund
- - Sarplaninac Kaukasischer Owtscharka
- - Owtcharka
- - Ovtscharka
- - Kavkazskaïa Ovtcharka, Kaukasischer Schäferhund
- - Russischer Hirtenhund
- - Herdenschutzhund
- - Kaukas. Owtscharka Do Khyi
- - Tibet Dogge
- - Tibet Mastiff
- - Tibetdogge
- - Do Khyi Rafeiro do Alentejo
- - Alentejo-Mastiff
- - Rafeiro do Alentejo
- - Afghanischer Windhund
- - afghane
- - Afghan. Windhund Greyhound
- - Greyhound Deerhound
- - Deerhound Broholmer
- - Broholmer
- - Mastiff
- - Old english Mastiff
- - Mastiff Pyrenäenberghund Berghund
- - Herdenschutzhund
- - Pyrenäenberghund mastin espanol
- - Mastin Espanol barsoi
- - Barsoi
- - Kangal
- - Anatolischer Hirtenhund
- - Akbash
- - Karabash
- - Herdenschutzhund
- - Kangal Bernhardiner
- - St. Bernhardshund
- - Chien du Saint-Bernard
- - Saint Bernard Dog
- - Perro San Bernardo
- - Bernhardiner
- - Deutsche Dogge
- - Great Dane
- - Deutsche Dogge
- - irish Wolfhound
- - Irischer Wolfshund
- - irish Wolfshound
- - Irish Wolfhound
+    over_70cm:
+     - American Akita
+     - Great Japanese Dog
+     - Großer Japanischer Hund
+     - Amerikanischer Akita
+     - American Akita Beauceron
+     - Berger de Beauce
+     - Französischer Hütehund
+     - Beauceron Dobermann Pinscher Dobie
+     - Dobermann
+     - Polski Owczarek Podhalanski
+     - Podhalaner
+     - Tatrahund
+     - Tatra-Schäferhund Hirtenhund
+     - Herdenschutzhund
+     - Podhalaner
+     - Neufundländer
+     - Newfoundland
+     - Neufundländer Maremmen-Abruzzen-Schäferhund
+     - Maremmano Abruzzese
+     - Herdenschutzhund
+     - Maremm. Abruzzese
+     - Grosser Schweizer Sennenhund
+     - Großer Schweizer Sennehund
+     - Schäferhund
+     - Shilo Shepherd
+     - Mastino Napoletano
+     - Neapolitan Mastiff
+     - Mastino Napoletano Fila Brasileiro
+     - Brasilianischer Mastiff
+     - Fila Brasileiro ungarischer Hirtenhund
+     - Kuvasz
+     - Herdenschutzhund
+     - Kuvasz leonberger
+     - Leonberger
+     - Sarplaninac
+     - Jugoslawischer Hirtenhund
+     - Jugoslovenski Ovcarski pas
+     - Schäferhund
+     - Herdenschutzhund
+     - Sarplaninac Kaukasischer Owtscharka
+     - Owtcharka
+     - Ovtscharka
+     - Kavkazskaïa Ovtcharka, Kaukasischer Schäferhund
+     - Russischer Hirtenhund
+     - Herdenschutzhund
+     - Kaukas. Owtscharka Do Khyi
+     - Tibet Dogge
+     - Tibet Mastiff
+     - Tibetdogge
+     - Do Khyi Rafeiro do Alentejo
+     - Alentejo-Mastiff
+     - Rafeiro do Alentejo
+     - Afghanischer Windhund
+     - afghane
+     - Afghan. Windhund Greyhound
+     - Greyhound Deerhound
+     - Deerhound Broholmer
+     - Broholmer
+     - Mastiff
+     - Old english Mastiff
+     - Mastiff Pyrenäenberghund Berghund
+     - Herdenschutzhund
+     - Pyrenäenberghund mastin espanol
+     - Mastin Espanol barsoi
+     - Barsoi
+     - Kangal
+     - Anatolischer Hirtenhund
+     - Akbash
+     - Karabash
+     - Herdenschutzhund
+     - Kangal Bernhardiner
+     - St. Bernhardshund
+     - Chien du Saint-Bernard
+     - Saint Bernard Dog
+     - Perro San Bernardo
+     - Bernhardiner
+     - Deutsche Dogge
+     - Great Dane
+     - Deutsche Dogge
+     - irish Wolfhound
+     - Irischer Wolfshund
+     - irish Wolfshound
+     - Irish Wolfhound
