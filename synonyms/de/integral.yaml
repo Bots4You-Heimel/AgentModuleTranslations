@@ -1,173 +1,173 @@
-Bathtub:
- - Badewanne
- - Zinkbadewanne
- - Wanne
- - baden
- - Bad
+de:
+    Bathtub:
+     - Badewanne
+     - Zinkbadewanne
+     - Wanne
+     - baden
+     - Bad
 
-CentralHeating:
- - Wärmetechnik
- - Zentralheizung
- - Heizungsanlage
- - Wärmetauscher
- - Therme
- - Heizkessel
- - Umlaufpumpe
- - Warmwasserspeicher
- - Boiler
- - Heizpumpe
- - Wärmespeicher
- - Wärmepumpe
+    CentralHeating:
+     - Wärmetechnik
+     - Zentralheizung
+     - Heizungsanlage
+     - Wärmetauscher
+     - Therme
+     - Heizkessel
+     - Umlaufpumpe
+     - Warmwasserspeicher
+     - Boiler
+     - Heizpumpe
+     - Wärmespeicher
+     - Wärmepumpe
 
-GasCentralHeating:
- - Gaszentralheizung
- - Gasheizung
+    GasCentralHeating:
+     - Gaszentralheizung
+     - Gasheizung
 
-OilCentralHeating:
- - Ölzentralheizung
- - Ölheizung
- - Öltherme
+    OilCentralHeating:
+     - Ölzentralheizung
+     - Ölheizung
+     - Öltherme
 
-GasStove:
- - Gastherme
- - Gasheizung
- - Gaszentralheizung
+    GasStove:
+     - Gastherme
+     - Gasheizung
+     - Gaszentralheizung
 
-Fireplace:
- - Kamin
- - Feuerstelle
- - Kaminofen
+    Fireplace:
+     - Kamin
+     - Feuerstelle
+     - Kaminofen
 
-Oven:
- - Ofen
- - Zimmerofen
+    Oven:
+     - Ofen
+     - Zimmerofen
 
-SolidsStove:
- - Holzofen
- - Kachelofen
- - Kohleofen
- - Kanonenofen
+    SolidsStove:
+     - Holzofen
+     - Kachelofen
+     - Kohleofen
+     - Kanonenofen
 
-ElectricalStove:
- - Heizlüfter
- - Nachtspeicherofen
+    ElectricalStove:
+     - Heizlüfter
+     - Nachtspeicherofen
 
-Radiator:
- - Heizkörper
- - Radiator
- - Fußbodenheizung
- - Thermostat
- - Thermostatventil
- - Heizkörper-Thermostat
- - Heizungsthermostat
+    Radiator:
+     - Heizkörper
+     - Radiator
+     - Fußbodenheizung
+     - Thermostat
+     - Thermostatventil
+     - Heizkörper-Thermostat
+     - Heizungsthermostat
 
-WaterDrain:
- - Abfluss
+    WaterDrain:
+     - Abfluss
 
-Faucet:
- - Wasseranschluss
- - Wasserhahn
- - Armatur
- - Wasserkrahn
- - Mischdüse
- - Mischbatterie
- - Mischarmatur
- - Wasserspender
- - Einhebelmischer
- - Mischer
- - Wassermischer
+    Faucet:
+     - Wasseranschluss
+     - Wasserhahn
+     - Armatur
+     - Wasserkrahn
+     - Mischdüse
+     - Mischbatterie
+     - Mischarmatur
+     - Wasserspender
+     - Einhebelmischer
+     - Mischer
+     - Wassermischer
 
-Mailbox:
- - Briefkasten
- - Briefkastenklappe
- - Postkasten
- - Briefschlitz
- - Zeitungschlitz
- - Briefbox
+    Mailbox:
+     - Briefkasten
+     - Briefkastenklappe
+     - Postkasten
+     - Briefschlitz
+     - Zeitungschlitz
+     - Briefbox
 
-Shower:
- - Dusche
- - Duschkopf
- - Brause
- - duschen
- - abduschen
+    Shower:
+     - Dusche
+     - Duschkopf
+     - Brause
+     - duschen
+     - abduschen
 
-ShowerCabinet:
- - Duschkabine
- - Nasszelle
- - Duschvorhang
- - Dusch
- - Duschabtrennung
- - Runddusche
- - Duschtür
+    ShowerCabinet:
+     - Duschkabine
+     - Nasszelle
+     - Duschvorhang
+     - Dusch
+     - Duschabtrennung
+     - Runddusche
+     - Duschtür
 
-Sink:
- - Waschtisch
- - Siphon
- - Syphon
- - Spüle
- - Waschbecken
- - Waschmuschel
- - Ausguss
- - Handwaschbecken
- - Aufsatzwaschbecken
+    Sink:
+     - Waschtisch
+     - Siphon
+     - Syphon
+     - Spüle
+     - Waschbecken
+     - Waschmuschel
+     - Ausguss
+     - Handwaschbecken
+     - Aufsatzwaschbecken
 
-Toilet:
- - Toilette
- - Abort
- - Scheißhaus
- - Latrine
- - Abtritt
- - Pissoir
- - Kackstuhl
- - Pissbude
- - Topf
- - stilles Örtchen
- - Austritt
- - Kloschüssel
- - WC
- - Klosett
- - Klospülung
- - Toilettenspülung
- - WC-Spülung
- - Wasserklo
+    Toilet:
+     - Toilette
+     - Abort
+     - Scheißhaus
+     - Latrine
+     - Abtritt
+     - Pissoir
+     - Kackstuhl
+     - Pissbude
+     - Topf
+     - stilles Örtchen
+     - Austritt
+     - Kloschüssel
+     - WC
+     - Klosett
+     - Klospülung
+     - Toilettenspülung
+     - WC-Spülung
+     - Wasserklo
 
-Bidet:
- - Bidet
+    Bidet:
+     - Bidet
 
-Flowheater:
- - Durchlauferhitzer
+    Flowheater:
+     - Durchlauferhitzer
 
-VisitorReception:
- - Besucherempfang
+    VisitorReception:
+     - Besucherempfang
 
-Doorbell:
- - Haustürklingel
- - Klingel
- - Türklingel
- - Türklopfer
- - Klingelanlage
- - Klingelschalter
- - Klingelknopf
- - Türglocke
- - Türschelle
- - Türgong
- - Schelle
+    Doorbell:
+     - Haustürklingel
+     - Klingel
+     - Türklingel
+     - Türklopfer
+     - Klingelanlage
+     - Klingelschalter
+     - Klingelknopf
+     - Türglocke
+     - Türschelle
+     - Türgong
+     - Schelle
 
-DoorOpener:
- - Türöffner
- - Öffner
+    DoorOpener:
+     - Türöffner
+     - Öffner
 
-Intercom:
- - Gegensprecher
- - Haussprecher
- - Gegensprechanlage
- - Sprechanlage
- - Haustelefon
- - Interfon-Anlage
- - Türsprecher
- - Türsprechsystem
- - Video-Türsprechanlage
- - Bildsprechanlage
- - Türsprechanlage
-
+    Intercom:
+     - Gegensprecher
+     - Haussprecher
+     - Gegensprechanlage
+     - Sprechanlage
+     - Haustelefon
+     - Interfon-Anlage
+     - Türsprecher
+     - Türsprechsystem
+     - Video-Türsprechanlage
+     - Bildsprechanlage
+     - Türsprechanlage
