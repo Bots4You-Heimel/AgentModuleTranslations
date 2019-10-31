@@ -1,0 +1,287 @@
+Structure:
+ - Bausubstanz
+ - Gebäude
+ - Gebäudeaufbau
+
+Stair:
+ - Treppe
+ - Treppenstufe
+ - Treppenabsatz
+ - Stufe
+ - Stiege
+ - Wendeltreppe
+ - Treppenaufgang
+
+Elevator:
+ - Aufzug
+ - Fahrstuhl
+ - Fahrstuhlschacht
+ - Aufzugsschacht
+ - Fahrstuhlmotor
+ - Aufzugskabel
+ - Aufzugsmotor
+ - Liftanlage
+ - Aufzugskabine
+ - Lift
+ - Lastenaufzug
+ - Personenlift
+ - Paternoster
+ - Personenaufzug
+ - Liftkabine
+ - Aufzugsanlage
+ - Fahrstuhlanlage
+ - Krankenfahrstuhl
+ - Treppenlift
+ - Lastenlift
+
+ElevatorDoor:
+ - Aufzugstür
+ - Fahrstuhltür
+
+StairRail:
+ - Treppengeländer
+
+Chimney:
+ - Rauchfang
+ - Rauchabzug
+ - Schornstein
+ - Schlot
+
+Cellar:
+ - Keller
+ - Heizkeller
+ - Fahradkeller
+ - Wäschekeller
+ - Souterrain
+
+Door:
+ - Tür
+ - Türe
+ - Tür
+ - Türzarge
+ - Türblatt
+
+AppartmentDoor:
+ - Wohnungstür
+
+Eingangstür:
+ - Eingangstür
+ - Haustür
+ - Hauseingang
+ - Haupteingang
+ - Haupteingangstür
+
+Garagedoor:
+ - Garagentor
+ - Garagentor
+
+Gate:
+ - Gartentor
+ - Haustür
+ - Zauntor
+ - Zauntüre
+ - Gatter
+
+Peephole:
+ - Türspion
+ - Guckloch
+
+Enclosure:
+ - Einfassung
+ - Einfriedung
+
+Fence:
+ - Einzäunung
+ - Zaun
+ - Gartenzaun
+ - Jägerzaun
+ - Bretterzaun
+ - Maschendrahtzaun
+ - Gitterzaun
+ - Zaunpfahl
+ - Umzäunung
+ - Palisade
+ - Sichtschutz
+
+FireProtectionSystem:
+ - Brandschutzanlage
+
+Garage:
+ - Garage
+
+Pipe:
+ - Rohr
+ - Rohrleitung
+
+GasPipe:
+ - Gasleitung
+ - Gasrohr
+
+Gutter:
+ - Regenrinne
+ - Fallrohr
+ - Dachrinne
+ - Dachkännel
+ - Dachhengel
+ - Dachkähner
+ - Kandel
+ - Dachkalle
+ - Dachtrauge
+ - Fallrohr
+ - Fallleitung
+ - Regenleitung
+
+WaterPipe:
+ - Wasserleitung
+ - Wasserleitungsrohr
+ - Wasserrohr
+
+SewagePipe:
+ - Abwasserleitung
+ - Kanalistation
+ - Abwasserrohr
+ - Abflusskanal
+
+
+WarmWaterPipe:
+ - Warmwasserleitung
+
+Roof:
+ - Dach
+
+AsphaltRoofingBoard:
+ - Dachpappe
+ - Teerpappe
+ - Bitumenschindel
+ - Bitumenziegel
+ - Asphaltschindel
+ - Bitumenschindel
+
+RoofingTile:
+ - Dachziegel
+ - Dachpfanne
+ - Dachschindel
+ - Dachstein
+ - Dachplatte
+ - Holzschindel
+ - Tondachziegel
+ - Schieferschindel
+
+Skylight:
+ - Dachfenster
+ - Dachluke
+ - Giebelfenster
+ - Dachgaube
+ - Giebelfenster
+ - Gaube
+ - Oberlicht
+
+Wall:
+ - Mauer
+ - Wand
+ - Hauswand
+ - Hausmauer
+ - Gemäuer
+
+Window:
+ - Fenster
+ - Luke
+ - Fensteröffnung
+ - Balkonfenster
+ - Toilettenfenster
+ - Bodenfenster
+ - Fensterrahmen
+ - Bullauge
+
+Key:
+ - Schlüssel
+ - Haustürschlüssel
+ - Zimmerschlüsseö
+
+Schloss:
+ - Schloss
+ - Schliesszylinder
+ - Türriegel
+ - Schloß
+
+WindowPane:
+ - Fensterscheibe
+ - Fensterglas
+
+GlasPane:
+ - Scheibe
+ - Fensterscheibe
+ - Sicherheitsglas
+
+GarageDoorOpener:
+ - Torantrieb
+ - Garagentoröffner
+ - Garagentorantrieb
+ - Garagenfernbedienung
+ - Garagenöffner
+ - Toröffner
+ - Garagentorfernbedienung
+
+Remotecontroll:
+ - Fernsteuerung
+ - Fernbedienung
+ - Funkfernbedienung
+ - Handsender
+
+GarageDoor:
+ - Garagentor
+ - Garagemtür
+ - Sektionaltor
+
+Electric:
+ - Elektrisch
+ - Elektronisch
+
+SmokeDetector:
+ - Rauchmelder
+ - Brandmelder
+ - Rauchgasmelder
+ - Rauchwarnmelder
+ - Rauchdetekor
+
+Light:
+ - Beleuchtung
+ - Lichtschalter
+ - Lampe
+ - Kronleuchter
+ - Lüster
+ - Leuchtmittel
+ - Leuchtstoffröhre
+ - Neonlicht
+ - Beleuchtungskörper
+ - Laterne
+ - Gartenlaterne
+ - Lampio
+ - Leuchte
+ - Strahler
+ - leuchtet
+ - Scheinwerfer
+ - Glühbirne
+ - LED
+ - Birne
+ - Licht
+ - Spot
+ - Deckenleuchte
+ - Leuchter
+ - Straßenlaterne
+ - Gartenlampe
+ - Halogenlampe
+ - Halogenstrahler
+ - Lampensockel
+ - Glühlampe
+ - Lichtquelle
+ - beleuchten
+ - erleuchten
+ - leuchtet
+ - Nachtlicht
+ - Halogenglühlampe
+ - Treppenlicht
+ - Energiesparlampe
+ - LED-Lampe
+ - LED-Glühbirne
+ - Led-Leuchtmittel
