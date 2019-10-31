@@ -1,16 +1,17 @@
-Playground:
- - Spielplatz
- - Spielwiese
- - Kinderspielplatz
+de:
+    Playground:
+     - Spielplatz
+     - Spielwiese
+     - Kinderspielplatz
 
-PlaygroundEquipment:
- - Schaukelpferd
- - Rutsche
- - Sandkasten
- - Kletterburg
- - Schaukel
- - Wipptier
- - Wippe
- - Schaukelsitz
- - Karousel
- - Klettergerüst
+    PlaygroundEquipment:
+     - Schaukelpferd
+     - Rutsche
+     - Sandkasten
+     - Kletterburg
+     - Schaukel
+     - Wipptier
+     - Wippe
+     - Schaukelsitz
+     - Karousel
+     - Klettergerüst
