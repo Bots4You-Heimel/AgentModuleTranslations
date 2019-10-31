@@ -1,25 +1,26 @@
-Plant:
- - Pflanze
- - Zimmerpflanze
- - Bepflanzung
- - Grün
- - Busch
- - Büsche
- - Unkraut
+de:
+    Plant:
+     - Pflanze
+     - Zimmerpflanze
+     - Bepflanzung
+     - Grün
+     - Busch
+     - Büsche
+     - Unkraut
 
-Hedge:
- - Hecke
- - Strauchreihe
+    Hedge:
+     - Hecke
+     - Strauchreihe
 
-Gras:
- - Gras
- - Wiese
- - Rasen
- - Rasenfläche
+    Gras:
+     - Gras
+     - Wiese
+     - Rasen
+     - Rasenfläche
 
-Baum:
- - Baum
- - Obstbaum
- - Tanne
- - Fichte
- - Eiche
+    Baum:
+     - Baum
+     - Obstbaum
+     - Tanne
+     - Fichte
+     - Eiche
