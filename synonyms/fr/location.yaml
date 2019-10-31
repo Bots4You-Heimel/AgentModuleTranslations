@@ -1,0 +1,76 @@
+fr:
+  Location:
+  - lieu
+  IndoorLocation:
+  - "à l'intérieur"
+  - dans la maison
+  - dedans
+  - dans la maison
+  OutdoorLocation:
+  - "à l'extérieur"
+  - devant la maison
+  - devant la maison
+  Private:
+  - espace privé
+  - dans mon appartement
+  Communal:
+  - espaces partagés
+  HallwaysEtc:
+  - couloirs
+  Hallway:
+  - couloir
+  - couloir
+  - couloir
+  - vestibule
+  Staircase:
+  - "cage d'escalier"
+  - "cage d'escalier"
+  Lobby:
+  - hall
+  - entrée
+  - entrée
+  - "hall d'entrée"
+  - foyer
+  - vestibule
+  - "hall d'entrée"
+  - porche
+  - antichambre
+  - réception
+  - entrée
+  - entrée
+  - salon
+  - entrée
+  - entrée principale
+  - entrée
+  Bathroom:
+  - salle de bain
+  - salle de bain
+  - toilette
+  - WC invités
+  Kitchen:
+  - cuisine
+  - cuisine équipée
+  - cuisinette
+  - coin cuisine
+  - cuisine
+  Gully:
+  - "bouche d'égout "
+  - "bouche d'égout "
+  - caniveau
+  - "bouche d'égout "
+  - "grille d'égout"
+  - lit du ruisseau
+  Pavement:
+  - dalles
+  - dalles
+  - trottoir
+  - rue
+  - troittoir
+  - trottoir
+  - trottoir
+  - sentier
+  - trottoir
+  - accès
+  - chaussée
+  - chaussée
+  - pavé
