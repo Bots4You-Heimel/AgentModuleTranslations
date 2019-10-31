@@ -14,15 +14,22 @@ de:
      - Hecke
      - Strauchreihe
 
-    Gras:
+    Lawn:
      - Gras
      - Wiese
      - Rasen
      - Rasenfläche
+     - Grünfläche
 
-    Baum:
+    Trees:
      - Baum
      - Obstbaum
      - Tanne
      - Fichte
      - Eiche
+     - Birke
+     - Kastanie
+     - Nadelbaum
+     - Laubbaum
+     - Ahohrn
+     - Buche
