@@ -1,38 +1,39 @@
-Material:
- - Material
+de:
+    Material:
+     - Material
 
-Glas:
- - Glas
- - gläsern
+    Glas:
+     - Glas
+     - gläsern
 
-Metal:
- - Metall
- - eisern
- - Eisen
- - Stahl
- - Kupfer
- - metallisch
- - Edelstahl
+    Metal:
+     - Metall
+     - eisern
+     - Eisen
+     - Stahl
+     - Kupfer
+     - metallisch
+     - Edelstahl
 
-Porcelain:
- - Porzelan
+    Porcelain:
+     - Porzelan
 
-Plastic:
- - Plastik
+    Plastic:
+     - Plastik
 
-StoneConcreteBrick:
- - SteinBetonZiegel
+    StoneConcreteBrick:
+     - SteinBetonZiegel
 
-Stone:
- - Stein
+    Stone:
+     - Stein
 
-Brick:
- - Ziegel
- - geziegelt
+    Brick:
+     - Ziegel
+     - geziegelt
 
-Concrete:
- - Beton
- - Waschbeton
- - Zement
- - zementiert
- - betoniert
+    Concrete:
+     - Beton
+     - Waschbeton
+     - Zement
+     - zementiert
+     - betoniert
