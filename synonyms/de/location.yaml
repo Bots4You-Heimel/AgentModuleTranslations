@@ -1,92 +1,93 @@
-Location:
- - Ort
+de:
+    Location:
+     - Ort
 
-IndoorLocation:
- - drinnen
- - im Haus
- - innendrin
- - im Haus drin
+    IndoorLocation:
+     - drinnen
+     - im Haus
+     - innendrin
+     - im Haus drin
 
-OutdoorLocation:
- - draußen
- - vor dem Haus
- - vorm Haus
+    OutdoorLocation:
+     - draußen
+     - vor dem Haus
+     - vorm Haus
 
-Private:
- - Privaträume
- - in meiner Wohnung
+    Private:
+     - Privaträume
+     - in meiner Wohnung
 
-Communal:
- - Gemeinsam Genutzte Räume
+    Communal:
+     - Gemeinsam Genutzte Räume
 
-HallwaysEtc:
- - Flure
+    HallwaysEtc:
+     - Flure
 
-Hallway:
- - Flur
- - Gang
- - Korridor
- - Hausflur
+    Hallway:
+     - Flur
+     - Gang
+     - Korridor
+     - Hausflur
 
-Staircase:
- - Treppenhaus
- - Stiegenhaus
+    Staircase:
+     - Treppenhaus
+     - Stiegenhaus
 
-Lobby:
- - Lobby
- - Eingangsbereich
- - Eingang
- - Eingangshalle
- - Foyer
- - Vestibül
- - Empfangshalle
- - Vorhalle
- - Vorraum
- - Rezeption
- - Enree
- - Entré
- - Lounge
- - Einlass
- - Haupteingang
- - Hauseingang
+    Lobby:
+     - Lobby
+     - Eingangsbereich
+     - Eingang
+     - Eingangshalle
+     - Foyer
+     - Vestibül
+     - Empfangshalle
+     - Vorhalle
+     - Vorraum
+     - Rezeption
+     - Enree
+     - Entré
+     - Lounge
+     - Einlass
+     - Haupteingang
+     - Hauseingang
 
-Bathroom:
- - Badezimmer
- - Bad
- - Klo
- - Gäste-WC
+    Bathroom:
+     - Badezimmer
+     - Bad
+     - Klo
+     - Gäste-WC
 
-Kitchen:
- - Küche
- - Einbauküche
- - Küchenzeile
- - Kochecke
- - Kombüse
+    Kitchen:
+     - Küche
+     - Einbauküche
+     - Küchenzeile
+     - Kochecke
+     - Kombüse
 
-Enclosure:
- - Begrenzung
- - Eingrenzung
+    Enclosure:
+     - Begrenzung
+     - Eingrenzung
 
-Gully:
- - Gully
- - Gulli
- - Gosse
- - Runse
- - Kanaleinlauf
- - Gullideckel
- - Gießbachbett
+    Gully:
+     - Gully
+     - Gulli
+     - Gosse
+     - Runse
+     - Kanaleinlauf
+     - Gullideckel
+     - Gießbachbett
 
-Pavement:
- - Gehwegplatten
- - Fußwegplatten
- - Gehweg
- - Straße
- - Trottoir
- - Bürgersteig
- - Gehsteig
- - Fußweg
- - Gehsteig
- - Einfahrt
- - Pflaster
- - Straßenpfalster
- - Gehbahn
+    Pavement:
+     - Gehwegplatten
+     - Fußwegplatten
+     - Gehweg
+     - Straße
+     - Trottoir
+     - Bürgersteig
+     - Gehsteig
+     - Fußweg
+     - Gehsteig
+     - Einfahrt
+     - Pflaster
+     - Straßenpfalster
+     - Gehbahn
