@@ -1,6 +1,7 @@
-intent:
-  ticket.damage_report/doors_windows_locks.locking_system:
-  - "Die [Eingangst\xFCre](item) l\xE4sst sich nicht mehr abschlie\xDFen"
-  - "Das [Schloss](item) meiner [Klot\xFCre](item) verschlie\xDFt nicht mehr"
-  - "Der [Schl\xFCssel](item) bricht fast ab, wenn ich die [Haust\xFCr](item) aufschlie\xDF\
-    en will."
+de:
+  intent:
+    ticket.damage_report/doors_windows_locks.locking_system:
+    - "Die [Eingangst\xFCre](item) l\xE4sst sich nicht mehr abschlie\xDFen"
+    - "Das [Schloss](item) meiner [Klot\xFCre](item) verschlie\xDFt nicht mehr"
+    - "Der [Schl\xFCssel](item) bricht fast ab, wenn ich die [Haust\xFCr](item) aufschlie\xDF\
+      en will."

@@ -1,30 +1,31 @@
-intent:
-  ticket.complaint/messiness.smell:
-  - '[Gestank](mess)'
-  - '[Geruch](mess)'
-  - '[Zigarettenqualm](mess)'
-  - Es [stinkt](mess)
-  - "\xDCbler [Geruch](mess)!"
-  - Fieser [Gestank](mess).
-  - Hier [stinkts](mess)!
-  - "Es [m\xFCffelt](mess) hier."
-  - Das stinkt hier
-  - Es [riecht](mess) abgestanden
-  - Das ist ein [Gestank](mess) hier
-  - '[Im Haus](indoor_location) wurde [geraucht](mess)'
-  - Der [Fahrstuhl](indoor_location) [stinkt](mess) nach [Pisse](mess)
-  - Im [Treppenhaus](indoor_location) [riecht](mess) es nach [Urin](mess)
-  - Der [Aufzug](indoor_location) [riecht](mess) nach [Pisse](mess)!
-  - Im [Treppenhaus](indoor_location) [stinkt](mess) es nach [Urin](mess)
-  - Es [riecht](mess) [im ganzen Haus](indoor_location)
-  - Das [ganze Haus](indoor_location) [stinkt](mess) nach [Rauch](mess)
-  - "Bei den [Nachbarn](person) [riecht](mess) es \xFCbel."
-  - Es [stinkt](mess) hier nach Alkhohol.
-  - Es [riecht](mess) im [Gang](indoor_location) nach Essen.
-  - Ich kann den [Gestank](mess) hier nicht aushalten.
-  - "Der [Geruch](mess) bei den [Schr\xF6ders](mess) ist nicht ertragbar."
-  - "Bei den [Nachbarn](person) \xFCber mir [riecht](mess) es"
-  - "Die neuen [Mieter](mess) [m\xFCffeln](mess)"
-  - Ich [rieche](mess) hier [Zigarettenrauch](mess)
-  - Der [Eingangsbereich](indoor_location) [riecht](mess) abgestanden.
-  - Die [Grambergs](named_person) [riechen](mess) [ungewaschen](mess)
+de:
+  intent:
+    ticket.complaint/messiness.smell:
+    - '[Gestank](mess)'
+    - '[Geruch](mess)'
+    - '[Zigarettenqualm](mess)'
+    - Es [stinkt](mess)
+    - "\xDCbler [Geruch](mess)!"
+    - Fieser [Gestank](mess).
+    - Hier [stinkts](mess)!
+    - "Es [m\xFCffelt](mess) hier."
+    - Das stinkt hier
+    - Es [riecht](mess) abgestanden
+    - Das ist ein [Gestank](mess) hier
+    - '[Im Haus](indoor_location) wurde [geraucht](mess)'
+    - Der [Fahrstuhl](indoor_location) [stinkt](mess) nach [Pisse](mess)
+    - Im [Treppenhaus](indoor_location) [riecht](mess) es nach [Urin](mess)
+    - Der [Aufzug](indoor_location) [riecht](mess) nach [Pisse](mess)!
+    - Im [Treppenhaus](indoor_location) [stinkt](mess) es nach [Urin](mess)
+    - Es [riecht](mess) [im ganzen Haus](indoor_location)
+    - Das [ganze Haus](indoor_location) [stinkt](mess) nach [Rauch](mess)
+    - "Bei den [Nachbarn](person) [riecht](mess) es \xFCbel."
+    - Es [stinkt](mess) hier nach Alkhohol.
+    - Es [riecht](mess) im [Gang](indoor_location) nach Essen.
+    - Ich kann den [Gestank](mess) hier nicht aushalten.
+    - "Der [Geruch](mess) bei den [Schr\xF6ders](mess) ist nicht ertragbar."
+    - "Bei den [Nachbarn](person) \xFCber mir [riecht](mess) es"
+    - "Die neuen [Mieter](mess) [m\xFCffeln](mess)"
+    - Ich [rieche](mess) hier [Zigarettenrauch](mess)
+    - Der [Eingangsbereich](indoor_location) [riecht](mess) abgestanden.
+    - Die [Grambergs](named_person) [riechen](mess) [ungewaschen](mess)

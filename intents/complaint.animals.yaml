@@ -1,82 +1,83 @@
-intent:
-  ticket.complaint/animals:
-  - Bellen.
-  - Jaulen
-  - "Kl\xE4ffende [Hunde](animal)"
-  - Dauerndes Gebelle.
-  - Lautes Gebell
-  - heulende [Hunde](animal)
-  - unangeleinte [Hunde](animal)
-  - "[Hunde](animal) kl\xE4ffen st\xE4ndig"
-  - dauernd bellen [Hunde](animal)
-  - frei laufende [Hunde](animal)
-  - Der [Hund](animal) ist zu laut.
-  - "Das Gekl\xE4ffe hier h\xF6rt nie auf."
-  - Sogar Nachts werde ich vom Bellen wach.
-  - "Ruhest\xF6rung durch einen [Hund](animal)"
-  - Der [Terrier](dog_breed) hat mein [Kind](person) gebissen.
-  - Es geht um die [Hunde](animal) meines [Nachbarn](person).
-  - Dauern bellt hier ein [Hund](animal).
-  - "Der [Hund](animal) der [Nachbarn](person) kl\xE4fft dauernd."
-  - Mein [Nachbar](person) hat seine [Hunde](animal) nicht unter Kontrolle.
-  - "[Hunde](animal) laufen ohne Maulkorb oder Leine auf dem Grundst\xFCck rum."
-  - Wegen der [Hunde](animal) meiner [Nachbarn](person) ist der [Flur](indoor_location)
-    immer [verdreckt](mess:Dreck).
-  - Die [Katze](animal) der anderen [Mieter](person) machen [Dreck](mess) im [Eingangsbereich](indoor_location).
-  - "Da ist st\xE4ndig [Schmutz](mess) [im Haus](indoor_location) wegen der [Tiere](animal)."
-  - "Die [Hunde](animal) meines [Nachbarn](person:Nachbar) [verdrecken](mess:Dreck)\
-    \ regelm\xE4\xDFig den [Hausflur](indoor_location)."
-  - Da ist [Dreck](mess) im [Treppenhaus](indoor_location), weil die Leute ihre [Hunde](animal)
-    dreckig [durchs Haus](indoor_location) laufen lassen.
-  - Immer ist die [Treppe](indoor_location) [verdreckt](mess:Dreck), weil die [Hunde](animal)
-    vorher nicht abgetrocknet werden.
-  - "Meine [Nachbarn](person) [verschmutzen](mess:Schmutz) den [Flur](indoor_location)\
-    \ mit ihren [K\xF6tern](animal)."
-  - Die [Hunde](animal) meiner [Nachbarn](person) hinterlassen das [Treppenhaus](indoor_location)
-    voller [Schlamm](mess).
-  - Die [Nachbarn](person) lassen ihre [Hunde](animal) [im Haus](indoor_location)
-    ohne Leine laufen.
-  - Die [Hunde](animal) der anderen [Mieter](person) laufen frei [im Treppenhaus](indoor_location)
-    herum, das macht mir Angst.
-  - Da laufen immer [Hunde](animal) ohne Leine [durchs Haus](indoor_location).
-  - "Jemand l\xE4sst immer seine [Hunde](animal) [im Treppenhaus](indoor_location)\
-    \ freilaufen, das ist verboten."
-  - "St\xE4ndig laufen [Hunde](animal) ohne Leine [durchs Haus](indoor_location),\
-    \ das \xE4ngstigt die anderen [Mieter](person)."
-  - "Es laufen [Hunde](animal) [im Haus](indoor_location) frei herum und machen L\xE4\
-    rm."
-  - Meine [Nachbarn](person) halten sich nicht an die Hausordnung und lassen ihre
-    [Hunde](animal) ohne Leine [im Haus](indoor_location) herumlaufen.
-  - Dauernd lassen [die anderen](person) ihre [Hunde](animal) ohne Leine [im Treppenhaus](indoor_location)
-    laufen.
-  - "Die [Hunde](animal) meiner [Nachbarn](person) bellen st\xE4ndig, das nervt."
-  - "Dauernd h\xF6rt man bellende [Hunde](animal) im Haus."
-  - "Der [Mieter](person) \xFCber mir hat seinen [Hund](animal) nicht im Griff und\
-    \ l\xE4sst ihn st\xE4ndig bellen."
-  - "Die [Hunde](animal) der anderen [Bewohner](person) bellen w\xE4hrend der Ruhezeiten."
-  - "Den ganzen Tag h\xF6rt man einen [Hund](animal) im Haus kl\xE4ffen."
-  - "Bei jedem Klingeln schl\xE4gt in der [Wohnung \xFCber mir](indoor_location) ein\
-    \ [Hund](animal) an."
-  - "Der kl\xE4ffende [Hund](animal) der anderen [Mieter](person) geht mir auf die\
-    \ Nerven."
-  - "Die [Krauses](named_person) aus dem [2. Stock](floor) haben einen gro\xDFen [Rottweiler](dog_breed),\
-    \ der mir sehr Angst macht."
-  - Der neue [Bewohner](person) hat einen [Pudel](dog_breed), der dauern bellt.
-  - "Die neuen [Mieter](person) haben einen sehr bedrohlichen, gro\xDFen [Dobermann](dog_breed)."
-  - "Mein Nachbar hat einen riesigen [H\xFCtehund](dog_breed), obwohl das garnicht\
-    \ erlaubt ist."
-  - "K\xF6nnen sie etwas dagegen tun, das der kleine [Hund](animal) aus der [Wohnung\
-    \ \xFCber mir](indoor_location) dauernd bellt?"
-  - "Eine [Katze](animal) hat tote [M\xE4use](animal) [im Waschkeller](indoor_location)\
-    \ versteckt."
-  - "Der neue [Bewohner](person) h\xE4lt sich einen [Kampfhund](animal:Hund)."
-  - "Der kleine [Chinchilla](animal) meiner [Nachbarin](person) ist bissig und kl\xE4\
-    fft dauern."
-  - "Das Gekl\xE4ffe des [Collie](dog_breed) von [Frau Schmidt](named_person) ist\
-    \ nicht auszuhalten."
-  - "Ich h\xF6re dauernd die [Dogge](dog_breed) der [Beckers](named_person) kl\xE4\
-    ffen."
-  - "Ich bin schon wieder wachgeworden, als der [Hund](animal) der [Schr\xF6ders](named_person)\
-    \ angefangen hat zu bellen."
-  - Wegen der [Hunde](animal) meiner [Nachbarn](person) ist der [Flur](indoor_location)
-    immer [verdreckt](mess).
+de:
+  intent:
+    ticket.complaint/animals:
+    - Bellen.
+    - Jaulen
+    - "Kl\xE4ffende [Hunde](animal)"
+    - Dauerndes Gebelle.
+    - Lautes Gebell
+    - heulende [Hunde](animal)
+    - unangeleinte [Hunde](animal)
+    - "[Hunde](animal) kl\xE4ffen st\xE4ndig"
+    - dauernd bellen [Hunde](animal)
+    - frei laufende [Hunde](animal)
+    - Der [Hund](animal) ist zu laut.
+    - "Das Gekl\xE4ffe hier h\xF6rt nie auf."
+    - Sogar Nachts werde ich vom Bellen wach.
+    - "Ruhest\xF6rung durch einen [Hund](animal)"
+    - Der [Terrier](dog_breed) hat mein [Kind](person) gebissen.
+    - Es geht um die [Hunde](animal) meines [Nachbarn](person).
+    - Dauern bellt hier ein [Hund](animal).
+    - "Der [Hund](animal) der [Nachbarn](person) kl\xE4fft dauernd."
+    - Mein [Nachbar](person) hat seine [Hunde](animal) nicht unter Kontrolle.
+    - "[Hunde](animal) laufen ohne Maulkorb oder Leine auf dem Grundst\xFCck rum."
+    - Wegen der [Hunde](animal) meiner [Nachbarn](person) ist der [Flur](indoor_location)
+      immer [verdreckt](mess:Dreck).
+    - Die [Katze](animal) der anderen [Mieter](person) machen [Dreck](mess) im [Eingangsbereich](indoor_location).
+    - "Da ist st\xE4ndig [Schmutz](mess) [im Haus](indoor_location) wegen der [Tiere](animal)."
+    - "Die [Hunde](animal) meines [Nachbarn](person:Nachbar) [verdrecken](mess:Dreck)\
+      \ regelm\xE4\xDFig den [Hausflur](indoor_location)."
+    - Da ist [Dreck](mess) im [Treppenhaus](indoor_location), weil die Leute ihre
+      [Hunde](animal) dreckig [durchs Haus](indoor_location) laufen lassen.
+    - Immer ist die [Treppe](indoor_location) [verdreckt](mess:Dreck), weil die [Hunde](animal)
+      vorher nicht abgetrocknet werden.
+    - "Meine [Nachbarn](person) [verschmutzen](mess:Schmutz) den [Flur](indoor_location)\
+      \ mit ihren [K\xF6tern](animal)."
+    - Die [Hunde](animal) meiner [Nachbarn](person) hinterlassen das [Treppenhaus](indoor_location)
+      voller [Schlamm](mess).
+    - Die [Nachbarn](person) lassen ihre [Hunde](animal) [im Haus](indoor_location)
+      ohne Leine laufen.
+    - Die [Hunde](animal) der anderen [Mieter](person) laufen frei [im Treppenhaus](indoor_location)
+      herum, das macht mir Angst.
+    - Da laufen immer [Hunde](animal) ohne Leine [durchs Haus](indoor_location).
+    - "Jemand l\xE4sst immer seine [Hunde](animal) [im Treppenhaus](indoor_location)\
+      \ freilaufen, das ist verboten."
+    - "St\xE4ndig laufen [Hunde](animal) ohne Leine [durchs Haus](indoor_location),\
+      \ das \xE4ngstigt die anderen [Mieter](person)."
+    - "Es laufen [Hunde](animal) [im Haus](indoor_location) frei herum und machen\
+      \ L\xE4rm."
+    - Meine [Nachbarn](person) halten sich nicht an die Hausordnung und lassen ihre
+      [Hunde](animal) ohne Leine [im Haus](indoor_location) herumlaufen.
+    - Dauernd lassen [die anderen](person) ihre [Hunde](animal) ohne Leine [im Treppenhaus](indoor_location)
+      laufen.
+    - "Die [Hunde](animal) meiner [Nachbarn](person) bellen st\xE4ndig, das nervt."
+    - "Dauernd h\xF6rt man bellende [Hunde](animal) im Haus."
+    - "Der [Mieter](person) \xFCber mir hat seinen [Hund](animal) nicht im Griff und\
+      \ l\xE4sst ihn st\xE4ndig bellen."
+    - "Die [Hunde](animal) der anderen [Bewohner](person) bellen w\xE4hrend der Ruhezeiten."
+    - "Den ganzen Tag h\xF6rt man einen [Hund](animal) im Haus kl\xE4ffen."
+    - "Bei jedem Klingeln schl\xE4gt in der [Wohnung \xFCber mir](indoor_location)\
+      \ ein [Hund](animal) an."
+    - "Der kl\xE4ffende [Hund](animal) der anderen [Mieter](person) geht mir auf die\
+      \ Nerven."
+    - "Die [Krauses](named_person) aus dem [2. Stock](floor) haben einen gro\xDFen\
+      \ [Rottweiler](dog_breed), der mir sehr Angst macht."
+    - Der neue [Bewohner](person) hat einen [Pudel](dog_breed), der dauern bellt.
+    - "Die neuen [Mieter](person) haben einen sehr bedrohlichen, gro\xDFen [Dobermann](dog_breed)."
+    - "Mein Nachbar hat einen riesigen [H\xFCtehund](dog_breed), obwohl das garnicht\
+      \ erlaubt ist."
+    - "K\xF6nnen sie etwas dagegen tun, das der kleine [Hund](animal) aus der [Wohnung\
+      \ \xFCber mir](indoor_location) dauernd bellt?"
+    - "Eine [Katze](animal) hat tote [M\xE4use](animal) [im Waschkeller](indoor_location)\
+      \ versteckt."
+    - "Der neue [Bewohner](person) h\xE4lt sich einen [Kampfhund](animal:Hund)."
+    - "Der kleine [Chinchilla](animal) meiner [Nachbarin](person) ist bissig und kl\xE4\
+      fft dauern."
+    - "Das Gekl\xE4ffe des [Collie](dog_breed) von [Frau Schmidt](named_person) ist\
+      \ nicht auszuhalten."
+    - "Ich h\xF6re dauernd die [Dogge](dog_breed) der [Beckers](named_person) kl\xE4\
+      ffen."
+    - "Ich bin schon wieder wachgeworden, als der [Hund](animal) der [Schr\xF6ders](named_person)\
+      \ angefangen hat zu bellen."
+    - Wegen der [Hunde](animal) meiner [Nachbarn](person) ist der [Flur](indoor_location)
+      immer [verdreckt](mess).

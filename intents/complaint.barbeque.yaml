@@ -1,63 +1,66 @@
-intent:
-  ticket.complaint/barbeque:
-  - Grillverbot
-  - Grillgestank
-  - Grilldunst
-  - Barbequeverbot
-  - BBQ-Verbot
-  - "Grillversto\xDF"
-  - Grillverbot missachtet.
-  - Unerlaubtes Grillen.
-  - Grillverbot nicht eingehalten.
-  - Grillverbot nicht beachtet.
-  - "Gegen Grillverbot verto\xDFen."
-  - "[Drau\xDFen](outdoor_location) wird gegrillt."
-  - Meldung unerlaubtes Grillen.
-  - Meldung unerlaubtes Brutzeln.
-  - Meldung unerlaubtes Braten.
-  - "Grillverbot au\xDFer Acht gelassen."
-  - Der grillt einfach auf dem [Balkon](outdoor_location).
-  - "Ich m\xF6chte Versto\xDF gegen das Grillverbot melden."
-  - "Mein [Nachbar](person) h\xE4lt das Grillverbot nicht ein."
-  - Die [Familie](person) unter mit missachtet das Grillverbot.
-  - "Die [Nachbarn](person) versto\xDFen gegen die Hausordnung und grillen."
-  - "Vom [Balkon](outdoor_location) zieht der ganze Rauch vom [Grill](item) zu mir\
-    \ r\xFCber, obwohl das verboten ist."
-  - Mein [Nachbar](person) grillt verbotenerweise auf seinem [Balkon](outdoor_location).
-  - "Dauernd grillt jemand der [Typ](person) auf seinem [Balkon](outdoor_location),\
-    \ obwohl das nicht erlaubt ist und gegen die Hausordnung verst\xF6\xDFt."
-  - "Ich m\xF6chte mich beschweren, weil in der Wohnung unter mir wird regelm\xE4\xDF\
-    ig auf dem [Balkon](outdoor_location) gegrillt."
-  - "Ich m\xF6chte eine Beschwerde aufgeben \xFCber verbotenes Grillen auf der [Terasse](outdoor_location)."
-  - "Dauernd zieht der Grilldunst zu mir r\xFCber."
-  - Der Grillgestank zieht vom [Balkon](outdoor_location) der [Nachbarn](person) zu
-    mir herauf.
-  - Obwohl es nicht erlaubt ist, grillen die [Leute](person) aus dem 4. Stock schon
-    wieder auf dem [Balkon](outdoor_location).
-  - "Der [Mieter](person) unter mit grillt dauernd auf dem [Balkon](outdoor_location).\
-    \ Das st\xF6rt mich."
-  - "Herr [Hanswurst](person) br\xE4t seine W\xFCrste unerlaubterweise auf dem [Balkon](outdoor_location)."
-  - "Die [Ausl\xE4nder](person) neben mir in der Wohnung brutzeln komische Sachen\
-    \ auf dem [Balkon](outdoor_location)."
-  - "Es st\xF6rt mich, dass die unter mir ihr Grillfest trotz Verbot auf der [Terasse](outdoor_location)\
-    \ abhalten."
-  - "Wo kann ich einen Versto\xDF gegen die Hausordnung bez\xFCglich Grillen melden?"
-  - "Ich m\xF6chte eine Meldung gegen das Grillverbot aufgeben."
-  - "Die [Nachbarn](person) haben einen R\xE4ucherofen, obwohl das verboten ist."
-  - "Der Grillgeruch der [Nachbarn](person) ist sehr st\xF6rend und kommt immer zu\
-    \ mir r\xFCber."
-  - "Was mache ich, wenn ein [Mieter](person) gegen das Grillverbot verst\xF6\xDF\
-    t?"
-  - Die [Nachbarn](person)  verwenden einen [Smoker](item), obwohl man das nicht darf.
-  - "Die \xFCber mir haben einen [Grill](item) mit offener Flamme aufgebaut, der stinkt."
-  - "Der Grillgeruch der [Nachbarn](person) st\xF6rt mich extrem."
-  - "Hier h\xE4lt sich kein [Schwein](animal) an das Grillverbot."
-  - "Ich werde total von dem Grillrauch einger\xE4uchert."
-  - "Die Rauchschwaden vom [Grill](item) der [Nachbarn](person) ziehen dauernd zu\
-    \ mir r\xFCber."
-  - "Der Grillgestank der [Nachbarn](person) zieht bis in meine Wohnung, wenn ich\
-    \ das [Fenster](item) ge\xF6ffnet habe."
-  - "Ich wollte Ihnen mitteilen, dass sich mein [Nachbar](person) nicht an das Grillverbot\
-    \ h\xE4lt."
-  - "Ich m\xF6chte aufzeigen, dass die [Dame](person) \xFCber mir das Grillverbot\
-    \ konsequent nicht einh\xE4lt."
+de:
+  intent:
+    ticket.complaint/barbeque:
+    - Grillverbot
+    - Grillgestank
+    - Grilldunst
+    - Barbequeverbot
+    - BBQ-Verbot
+    - "Grillversto\xDF"
+    - Grillverbot missachtet.
+    - Unerlaubtes Grillen.
+    - Grillverbot nicht eingehalten.
+    - Grillverbot nicht beachtet.
+    - "Gegen Grillverbot verto\xDFen."
+    - "[Drau\xDFen](outdoor_location) wird gegrillt."
+    - Meldung unerlaubtes Grillen.
+    - Meldung unerlaubtes Brutzeln.
+    - Meldung unerlaubtes Braten.
+    - "Grillverbot au\xDFer Acht gelassen."
+    - Der grillt einfach auf dem [Balkon](outdoor_location).
+    - "Ich m\xF6chte Versto\xDF gegen das Grillverbot melden."
+    - "Mein [Nachbar](person) h\xE4lt das Grillverbot nicht ein."
+    - Die [Familie](person) unter mit missachtet das Grillverbot.
+    - "Die [Nachbarn](person) versto\xDFen gegen die Hausordnung und grillen."
+    - "Vom [Balkon](outdoor_location) zieht der ganze Rauch vom [Grill](item) zu mir\
+      \ r\xFCber, obwohl das verboten ist."
+    - Mein [Nachbar](person) grillt verbotenerweise auf seinem [Balkon](outdoor_location).
+    - "Dauernd grillt jemand der [Typ](person) auf seinem [Balkon](outdoor_location),\
+      \ obwohl das nicht erlaubt ist und gegen die Hausordnung verst\xF6\xDFt."
+    - "Ich m\xF6chte mich beschweren, weil in der Wohnung unter mir wird regelm\xE4\
+      \xDFig auf dem [Balkon](outdoor_location) gegrillt."
+    - "Ich m\xF6chte eine Beschwerde aufgeben \xFCber verbotenes Grillen auf der [Terasse](outdoor_location)."
+    - "Dauernd zieht der Grilldunst zu mir r\xFCber."
+    - Der Grillgestank zieht vom [Balkon](outdoor_location) der [Nachbarn](person)
+      zu mir herauf.
+    - Obwohl es nicht erlaubt ist, grillen die [Leute](person) aus dem 4. Stock schon
+      wieder auf dem [Balkon](outdoor_location).
+    - "Der [Mieter](person) unter mit grillt dauernd auf dem [Balkon](outdoor_location).\
+      \ Das st\xF6rt mich."
+    - "Herr [Hanswurst](person) br\xE4t seine W\xFCrste unerlaubterweise auf dem [Balkon](outdoor_location)."
+    - "Die [Ausl\xE4nder](person) neben mir in der Wohnung brutzeln komische Sachen\
+      \ auf dem [Balkon](outdoor_location)."
+    - "Es st\xF6rt mich, dass die unter mir ihr Grillfest trotz Verbot auf der [Terasse](outdoor_location)\
+      \ abhalten."
+    - "Wo kann ich einen Versto\xDF gegen die Hausordnung bez\xFCglich Grillen melden?"
+    - "Ich m\xF6chte eine Meldung gegen das Grillverbot aufgeben."
+    - "Die [Nachbarn](person) haben einen R\xE4ucherofen, obwohl das verboten ist."
+    - "Der Grillgeruch der [Nachbarn](person) ist sehr st\xF6rend und kommt immer\
+      \ zu mir r\xFCber."
+    - "Was mache ich, wenn ein [Mieter](person) gegen das Grillverbot verst\xF6\xDF\
+      t?"
+    - Die [Nachbarn](person)  verwenden einen [Smoker](item), obwohl man das nicht
+      darf.
+    - "Die \xFCber mir haben einen [Grill](item) mit offener Flamme aufgebaut, der\
+      \ stinkt."
+    - "Der Grillgeruch der [Nachbarn](person) st\xF6rt mich extrem."
+    - "Hier h\xE4lt sich kein [Schwein](animal) an das Grillverbot."
+    - "Ich werde total von dem Grillrauch einger\xE4uchert."
+    - "Die Rauchschwaden vom [Grill](item) der [Nachbarn](person) ziehen dauernd zu\
+      \ mir r\xFCber."
+    - "Der Grillgestank der [Nachbarn](person) zieht bis in meine Wohnung, wenn ich\
+      \ das [Fenster](item) ge\xF6ffnet habe."
+    - "Ich wollte Ihnen mitteilen, dass sich mein [Nachbar](person) nicht an das Grillverbot\
+      \ h\xE4lt."
+    - "Ich m\xF6chte aufzeigen, dass die [Dame](person) \xFCber mir das Grillverbot\
+      \ konsequent nicht einh\xE4lt."

@@ -1,18 +1,20 @@
-intent:
-  ticket.damage_report/painting:
-  - Tapetenschaden
-  - '[Tapete](surface) alt'
-  - "Farbe bl\xE4ttert ab"
-  - '[Wand](surface) streichen'
-  - '[Eingangsbereich](indoor_location) tapezieren'
-  - Muss gestrichen werden
-  - '[Maler](person) muss kommen'
-  - Jemand sollte streichen
-  - Sollte hier tapeziert werden
-  - "Im [Hausflur](indoor_location) sind lauter h\xE4ssliche Abdr\xFCcke an der Wand."
-  - "Die [Tapete](surface) im [Treppenhaus](indoor_location) f\xE4llt von der Wand"
-  - Die [Hauswand](outdoor_location) muss neu gestrichen werden
-  - Es muss mal tapeziert werden
-  - Jemand sollte mal streichen
-  - "Die Farbe bl\xE4ttert ab"
-  - Die [Rauhfasertapete](surface) im [Badezimmer](indoor_location) ist fleckig
+de:
+  intent:
+    ticket.damage_report/painting:
+    - Tapetenschaden
+    - '[Tapete](surface) alt'
+    - "Farbe bl\xE4ttert ab"
+    - '[Wand](surface) streichen'
+    - '[Eingangsbereich](indoor_location) tapezieren'
+    - Muss gestrichen werden
+    - '[Maler](person) muss kommen'
+    - Jemand sollte streichen
+    - Sollte hier tapeziert werden
+    - "Im [Hausflur](indoor_location) sind lauter h\xE4ssliche Abdr\xFCcke an der\
+      \ Wand."
+    - "Die [Tapete](surface) im [Treppenhaus](indoor_location) f\xE4llt von der Wand"
+    - Die [Hauswand](outdoor_location) muss neu gestrichen werden
+    - Es muss mal tapeziert werden
+    - Jemand sollte mal streichen
+    - "Die Farbe bl\xE4ttert ab"
+    - Die [Rauhfasertapete](surface) im [Badezimmer](indoor_location) ist fleckig

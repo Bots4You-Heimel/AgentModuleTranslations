@@ -1,53 +1,54 @@
-intent:
-  ticket.complaint/safety:
-  - Gefahrenstelle
-  - Rutschgefahr
-  - Unfallgefahr
-  - Angst
-  - Sicherheitsproblem
-  - unsicher
-  - Gefahr
-  - Sicherheit
-  - Stolpergefahr
-  - Gefahrenstelle entdeckt
-  - Rutschgefahr identifiziert
-  - Sicherheitsproblem erkannt
-  - Stolpergefahr melden
-  - Rutschgefahr melden
-  - "Versto\xDF gegen Sicherheitsvorschriften"
-  - Sicherheitsrisiko vorhanden
-  - Verletzungsgefahr melden
-  - Ich habe Angst
-  - "Es ist gef\xE4hrlich"
-  - '[Treppe](item) ist [rutschig](mess)'
-  - Ein [Kellerlicht](item) fehlt
-  - "[Handlauf](item) fehlt vollst\xE4ndig"
-  - Die [Einfahrt](outdoor_location) ist unsicher
-  - "Die Leiter zum [Dachboden](indoor_location) ist zu gef\xE4hrlich"
-  - "[Treppenstufen](item) sind gef\xE4hrlich"
-  - '[Kelleraufgang](indoor_location) ist riskant'
-  - Die Situation macht mir Angst
-  - Ich habe Angst um meine Sicherheit im [Treppenhaus](indoor_location)
-  - "Ich f\xFCrchte mich vor Verletzung"
-  - "Die Deckenh\xF6he stellt eine Unfallgefahr dar"
-  - "Ich f\xFChle mich unsicher"
-  - Das ist nicht sicher!
-  - Das ist eine Gefahr
-  - "Ohne Licht ist es gef\xE4hrtlich."
-  - Ohne Absperrung ist es riskant.
-  - Auf der [Treppe](item) besteht Sturzgefahr.
-  - "Die [Treppe](item) ist gef\xE4hrlich ohne [Beleuchtung](item)."
-  - Es ist so [rutschig](mess), dass ich angst habe, auszurutschen
-  - "Ich f\xFCrchte mich davor, mir alle Knochen zu brechen"
-  - Ich habe Angst, wenn ich nachts nach hause komme
-  - Jemand bricht sich hier noch alle Knochen
-  - Das fehlende [Licht](item) stellt ein echtes Sicherheitsproblem dar.
-  - Auf den [Treppen](item) bricht man sich ja die Knochen im Dunkeln.
-  - Die nassen [Treppen](item) birgen erhebliche Rutschgefahr
-  - Auf der wackligen [Treppe](item) passiert irgend wann ein Unfall.
-  - "Wir ben\xF6tigen drigend ein anst\xE4ndiges [Treppengel\xE4nder](item) aus Sicherheitsgr\xFC\
-    nden."
-  - Der fehlende [Handlauf](item) an der [Treppe](item) stellt ein echtes Sicherheitsproblem
-    dar.
-  - Ohne [Kellerlicht](item) entsteht auf der [Treppe](item) ein erhebliches Unfallrisiko
-  - Bei uns fehlt eine [Lampe](item), sonst besteht Stolpergefahr
+de:
+  intent:
+    ticket.complaint/safety:
+    - Gefahrenstelle
+    - Rutschgefahr
+    - Unfallgefahr
+    - Angst
+    - Sicherheitsproblem
+    - unsicher
+    - Gefahr
+    - Sicherheit
+    - Stolpergefahr
+    - Gefahrenstelle entdeckt
+    - Rutschgefahr identifiziert
+    - Sicherheitsproblem erkannt
+    - Stolpergefahr melden
+    - Rutschgefahr melden
+    - "Versto\xDF gegen Sicherheitsvorschriften"
+    - Sicherheitsrisiko vorhanden
+    - Verletzungsgefahr melden
+    - Ich habe Angst
+    - "Es ist gef\xE4hrlich"
+    - '[Treppe](item) ist [rutschig](mess)'
+    - Ein [Kellerlicht](item) fehlt
+    - "[Handlauf](item) fehlt vollst\xE4ndig"
+    - Die [Einfahrt](outdoor_location) ist unsicher
+    - "Die Leiter zum [Dachboden](indoor_location) ist zu gef\xE4hrlich"
+    - "[Treppenstufen](item) sind gef\xE4hrlich"
+    - '[Kelleraufgang](indoor_location) ist riskant'
+    - Die Situation macht mir Angst
+    - Ich habe Angst um meine Sicherheit im [Treppenhaus](indoor_location)
+    - "Ich f\xFCrchte mich vor Verletzung"
+    - "Die Deckenh\xF6he stellt eine Unfallgefahr dar"
+    - "Ich f\xFChle mich unsicher"
+    - Das ist nicht sicher!
+    - Das ist eine Gefahr
+    - "Ohne Licht ist es gef\xE4hrtlich."
+    - Ohne Absperrung ist es riskant.
+    - Auf der [Treppe](item) besteht Sturzgefahr.
+    - "Die [Treppe](item) ist gef\xE4hrlich ohne [Beleuchtung](item)."
+    - Es ist so [rutschig](mess), dass ich angst habe, auszurutschen
+    - "Ich f\xFCrchte mich davor, mir alle Knochen zu brechen"
+    - Ich habe Angst, wenn ich nachts nach hause komme
+    - Jemand bricht sich hier noch alle Knochen
+    - Das fehlende [Licht](item) stellt ein echtes Sicherheitsproblem dar.
+    - Auf den [Treppen](item) bricht man sich ja die Knochen im Dunkeln.
+    - Die nassen [Treppen](item) birgen erhebliche Rutschgefahr
+    - Auf der wackligen [Treppe](item) passiert irgend wann ein Unfall.
+    - "Wir ben\xF6tigen drigend ein anst\xE4ndiges [Treppengel\xE4nder](item) aus\
+      \ Sicherheitsgr\xFCnden."
+    - Der fehlende [Handlauf](item) an der [Treppe](item) stellt ein echtes Sicherheitsproblem
+      dar.
+    - Ohne [Kellerlicht](item) entsteht auf der [Treppe](item) ein erhebliches Unfallrisiko
+    - Bei uns fehlt eine [Lampe](item), sonst besteht Stolpergefahr

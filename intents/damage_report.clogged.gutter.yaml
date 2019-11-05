@@ -1,14 +1,15 @@
-intent:
-  ticket.damage_report/clogged.gutter:
-  - '[Dachrinne](item) dicht'
-  - '[Fallrohr](item) zu'
-  - '[Regenrinne](item) verstopft'
-  - Die [Dachrinne](item) scheint verstopft zu sein.
-  - Etwas hat die [Dachrinne](item) verstopft.
-  - In der [Regenrinne](item) hat sich was verklemmt.
-  - "\xDCber die [Dachk\xE4nnel](item) flie\xDFt das Wasser nicht mehr richtig ab."
-  - Die [Regenrinne](item) ist verstopft, lassen Sie die mal reinigen.
-  - Die Verstopfung in der [Dachrinne](item) muss jemand entfernen.
-  - "Der Regen kann nicht mehr durch die [Dachrinne](item) abflie\xDFen"
-  - "Die [Regenrinne](item) ist total [verdreckt](mess), da flie\xDFt nichts mehr\
-    \ ab."
+de:
+  intent:
+    ticket.damage_report/clogged.gutter:
+    - '[Dachrinne](item) dicht'
+    - '[Fallrohr](item) zu'
+    - '[Regenrinne](item) verstopft'
+    - Die [Dachrinne](item) scheint verstopft zu sein.
+    - Etwas hat die [Dachrinne](item) verstopft.
+    - In der [Regenrinne](item) hat sich was verklemmt.
+    - "\xDCber die [Dachk\xE4nnel](item) flie\xDFt das Wasser nicht mehr richtig ab."
+    - Die [Regenrinne](item) ist verstopft, lassen Sie die mal reinigen.
+    - Die Verstopfung in der [Dachrinne](item) muss jemand entfernen.
+    - "Der Regen kann nicht mehr durch die [Dachrinne](item) abflie\xDFen"
+    - "Die [Regenrinne](item) ist total [verdreckt](mess), da flie\xDFt nichts mehr\
+      \ ab."

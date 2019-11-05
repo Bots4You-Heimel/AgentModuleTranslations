@@ -1,27 +1,28 @@
-intent:
-  ticket.damage_report/electrics.door_opener_bell:
-  - '[Klingel](item)'
-  - "[T\xFCrklingel](item)"
-  - '[Klingelanlage](item)'
-  - '[Sprechanlage](item)'
-  - '[Gegensprechanlage](item)'
-  - "[T\xFCrsprechanlage](item)"
-  - "[T\xFCrgong](item)"
-  - '[Klingel](item) kaputt'
-  - "[Haust\xFCrklingel](item) kaputt"
-  - '[Klingel](item) [am Eingang](outdoor_location) defekt'
-  - "Ich h\xF6re niemanden mehr durch die [Sprechanlage](item)"
-  - "Der [T\xFCrgong](item) gongt nicht"
-  - Die [Klingel](item) klingelt nicht
-  - "Ich kann die [T\xFCr](item) nicht mehr \xFCber den [Schalter](item) aufdr\xFC\
-    cken"
-  - "Die [Haust\xFCr](item) l\xE4sst sich mit dem [T\xFCr\xF6ffner](item) nicht mehr\
-    \ aufmachen."
-  - "Ich kann die [Haust\xFCr](item) nicht mehr von meiner [Wohnung](indoor_location)\
-    \ aus \xF6ffnen."
-  - "Die [Klingel](item) macht komische Ger\xE4usche"
-  - "Der [T\xFCr\xF6ffner](item) geht nicht mehr"
-  - Die [Gegensprechanlage](item) macht nichts mehr
-  - "Ich h\xF6re nichts mehr durch den H\xF6rer, wenn jemand [vor dem Eingang steht](outdoor_location)"
-  - Es kommt nichts mehr aus der [Sprechanlage](appliance)
-  - "Die [T\xFCrklingel](item) funktioniert nicht mehr"
+de:
+  intent:
+    ticket.damage_report/electrics.door_opener_bell:
+    - '[Klingel](item)'
+    - "[T\xFCrklingel](item)"
+    - '[Klingelanlage](item)'
+    - '[Sprechanlage](item)'
+    - '[Gegensprechanlage](item)'
+    - "[T\xFCrsprechanlage](item)"
+    - "[T\xFCrgong](item)"
+    - '[Klingel](item) kaputt'
+    - "[Haust\xFCrklingel](item) kaputt"
+    - '[Klingel](item) [am Eingang](outdoor_location) defekt'
+    - "Ich h\xF6re niemanden mehr durch die [Sprechanlage](item)"
+    - "Der [T\xFCrgong](item) gongt nicht"
+    - Die [Klingel](item) klingelt nicht
+    - "Ich kann die [T\xFCr](item) nicht mehr \xFCber den [Schalter](item) aufdr\xFC\
+      cken"
+    - "Die [Haust\xFCr](item) l\xE4sst sich mit dem [T\xFCr\xF6ffner](item) nicht\
+      \ mehr aufmachen."
+    - "Ich kann die [Haust\xFCr](item) nicht mehr von meiner [Wohnung](indoor_location)\
+      \ aus \xF6ffnen."
+    - "Die [Klingel](item) macht komische Ger\xE4usche"
+    - "Der [T\xFCr\xF6ffner](item) geht nicht mehr"
+    - Die [Gegensprechanlage](item) macht nichts mehr
+    - "Ich h\xF6re nichts mehr durch den H\xF6rer, wenn jemand [vor dem Eingang steht](outdoor_location)"
+    - Es kommt nichts mehr aus der [Sprechanlage](appliance)
+    - "Die [T\xFCrklingel](item) funktioniert nicht mehr"

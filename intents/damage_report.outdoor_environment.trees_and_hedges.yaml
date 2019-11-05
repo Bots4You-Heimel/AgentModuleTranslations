@@ -1,39 +1,41 @@
-intent:
-  ticket.damage_report/outdoor_environment.trees_and_hedges:
-  - '[Rasen](plant)'
-  - "Rasenm\xE4hen"
-  - "M\xE4hen"
-  - '[Wiese](plant) pflegen'
-  - "[Rasen](plant) m\xE4hen"
-  - '[Hecke](plant) schneiden'
-  - '[Baum](plant) stutzen'
-  - "[Strauch](plant) zur\xFCckschneiden"
-  - "[Rasen](plant) muss gem\xE4ht werden"
-  - "Die [Wiese](plant) muss mal gem\xE4ht werden"
-  - Die [Hecke](plant) neben dem Zugang [zum Haus](outdoor_location) ragt auf den
-    [Gehweg](outdoor_location).
-  - "Das [Gestr\xFCpp](plant) w\xE4chst in den [Eingangsbereich](outdoor_location)\
-    \ hinein."
-  - Die [Staude](plant) [beim Eingang](outdoor_location) ragt auf den [Gehweg](outdoor_location).
-  - "Das [Geb\xFCsch](plant) [am Haus](outdoor_location) w\xE4chst \xFCber den [B\xFC\
-    rgersteig](outdoor_location)."
-  - Beim [Hauseingang](outdoor_location) nimmt die [Hecke](plant) zu viel Platz weg.
-  - "Die [Hecken](plant) m\xFCssten mal wieder geschnitten werden."
-  - "Bitte lassen Sie die [B\xE4ume](plant) mal schneiden."
-  - "Jemand sollte mal wieder den [Garten](outdoor_location) m\xE4hen."
-  - Es sollte mal jemand muss die [Glasflaschen](mess) [vorm Hauseingang](outdoor_location)
-    auffegen.
-  - "Die [B\xE4ume](plant) m\xFCssen dringend geschnitten werden."
-  - "K\xF6nnen Sie bitte jemanden zum [Hecke](plant) schneiden schicken?"
-  - "Kann bitte jemand die [B\xE4ume](plant) schneiden?"
-  - "Bitte lassen Sie mal die [Hecken](plant) zur\xFCckschneiden."
-  - "Die [B\xE4ume](plant) brauchen dringend mal einen R\xFCckschnitt."
-  - "K\xF6nnten Sie die [B\xE4ume](plant) stutzen lassen?"
-  - '[Dornen](plant) wachsen in die [Wege](outdoor_location) zum Haus hinein'
-  - "Das [Strauchwerk](plant) soll mal gek\xFCrzt werden."
-  - "Das [Buschwerk](plant) neben der [Zufahrt](outdoor_location) soll jemand zur\xFC\
-    ckstutzen."
-  - "Die [B\xE4ume](plant) verdunkeln mir meine [Wohnung](indoor_location), k\xF6\
-    nnen Sie die bitte schneiden lassen?"
-  - Der [Busch](plant) [neben dem Hausweg](outdoor_location) muss unbedingt beschnitten
-    werden
+de:
+  intent:
+    ticket.damage_report/outdoor_environment.trees_and_hedges:
+    - '[Rasen](plant)'
+    - "Rasenm\xE4hen"
+    - "M\xE4hen"
+    - '[Wiese](plant) pflegen'
+    - "[Rasen](plant) m\xE4hen"
+    - '[Hecke](plant) schneiden'
+    - '[Baum](plant) stutzen'
+    - "[Strauch](plant) zur\xFCckschneiden"
+    - "[Rasen](plant) muss gem\xE4ht werden"
+    - "Die [Wiese](plant) muss mal gem\xE4ht werden"
+    - Die [Hecke](plant) neben dem Zugang [zum Haus](outdoor_location) ragt auf den
+      [Gehweg](outdoor_location).
+    - "Das [Gestr\xFCpp](plant) w\xE4chst in den [Eingangsbereich](outdoor_location)\
+      \ hinein."
+    - Die [Staude](plant) [beim Eingang](outdoor_location) ragt auf den [Gehweg](outdoor_location).
+    - "Das [Geb\xFCsch](plant) [am Haus](outdoor_location) w\xE4chst \xFCber den [B\xFC\
+      rgersteig](outdoor_location)."
+    - Beim [Hauseingang](outdoor_location) nimmt die [Hecke](plant) zu viel Platz
+      weg.
+    - "Die [Hecken](plant) m\xFCssten mal wieder geschnitten werden."
+    - "Bitte lassen Sie die [B\xE4ume](plant) mal schneiden."
+    - "Jemand sollte mal wieder den [Garten](outdoor_location) m\xE4hen."
+    - Es sollte mal jemand muss die [Glasflaschen](mess) [vorm Hauseingang](outdoor_location)
+      auffegen.
+    - "Die [B\xE4ume](plant) m\xFCssen dringend geschnitten werden."
+    - "K\xF6nnen Sie bitte jemanden zum [Hecke](plant) schneiden schicken?"
+    - "Kann bitte jemand die [B\xE4ume](plant) schneiden?"
+    - "Bitte lassen Sie mal die [Hecken](plant) zur\xFCckschneiden."
+    - "Die [B\xE4ume](plant) brauchen dringend mal einen R\xFCckschnitt."
+    - "K\xF6nnten Sie die [B\xE4ume](plant) stutzen lassen?"
+    - '[Dornen](plant) wachsen in die [Wege](outdoor_location) zum Haus hinein'
+    - "Das [Strauchwerk](plant) soll mal gek\xFCrzt werden."
+    - "Das [Buschwerk](plant) neben der [Zufahrt](outdoor_location) soll jemand zur\xFC\
+      ckstutzen."
+    - "Die [B\xE4ume](plant) verdunkeln mir meine [Wohnung](indoor_location), k\xF6\
+      nnen Sie die bitte schneiden lassen?"
+    - Der [Busch](plant) [neben dem Hausweg](outdoor_location) muss unbedingt beschnitten
+      werden

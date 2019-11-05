@@ -1,21 +1,24 @@
-intent:
-  ticket.damage_report/canal:
-  - Kanal
-  - Gulli
-  - Kanal dicht
-  - Gulli dicht
-  - "Regenwasser abflie\xDFen"
-  - "[Abfluss](sanitary_item) [drau\xDFen](outdoor_location) dicht"
-  - "Nach dem heutigen Regen konnte das Wasser nicht ablaufen und sammelte sich in\
-    \ einer gro\xDFen [Pf\xFCtze](mess) [vorm Haus](outdoor_location)."
-  - "Da ist eine riesige [Pf\xFCtze](mess) [vor dem Haus](outdoor_location)."
-  - '[Auf dem Weg](outdoor_location) [vor dem Haus](outdoor_location) steht das Wasser.'
-  - Auf dem [Rasen](outdoor_location) [hinterm Haus](outdoor_location) steht das Wasser.
-  - "Das Regenwasser l\xE4uft nicht richtig ab und sammelt sich immer [vorm Haus](outdoor_location)."
-  - "Da steht wieder Wasser in einer [Pf\xFCtze](mess) [vorm Haus](outdoor_location)."
-  - "Wir haben eine gro\xDFe [Pf\xFCtze](mess) [vorm Haus](outdoor_location), weil\
-    \ das Wasser nicht richtig abl\xE4uft."
-  - "[Auf dem Weg](outdoor_location) bilden sich immer gro\xDFe [Pf\xFCtzen](mess),\
-    \ wenn es geregnet hat."
-  - "Das Regenwasser steht in einer gro\xDFen [Pf\xFCtze](mess) [beim Hauseingang](outdoor_location)."
-  - Das Regenwasser versickert nicht richtig und sammelt sich [vor dem Hauseingang](outdoor_location).
+de:
+  intent:
+    ticket.damage_report/canal:
+    - Kanal
+    - Gulli
+    - Kanal dicht
+    - Gulli dicht
+    - "Regenwasser abflie\xDFen"
+    - "[Abfluss](sanitary_item) [drau\xDFen](outdoor_location) dicht"
+    - "Nach dem heutigen Regen konnte das Wasser nicht ablaufen und sammelte sich\
+      \ in einer gro\xDFen [Pf\xFCtze](mess) [vorm Haus](outdoor_location)."
+    - "Da ist eine riesige [Pf\xFCtze](mess) [vor dem Haus](outdoor_location)."
+    - '[Auf dem Weg](outdoor_location) [vor dem Haus](outdoor_location) steht das
+      Wasser.'
+    - Auf dem [Rasen](outdoor_location) [hinterm Haus](outdoor_location) steht das
+      Wasser.
+    - "Das Regenwasser l\xE4uft nicht richtig ab und sammelt sich immer [vorm Haus](outdoor_location)."
+    - "Da steht wieder Wasser in einer [Pf\xFCtze](mess) [vorm Haus](outdoor_location)."
+    - "Wir haben eine gro\xDFe [Pf\xFCtze](mess) [vorm Haus](outdoor_location), weil\
+      \ das Wasser nicht richtig abl\xE4uft."
+    - "[Auf dem Weg](outdoor_location) bilden sich immer gro\xDFe [Pf\xFCtzen](mess),\
+      \ wenn es geregnet hat."
+    - "Das Regenwasser steht in einer gro\xDFen [Pf\xFCtze](mess) [beim Hauseingang](outdoor_location)."
+    - Das Regenwasser versickert nicht richtig und sammelt sich [vor dem Hauseingang](outdoor_location).

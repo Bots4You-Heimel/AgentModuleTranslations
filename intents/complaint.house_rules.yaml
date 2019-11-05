@@ -1,21 +1,22 @@
-intent:
-  ticket.complaint/house_rules:
-  - Hausordnung
-  - Regel
-  - "Regelversto\xDF"
-  - Hausregeln
-  - "Versto\xDF Hausordnung"
-  - Einhaltung Hausordnung
-  - Einhaltung Regeln
-  - "Versto\xDF Regel"
-  - "Versto\xDF gegen Hausordnung"
-  - Missachtung der Hausregeln
-  - Der [Nachbar](person) ignoriert die Hausordnung
-  - Die anderen [Mieter](person) missachten die Hausordnung
-  - "niemand h\xE4lt sich hier an die hausordnung"
-  - Einfach keinen interessieren die Regeln [im Haus](indoor_location)
-  - Die [Mieter](person) bei uns nehmen die Hausregeln nicht so wirklich ernst.
-  - "[Herr B\xFCdenbender](named_person) h\xE4lt sich nicht an die Hausregeln."
-  - '[Herr Silberstern](named_person) kommt seinen Mieterpflichten nicht nach.'
-  - "Mein [Nachbar](person), [Herr Rosenstein](named_person) h\xE4lt sich an keine\
-    \ Regeln!"
+de:
+  intent:
+    ticket.complaint/house_rules:
+    - Hausordnung
+    - Regel
+    - "Regelversto\xDF"
+    - Hausregeln
+    - "Versto\xDF Hausordnung"
+    - Einhaltung Hausordnung
+    - Einhaltung Regeln
+    - "Versto\xDF Regel"
+    - "Versto\xDF gegen Hausordnung"
+    - Missachtung der Hausregeln
+    - Der [Nachbar](person) ignoriert die Hausordnung
+    - Die anderen [Mieter](person) missachten die Hausordnung
+    - "niemand h\xE4lt sich hier an die hausordnung"
+    - Einfach keinen interessieren die Regeln [im Haus](indoor_location)
+    - Die [Mieter](person) bei uns nehmen die Hausregeln nicht so wirklich ernst.
+    - "[Herr B\xFCdenbender](named_person) h\xE4lt sich nicht an die Hausregeln."
+    - '[Herr Silberstern](named_person) kommt seinen Mieterpflichten nicht nach.'
+    - "Mein [Nachbar](person), [Herr Rosenstein](named_person) h\xE4lt sich an keine\
+      \ Regeln!"

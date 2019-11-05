@@ -1,9 +1,10 @@
-intent:
-  ticket:
-  - Ticket
-  - Meldung
-  - "Ich m\xF6chte ein Ticket anlegen."
-  - Ich habe ein Anliegen.
-  - Kann ich hier auch Tickets anlegen?
-  - Kann ich ein Ticket anlegen?
-  - Kannst du auch ein Ticket anlegen?
+de:
+  intent:
+    ticket:
+    - Ticket
+    - Meldung
+    - "Ich m\xF6chte ein Ticket anlegen."
+    - Ich habe ein Anliegen.
+    - Kann ich hier auch Tickets anlegen?
+    - Kann ich ein Ticket anlegen?
+    - Kannst du auch ein Ticket anlegen?
