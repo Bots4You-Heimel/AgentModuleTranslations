@@ -1,0 +1,60 @@
+intent:
+  ticket.damage_report/porcelain_glas.sanitary_item:
+  - Waschbeckenschaden
+  - "Waschsch\xFCsselschaden"
+  - Waschbeckensprung
+  - Waschtischtleck
+  - Toilettenriss
+  - Kloschaden
+  - Klodefekt
+  - "Klosch\xFCsselriss"
+  - Waschbeckensprung melden
+  - Schadensmeldung [Waschbecken](sanitary_item)
+  - '[Waschtisch](sanitary_item) leckt'
+  - "Klosch\xFCsselriss melden"
+  - "Toilettensch\xFCssel gerissen"
+  - "[Klosch\xFCssel](sanitary_item) gesprungen"
+  - Habe Beckenriss
+  - '[Waschbecken](sanitary_item) ist zerbrochen'
+  - Mein [Waschbecken](sanitary_item) tropft.
+  - Das [Waschbecken](sanitary_item) splittert
+  - '[Becken](sanitary_item) ist gerissen.'
+  - Habe defektes [Becken](sanitary_item)
+  - Einige Splitter sind aus dem [Becken](sanitary_item) gebrochen
+  - Mein [Waschbecken](sanitary_item) hat einen Sprung.
+  - Mein [Waschbecken](sanitary_item) ist gesplittert.
+  - Das [Waschbecken](sanitary_item) bricht auseinander.
+  - Im [Waschbecken](sanitary_item) ist ein Einriss.
+  - "Das [Waschbecken](sanitary_item) ist br\xFCchig und h\xE4lt nicht mehr lange."
+  - "Mein [Kind](person) hat unser [Waschbecken](sanitary_item) zerst\xF6rt."
+  - Das [Waschbecken](sanitary_item) hat ein Leck.
+  - Das [Waschbecken](sanitary_item) bricht bald auseinander.
+  - "Ich habe einen Sprung in der Sch\xFCssel."
+  - "Ich habe einen dicken Sprung in der Sch\xFCssel des [Waschtisches](sanitary_item).\
+    \ Das sieht nicht gut aus."
+  - "Das [Waschbecken](sanitary_item) im [Bad](indoor_location) hat einen Riss, der\
+    \ immer weiter w\xE4chst."
+  - "Das [Waschbecken](sanitary_item) muss dringend ausgetauscht werden, der Sprung\
+    \ wird immer gr\xF6\xDFer."
+  - Der [Waschtisch](sanitary_item) ist gesprungen und muss wahrscheinlich bald erneuert
+    werden.
+  - Bitte montieren Sie einen neuen [Waschtisch](sanitary_item), der alte ist nicht
+    mehr zu gebrauchen.
+  - Das [Waschbecken](sanitary_item) wird es nicht mehr lange tun, da ist ein riesiger
+    Riss.
+  - Kann sich mal jemand meinen [Waschbecken](sanitary_item) angucken ?
+  - "Ich brauche einen [Handwerker](person) f\xFCr mein [Waschbecken](sanitary_item)."
+  - "Im [Waschbecken](sanitary_item) ist ein gro\xDFer Riss, der geflickt werden muss."
+  - "Wer ist f\xFCr Sch\xE4den am [Waschbecken](sanitary_item) zust\xE4ndig?"
+  - Das [Waschbecken](sanitary_item) ist undicht und macht nicht mehr lange mit.
+  - "Das [Waschbecken](sanitary_item) hat einen gro\xDFen Einriss."
+  - "Mein [Waschbecken](sanitary_item) hat einen riesigen Riss. Ich brauche schnellstm\xF6\
+    glich Hilfe."
+  - Das [Waschbecken](sanitary_item) hat einen Riss und wird bald nicht mehr halten.
+  - "Mein [Waschbecken](sanitary_item) l\xE4uft aus. Was soll ich tun?"
+  - "Ich m\xF6chte einen Schaden an meinem [Waschbecken](sanitary_item) melden."
+  - Wer kann sich jemand mal den Sprung in meinem [Waschbecken](sanitary_item) ansehen?
+  - "K\xF6nnen sie jemanden zu mir schicken, der den alten [Waschtisch](sanitary_item)\
+    \ mit dem Sprung austauscht?"
+  - Auf mein [Becken](sanitary_item) ist ein [Glas](item) gefallen jezt ist da was
+    rausgebrochen.

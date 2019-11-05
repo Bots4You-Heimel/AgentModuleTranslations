@@ -1,0 +1,36 @@
+intent:
+  ticket.damage_report/clogged:
+  - Verstopfung
+  - Abfluss
+  - verstopft
+  - Abflussreinigung
+  - Rohrfrei
+  - '[Abfluss](sanitary_item) verstopft'
+  - '[Klo](sanitary_item) dicht'
+  - Verstopfung beseitigen
+  - '[Waschbecken](sanitary_item) zu'
+  - "[Sp\xFCle](sanitary_item) Verstopfung"
+  - Spirale [Dusche](sanitary_item) reinigen
+  - '[Dusche](sanitary_item) [Wasserabfluss](sanitary_item)'
+  - "[Siphon](sanitary_item) muss gep\xFCmplet werden"
+  - "Das Wasser flie\xDFt nicht mehr aus der [Badewanne](sanitary_item) ab"
+  - "Wasser flie\xDFt nicht ab"
+  - Wasser in [Duschwanne](sanitary_item) bleibt stehen
+  - Abfluss [Waschmaschine](appliance) dicht
+  - "Das Abwasser kann nicht mehr wegflie\xDFen"
+  - Das Rohr von der [Toilette](sanitary_item) ist dicht
+  - Der [Abfluss](sanitary_item) der [Badewanne](sanitary_item) ist verstopft.
+  - "Der [Siphon](sanitary_item) unter der [Sp\xFCle](sanitary_item) ist verstopft."
+  - "Das Wasser im [Waschbecken](sanitary_item) flie\xDFt nicht richtig ab."
+  - "Der [Abfluss](sanitary_item) im [Sp\xFClbecken](sanitary_item) ist dicht."
+  - Der [Abfluss](sanitary_item) vom [Waschbecken](sanitary_item) hat sich zugesetzt.
+  - Hier ist ein [Abfluss](sanitary_item) verstopft.
+  - "Im [Waschbecken](sanitary_item) flie\xDFt das Wasser nicht richtig ab."
+  - In der [Badewanne](sanitary_item) ist der [Abfluss](sanitary_item) schon wieder
+    zu.
+  - Das [Abflussrohr](sanitary_item) des [Abwaschbeckens](sanitary_item) ist blockiert
+  - "Mein [Klo](sanitary_item) ist verstopft. Selbst ein P\xFCmpel hilft nicht mehr."
+  - "Meine [Dusche](sanitary_item) fliest nicht mehr ab, jemand m\xFCsste mal mit\
+    \ einer Spirale kommen."
+  - Ich habe eine Verstopfung in dem [Siphon](sanitary_item) unter dem [Becken](sanitary_item)
+    festgestellt

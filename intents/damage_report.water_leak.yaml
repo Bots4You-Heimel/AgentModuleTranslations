@@ -1,0 +1,34 @@
+intent:
+  ticket.damage_report/water_leak:
+  - Leck
+  - Undichtigkeit
+  - undicht
+  - tropf
+  - '[Wasserhahn](sanitary_item) tropft'
+  - '[Amatur](sanitary_item) undicht'
+  - '[Heizung](sanitary_item) nicht dicht'
+  - Tropfendes [Waschbecken](sanitary_item)
+  - '[Schlauchanschluss](sanitary_item) am tropfen'
+  - Die [Dachrinne](item) dichtet nicht mehr ab!
+  - Die [Regentraufe](item) ist nicht mehr richtig dicht.
+  - Der [Waschtisch](sanitary_item) ist undicht
+  - "Das [Fallrohr](item) [bei der Haust\xFCr](outdoor_location) muss mal abgedichtet\
+    \ werden."
+  - "Da ist eine [Pf\xFCtze](mess) unter einem [Heizk\xF6rper](sanitary_item)."
+  - "Einer der [Heizk\xF6rper](sanitary_item) hat Wasser verloren."
+  - "Ich habe unterhalb des [Heizk\xF6rpers](sanitary_item) im [Bad](indoor_location)\
+    \ Wasser entdeckt."
+  - "Ein [Heizk\xF6rper](sanitary_item) [in meiner Wohnung](indoor_location) tropft."
+  - Die [Dichtung](sanitary_item) am [Absperrventil](sanitary_item) ist nicht mehr
+    dicht
+  - Da habe ich eine Undichtigkeit gefunden
+  - Die [Dusche](sanitary_item) ist dauernd am tropfen
+  - Ich glaube, die [Badewanne](sanitary_item) ist undicht
+  - "Der [Heizk\xF6rper](sanitary_item) verliert Wasser!"
+  - "Unter einem [Heizk\xF6rper](sanitary_item) ist eine Wasserlache."
+  - "Der [Kellerheizk\xF6rper](sanitary_item) hat eine undichte Stelle"
+  - Mein [Waschbecken](sanitary_item) ist undicht.
+  - "K\xF6nnte mal jemand das [Regenfallrohr](item) abdichten?"
+  - Das [Fallrohr](item) [beim Hauseingang](outdoor_location) muss abgedichten werden.
+  - "Einer der [Heizk\xF6rper](sanitary_item) hat Wasser verloren."
+  - "Der [Heizk\xF6rper](sanitary_item) verliert Wasser"

@@ -1,0 +1,44 @@
+intent:
+  ticket.damage_report/heat:
+  - Kalte [Heizung](sanitary_item)
+  - '[Ofen](sanitary_item) nicht warm'
+  - '[Zentralheizung](sanitary_item) kalt'
+  - Heizungsausfall
+  - "K\xE4lte"
+  - '[Wohnung](indoor_location) kalt'
+  - '[Gasheizung](sanitary_item) kaputt'
+  - kaltes Haus
+  - Zu kalt
+  - keine [Heizung](sanitary_item)
+  - Wir erfrieren hier
+  - '[Heizung](sanitary_item) zu schwach'
+  - '[Klimaanlage](sanitary_item) zu armselig'
+  - Viel zu warm
+  - Hier ist es zu warm
+  - Die [Heizung](sanitary_item) gehen in allen Etagen nicht mehr.
+  - '[Ganze Wohnung](indoor_location) kalt'
+  - Ich glaube es ist [im ganzen Haus](indoor_location) nicht warm genug
+  - Hier ist es viel zu kalt
+  - "Mein [Herd](appliance) wird nicht mehr richtig hei\xDF."
+  - Der [Zimmerofen](sanitary_item) bleibt kalt
+  - Die [Etagenheizung](sanitary_item) geht nicht mehr an.
+  - Bitte lassen Sie dringend jemanden die [Heizung](sanitary_item) reparieren.
+  - Meine [Heizung](sanitary_item) im [Schlafzimmer](indoor_location) ist kalt.
+  - "Die [Heizk\xF6rper](sanitary_item) in meiner [Wohnung](indoor_location) sind\
+    \ kalt."
+  - Der [Ofen](sanitary_item) meines [Gasherdes](sanitary_item) wird nicht mehr richtig
+    heiss.
+  - "Da ist eine [Pf\xFCtze](mess) unter einem [Heizk\xF6rper](sanitary_item)."
+  - "Ein [Heizk\xF6rper](sanitary_item) in meiner Wohnung tropft."
+  - Ich schwitze wie ein [Schwein](animal), weil es hier so warm ist
+  - Es ist hier so warm und stickig
+  - Der [Kaminofen](sanitary_item) ist nicht ausreichend, die Zimmer bleiben kalt
+  - "Meine [Heizung](sanitary_item) w\xE4rmt nicht genug."
+  - Die [Heizung](sanitary_item) ist voll aufgedreht, aber ich friere immer noch
+  - "Die [Heizk\xF6rper](sanitary_item) im ganzen Haus sind kalt."
+  - "Alle [Heizk\xF6rper](sanitary_item) im Haus sind eiskalt."
+  - Die [Heizung](sanitary_item) ist auf allen Stockwerken ausgefallen.
+  - Im ganzen Haus ist die [Heizung](sanitary_item) ausgefallen.
+  - "\xDCberall ist die [Heizung](sanitary_item) ausgefallen."
+  - Auf meiner [Etage](indoor_location) ist die [Heizung](sanitary_item) ausgefallen.
+  - Die [Heizung](sanitary_item) in meiner [Wohnung](indoor_location) ist ausgefallen.

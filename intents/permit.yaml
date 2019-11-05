@@ -1,0 +1,18 @@
+intent:
+  ticket.permit:
+  - Genehmigung
+  - Erlaubnis
+  - Kann ich
+  - Genehmigung anfordern
+  - Erlaubnis beantragen
+  - eine Genehmigung
+  - Darf ich etwas?
+  - Ist es erlaubt?
+  - "Genehmigung notwendig daf\xFCr?"
+  - Ist es ein problem?
+  - Ich brauche eine Genehmigung.
+  - "Ich m\xF6chte etwas absprechen."
+  - "Wof\xFCr brauche ich eine Genehmigung?"
+  - "Falls m\xF6glich w\xFCrde ich hier gerne eine Genehmigung beantragen."
+  - Geht es hier eine Erlaubnis einzufordern?
+  - Ich glaub ich brauch ne Genehmigung oder so

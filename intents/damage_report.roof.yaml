@@ -1,0 +1,25 @@
+intent:
+  ticket.damage_report/roof:
+  - Dachschaden
+  - '[Dach](outdoor_location) undicht'
+  - undichtes [Dach](outdoor_location)
+  - Dachziegel fehlt
+  - Sturmschaden Dachziegel
+  - Sturmschaden an Teerpappe
+  - Sturmschaden an [Dachrinne](item)
+  - Das [Dach](outdoor_location) ist undicht
+  - "Das [Dach](outdoor_location) ist besch\xE4digt!"
+  - Das [Dach](outdoor_location) ist auf der Nordseite undicht
+  - "Beim letzten Sturm haben sich Dachziegel gel\xF6st."
+  - Unten [vor dem Haus](outdoor_location) liegen lose Dachziegel.
+  - "Es scheint Sturmsch\xE4den am [Dach](outdoor_location) zu geben."
+  - Der Wind hat einige Dachziegel abgetragen.
+  - Es fehlen ein paar Pfannen auf dem Hausdach
+  - Da sind ein paar fehlende Stellen auf dem [Dach](outdoor_location)
+  - Durch ein Unwetter sind viele Dachpfannen vom [Dach](outdoor_location) runtergeflogen.
+  - Es sind mehrere Dachziegel nicht mehr vorhanden.
+  - Da sind viele Dachpfannen nicht mehr auf dem [Dach](outdoor_location).
+  - Beim letzten Gewitter hat sich wurde wohl ein Dachziegel weggeweht
+  - Es tropft durch das [Dach](outdoor_location)
+  - Vom [Dach](outdoor_location) sind eine Vielzahl an Dachziegel runtergefallen.
+  - dass das nicht [Dach](outdoor_location) dicht ist.

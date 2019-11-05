@@ -1,0 +1,27 @@
+intent:
+  ticket.complaint/snow:
+  - '[Schnee](mess)'
+  - Salz
+  - "R\xE4umpflicht"
+  - Streupflicht
+  - "Schneer\xE4umplan"
+  - '[Schnee](mess) schippen'
+  - '[Schnee](mess) schaufeln'
+  - Salz streuen
+  - '[Nachbar](person) streut nicht'
+  - "[Schnee](mess) nicht ger\xE4umt"
+  - "Der [Nachbar](person) erf\xFCllt seine R\xE4umpflicht nicht"
+  - "Der [Schnee](mess) wurde nicht wegger\xE4umt"
+  - Die Wege sind glatt
+  - Ich bin vorhin auf dem Weg ausgerutscht
+  - '[Herr Winter](named_person) kommt der Streupflicht nicht nach'
+  - "Auf dem Weg zu den M\xFClltonnen liegt noch meterweise [Schnee](mess)"
+  - '[Schnee](mess) und Eis bedecken die Wege'
+  - "Die [Frau Laub](named_person) h\xE4lt sich nicht an den Schneer\xE4umplan"
+  - "Unsere [Nachbarin](person) hat nicht gen\xFCgend Salz gestreut"
+  - '[Herr Meier](named_person) hat wieder nicht die Wege gestreut'
+  - "[Frau Stein](named_person) k\xFCmmert sich nicht um den Schnee [vor dem Haus](outdoor_location)"
+  - "Es wurde wieder nicht [auf dem B\xFCrgersteig](outdoor_location) gestreut"
+  - "Der [Herr Sommer](named_person) r\xE4umt einfach nicht den [Schnee](mess) [vor\
+    \ der Haust\xFCr](outdoor_location) weg"
+  - Es liegt so viel [Schnee](mess) auf den Wegen [am Haus](outdoor_location)

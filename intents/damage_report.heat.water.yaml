@@ -1,0 +1,31 @@
+intent:
+  ticket.damage_report/heat.water:
+  - Warmwasser
+  - Kein Warmwasser
+  - Wasser nicht warm
+  - Wasser kalt
+  - Warmwasserversorgung
+  - Wasser nicht warm
+  - '[Durchlauferhitzer](sanitary_item) kaltes Wasser'
+  - '[Dusche](sanitary_item) bleibt kalt'
+  - Kein warmes Wasser
+  - Nur kaltes Wasser
+  - Ich kann mich nicht warm duschen
+  - Die [Dusche](sanitary_item) ist kalt.
+  - Das Wasser bleibt kalt
+  - "Das Wasser ist zu hei\xDF. Da verbrennt man sich dran."
+  - Die [Duschbrause](sanitary_item) ist so kalt, dass man erfiert
+  - Das Wasser ist so kalt, dass man garnicht baden kann
+  - Hier ist nirgendwo warmes Wasser [im ganzen Haus](indoor_location)
+  - Wir haben kein warmes Wasser mehr
+  - Seit gestern ist hier kein warmes Wasser mehr, ich kann mich garnicht duschen
+  - Es kommt kein warmes Wasser mehr aus dem [Waschbecken](sanitary_item)
+  - "Aus dem [Wasserhahn](sanitary_item) in der [K\xFCche](indoor_location) kommt\
+    \ nur kaltes Wasser"
+  - Ich brauche wieder warmes Wasser
+  - Die [Dusche](sanitary_item) gibt nur kaltes Wasser
+  - Wie soll ich mich mit kaltem Wasser duschen?
+  - Der [Durchlauferhitzer](appliance) springt nicht an, es kommt nur kaltes Wasser.
+  - Aus meinem Wasserhahn kommt nur eiskaltes Wasser, bitte lassen Sie meinen [Boiler](appliance)
+    reparieren.
+  - Jemand muss die Warmwasserversorgung wieder herstellen

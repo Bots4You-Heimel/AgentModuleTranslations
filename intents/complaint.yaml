@@ -1,0 +1,45 @@
+intent:
+  ticket.complaint:
+  - Beschwerde
+  - Beanstandung
+  - "Unm\xF6glichkeit"
+  - "\xC4rgerniss"
+  - Niemand macht
+  - Beschwerde einreichen
+  - Beanstandung
+  - etwas beanstanden
+  - Das geht garnicht.
+  - Es geht garnicht.
+  - Kein [Schwein](animal) macht
+  - hab ne beschwerde
+  - Will mich beschweren
+  - Das regt mich auf.
+  - Ich rege mich auf.
+  - "Ich m\xF6chte mich beschweren."
+  - Ich habe eine Beschwerde.
+  - "Das ist sehr \xE4rgerlich."
+  - Es kann nicht sein.
+  - Ich muss mich Beschweren.
+  - "Ich bin sehr ver\xE4rgert."
+  - Hier macht niemand
+  - "Es ist zum verr\xFCckt werden"
+  - "Es ist ein gro\xDFes \xE4rgernis"
+  - So etwas kann nicht sein
+  - "Es ist eine Unm\xF6glichkeit"
+  - Etwas geht mir auf die Nerven.
+  - "Ich m\xF6chte etwas beanstanden."
+  - Ich habe eine Beanstandung.
+  - Das ist nicht zum aushalten
+  - Also ich mache das nicht
+  - "Kann ich mich \xFCber etwas beschweren?"
+  - Ich will eine Beschwerde einreichen.
+  - "Sie m\xFCssen etwas dagegen Unternehmen."
+  - "Geht ja mal gar nich wie das hier abl\xE4uft"
+  - "Es gibt etwas, \xFCber dass ich mich beschweren muss."
+  - Kann man hier auch eine Beschwerde einreichen?
+  - "Ich muss mich \xFCber die neuen [Mieter](person) beschweren"
+  - "Ich \xE4rgere mich sehr \xFCber das Verhalten meiner [Nachbarn](person)."
+  - "Ich m\xF6chte mich \xFCber die [Nachbarn](person) beschweren."
+  - Ich habe ein Problem mit [Frau Janssen](named_person) aus dem [1. Stock](floor)
+  - "Ich habe eine Beschwerde \xFCber [Frau Schluz](named_person)!"
+  - "Es muss sich jetzt endlich mal was an den Umst\xE4nden hier \xE4ndern!"

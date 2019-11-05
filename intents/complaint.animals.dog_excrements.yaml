@@ -1,0 +1,66 @@
+intent:
+  ticket.complaint/animals.dog_excrements:
+  - '[Hundehaufen](mess)!'
+  - "[Hundeschei\xDFe](mess)."
+  - '[Hundeexkremente](mess)'
+  - '[Hundekot](mess)'
+  - '[Tretminen](mess)'
+  - '[Hundehaufen](mess) gefunden'
+  - '[Hundekot](mess) wegmachen'
+  - "\xDCberall [Hundehaufen](mess)!"
+  - '[Hundekot](mess) [auf Gehweg](outdoor_location)'
+  - '[Hundeexkremente](mess) [im Flur](indoor_location)'
+  - "[Hundstr\xFCmmerl](mess) [auf dem Weg](outdoor_location)"
+  - '[Hundehaufen](mess) [auf dem Weg](outdoor_location)'
+  - "Es ist \xFCberall [Hundeschei\xDFe](mess)."
+  - Es liegt [Hundekot](mess) herum.
+  - '[Hundehaufen](mess) wurden nicht weggemacht.'
+  - "Ich trete hier st\xE4ndig in [Hundehaufen](mess)!"
+  - "Mach sofort die [Hundeschei\xDFe](mess) weg"
+  - Viele [Tretminen](mess) direkt vorm [vorm Eingang](outdoor_location)
+  - Der [Dackel](dog_breed) des [Nachbarn](person) hat ins [Treppenhaus](indoor_location)
+    [geschissen](mess).
+  - "Ein [K\xF6ter](animal:Hund) hat [vor meine T\xFCr](indoor_location) [gepinkelt](mess:Pisse)."
+  - Immer wieder liegen [Hundehaufen](mess) [auf der Wiese hinter dem Haus](outdoor_location:Wiese)
+  - "Ein [K\xF6ter](animal:Hund) hat schon wieder [in den Vorgarten](outdoor_location)\
+    \  gemacht. Bitte lassen Sie das wegr\xE4umen."
+  - Es liegt [Tierkot](mess) [vor dem Haus](outdoor_location) herum, bitte wegmachen.
+  - "Da liegt stinkender [Kot](mess) [auf dem B\xFCrgersteig](outdoor_location)."
+  - "Irgendjemand hat die [Ausscheidungen](mess) von seinem [K\xF6ter](animal) nicht\
+    \ weggemacht."
+  - "Bitte entfernen Sie dringend die [Tretminen](mess) [vor der Haust\xFCr](outdoor_location),\
+    \ das ist eklig!"
+  - "Ich bin wieder in [Hundekot](mess) getreten. Sie m\xFCssen mit meinem [Nachbarn](person)\
+    \ reden, dass das nicht geht!"
+  - '[Im Vorgarten](outdoor_location) liegen riesige [Hundehaufen](mess). Bitte um
+    schnelle Entfernung.'
+  - "Da liegt viel zu viel [Hundeschei\xDFe](mess) [auf dem Gehweg](outdoor_location)."
+  - "[Irgendjemand](person) ist sich zu fein, den die [Haufen](mess) seines [Kl\xE4\
+    ffers](animal:Hund) wegzur\xE4umen. Ich mache das sicher nicht!"
+  - "Schon wieder ist da [Schei\xDFe](mess) [vor der Haust\xFCr](outdoor_location).\
+    \ Gibt es da nicht DNA Tests?"
+  - "Ich bin heute in [Hundekot](mess) getreten, das mache ich nicht l\xE4nger mit."
+  - "[Herr M\xFCller](named_person) aus dem [zweiten Stock](floor) macht den [Kot](mess)\
+    \ seines [Sch\xE4ferhund](dog_breed) nicht weg."
+  - "[Auf dem Gehweg](outdoor_location) liegen wieder stinkende [F\xE4kalien](mess).\
+    \ Da k\xF6nnte jemand hereinlaufen."
+  - '[Im Flur](indoor_location) stinkt es nach [Hundepisse](mess).'
+  - '[Im Garten](outdoor_location) liegen mehrere [Hundehaufen](mess). Also ich werde
+    das nicht wegmachen.'
+  - "Niemand hier k\xFCmmert sich darum, die [Haufen](mess) seines [Hundes](animal:Hund)\
+    \ wegzumachen. Das kann so nicht weitergehen."
+  - "\xDCberall [drau\xDFen](outdoor_location) finde ich [Schei\xDFhaufen](mess).\
+    \ Niemand nimmt mehr R\xFCcksicht."
+  - Da ist eine [Pisslache](mess) [im Flur](indoor_location). Das muss der [Spaniel](dog_breed)
+    des [Untermieters](person) gewesen sein.
+  - "Ich musste heute schon wieder [Kot](mess) vom [Dalmatiner](dog_breed) von [Frau\
+    \ M\xFCller](person) aufsammeln!"
+  - Irgendein [Hund](animal) hat [vor meinem Fenster](outdoor_location) einen [Haufen](mess)
+    gemacht.
+  - "Die [M\xFCllers](named_person) sind anscheinend nicht bereit, die [Exkremente](mess)\
+    \ ihres [Labradors](dog_breed) zu entsorgen."
+  - Hier liegt haufenweise [Hundekot](mess) [vor der Garage](outdoor_location)
+  - Kann mal jemand bitte die [Hundehaufen](mess) [im Eingang](outdoor_location) wegmachen.
+  - "K\xF6nnen sie herausfinden, wessen [Hund](animal) f\xFCr die [Schei\xDFe](mess)\
+    \ [vor der Garage](outdoor_location) verantworlich ist?"
+  - "Kann nicht sein, dass hier immer [Hundeschei\xDFe](mess) herumliegt"
