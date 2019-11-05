@@ -1,0 +1,37 @@
+de:
+  intent:
+    ticket.damage_report/elevator_person_rescue:
+    - Personenrettung Aufzug
+    - Gefangen im [Fahrstuhl](indoor_location)
+    - Person im [Aufzug](indoor_location) gefangen
+    - Jemand im [Aufzug](indoor_location) steckengeblieben
+    - Meine Frau sitzt im [Aufzug](indoor_location) fest
+    - Die [Nachbarin](person) kommt nicht mehr aus der [Fahrstuhlkabine](indoor_location)
+      heraus
+    - Person steckt im [Aufzug](indoor_location)
+    - Im [Aufzug](indoor_location) steckt der [Nachbar](person)
+    - Der [Aufzug](indoor_location) klemmt und es ist [Frau Reineke](named_person)
+      drin.
+    - Es ist jemand im [Aufzug](indoor_location) stecken geblieben.
+    - Ein [Mieter](person) ist im [Aufzug](indoor_location) stecken geblieben.
+    - '[Herr Thielmann](named_person) ist im [Fahrstuhl](indoor_location) eingesperrt.'
+    - Die [Mieterin](person) ist in dem [Lift](indoor_location) eingeschlossen.
+    - Es befinden sich [Personen](person) im stehengebliebenden [Personenaufzug](indoor_location)
+    - "Ich h\xF6re Leute aus dem steckengebliebenden [Personenfahrstuhl](indoor_location)"
+    - '[Frau Rothhaus](person) sitzt in der [Fahrstuhlanlage](indoor_location) fest.'
+    - Da sitzt [Frau Bangert](named_person) im [Aufzug](indoor_location) fest und
+      kommt nicht raus.
+    - "Der [Fahrstuhl](indoor_location) ist h\xE4ngen geblieben und [Herr Rinke](named_person)\
+      \ ist darin gefangen."
+    - "Im [Aufzug](indoor_location) h\xE4ngt ein [Kind](person) fest und kommt nicht\
+      \ raus!"
+    - '[Frau Roth](named_person) steckt im [Fahrstuhl](indoor_location) fest und muss
+      befreit werden.'
+    - "Da ist der [Herr Augustin](named_person) mit dem [Aufzug](indoor_location)\
+      \ h\xE4ngen geblieben."
+    - Meine Frau steckt im [Aufzug](indoor_location) fest, und niemand meldet sich
+      beim Notdienst
+    - Mein Mann ist im [Fahrstuhl](indoor_location) gefangen und die [Klingel](item)
+      macht nichts
+    - Der [Aufzug](indoor_location) steckt fest, und mein [Sohn](person) kann nicht
+      heraus kommen!

@@ -1,0 +1,30 @@
+de:
+  intent:
+    ticket.permit/ask_craftsman:
+    - '[Handwerker](person)'
+    - '[Anstreicher](person)'
+    - '[Maler](person)'
+    - '[Schlosser](person)'
+    - '[Fensterbauer](person)'
+    - '[Handwerker](person)'
+    - "[G\xE4rtner](person)"
+    - '[Tapezier](person) einbestellen'
+    - '[Strippenzieher](person) bestellen'
+    - '[Fachmann](person) gebraucht'
+    - '[Fliesenleger](person) muss kommen'
+    - Kann ein [Maler](person) sich das anschauen?
+    - "Ich brauche einen [Anstreicher](person) f\xFCr meine [Wohnung](indoor_location)"
+    - Ein [Glaser](person) sollte sich in meinen [Bad](indoor_location) umsehen
+    - "Der [G\xE4rtner](person) soll sich mal um die [Hecke](plant) k\xFCmmern"
+    - "Ich ben\xF6tige Hilfe vom [Hausmeister](person)"
+    - Kannst du mir einen [Anstreicher](person) hier hin schicken?
+    - "K\xF6nntets du mir vielleicht einen [Schreiner](person) vorbeischicken"
+    - "Kann ich einen [Tischler](person) f\xFCr meine [Wohnungst\xFCr](item) rufen?"
+    - "Ich brauche einen [Klempner](person) f\xFCr mein [Bad](indoor_location)"
+    - "Ich ben\xF6tige eine [Putze](person) f\xFCr meine [Bude](indoor_location)"
+    - "K\xF6nnen Sie mir einen [Schlosser](person) schicken?"
+    - Kann mal ein [Klempner](person) zu mir kommen
+    - "Ich br\xE4uchte hier mal einen [Dachdecker](person)"
+    - "Der [Schl\xFCsselnotdienst](person) muss mal hier hin kommen"
+    - Ein [Elektriker](person) soll mal bei mir vorbeischauen
+    - "Geben Sie bitte einen [Installateur](person) in Auftrag f\xFCr mich"

@@ -1,0 +1,61 @@
+de:
+  intent:
+    ticket.damage_report/doors_windows_locks.stuck:
+    - Tor klemmt
+    - '[Fenster](item) klemmt'
+    - "[K\xFCchenfenster](item) klemmt"
+    - "[T\xFCr](item) klemmt"
+    - "[Schlafzimmert\xFCre](item) verklemmt"
+    - klemmendes [Fenster](item)
+    - "[Balkont\xFCr](item) schlie\xDFt nicht"
+    - '[Gartenfenster](item) verzogen'
+    - '[Gartentor](item) geht nicht auf'
+    - "[T\xFCre](item) schliest nicht"
+    - '[Fenster](item) klappt nicht um'
+    - "Die [Wohnungseingangst\xFCr](item) ist verzogen"
+    - "Die [Hauseingangst\xFCr](item) klemmt"
+    - "Die [Kellert\xFCr](item) schlie\xDFt nicht richtig"
+    - "Mit der [Haust\xFCre](item) stimmt was nicht."
+    - "Briefkastent\xFCr geht nicht zu"
+    - "Ich krieg die [Haust\xFCre](item) nicht mehr gut zu."
+    - "Die [Wohnungst\xFCr](item) schlie\xDFt nur noch mit Gewalt."
+    - "Die [Haust\xFCr](item) l\xE4sst sich nur noch schwer schlie\xDFen."
+    - "Die [Haust\xFCre](item) ist aus den Angeln."
+    - Die [Briefkastenklappe](item) geht nicht mehr auf
+    - "Die [Badezimmert\xFCr](item) schlie\xDFt nicht mehr richtig"
+    - "Das [Klofenster](item) schlie\xDFt nicht"
+    - "Die [Haust\xFCr](item) hakt."
+    - "Die [Haust\xFCre](item) schleift beim Zumachen."
+    - "[Jemand](person) muss sich die [Haust\xFCre](item) mal anschauen."
+    - "Ich krieg die [T\xFCre](item) nich mehr richtig zu."
+    - "Die [T\xFCr](item) l\xE4sst sich nicht mehr richtig schlie\xDFen."
+    - "Die [Haust\xFCr](item) sollte sich mal jemand ansehen."
+    - "Die [Wohnungseingangst\xFCr](item) geht nur noch zu wenn ich Sie feste zuknalle."
+    - "Die [Haust\xFCr](item) geht nur zu, wenn man sie feste zuzieht."
+    - "Das [Fenster](item) im [Badezimmer](indoor_location) l\xE4sst sich nicht mehr\
+      \ kippen."
+    - "Das [Fenster](item) im [Wohnzimmer](indoor_location) f\xE4llt fast aus den\
+      \ Angeln."
+    - "Das [Fenster](item) im [Bad](indoor_location) m\xFCsste sich mal jemand anschauen."
+    - "Der [Hausmeister](person) m\xFCsste mein [Fenster](item) im [Badezimmer](indoor_location)\
+      \ mal reparieren."
+    - "Ich m\xF6chte einen Schaden an meinem [Badezimmerfenster](item) melden."
+    - "Das [Fenster](item) in der [K\xFCche](indoor_location) l\xE4sst sich nicht\
+      \ mehr richtig \xF6ffnen."
+    - Das [Fenster](item) auf dem [Klo](indoor_location) geht nicht mehr auf Kipp.
+    - "Die [Haust\xFCre](item) schlie\xDFt nicht mehr richtig."
+    - "Die [Haust\xFCr](item) geht nicht mehr zu."
+    - "Wer ist f\xFCr die [T\xFCren](item) zust\xE4ndig?"
+    - "Die [Haust\xFCr](item) riegelt nicht mehr richtig ab."
+    - Das [Kellerfenster](item) schliesst nicht richtig
+    - "Kann sich jemand um die kaputte [T\xFCr](item) k\xFCmmern?"
+    - "Jeder kann in unser Haus gelangen, weil die [Haust\xFCr](item) nicht richtig\
+      \ schlie\xDFt."
+    - "Meine [Schlafzimmert\xFCr](item) schleift auf dem [Laminat](surface)."
+    - "Mein [Fenster](item) vom [Wohnzimmer](indoor_location) l\xE4sst sich nur noch\
+      \ sehr schwer schlie\xDFen."
+    - Das [Wohnzimmerfenster](item) geht nicht mehr richtig zu
+    - "Das [K\xFCchenfenster](item) l\xE4sst sich nicht mehr auf Kipp einstellen"
+    - "Die [Briefk\xE4sten](item) quietschen beim \xD6ffnen und sollten ge\xF6lt werden!"
+    - Mein [Briefkasten](item) geht nicht mehr richtig zu.
+    - "Die [Absperrung](item) zu den M\xFCllcontainern ist aus den Angeln gerissen."

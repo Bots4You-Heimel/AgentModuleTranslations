@@ -1,0 +1,58 @@
+de:
+  intent:
+    ticket.complaint/parking:
+    - Wildparken
+    - Parkplatzklau
+    - Abschleppen
+    - '[Parkplatz](outdoor_location)'
+    - Stellplatzklau
+    - Versperrter [Parkplatz](outdoor_location)
+    - Besetzter [Parkplatz](outdoor_location)
+    - wildes Parken
+    - Zufahrt blockiert
+    - Auto zugeparkt
+    - '[Parkplatz](outdoor_location) ist besetzt.'
+    - '[Parkspot](outdoor_location) ist belegt.'
+    - '[Einfahrt](outdoor_location) wird zugestellt.'
+    - '[Parkstelle](outdoor_location) ist belegt.'
+    - Nachbarsauto wurde abgestellt.
+    - Stellplatz wurde geklaut
+    - Mein [Parkplatz](outdoor_location) wird schon wieder von anderen benutzt.
+    - Mein gemietetet [Parkplatz](outdoor_location) wird von anderen benutzt.
+    - Fremde benutzen meinen [Stellplatz](outdoor_location).
+    - Andere stellen meinen [Parkplatz](outdoor_location) zu.
+    - Da hat schon wieder jemand sein Auto auf meinem [Parkplatz](outdoor_location)
+      abgestellt.
+    - Mein gemieteter [Parkplatz](outdoor_location) ist seit 2 Tagen durch eine fremdes
+      [Fahrzeug](item) belegt.
+    - Schon wieder steht jemand auf meinem [Parkplatz](outdoor_location), das ist
+      eine Frechheit.
+    - "Mein Nachbar l\xE4sst seine G\xE4ste auf meinem [Parkplatz](outdoor_location)\
+      \ stehen."
+    - Immer wenn irgendwo gefeiert wird, blockieren fremde Leute meinen [Parkplatz](outdoor_location)
+    - Auf meinem gemieteten [Parkplatz](outdoor_location) steht schon wieder dasselbe
+      fremde Auto.
+    - Da hat schon wieder jemand sein [Auto](item) auf meinem [Parkplatz](outdoor_location)
+      abgestellt.
+    - "Ich m\xF6chte eine Fremdnutzung meines [Parkplatzes](outdoor_location) melden."
+    - "Ich m\xF6chte eine Beschwerde zu Wildparken aufgeben."
+    - Ich bin von Stellplatzklau betroffen.
+    - Meine Garage ist zugeparkt
+    - "Die [Bareksais](named_person) aus dem [Erdgescho\xDF](floor) haben mich schon\
+      \ zum vierten mal zugeparkt"
+    - Ich lasse die gleich abschleppen
+    - "[Herr M\xFCller](named_person) aus dem [1. Stock](floor) parkt dauernd vor\
+      \ meiner [Garage](outdoor_location)"
+    - Irgend welche Leute nehmen mir meinen [Parkplatz](outdoor_location) weg.
+    - Ich kann mein Auto nicht abstellen, weil ein anderer meinen [Parkplatz](outdoor_location)
+      benutzt.
+    - Ich musste weit vom Haus entfernt parken, weil jemand auf meinem [Parkplatz](outdoor_location)
+      stand.
+    - "Konnte meine Eink\xE4ufe nicht reintragen, weil mein [Parkplatz](outdoor_location)\
+      \ von Fremden belegt war."
+    - Es kann doch nicht sein, dass immer andere meinen gemieteten [Parkplatz](outdoor_location)
+      benutzen.
+    - "K\xFCmmert sich mal jemand dadrum, dass mein Stellplatz nicht immer von anderen\
+      \ benutzt wird."
+    - "K\xF6nnen Sie mir garantieren, dass mein Stellplatz von keinen anderen genutzt\
+      \ wird?"

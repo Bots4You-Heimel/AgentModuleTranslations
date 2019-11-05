@@ -1,0 +1,27 @@
+de:
+  intent:
+    ticket.damage_report/pavement:
+    - "[B\xFCrgersteig](outdoor_location)"
+    - '[Gehweg](outdoor_location)'
+    - Pflaster
+    - Pfalstersteine
+    - Gehwegplatten
+    - '[Gehwegplatte](outdoor_location) uneben'
+    - Das Pfalster [in der Einfahrt](outdoor_location) senkt sich
+    - "[Seitenstreifen](outdoor_location) besch\xE4digt"
+    - Die [Gehwegplatten](outdoor_location) kommen hoch
+    - Der Weg [vor dem Haus](outdoor_location) ist uneben.
+    - "Die Platten des [Gehwegs](outdoor_location) l\xF6sen sich."
+    - Da sind ein paar Steine vom [Gehweg](outdoor_location) locker.
+    - "Ein paar Platten haben sich bei dem Weg [hinterm Haus](outdoor_location) gel\xF6\
+      st."
+    - Die [Gehwegplatten](outdoor_location) sind locker.
+    - Einige Platten [vor dem Haus](outdoor_location) haben sich gelockert.
+    - "Der [Gehweg](outdoor_location) m\xFCsste mal neu gemacht werden."
+    - "Bitte schicken Sie jemanden, der sich um den [Gehweg](outdoor_location) k\xFC\
+      mmert."
+    - Die [Gehwegplatten](outdoor_location) kommen hoch.
+    - "Die [Fu\xDFwegplatten](outdoor_location) wackeln sehr stark"
+    - "Die Steinplatten vom [B\xFCrgersteig](outdoor_location) sind nicht alle gerade"
+    - Die Terassenplatten sind gebrochen
+    - Das Pflaster auf meiner [Terasse](outdoor_location) wackelt

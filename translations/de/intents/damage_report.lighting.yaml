@@ -1,0 +1,69 @@
+de:
+  intent:
+    ticket.damage_report/lighting:
+    - '[Leuchtmittel](appliance)'
+    - '[Beleuchtung](appliance)'
+    - '[Licht](appliance)'
+    - '[Treppenhauslicht](appliance)'
+    - Birnentausch
+    - "[Gl\xFChbirne](appliance) Tausch"
+    - "neue [Neonr\xF6hren](appliance)"
+    - '[Lampe](appliance) auswecheln'
+    - '[Licht](appliance) geht nicht'
+    - '[Lampe](appliance) ist ausgefallen'
+    - '[Licht](appliance) geht nicht'
+    - "flickernde [Neonr\xF6hren](appliance)!"
+    - "[Leuchtr\xF6hre](appliance) flackert"
+    - Der [Lichtschalter](item) ist nicht mehr ganz
+    - "[Stra\xDFenlaterne](appliance) dunkel"
+    - '[Beleuchtung](appliance) bleibt dunkel!'
+    - "Das [Licht](appliance) [an der Eingangst\xFCr](outdoor_location) ist defekt."
+    - '[Vorm Haus](outdoor_location) flackert das [Licht](appliance).'
+    - "Das [Licht](appliance) [an der Haust\xFCr](outdoor_location) geht nicht mehr\
+      \ an."
+    - die [Lampe](appliance) [am Hauseingang](outdoor_location) muss gewechselt werden
+    - "Das [Licht](appliance) [drau\xDFen](outdoor_location) [am Haus](outdoor_location)\
+      \ flackert."
+    - "Die [Au\xDFenbeleuchtung](appliance) geht nicht mehr."
+    - "[Au\xDFen](outdoor_location) [am Haus](outdoor_location) ist die [Beleuchtung](appliance)\
+      \ nicht mehr intakt."
+    - "Die [Lampe](appliance) [an der Haust\xFCr](outdoor_location) geht nicht mehr\
+      \ an."
+    - "Das [Licht](appliance) [an der Haust\xFCr](outdoor_location) ist defekt."
+    - Die [Lampe](appliance) [im Eingangsbereich](outdoor_location) ist durchgebrannt.
+    - "Die [Gl\xFChbirne](appliance) in der [Au\xDFenbeleuchtung](appliance) muss\
+      \ gewechselt werden"
+    - "[\xDCber der Hauseingangst\xFCr](outdoor_location) ist die [Lampe](appliance)\
+      \ dunkel"
+    - "Das [Licht](appliance) der [Haust\xFCrlampe](appliance) wird schw\xE4cher"
+    - Im [Keller](indoor_location) flackert das [Licht](appliance)
+    - "Jemand hat alle [Gl\xFChbirnen](appliance) im [Flur](indoor_location) geklaut"
+    - Die [Birnen](appliance) im [Treppenhaus](indoor_location) sind gestohlen worden!
+    - "Die [Beleuchtung](appliance) [vorm Eingangsbereich](outdoor_location) schw\xE4\
+      chelt"
+    - '[Am Eingang](outdoor_location) hat die [Lampe](appliance) einen Wackelkontakt'
+    - Im [Aufzug](indoor_location) flackert das [Licht](appliance)
+    - Das [Licht](appliance) im [Fahrstuhl](indoor_location) geht nicht.
+    - Im [Personenaufzug](indoor_location) geht das [Licht](appliance) nicht mehr
+      an.
+    - Die [Lampe](appliance) im [Personenfahrstuhl](indoor_location) ist kaputt.
+    - Die [Lampe](appliance) in der [Fahrstuhlanlage](indoor_location) ist durchgebrannt.
+    - Die [Beleuchtung](appliance) im [Fahrstuhl](indoor_location) ist ausgefallen.
+    - Im [Aufzug](indoor_location) funktioniert die [Lampe](appliance) nicht mehr.
+    - Die [Beleuchtung](appliance) im [Fahrstuhl](indoor_location) muss dringend repariert
+      werden
+    - Bitte tauschen Sie die kaputte [Leuchte](appliance) im [Aufzug](indoor_location).
+    - Die [Lampe](appliance) im [Fahrstuhl](indoor_location) flackert nur noch.
+    - Es ist dunkel im [Aufzug](indoor_location)
+    - Die [Leuchte](appliance) wird nicht hell
+    - Im [Keller](indoor_location) flackert das [Licht](appliance).
+    - Auf der [Kellertreppe](indoor_location) geht das [Licht](appliance) nicht mehr
+      an.
+    - "Die [Lampe](appliance) im [Flur](indoor_location) m\xFCsste dringend ersetzt\
+      \ werden."
+    - Bitte tauschen Sie die [Beleuchtung](appliance) im [Treppenhaus](indoor_location)
+      aus.
+    - "Im [Flur](indoor_location) geht das [Licht](appliance) nicht mehr an, bitte\
+      \ wechseln Sie die [Leuchtr\xF6hre](appliance) aus."
+    - "Das [Licht](appliance) im [Treppenhaus](indoor_location) flackert, das ist\
+      \ gef\xE4hrlich."

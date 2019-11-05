@@ -1,0 +1,40 @@
+de:
+  intent:
+    ticket.damage_report/moisture_mold_with_rent_reduction:
+    - Mietminderung [Schimmel](mess)
+    - Schimmelbefall Mietminderung
+    - Mietreduzierung [Schimmel](mess)
+    - "Mietk\xFCrzung [Schimmel](mess)"
+    - Mietminderung wegen Schimmelbefall.
+    - Miete reduzieren Schimmelpilz
+    - Schwarzer [Schimmel](mess) Mietreduktion
+    - "Mietzur\xFCckbehalt wegen [Schimmel](mess)"
+    - Ich werde meine Miete mindern wegen Schimmel.
+    - "Ich m\xF6chte meine Miete wegen Schimmelbefall mindern."
+    - Ich habe [Schimmel](mess) und werde daher meine Miete einbehalten.
+    - "Bei mir ist [Schimmel](mess) und ich werde meine Mietzahlung k\xFCrzen."
+    - Ich zahle solange keine Miete bis der [Schimmel](mess) weg ist.
+    - "Ich werde meine Miete nur H\xE4lfte zahlen, da der [Schimmel](mess) immer noch\
+      \ da ist."
+    - Miete reduzieren wegen scharzen [Schimmelflecken](mess)
+    - "Ich k\xFCrze meine Miete weil ich [Schimmel](mess) habe."
+    - Wohnung Schimmelig - Mietminderung
+    - '[Schimmelflecken](mess) im [Badezimmer](indoor_location). Mietminderung.'
+    - "Kann ich meine Miete k\xFCrzen bei Schimmelbefall?"
+    - "Ich m\xF6chte meine Mietzahlung einbehalten, weil ich immer noch [Schimmel](mess)\
+      \ in der [Wohnung](indoor_location) habe."
+    - "Trotz inzwischen zweimaliger Erinnerung wurde bisher nichts gegen den [Schimmel](mess)\
+      \ in der [K\xFCche](indoor_location) unternommen. Ich werde die Miete mindern."
+    - Wann kommt endlich jemand wegen der [Schimmelflecken](mess) in meiner Wohnung?
+      Wenn es so weiter geht, muss ich die Miete mindern.
+    - "Ich warte jetzt seit Wochen, dass sich jemand um die [Schimmelflecken](mess)\
+      \ k\xFCmmert. Jetzt werde ich die Miete reduzieren."
+    - Es kann nicht sein, dass Sie immer noch niemanden wegen der [Schimmelflecken](mess)
+      geschickt haben. Ich mindere die Miete.
+    - Da Sie immer noch keine Hilfe wegen der [Schimmelflecken](mess) geschickt haben,
+      werde ich ab jetzt weniger Miete zahlen.
+    - Meine [Wohnung](indoor_location) ist untragbar wegen des Schimmelbefalls. Ich
+      mindere ab sofort die Miete.
+    - "Ich habe Ihnen schon zweimal geschrieben wegen der Schimmelprobleme in meiner\
+      \ [Wohnung](indoor_location). Jetzt reduziere ich die Miete, vielleicht k\xFC\
+      mmert sich dann mal jemand darum."

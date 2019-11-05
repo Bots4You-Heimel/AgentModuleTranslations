@@ -1,0 +1,40 @@
+de:
+  intent:
+    ticket.permit/electrics.installation_renewal:
+    - '[Kabelanschluss](appliance)'
+    - '[Steckdose](appliance)'
+    - '[Telefondose](appliance)'
+    - Telefonkabel
+    - Stromkabel
+    - '[Kabel](item) verlegen'
+    - neue [Stromdose](appliance)
+    - Neuer Starkstromanschluss
+    - Anschluss [Ladeterminal](appliance) Auto
+    - E-Auto [Ladedose](appliance) einbauen
+    - Einbau [FI-Schalter](appliance)
+    - Einbau [Backofen](appliance)
+    - "[Telefon](item) anschlie\xDFen"
+    - Internetkabel verlegen
+    - Verlegen Stromkabel
+    - Anschluss [Ofen](appliance)
+    - Anschluss [Herdplatte](appliance)
+    - Kabel Internet einbau
+    - Kann ich einen [Kabelanschluss](appliance) bekommen
+    - Neuer [Stromanschluss](appliance)
+    - "Ich ben\xF6tige f\xFCr meinen [Herd](appliance) einen [Elektroanschluss](appliance)."
+    - "Wer kann mir meinen [Elektroherd](appliance) anschlie\xDFen?"
+    - Ich brauche eine neue [Steckdose](appliance)!
+    - "Ich habe einen neuen [E-Herd](appliance) gekauft und m\xF6chte den anschlie\xDF\
+      en lassen."
+    - "K\xF6nnen Sie mir jemanden schicken, der meinen [Herd](appliance) anschlie\xDF\
+      t?"
+    - "Ich w\xFCrde meinen [Herd](appliance) gerne anschlie\xDFen lassen."
+    - Mein [Herd](appliance) ist noch nicht ans Stromnetz angeschlossen.
+    - Kann mir jemand eine neue [Internetdose](appliance) verlegen
+    - Ich brauche in meiner [Garage](outdoor_location) eine [Steckdose](appliance)
+    - Kann ich Strom im [Garten](outdoor_location) bekommen?
+    - Kann mir jemand eine neue [Steckdoes](appliance) im [Schlafzimmer](indoor_location)
+      einbauen?
+    - "Ich m\xF6chte gerne ein Lankabel verlegt haben"
+    - "Der [Herd](appliance) in meiner [Einbauk\xFCche](indoor_location) ist immer\
+      \ noch nicht angeschlossen."

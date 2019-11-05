@@ -1,0 +1,40 @@
+de:
+  intent:
+    ticket.damage_report/surface_damage:
+    - "Bodenbesch\xE4digung"
+    - Fliesenschaden
+    - Schaden [Fliesen](surface)!
+    - "Besch\xE4digung [Bodenbelag](surface)."
+    - Kaputter [Boden](surface)
+    - "Besch\xE4digter [Boden](surface)"
+    - aufgequollener [Boden](surface)
+    - Tausch [Fliesen](surface)
+    - '[Badezimmerfliesen](surface) gebrochen'
+    - '[Fliesenbelag](surface) ist kaputt'
+    - '[Parkettboden](surface) ist zerkratzt'
+    - "Der [Boden](surface) im Flur l\xF6st sich"
+    - "Eine [Kachel](surface) an der [K\xFCchenwand](surface) hat sich gel\xF6st"
+    - Der [Parkettboden](surface) quillt auf.
+    - Mein [Parkett](surface) ist verquollen.
+    - "Das [Parkett](surface) in meinem [Esszimmer](indoor_location) ist besch\xE4\
+      digt."
+    - Das [Parkett](surface) im [Wohnzimmer](indoor_location) quillt auf.
+    - Mein [Parkettboden](surface) ist verkratzt.
+    - Ich habe einen Wasserschaden am [Parkett](surface).
+    - "Das [Parkett](surface) ist ziemlich l\xE4diert."
+    - "In meiner [Wohnung](indoor_location) ist das [Parkett](surface) besch\xE4digt."
+    - "Jemand m\xFCsste mal das [Parkett](surface) in meiner Wohnung ausbessern."
+    - "Der [PVC](surface) Boden l\xF6st sich!"
+    - "Der [PVC-Boden](surface) hat sich abgel\xF6st."
+    - "In meiner Wohnung l\xF6st sich der [PVC-Boden](surface)."
+    - "Der [PVC-Boden](surface) in meiner [Wohnung](indoor_location) m\xFCsste ausgebessert\
+      \ werden."
+    - "Kann jemand sich um meinen [PVC-Boden](surface) k\xFCmmern kann?"
+    - Der [PVC-Boden](surface) in meiner [Wohnung](indoor_location) ist nicht mehr
+      intakt.
+    - "In meiner [K\xFCche](indoor_location) l\xF6st sich der [PVC-Boden](surface)"
+    - Der [PVC](surface) Boden ist lose und wellt sich.
+    - In meiner Wohnung geht der [PVC-Boden](surface) ab.
+    - Der [PVC-Boden](surface) beginnt sich zu lockern.
+    - Wir haben einen Wasserschaden an unserem [Laminatboden](surface).
+    - Mir ist eine [Fliese](surface) in der [Dusche](sanitary_item)

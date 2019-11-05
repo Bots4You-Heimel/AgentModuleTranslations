@@ -1,0 +1,58 @@
+de:
+  intent:
+    ticket.damage_report/outdoor_environment.playground_care:
+    - Spielplatzgefahr
+    - "[Spielger\xE4te](item)"
+    - '[Sandkasten](item)'
+    - '[Schaukel](item)'
+    - '[Kinderspielplatz](outdoor_location) [verdreckt](mess)'
+    - Gefahrenstelle [Spielplatz](outdoor_location)
+    - '[Spielplatz](outdoor_location) [verschmutzt](mess)'
+    - '[Schaukel](item) fehlt'
+    - "[H\xE4ngeschaukel](item) kaputt"
+    - '[Spielplatz](outdoor_location) unbetretbar'
+    - "[Spielplatz](outdoor_location) liegt [M\xFCll](mess)"
+    - '[Spielplatz](outdoor_location) sind [Scherben](mess)'
+    - Am [Spielplatz](outdoor_location) liegen [Glasflaschen](mess) rum.
+    - Der [Spielplatz](outdoor_location) ist voll mit [Bierflaschen](mess)
+    - "Jemand m\xFCsste mal nach dem [Spielplatz](outdoor_location) schauen."
+    - "Am [Kinderspielplatz](outdoor_location) liegt der [M\xFCll](mess) von [Jugendlichen](person)\
+      \ rum."
+    - Im [Spielplatzsand](outdoor_location) bei uns liegen [Schnapsflaschen](mess).
+    - "Die [Kinder](person) k\xF6nnen nicht mehr am [Spielspielz](outdoor_location)\
+      \ spielen."
+    - "Man kann sein [Kind](person) nicht auf den [Spielplatz](outdoor_location) lassen\
+      \ wegen des [M\xFClls](mess)."
+    - Am [Spielplatz](outdoor_location) wurden [Spritzen](mess) gefunden.
+    - Bei uns am [Spielplatz](outdoor_location) liegen noch die [Reste](mess) von
+      der Party gestern abend.
+    - "Die [M\xFClleimer](item) am [Spielplatz](outdoor_location) laufen \xFCber."
+    - Jemand muss die [Glasflaschen](mess) am [Spielplatz](outdoor_location) beseitigen.
+    - Im Sand des [Spielplatzes](outdoor_location) sind [Glasscherben](mess)
+    - "Da sind [Scherben](mess) auf dem [Spielplatz](outdoor_location), die m\xFC\
+      ssen dringend entfernt werden."
+    - '[Jemand](person) muss unbedingt die [Scherben](mess) auf dem [Spielplatz](outdoor_location)
+      wegmachen, Verletzungsgefahr!'
+    - Meine [Kinder](person) haben [Scherben](mess) im [Sandkasten](item) auf dem
+      [Spielplatz](outdoor_location) gefunden.
+    - "Bitte lassen Sie die [Glasscherben](mess) am [Spielplatzgel\xE4nde](outdoor_location)\
+      \ entfernen."
+    - "Die [Kinder](person) von [Frau Gabriel](named_person) haben das [Kletterger\xFC\
+      st](item) besch\xE4digt!"
+    - Auf dem [Spielplatz](outdoor_location) liegen [Glasscherben](mess), die sollten
+      schnell entfernt werden!
+    - "K\xF6nnen Sie bitte jemanden die [Scherben](mess) auf dem [Spielplatz](outdoor_location)\
+      \ entfernen lassen, bevor sich jemand verletzt?"
+    - "Wir haben auf dem [Spielplatz](outdoor_location) [Scherben](mess) im Sand gefunden.\
+      \ Die m\xFCssen bitte so schnell wie m\xF6glich entfernt werden."
+    - "Auf dem [Spielplatz](outdoor_location) liegt [M\xFCll](mess)."
+    - "Es liegt [M\xFCll](mess) auf dem [Spielplatz](outdoor_location) herum."
+    - Jemand sollte den [Abfall](mess) auf dem [Spielplatz](outdoor_location) entsorgen.
+    - "K\xF6nnen Sie bitte jemanden schicken, der sich um den [M\xFCll](mess) auf\
+      \ dem [Spielplatz](outdoor_location) k\xFCmmert?"
+    - "Bitte gucken Sie mal nach dem [Spielplatz](outdoor_location), da liegt \xFC\
+      berall [Abfall](mess) herum."
+    - "Dauernd lassen Leute ihren [M\xFCll](mess) bei der [Bank](item) auf dem [Spielplatz](outdoor_location)\
+      \ liegen, heute auch schon wieder."
+    - Es liegt wieder [Abfall](mess) beim [Spielplatz](outdoor_location) herum.
+    - "Kann jemand den [M\xFCll](mess) am [Spielplatz](outdoor_location) entsorgen?"
