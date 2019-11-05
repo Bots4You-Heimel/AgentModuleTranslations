@@ -1,0 +1,56 @@
+fr:
+  ClothesDryer:
+  - sèche-linge
+  - sèche-linge
+  - sèche-linge
+  WashingMachine:
+  - machine à laver
+  - lave-linge
+  - trambour à linge
+  - trambour à linge
+  - trambour à linge
+  ElectricalOven:
+  - four
+  - four
+  - four
+  - four à pizza
+  - tube du four
+  GasOven:
+  - four à gaz
+  GasCooktop:
+  - cuisinière à gaz
+  - cuisinière à gaz
+  ElectricCooktop:
+  - table de cuisson en vitrocéramique
+  - table de cuisson
+  - plaque chauffante, plaque de cuisson
+  - cuisinière
+  - plaque chauffante, plaque de cuisson
+  CircuitBreaker:
+  - boîte à fusibles
+  - fusible
+  - boîte de distribution
+  - boîte à fusibles
+  - distributeur courant
+  - armoire électronique, borne électrique, coffre électronique
+  - armoire de comptage, boîte du compteur
+  - boîte du compteur
+  Meter:
+  - compteur
+  - couteau
+  ElectricMeter:
+  - "compteur d'électricité, compteur électrique"
+  - "compteur d'électricité, compteur électrique"
+  - "compteur d'électricité, compteur électrique"
+  - "compteur d'électricité, compteur électrique"
+  GasMeter:
+  - compteur gaz, compteur de gaz
+  - compteur gaz, compteur de gaz
+  - compteur gaz, compteur de gaz
+  - compteur gaz, compteur de gaz
+  WaterMeter:
+  - débitmètre, capteur de débit, détecteur de débit
+  - "compteur d'eau"
+  - "compteur d'eau"
+  - "compteur d'eau, débitmètre d'eau, débitmètre eau"
+  - "compteur d'eau, débitmètre d'eau, débitmètre eau"
