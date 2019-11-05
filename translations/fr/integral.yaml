@@ -1,0 +1,141 @@
+fr:
+  Bathtub:
+  - baignoire
+  - baignoire en zinc
+  - se baigner
+  - salle de bain
+  CentralHeating:
+  - ingénierie thermique, technologie thermique
+  - chauffage central
+  - système de chauffage
+  - échangeur de chaleur, échangeur thermique
+  - chaudière
+  - pompe de circulation
+  - "réservoir d'eau chaude, accumulateur d'eau chaude, stockage d'eau chaude"
+  - chaudière
+  - pompe de chaleur
+  - accumulateur de chaleur, accumulateur thermique, réservoir de chaleur, réservoir thermique
+  GasCentralHeating:
+  - chauffage central au gaz
+  - chauffage au gaz
+  OilCentralHeating:
+  - chauffage central à mazout
+  - chauffage au mazout
+  - therme au mazout
+  GasStove:
+  - chaudière à gaz
+  - chauffage au gaz
+  - chauffage central au gaz
+  Fireplace:
+  - cheminée
+  - foyer
+  - cheminée, foyer, poêle à bois
+  Oven:
+  - four
+  SolidsStove:
+  - poêle à bois
+  - poêle de faïence
+  - four à charbon
+  - four de fer, poêle de fer
+  ElectricalStove:
+  - radiateur soufflant
+  - radiateur à accumulation
+  Radiator:
+  - radiateur
+  - chauffage au sol, chauffage de sol, plancher chauffant
+  - thermostat
+  - vanne thermostatique
+  - thermostat de radiateur
+  - thermostat de chauffage
+  WaterDrain:
+  - écoulement
+  Faucet:
+  - "approvisonnement en eau, alimentation en eau, distribution d'eau, fourniture\
+    \ en eau"
+  - robinet
+  - armature
+  - grue à eau
+  - buse mélangeuse
+  - mitigeur, mitigeur sanitaire, mélangeur, robinet mélangeur
+  - robinet sanitaire mélangeur, robinet mélangeur, robinet mitigeur
+  - "distributeur d'eau"
+  - mitigeur sanitaire à levier unique, mitigeur mono
+  - mélangeur, mitigeur
+  - "mitigeur d'eau"
+  Mailbox:
+  - boîte aux lettres, boîte à lettres
+  - volet de la boîte aux lettres, volet de la boîte à lettres
+  - boîte postale
+  - fente de la boîte à lettres
+  - fente pour les journaux
+  - boîte aux lettres, boîte à lettres
+  Shower:
+  - douche
+  - douchette
+  - douchette
+  - doucher
+  - doucher
+  ShowerCabinet:
+  - cabine de douche
+  - cabinet de toilette
+  - rideau de douche
+  - douche
+  - cloison de douche, paroi de douche
+  - douche arrondie, douche ronde
+  - porte de douche
+  Sink:
+  - lavabo, table toilette
+  - siphon
+  - siphon
+  - évier
+  - lavabo
+  - goulotte, décharge
+  - évier, lavabo
+  - vasque de lavabo
+  Toilet:
+  - toilette
+  - chiottes
+  - latrines
+  - toilette
+  - urinoir
+  - chiottes
+  - petit coin, petit coin tranquille
+  - cuvette des toilettes, cuvette de WC
+  - WC
+  - toilettes
+  - "chasse d'eau"
+  - "chasse d'eau"
+  - "chasse d'eau"
+  - toilettes
+  Bidet:
+  - bidet
+  Flowheater:
+  - chauffe-eau instantané
+  VisitorReception:
+  - accueil des visiteurs, acceuil visiteur
+  Doorbell:
+  - "sonnette d'entrée"
+  - sonnette
+  - sonnette
+  - heurtoir, marteau
+  - système de sonnette
+  - bouton de sonnette
+  - sonnette de porte
+  - sonnette de porte
+  - carillon de porte
+  - clochette
+  DoorOpener:
+  - "touche d'ouverture automatique"
+  - ouvre-porte
+  Intercom:
+  - interphone
+  - interphone
+  - interphone
+  - interphone
+  - interphone
+  - interphone
+  - interphone
+  - interphone
+  - interphone
+  - interphone
+  - interphone
