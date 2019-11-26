@@ -2,54 +2,48 @@ de:
   intent:
     ticket.complaint/animals.pest:
     - Ungeziefer
-    - "Sch\xE4dlinge"
+    - Schädlinge
     - Ungezieferbefall
     - Ungeziefer entdeckt
     - '[Ratten](animal) entdeckt'
     - '[Wespennest](animal) entfernen'
-    - "Sch\xE4dlinge beseitigen"
-    - "\xDCberall [Kakerlaken](animal:Kakerlake)"
-    - "[drau\xDFen](outdoor_location) sind [Ratten](animal)"
-    - "[M\xE4use](animal) [im Keller](indoor_location)"
+    - Schädlinge beseitigen
+    - Überall [Kakerlaken](animal:Kakerlake)
+    - '[draußen](outdoor_location) sind [Ratten](animal)'
+    - '[Mäuse](animal) [im Keller](indoor_location)'
     - Da sind [Kakerlaken](animal:Kakerlake).
     - Ich habe eine [Ratte](animal) gesehen.
     - Ich habe [Silberfische](animal) [in meiner Wohnung](indoor_location)
     - Ich habe [Kakerlaken](animal) gesehen!
     - '[Im Dachgiebel](indoor_location) ist ein [Wespennest](animal).'
-    - '[Hinter der Dachrinne](outdoor_location) ist [Wespennest](animal).'
-    - "Da sind [M\xE4use](animal) [im Keller](indoor_location)."
-    - "Wir m\xFCssen M\xE4usefallen aufstellen."
+    - '[Hinter der Dachrinne](outdoor_location) ist ein [Wespennest](animal).'
+    - Da sind [Mäuse](animal) [im Keller](indoor_location).
+    - Wir müssen Mäusefallen aufstellen.
     - Ich habe eine [Ratte](animal) gesehen
-    - "Bitte schicken Sie den [Kammerj\xE4ger](person)."
+    - Bitte schicken Sie den [Kammerjäger](person).
     - '[Am Haus](outdoor_location) ist ein [Wespennest](animal).'
-    - "[Drau\xDFen](outdoor_location) habe ich [Ratten](animal) gesehen."
-    - Hilfe! Ich habe ein [Wespennest](animal) [auf dem Trocknerboden](indoor_location)
-      entdeckt.
+    - '[Draußen](outdoor_location) habe ich [Ratten](animal) gesehen.'
+    - Hilfe! Ich habe ein [Wespennest](animal) [auf dem Trocknerboden](indoor_location) entdeckt.
     - '[Auf dem Dachboden](indoor_location) ist ein [Tier](animal).'
-    - "K\xF6nnen Sie etwas gegen die [Silberfische](animal) tun?"
-    - "Das [Wespennest](animal) [auf dem Dachboden](indoor_location) m\xFCsste entfernt\
-      \ werden."
-    - "Ich m\xF6chte eine [Wespennest](animal) melden."
-    - "Sie m\xFCssen den Kammerj\xE4ger rufen. Da ist ein [Wespennest](animal) [am\
-      \ Haus](outdoor_location)."
+    - Können Sie etwas gegen die [Silberfische](animal) tun?
+    - Das [Wespennest](animal) [auf dem Dachboden](indoor_location) müsste entfernt werden.
+    - Ich möchte eine [Wespennest](animal) melden.
+    - Sie müssen den [Kammerjäger](person) rufen. Da ist ein [Wespennest](animal) [am Haus](outdoor_location).
     - '[Im Garten](outdoor_location) ist ein [Wespennest](animal) im Boden.'
     - '[An der Hauswand](outdoor_location) ist oben ein [Wespennest](animal).'
     - Ich glaube, da sind [Ratten](animal:Ratte) [im Garten](outdoor_location).
     - Mein [Nachbar](person) hat [Schaben](animal) [in seiner Wohnung](indoor_location).
     - Hier sind zu viele [Spinnen](animal), ich habe Angst.
-    - "Ich habe [Ameisen](animal) [in der K\xFCche](indoor_location)."
-    - "[In meiner Wohnung](indoor_location) sind [K\xFCchenschaben](animal)! Ich brauche\
-      \ Hilfe."
-    - "Ich ekele mich \xFCberhaupt heraus zu gehen, weil da [Spinnen](animal) [im\
-      \ Hausflur](indoor_location) h\xE4ngen. Die muss jemand wegmachen."
+    - Ich habe [Ameisen](animal) [in der Küche](indoor_location).
+    - '[In meiner Wohnung](indoor_location) sind [Küchenschaben](animal)! Ich brauche
+      Hilfe.'
+    - Ich ekele mich überhaupt heraus zu gehen, weil da [Spinnen](animal) [im Hausflur](indoor_location) hängen. Die muss jemand wegmachen.
     - Ich glaube, ich habe [Bettwanzen](animal).
     - Wie kriege ich die [Ameisen](animal) [aus meiner Wohnung](indoor_location)?
     - Da ist ein [Ameisenhaufen](animal) im Garten.
-    - "Der [Garten](indoor_location) ist voll von [Maulwurfsh\xFCgeln](animal)"
-    - Was kann ich gegen den [Maulwurf](animal) [hinter dem Haus](outdoor_location)
-      tun?
-    - "Ich bin mir sicher, dass da [M\xE4use](animal) [im Keller](indoor_location)\
-      \ sind."
-    - "Ich habe [Kot](mess) von [M\xE4usen](animal) gefunden."
-    - "Ich habe [M\xE4usekot](mess) [hinter der Eingangst\xFCr](indoor_location) gefunden."
+    - Der [Garten](outdoor_location) ist voll von [Maulwurfshügeln](animal)
+    - Was kann ich gegen den [Maulwurf](animal) [hinter dem Haus](outdoor_location) tun?
+    - Ich bin mir sicher, dass da [Mäuse](animal) [im Keller](indoor_location) sind.
+    - Ich habe [Kot](mess) von [Mäusen](animal) gefunden.
+    - Ich habe [Mäusekot](mess) [hinter der Eingangstür](indoor_location) gefunden.
     - Vor den vielen [Hornissen](animal) hier habe ich Angst.

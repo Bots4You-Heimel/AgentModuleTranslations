@@ -1,0 +1,32 @@
+fr:
+  Plant:
+  - plante
+  - "plante d'intérieur"
+  - plantation
+  - vert
+  - buisson
+  - buissons
+  - mauvaise herbe
+  - arbuste
+  - buissons
+  Hedge:
+  - haie
+  - rangée de buissons
+  Lawn:
+  - herbe
+  - prairie
+  - gazon
+  - pelouse
+  - espace vert
+  Trees:
+  - arbre
+  - arbre fruitier
+  - sapin
+  - épicéa
+  - chêne
+  - bouleau
+  - châtaignier
+  - résineux, conifère
+  - abre feuillu
+  - érable
+  - hêtre

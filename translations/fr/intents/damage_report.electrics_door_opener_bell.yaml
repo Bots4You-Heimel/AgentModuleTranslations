@@ -1,0 +1,25 @@
+fr:
+  intent:
+    ticket.damage_report/electrics.door_opener_bell:
+    - '[sonnette](item)'
+    - '[sonnette](item)'
+    - '[système de sonnette](item)'
+    - '[interphone](item)'
+    - '[interphone](item)'
+    - '[interphone](item)'
+    - '[carillon de porte](item)'
+    - '[sonnette](item) cassée'
+    - '[sonnette](item) cassée'
+    - "[sonnette](item) de [l'entrée](outdoor_location) defectueux"
+    - "Je n'entends plus personne à [l'interphone](item)"
+    - Le [carillon de porte](item) ne carillonne pas.
+    - La [sonnette](item) ne sonne pas
+    - "Je ne peux plus ouvrir la [porte](item) en utilisant [l'interrupteur de porte](item)"
+    - "La [porte d'entrée](item) ne se laisse pas ouvrir avec [l'ouvre-porte](item)"
+    - "Je ne peux plus ouvrir la [porte d'entrée](item) depuis mon [appartement](indoor_location)."
+    - La [sonnette](item) fait des bruits bizarres.
+    - "[L'ouvre-porte] ne marche plus."
+    - "[L'interphone](item) ne fais plus rien"
+    - "Je n'entends plus rien au combiné, si quelqu'un est [devant l'entrée](outdoor_location)"
+    - "Rien ne sort de [l'interphone](appliance)"
+    - La [sonnette](item) ne fonctionne plus

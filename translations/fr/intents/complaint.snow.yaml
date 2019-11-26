@@ -1,0 +1,29 @@
+fr:
+  intent:
+    ticket.complaint/snow:
+    - '[neige](mess) '
+    - sel, sel de déneigement
+    - devoir de déblayer la neige, obligation de déblayer la neige
+    - obligation de saler
+    - plan de déneigement
+    - 'pelleter la [neige](mess) '
+    - 'pelleter la [neige](mess) , déblayer la [neige](mess) '
+    - saler, épandre du sel
+    - Le [voisn](person) ne sale pas
+    - "La [neige](mess)  n'est pas déblayée"
+    - Le [voisin](person) ne respecte pas son devoir de déneigement
+    - "La [neige](mess)  n'a pas été déblayée"
+    - Les chemins sont glissants
+    - Je viens de glisser sur le chemin
+    - '[Monsieur Hiver](named person) ne respecte pas le devoir de saler.'
+    - Il y a des mètres de [neige](mess)  sur le chemin des poubelles
+    - '[Neige](mess)  et [glace](mess)  couvrent les chemins'
+    - '[Madame Bováry](named person) ne respecte pas le plan de déneigement'
+    - "Notre [vosine](person) n'a pas épandu suffisamment de sel."
+    - "À nouveau, [Monsieur Hugo](named person) n'a pas salé les chemins."
+    - "[Madame Pierre](named person) ne s'occupe pas de la [neige](mess)  [devant\
+      \ la maison](outdoor-location)."
+    - "Encore une fois, le [trottoir](outdoor_location)  n'était pas salé."
+    - "Tout simplement, notre [Monsieur Debussy](named person) ne déblaye pas la [neige](mess)\
+      \  [devant la porte d'entrée](outdoor_location) "
+    - Il y a tellement de [neige](mess)  sur les chemins [de la maison](outdoor_location)

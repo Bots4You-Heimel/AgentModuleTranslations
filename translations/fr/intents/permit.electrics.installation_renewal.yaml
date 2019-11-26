@@ -1,0 +1,39 @@
+fr:
+  intent:
+    ticket.permit/electrics.installation_renewal:
+    - '[accès au réseau câblé](appliance)'
+    - '[prise](appliance), [prise de courant](appliance)'
+    - '[prise de téléphone](appliance)'
+    - câble téléphonique
+    - "câble électrique, câble d'alimentation électrique"
+    - poser un [câble](item)
+    - nouvelle [prise](appliance)
+    - nouveau raccordement à courant fort
+    - raccordement [borne de recharge](appliance)
+    - installer [borne de recharge](appliance) voiture électrique
+    - 'installation [disjoncteur différentiel](appliance) '
+    - installation [four](appliance)
+    - brancher [téléphone](item)
+    - poser câble internet
+    - poser câble électrique
+    - raccordement [four](appliance)
+    - raccordement [plaque de cuisson](appliance)
+    - 'installation nouveau câble internet '
+    - Puis-je être câblé ?
+    - nouveau [raccordement électrique](appliance)
+    - "J'ai besoin d'un [raccordement électrique](appliance) pour ma [cuisinière](appliance)."
+    - Qui peut me raccorder ma [cuisinière électrique](appliance) ?
+    - "J'ai besoin d'une nouvelle [prise](appliance) !"
+    - "J'ai acheté une nouvelle [cusinière électrique](appliance) et je voudrais laisser\
+      \ le brancher."
+    - "Pouvez-vous m'envoyer quelqu'un qui branche ma [cuisinière](appliance) ?"
+    - Je voudrais laisser brancher ma [cuisinière](appliance).
+    - "Ma [cuisinière](appliance) n'est pas encore branché au courant."
+    - "Quelqu'un peut me poser une [prise internet](appliance) ?"
+    - "J'ai besoin d'une [prise](appliance) dans mon [garage](outdoor_location)."
+    - "Puis-je brancher l'électricité dans le [jardin](outdoor_location) ?"
+    - "Est-ce que quelqu'un peut installer un nouvelle [prise](appliance) dans ma\
+      \ [chambre](indoor_location) ?"
+    - "J'aimerais avoir posé un câble LAN."
+    - "La [cusinière](appliance) dans ma [cuisine intégrée](indoor_location) n'est\
+      \ pas encore branchée."

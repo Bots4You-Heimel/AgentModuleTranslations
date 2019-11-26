@@ -1,0 +1,6 @@
+fr:
+  intent:
+    ticket.damage_report/doors_windows_locks.locking_system:
+    - "La [porte d'entrée](item) ne peut plus être fermée à clé."
+    - La [serrure](item) de ma [porte de toilette](item) ne ferme plus.
+    - "On risque de casser la [clé](item) quand on veut ouvrir [la porte d'entrée](item)"

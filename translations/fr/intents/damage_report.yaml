@@ -1,0 +1,26 @@
+fr:
+  intent:
+    ticket.damage_report:
+    - déclaration de dommage
+    - dommage
+    - endommagement, dégâts
+    - défaut
+    - signaler un dommage
+    - saisr un endommagement
+    - enregistrer une déclaration de dommage
+    - déposer une déclaration de dommage
+    - une déclaration de dommage
+    - indiquer un dommage
+    - signaler un défaut
+    - réparer endommagement
+    - "J'ai découvert un dommage"
+    - "J'aimerais signaler notre dommage."
+    - Je veux signaler un dommage.
+    - Peux-tu enregistrer un dommage ?
+    - "Enrgistre une déclaration de dommage pour moi s'il te plaît."
+    - Je peux déclarer un dommage ici ?
+    - "C'est ici où je peux indiquer un dommage ?"
+    - "Un dommage doit être enregistré pour que quelqu'on s'en occupe"
+    - Comment je peux signaler un dommage ?
+    - "Que dois-je faire quand j'ai trouvé un dommage ?"
+    - "Est-il possible d'enregistrer un dommage ici ?"

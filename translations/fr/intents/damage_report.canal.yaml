@@ -1,0 +1,24 @@
+fr:
+  intent:
+    ticket.damage_report/canal:
+    - canal
+    - "bouche d'égout "
+    - canal bouché
+    - "bouche d'égout bouchée"
+    - 'Écoulement des eaux pluviales '
+    - "[L'écoulement](sanitary_item) à [l'extérieur](outdoor_location)  est bouché"
+    - Après la pluie d’aujourd’hui, l’eau ne pouvait plus s’écouler et s’accumule dans une grande [flaque] (mess) [devant la maison](outdoor_location).
+    - Il y a une énorme [flaque](mess)  [devant la maison](outdoor_location)
+    - "De l'eau s'est accumulée sur le [chemin](outdoor_location) [devant la maison](outdoor_location)."
+    - "De l'eau s'est accumulée sur le [gazon](outdoor_location) [devant la maison](outdoor_location) "
+    - "L'eau de pluie ne s'écoule pas correctement et s'accumule toujours [devant\
+      \ la maison](outdoor_location)."
+    - "Il y a de nouveau de l'eau dans une [flaque](mess)  [devant la maison](outdoor_location)."
+    - "Nous avons une grande [flaque](mess)  [devant la maison](outdoor_location)\
+      \ parce que l'eau ne s'écoule pas correctement."
+    - "Il se forment toujours des grandes [flaques](mess)  sur le [chemin](outdoor_location)\
+      \ s'il pleut."
+    - "Il y a de l'eau de pluie est dans une grande [flaque] (mess)  [à l'entrée de\
+      \ la maison] (outdoor_location)."
+    - "L'eau de pluie ne s'infiltre pas correctement et s'accumule [devant l'entré\
+      e de la maison] (outdoor_location)."

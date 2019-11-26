@@ -1,0 +1,51 @@
+fr:
+  intent:
+    ticket.complaint/animals.pest:
+    - vermine
+    - parasites
+    - 'Infestation de nuisibles '
+    - Vermine découverte
+    - '[Rats](animal) découverts'
+    - Éliminez le [nid de guêpes](animal)
+    - Éliminez les parasites
+    - '[Cafards](animal:Kakerlake) partout'
+    - "[À l'extérieur](outdoor_location), il y a des [rats](animal)"
+    - '[Souris](animal) [au sous-sol](indoor_location)'
+    - Il y a des [cafards] (animal:Kakerlake).
+    - "J'ai vu un [rat](animal)."
+    - "J'ai des [lépismes](animal) [dans mon appartement](indoor_location)"
+    - "J'ai vu des [cafards](animal)!"
+    - Il y a un [nid de guêpes](animal) dans le [pignon](indoor_location).
+    - '[Derrière la gouttière](outdoor_location) est un [nid de guêpes](animal).'
+    - Il y a des [souris](animal) [au sous-sol](indoor_location).
+    - On doit installer des souricières.
+    - "J'ai vu un [rat](animal)"
+    - "S'il vous plaît, envoyez le service de lutte antiparasitaire](person)."
+    - Il y a un [nid de guêpes](animal) sur le [mur de la maison](outdoor_location).
+    - "J'ai vu des [rats](animal) à [l'extérieur](outdoor_location)"
+    - "À l'aide! J'ai découvert un [nid de guêpes](animal) [au grenier](indoor_location)."
+    - Il y a un [animal](animal) [au grenier](indoor_location).
+    - Pouvez-vous faire quelque chose contre les [lépismes](animal)?
+    - Le [nid de guêpes](animal) [au grenier] (indoor_location) devrait être enlevé.
+    - Je souhaite signaler un [nid de guêpes](animal).
+    - Vous devez appeler [le service de lutte antiparasitaire](person). Il y a un [nid de guêpes] (animal)[au mur de la maison](outdoor_location).
+    - Il y a un [nid de guêpes](animal) sur le sol [du jardin](outdoor_location).
+    - En haut [sur le mur de la maison](outdoor_location) est un [nid de guêpes](animal) ci-dessus.
+    - "Je pense qu'il y a des [rats](animal:Ratte) [dans le jardin](outdoor_location)."
+    - Mon [voisin](person) a des [cafards](animal) [dans son appartement](indoor_location).
+    - "Il y a trop [d'araignées](animal), j'ai peur."
+    - "J'ai des [fourmis](animal) [dans la cuisine](indoor_location)."
+    - "Il y a des [cafards](animal) [dans mon appartement](indoor_location)! J'ai\
+      \ besoin d'aide."
+    - "Je suis dégouté de sortir mon appartement, car il y a [des araignées](animal)\
+      \ [dans le couloir](indoor_location). Quelqu'un doit s'en débarrasser."
+    - "Je pense que j'ai des [punaises](animal)."
+    - Comment faire sortir les [fourmis](animal) de [mon appartement](indoor_location) ?
+    - Il y a une [fourmilière](animal) dans le jardin.
+    - Le [jardin] (outdoor_location) est plein de [taupinières](animal)
+    - Que puis-je faire contre la [taupe](animal) [derrière la maison](outdoor_location) ?
+    - "Je suis sûr qu'il y a des [souris](animal) [au sous-sol](indoor_location)."
+    - "J'ai trouvé des [excréments](mess) de [souris](animal)."
+    - "J'ai trouvé des [excréments](mess) de [souris](animal) [derrière la porte d'entré\
+      e](indoor_location)."
+    - "J'ai peur des nombreux [frelons](animaux) ici."

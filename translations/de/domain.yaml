@@ -1,84 +1,72 @@
 de:
-    Domain:
-     - Bereich
-
-    Heating:
-     - Wärme
-
-    AccessControl:
-     - Zugangskontrolle
-
-    Firesafety:
-     - Brandschutz
-     - Brandsicherheit
-
-    Safety:
-     - Sicherheit
-
-    Sanitary:
-     - Sanitär
-
-    Surface:
-     - Oberflächen
-
-    FloorCovering:
-     - Bodenbelag
-     - Laminat
-     - Teppich
-     - Teppichboden
-     - Linoleum
-     - Boden
-     - Bodenbelag
-     - Fußboden
-     - Fußbodenbelag
-     - Dielenboden
-     - Riemenboden
-     - Dielenfußboden
-     - Holzfußboden
-     - Parkett
-     - Bodenkacheln
-     - Parketboden
-     - Laminatboden
-
-    WallCovering:
-     - Wandbelag
-     - Wandverkleidung
-     - Außenverkleidung
-     - Holzvertäfelung
-     - Wandpaneele
-
-    Paint:
-     - Farbe
-     - Wandfarbe
-     - Anstrich
-     - Bemalung
-     - Lackierung
-     - Schutzanstrich
-     - Innenfarbe
-
-    Plaster:
-     - Putz
-     - Zierputz
-     - Fasadenputz
-     - Außenputz
-     - Aufputz
-     - Verputz
-
-    Wallpaper:
-     - Tapete
-     - Raufasertapete
-     - Bildtapete
-     - Fototapete
-     - Stofftapete
-     - Textiltapete
-     - Mustertapete
-
-    Tiling:
-     - Fliese
-     - Fließe
-     - Keramikfließe
-     - Mosaik
-     - Kachel
-     - Keramikfliese
-     - Badezimmerfliese
-     - Küchenfliese
+  Domain:
+  - Bereich
+  Heating:
+  - Wärme
+  AccessControl:
+  - Zugangskontrolle
+  Firesafety:
+  - Brandschutz
+  - Brandsicherheit
+  Safety:
+  - Sicherheit
+  Sanitary:
+  - Sanitär
+  Surface:
+  - Oberflächen
+  FloorCovering:
+  - Bodenbelag
+  - Laminat
+  - Teppich
+  - Teppichboden
+  - Linoleum
+  - Boden
+  - ''
+  - Fußboden
+  - Fußbodenbelag
+  - Dielenboden
+  - Riemenboden
+  - Dielenfußboden
+  - Holzfußboden
+  - Parkett
+  - Bodenkacheln
+  - Parketboden
+  - Laminatboden
+  WallCovering:
+  - Wandbelag
+  - Wandverkleidung
+  - Außenverkleidung
+  - Holzvertäfelung
+  - Wandpaneele
+  Paint:
+  - Farbe
+  - Wandfarbe
+  - Anstrich
+  - Bemalung
+  - Lackierung
+  - Schutzanstrich
+  - Innenfarbe
+  Plaster:
+  - Putz
+  - Zierputz
+  - Fasadenputz
+  - Außenputz
+  - Aufputz
+  - Verputz
+  Wallpaper:
+  - Tapete
+  - Raufasertapete
+  - Bildtapete
+  - Fototapete
+  - Stofftapete
+  - Textiltapete
+  - Mustertapete
+  Tiling:
+  - Fliese
+  - Fließe
+  - Keramikfließe
+  - Mosaik
+  - Kachel
+  - Keramikfliese
+  - Badezimmerfliese
+  - Küchenfliese

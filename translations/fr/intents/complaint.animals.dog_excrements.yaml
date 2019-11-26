@@ -1,0 +1,60 @@
+fr:
+  intent:
+    ticket.complaint/animals.dog_excrements:
+    - '[Excréments de chien](mess)  !'
+    - '[Crotte de chien](mess)  !'
+    - '[Excréments de chien](mess)!'
+    - ' [Déjections canines](mess) trouvées!'
+    - Enlevez [excréments de chien]!
+    - Partout des [excréments de chien](mess)!
+    - Il y a [excréments de chien](mess) [sur le troittoir](outdoor_location)
+    - '[Excréments de chien](mess) dans le couloir'
+    - '[Excréments de chien](mess) sur le chemin'
+    - '[Merde de chien](mess) partout!'
+    - Il y a partout des [déjections canines](mess).
+    - "[Les déjections canines](mess) n'ont pas été enlevés."
+    - Je continue à marcher dans [la merde de chien](mess)!
+    - Enlevez [la merde de chien](mess) tout de suite!
+    - "Il y a de nombreuses [déjections canines](mess) tout devant l'entrée"
+    - "[Le teckel](dog_breed) du [voisin](person) a [chié](mess) dans le [cage d'escalier](indoor_location)."
+    - Un [cabot](animal:Hund) a [pissé](mess:Pisse) [devant ma porte].
+    - Il y a encore de [la merde de chien](mess) [sur le gazon derrière la maison](outdoor_location).
+    - "Le [jardin de devant](outdoor_location) est à nouveau l'endroit pour un [clé\
+      bard](animal:Hunde) qui y fait ses besoins."
+    - "Il y a des [excréments d'animaux](mess) partout [devant la maison](outdoor_location),\
+      \ enlevez-les svp."
+    - Il y a des [excréments](mess) puants sur le trottoir(outdoor_location).
+    - "Quelqu'un n'a pas enlevé les [excréments](mess) de son [cabot](animal)"
+    - "S'il vous plaît enlevez de toute urgence le [excréments](mess) [devant la porte\
+      \ d'entrée] (outdoor_location), c'est dégoûtant!"
+    - "Je suis marché à noveau dans les [excréments de chien](mess). Vous devez parler\
+      \ à mon [voisin](person), que ce n'est pas possible !"
+    - ' [Dans le jardin de devant](outdoor_location) il y a des [déjections canines](mess)
+      énormes. Svp enlevez-les tout de suite. '
+    - Il y a trop de [crotte de chien](mess) [sur le trottoir](outdoor_location).
+    - "[Quelqu'un](person) est trop chic pour enlever les [déjections](mess) de son\
+      \ [roquet](animal:Hund). Je ne fais certainement pas ça!"
+    - "Encore une fois, il y a [merde](mess) [devant la porte d'entrée](outdoor_location).\
+      \ Est-ce qu'il n'y a pas de test ADN?"
+    - "Aujourd'hui je suis à nouveau marché dans les [excrémetns de chien](mess).\
+      \ Ce n'est plus supportable!"
+    - "[M. Dufour](named person) du [deuxième étage](floor) n'enlève pas les [excré\
+      ments](mess) de son [berger allemand](dog_breed)."
+    - "[Sur le trottoir](outddor_location) sont à nouveau des [matières fécales](mess).\
+      \ Quelqu'un pourrait y marcher."
+    - Ça sent de la [pisse de chien](mess) [dans le couloir](indoor_location).
+    - '[Dans le jardin](outdoor_location), il y a plusieurs [excréments de chien](mess).
+      Je ne vais absolument pas enlever ça.'
+    - "Ici, personne ne s'occupe d’enlever les [excréments](mess) de son [chien](animal:Hund).\
+      \ Cela ne peut pas continuer comme ça."
+    - Partout [dehors](outdoor_location) je trouve des [tas de merde](mess). Personne ne fait plus attention.
+    - Il y a une [flaque de pisse](mess) [dans le couloir] (indoor_location). Cela devait être le [épagneul] (dog_breed) du [sous-locataire](person).
+    - "Aujourd'hui, je devais enlever à nouveau des [excréments](mess) de [dalmatien](dog_breed)\
+      \ de [Madame Dufour](person)!"
+    - Un [chien](animal) a fait un [tas de merde](mess) [devant ma fenêtre](outdoor_location).
+    - Les [Dufour](named_person) ne sont apparemment pas prêts à éliminer des [excréments](mess) de leur [labrador](dog_breed).
+    - Il y a des [excréments de chien](mess) en tas [devant la garage](outdoor_location)
+    - "S'il vous plaît quelqu'un peut éliminer les [excréments de chien](mess) [dans\
+      \ l'entrée] (outdoor_location)."
+    - Pouvez-vous identifier le [chien](animal) responsable de la [merde](mess) [devant le garage](outdoor_location)?
+    - "C'est pas possible qu'il y a toujours de la [merde de chien](mess) partout."

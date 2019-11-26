@@ -1,0 +1,102 @@
+fr:
+  intent:
+    ticket.damage_report/general:
+    - défectueux, défectueuse
+    - déclaration de dommage, déclaration de sinistre
+    - cassé, cassée
+    - dysfonctionnement
+    - endommagement, dégâts
+    - dommage
+    - inutilisable
+    - 'cas de sinistre, sinistre '
+    - quelque chose est cassé
+    - ticket de dommage
+    - déclaration de dommage, déclaration de sinistre
+    - '[ventilateur](appliance) cassé'
+    - '[machine à laver](appliance) cassé '
+    - '[encadrement de porte] cassé'
+    - dommage à la [béquille](item)
+    - '[plaque de la sonnette](item) défectueuse'
+    - '[chemin de câbles] cassé'
+    - séca
+    - "déclaration d'un dommage"
+    - ne fait rien
+    - ne marche plus
+    - "c'est fichu"
+    - "c'est foutu"
+    - "c'est foutue"
+    - "c'est vraiement de la merde"
+    - '[séchoir](item) pas fonctionnel'
+    - Le [vélo](item) est cassé
+    - Ma [voiture](item) ne se démarre pas
+    - '[WC](indoor_location) défectueux'
+    - "[L'étagère](item) est dommagée"
+    - Ce truc est cassé.
+    - Mon [frigo](item) ne fonctionne plus
+    - La [triangle de rideau](item) doit être réparée
+    - Le [redresseur](appliance) est foutu !
+    - Il y a un défaut dans la [cave](indoor_location
+    - Le [lavabo](sanitary_item) est défectueux
+    - "Le [meuble sous vasque](sanitary_item) n'est plus intact"
+    - Mon [lavabo](sanitary_item) est brisé
+    - Le [lavabo](sanitary_item) est endommagé
+    - "Quelqu'un peut réparer mon [téléphone](item) ?"
+    - "La [gouttière](item) [à l'arrière de la maison](outdoor_location) est défectueuse."
+    - Le [portemanteau](indoor_location) est cassé.
+    - '[Chauffage](item) ne fonctionne pas.'
+    - '[Arroseur](item) ne marche pas.'
+    - Cette chose est défectueuse.
+    - Donc mon [scie](item) est complètement foutu !
+    - La [machine à écrire](item) fonctionne plus
+    - "[L'ordinateur](item) ne marche plus"
+    - "[L'échelle](item) va probablement se briser bientôt."
+    - Qui peut inspecter mon [chauffe-eau](appliance) ?
+    - Veuillez laisser réparer mon [chaudière](appliance).
+    - Le [volet de la boîte aux lettres](item) est tordu.
+    - La [boîte aux lettres](item) ne ferme plus correctement.
+    - "La [boîte aux lettres](item) grince en l'ouvrant."
+    - La [serrure] de la [boîte aux lettres] est difficile à ouvrir.
+    - La [boîte aux lettres](item) est enfoncée
+    - Le [compteur de consommation](sanitary_item) du [radiateur](sanitary_item) au [salon](indoor_location) est défectueux.
+    - Le [compteur](sanitary_item) du [chauffage](sanitary_item) ne fonctionne plus.
+    - "Dans la [chambre à coucher](indoor_location) le [compteur de chaleur](sanitary_item)\
+      \ du [chauffage](sanitary_item) s'est cassé."
+    - Le [compteur de chaleur](sanitary_item) de mon [radiateur](sanitary_item) ne marche plus.
+    - 'Qui peut remplacer ou réparer le [compteur de consommation](sanitary_item)
+      du [chauffage](sanitary_item) '
+    - "Quelqu'un peut réparer le [compteur](sanitary_item) de mon [radiateur](sanitary_item)\
+      \ ?"
+    - "S'il vous plaît, laissez remplacer le [compteur](sanitary_item) de mon [chauffage](sanitary_item)\
+      \ dans mon [appartement](indoor_location)."
+    - Dans la [cuisine cuisine aménagée](indoor_location) la [plaque de cuisson](sanitary_item) ne fonctionne plus
+    - Qui peut réparer ma [cuisinière](sanitary_item) ?
+    - "Les plaques de cuisson de ma [cuisinière](sanitary_item) ne s'allument plus."
+    - Dans [le couloir](indoor_location) quelque chose est cassé.
+    - Dans la [buanderie](indoor_location) qc marche pa
+    - "J'ai fabriqué un cas de sinistre."
+    - "Quelqu'un a fabriqué un sinistre au [sous-sol](indoor_location)."
+    - Le [four](sanitary_item) est défectueux.
+    - Le [poêle](sanitary_item) au [salon](indoor_location) ne marche pas.
+    - Qui peut assurer la maintenance de mon [radiateur](sanitary_item) ?
+    - "Le [chauffage](sanitary_item) ne s'allume ni chez moi, ni chez les [voisins](person)"
+    - Quelque chose est cassé au [garage](outdoor_location)
+    - "Quelque chose n'est pas correct avec [l'échelle](item)"
+    - Pourriez-vous laisser réparer mon [radiateur](sanitary_item) ?
+    - Le crochet [de la maison](outdoor_location) est cassé.
+    - "Le seuil de la [porte d'entrée](outdoor_location) a tombé."
+    - Le [compteur de consommation](sanitary_item) du [radiateur](sanitary_item) est tombé en panne.
+    - Un appareil sur mon [étage](indoor_location) est tombé en panne.
+    - La [poubelle](item) est cassée.
+    - Le [compteur électrique](appliance) dans mon [appartement](indoor_location) est tombé en panne.
+    - Le [toit](item) doit être réparé.
+    - La [gouttière](item) semble desserrée
+    - "Quelqu'un devrait inspecter la [gouttière](item) desserrée."
+    - "La [gouttière](item) s'est desserrée et devrait être repositionnée."
+    - "Laissez fixer la [gouttière](item) s'il vous plaît."
+    - La [gouttière](item) pends et doit être fixer de nouveau.
+    - "[Quelqu'un](person) doit fixer la [gouttière]."
+    - "Le [tuyau de descente](item) à côté du [entrée au sous-sol](outdoor_location)\
+      \ n'est plus en ordre."
+    - Il y a une fuite dans le [tuyau de descente](item) [derrière la maison](outdoor_location).
+    - Une partie du [tuyau de descente](item) doit être remplacé.
+    - Dans mon [appartement](indoor_location) le [parquet](surface) est cassé.

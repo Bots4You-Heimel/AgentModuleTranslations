@@ -5,7 +5,7 @@ de:
     - Reinigungsfirma
     - Putzfirma
     - '[Putzkraft](person)'
-    - "[Geb\xE4udereinigungskraft](person)"
+    - '[Gebäudereinigungskraft](person)'
     - '[Putzhilfe](person)'
     - '[Putze](person)'
     - Reinigungsarbeit
@@ -16,14 +16,9 @@ de:
     - '[Putzkraft](person) [Hausflur](indoor_location) putzen'
     - '[Putzfrau](person) putzt nicht'
     - '[Putzkraft](person) reinigt schlecht'
-    - Die [Putzhilfe](person) hat den [Flur](indoor_location) [nicht sauber](mess)
-      gemacht
-    - "Die Reinigungsarbeit der Putzfirma l\xE4sst stark zu w\xFCnschen \xFCbrig"
-    - "Das [Treppenhaus](indoor_location) sollte nochmal von der [Geb\xE4udereinigungskraft](person)\
-      \ geputzt werden"
-    - Die faule [Putzkraft](person) hat nur schnell durchgewischt und den halben [Dreck](mess)
-      dagelassen
-    - "Die [Treppen](indoor_location) wurden von der bl\xF6den [Putze](person) nur\
-      \ halb geputzt"
-    - "Der Typ von der Reinigungsfirma hat seine Putzarbeit nicht richtig durchgef\xFC\
-      hrt"
+    - Die [Putzhilfe](person) hat den [Flur](indoor_location) [nicht sauber](mess) gemacht
+    - Die Reinigungsarbeit der Putzfirma lässt stark zu wünschen übrig
+    - Das [Treppenhaus](indoor_location) sollte nochmal von der [Gebäudereinigungskraft](person) geputzt werden
+    - Die faule [Putzkraft](person) hat nur schnell durchgewischt und den halben [Dreck](mess) dagelassen
+    - Die [Treppen](indoor_location) wurden von der blöden [Putze](person) nur halb geputzt
+    - Der Typ von der Reinigungsfirma hat seine Putzarbeit nicht richtig durchgeführt

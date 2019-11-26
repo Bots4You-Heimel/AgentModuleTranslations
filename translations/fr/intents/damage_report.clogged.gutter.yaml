@@ -1,0 +1,14 @@
+fr:
+  intent:
+    ticket.damage_report/clogged.gutter:
+    - '[gouttière](item) bouchée'
+    - '[tuyau de descente](item) bouché'
+    - '[gouttière] (item) bouchée '
+    - '[gouttière](item) bouchée'
+    - Quelque chose a bouché la [gouttière](item)
+    - Quelque chose est coincé dans la [gouttière](item)
+    - "L'eau ne s'écoule pas correctement par la [gouttière](item)."
+    - La [gouttière](item) est bouchée, nettoyez-la.
+    - La [gouttière](item) doit être débouchée.
+    - "La pluie ne peut plus s'écouler par la [gouttière](item) "
+    - "La [gouttière](item) est totalement [sale](mess) , il ne s'écoule plus rien."

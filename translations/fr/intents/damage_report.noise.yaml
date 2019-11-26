@@ -1,0 +1,29 @@
+fr:
+  intent:
+    ticket.damage_report/noise:
+    - '[radiateur](item) gargouille'
+    - '[radiateur](item) gargouille'
+    - '[ascenseur](indoor_location) bruit'
+    - '[ventilation](item) trop bruyant '
+    - '[frigo](appliance) gratte bizarrement'
+    - "La [machine à laver](appliance) semble d'être cassée."
+    - Le [séchoir](appliance) gronde !
+    - "On entend que [l'ascenseur](indoor_location) n'est pas en bon état."
+    - mon [radiateur](sanitary_item) gargouille
+    - Le [ventilateur](sanitary_item) dans la [salle de bain](indoor_location) grince.
+    - "[L'ascenseur](indoor_location) fait des bruits bizarres."
+    - "[L'ascenseur] ne sonne pas bon."
+    - "[L'ascenseur](indoor_location) gronde étrangement."
+    - "[L'ascenseur](indoor_location) fait des bruits bizarres. "
+    - "[Le système d'ascenseur](indoor_location) fait des bruits."
+    - "[L'ascenseur](indoor_location) ne semble pas très fiable."
+    - "[L'ascenseur](indoor_location) craque bizarrement"
+    - "L'utilisation du [système d'ascenseur](indoor_location) provoque des bruits\
+      \ de craquement."
+    - "[L'ascenseur](indoor_location) fait des bruits étranges."
+    - "[L'ascenseur] fait un boucan du diable"
+    - "Je pense [l'ascenseur](indoor_location) va tomber en carafe, ça ne sonne pas\
+      \ bien."
+    - Ma [hotte](item) est trop bruyante
+    - Le [radiateur](item) dans le [salon](indoor_location) gargouille.
+    - Le [radiateur](item) fait de bruits bizarres.

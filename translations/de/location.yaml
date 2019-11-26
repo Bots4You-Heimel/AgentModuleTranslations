@@ -1,93 +1,77 @@
 de:
-    Location:
-     - Ort
-
-    IndoorLocation:
-     - drinnen
-     - im Haus
-     - innendrin
-     - im Haus drin
-
-    OutdoorLocation:
-     - draußen
-     - vor dem Haus
-     - vorm Haus
-
-    Private:
-     - Privaträume
-     - in meiner Wohnung
-
-    Communal:
-     - Gemeinsam Genutzte Räume
-
-    HallwaysEtc:
-     - Flure
-
-    Hallway:
-     - Flur
-     - Gang
-     - Korridor
-     - Hausflur
-
-    Staircase:
-     - Treppenhaus
-     - Stiegenhaus
-
-    Lobby:
-     - Lobby
-     - Eingangsbereich
-     - Eingang
-     - Eingangshalle
-     - Foyer
-     - Vestibül
-     - Empfangshalle
-     - Vorhalle
-     - Vorraum
-     - Rezeption
-     - Enree
-     - Entré
-     - Lounge
-     - Einlass
-     - Haupteingang
-     - Hauseingang
-
-    Bathroom:
-     - Badezimmer
-     - Bad
-     - Klo
-     - Gäste-WC
-
-    Kitchen:
-     - Küche
-     - Einbauküche
-     - Küchenzeile
-     - Kochecke
-     - Kombüse
-
-    Enclosure:
-     - Begrenzung
-     - Eingrenzung
-
-    Gully:
-     - Gully
-     - Gulli
-     - Gosse
-     - Runse
-     - Kanaleinlauf
-     - Gullideckel
-     - Gießbachbett
-
-    Pavement:
-     - Gehwegplatten
-     - Fußwegplatten
-     - Gehweg
-     - Straße
-     - Trottoir
-     - Bürgersteig
-     - Gehsteig
-     - Fußweg
-     - Gehsteig
-     - Einfahrt
-     - Pflaster
-     - Straßenpfalster
-     - Gehbahn
+  Location:
+  - Ort
+  IndoorLocation:
+  - drinnen
+  - im Haus
+  - innendrin
+  - im Haus drin
+  OutdoorLocation:
+  - draußen
+  - vor dem Haus
+  - vorm Haus
+  Private:
+  - Privaträume
+  - in meiner Wohnung
+  Communal:
+  - gemeinsam genutzte Räume
+  HallwaysEtc:
+  - Flure
+  Hallway:
+  - Flur
+  - Gang
+  - Korridor
+  - Hausflur
+  Staircase:
+  - Treppenhaus
+  - Stiegenhaus
+  Lobby:
+  - Lobby
+  - Eingangsbereich
+  - Eingang
+  - Eingangshalle
+  - Foyer
+  - Vestibül
+  - Empfangshalle
+  - Vorhalle
+  - Vorraum
+  - Rezeption
+  - Entree
+  - Entré
+  - Lounge
+  - Einlass
+  - Haupteingang
+  - Hauseingang
+  Bathroom:
+  - Badezimmer
+  - Bad
+  - Klo
+  - Gäste-WC
+  Kitchen:
+  - Küche
+  - Einbauküche
+  - Küchenzeile
+  - Kochecke
+  - Kombüse
+  Gully:
+  - Gully
+  - Gulli
+  - Gosse
+  - Runse
+  - Kanaleinlauf
+  - Gullideckel
+  - Gießbachbett
+  Pavement:
+  - Gehwegplatten
+  - Fußwegplatten
+  - Gehweg
+  - Straße
+  - Trottoir
+  - Bürgersteig
+  - Gehsteig
+  - Fußweg
+  - Gehsteig
+  - Einfahrt
+  - Pflaster
+  - Straßenpfalster
+  - Pflaster

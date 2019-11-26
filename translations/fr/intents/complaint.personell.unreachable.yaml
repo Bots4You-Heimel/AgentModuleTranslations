@@ -1,0 +1,30 @@
+fr:
+  intent:
+    ticket.complaint/personell.unreachable:
+    - "personne n'est joignable"
+    - Constamment occupé.
+    - Accessibilité par téléphone
+    - La ligne est occupé en permanence.
+    - "Je n'ai pu joindre personne."
+    - Pas joignable par téléphone.
+    - Je ne peux joindre personne sur la hotline du service clientèle.
+    - La ligne est constamment occupée.
+    - "Je dois attendre trop longtemps avant de joindre quelqu'un"
+    - Vous ne répondez pas au téléphone.
+    - "Je n'arrive pas à joindre quelqu'un au téléphone."
+    - Personne ne répond au téléphone
+    - "J'ai essayé d'appeler mais personne n'a répondu"
+    - Pourquoi vous ne répondez pas au téléphone ?
+    - La ligne est occupée en permanence.
+    - On peut à peine joindre [Mme Bertrand](person) par téléphone.
+    - "Vontre [centre de services](person) n'est pas joignable."
+    - "Les temps d'attente pour votre numéro de téléphone sont beaucoup trop longs."
+    - Il est à peine possible de vous joindre par téléphone.
+    - "Personne n'est joignable sous le numéro de téléphone [0261 55135](base.telefone_number)\
+      \ !"
+    - Votre numéro de téléphone est occupé en permanence.
+    - "Bien souvent, j'ai essayé de joindre le [chargé de clientèle](person) par té\
+      léphone."
+    - Personne ne répond sous le numéro de téléphone [0261 55135](base.telefone_number) !
+    - "J'ai appelé à plusieurs reprises sous [12345] (base.telefone_number) et personne\
+      \ n'a répondu."

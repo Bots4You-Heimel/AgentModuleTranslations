@@ -1,0 +1,25 @@
+fr:
+  intent:
+    ticket.complaint/cleaning_work:
+    - '[femme de ménage](person)'
+    - entreprise de nettoyage
+    - société de nettoyage
+    - '[nettoyeur](person), [nettoyeuse](person)'
+    - '[agent de nettoyage de bâtiments](person), [argente de nettoyage de bâtiments](person)'
+    - '[aide ménagère](person)'
+    - travaux de nettoyage
+    - travaux de nettoyage
+    - '[femme de ménage](person) nettoie'
+    - '[nettoyeuse](person) nettoie'
+    - '[femme de ménage](person) nettoyer [couloir](indoor_location)'
+    - '[nettoyeuse](person) nettoyer [couloir](indoor_location)'
+    - '[femme de ménage](person) ne nettoie pas'
+    - '[nettoyeuse](person) nettoie mal'
+    - "[La nettoyeuse](person) n'a [pas nettoyé](mess) le [couloir](indoor_location)"
+    - "Le travail de l'entreprise de nettoyage laisse beaucoup à désirer"
+    - "La [cage d'escalier](indoor_location) doit être nettoyé à nouveau par [l'agent\
+      \ de nettoyage] (person) "
+    - La [nettoyeuse](person) paresseuse a laissé la moitié de la [saleté](mess)  en passant un chiffon humide très rapidement.
+    - "Les [escaliers](indoor_location) n'ont été nettoyés qu'à moitié par la [nettoyeuse](person)\
+      \ stupide."
+    - "Le mec de la société de nettoyage n'a pas fait son travail correctement"

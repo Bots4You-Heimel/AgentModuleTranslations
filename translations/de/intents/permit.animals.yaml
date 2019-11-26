@@ -3,21 +3,20 @@ de:
     ticket.permit/animals:
     - Tierhaltung
     - Haustierhaltung
-    - '[Tiere](animal) Genehmigung'
+    - '[Tiere](animal)  Genehmigung'
     - Erlaubte [Tiere](animal)
     - Genehmigung [Hund](animal)
     - Genehmigung zur Tierhaltung
-    - "Erlaubnis f\xFCr [Katzen](animal)"
-    - Welche [Tiere](animal) darf ich halten?
-    - "Was darf man f\xFCr [Tiere](animal) halten?"
-    - Ist es erlaubt, einen [Hund](animal) zu haben?
-    - Darf ich eine [Katze](animal) [in meiner Wohnung](indoor_location) halten?
-    - Darf ich einen [Hund](animal) [in der Wohnung](indoor_location) halten?
-    - Darf ich ein [Aquarium](animal) [in der Wohnung](indoor_location) haben?
-    - Ich wollte Fragen, ob ich eine [Ziege](animal) [in der Wohnung](outdoor_location)
-      halten kann.
+    - Erlaubnis für [Katzen](animal)
+    - Welche [Tiere](animal)  darf ich halten?
+    - Was darf man für [Tiere](animal)  halten?
+    - Ist es erlaubt, einen [Hund](animal)  zu haben?
+    - Darf ich eine [Katze](animal)  [in meiner Wohnung](indoor_location) halten?
+    - Darf ich einen [Hund](animal)  [in der Wohnung](indoor_location)  halten?
+    - Darf ich ein [Aquarium](animal)  [in der Wohnung](indoor_location)  haben?
+    - Ich wollte Fragen, ob ich eine [Ziege](animal)  [in der Wohnung](indoor_location) halten kann.
     - Ist es ein Problem, wenn ich [Kampfhunde](animal) halte?
-    - "Ich w\xFCrde gerne einen [Hamster](animal) halten."
-    - "Darf man hier [Schlangen](animal) in der Wohnung z\xFCchten?"
+    - Ich würde gerne einen [Hamster](animal)  halten.
+    - Darf man hier [Schlangen](animal)  [in der Wohnung](indoor_location) züchten?
     - Ist es ein Problem, wenn ich hier [Kaninchen](animal) halte?
-    - Kann man hier [Hunde](animal) oder [Katzen](animal) halten?
+    - Kann man hier [Hunde](animal)  oder [Katzen](animal)  halten?

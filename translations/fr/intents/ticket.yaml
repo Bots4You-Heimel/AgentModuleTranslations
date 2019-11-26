@@ -1,0 +1,10 @@
+fr:
+  intent:
+    ticket:
+    - 'ticket, billet '
+    - information, message, déclaration
+    - "J'aimerais créer un ticket."
+    - "J'ai une demande."
+    - Est-ce que je peux créer un ticket ici ?
+    - Je peux créer un ticket ?
+    - Tu peux aussi créer un ticket ?

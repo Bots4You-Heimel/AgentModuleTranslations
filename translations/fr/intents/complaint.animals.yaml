@@ -1,0 +1,72 @@
+fr:
+  intent:
+    ticket.complaint/animals:
+    - Aboiement.
+    - Hurlement
+    - Des [chiens](animal) jappent
+    - Aboiement constant.
+    - Aboiement fort
+    - '[chiens](animal) hurlants'
+    - '[chiens](animal) sans laisse'
+    - '[chiens](animal) jappent constamment'
+    - '[chiens](animal) aboient constamment'
+    - '[chiens](animal) sans laisse, [chiens](animal) non tenus en laisse'
+    - Le [chien](animal) est trop fort.
+    - "Le jappament ne s'arrête jamais ici."
+    - Même dans la nuit je me réveille à cause du aboiement.
+    - Perturbation par un [chien](animal)
+    - Le [terrier](dog_breed) a mordu mon [enfant](person).
+    - "Il s'agit des [chiens](animal) de mon [voisin](person)."
+    - Un [chien](animal) aboie constamment ici.
+    - Le [chien](animal) de [voisin](person) jappe constamment.
+    - "Mon [voisin](person) n'a pas ses [chiens](animal) sous contrôle."
+    - Des [chiens](animal) se promènent libremet sans laisse et mauselière sur le propriété.
+    - À cause des [chiens](animal) de mes [voisins](person), le [couloir](indoor_location) est toujours [sale](mess:Dreck).
+    - "Le [chat](animal) de l'autre [locataire](person) [salisse](mess) [l'entrée](indoor_location)."
+    - Il y a toujours de la [saleté](mess) [dans la maison](indoor_location) à cause des [animaux](animal).
+    - 'Les [chiens](animal) de mon [voisin] (personne: voisin) [salissent](mess:Dreck)
+      régulièrement le [couloir](indoor_location).'
+    - "Il y a de la [saleté](mess) dans la [cage d'escalier](indoor_location), car\
+      \ les gens laissent leurs [chiens](animal) sales [dans la maison](indoor_location)."
+    - Les [escaliers](indoor_location) sont tojours [sale](mess:Dreck), parce que les [chiens](animal) ne sont essuyés auparavant.
+    - Mes [voisins](person) [salissent](mess:Schmutz) le [couloir](indoor_location) avec leurs [cabots](animal).
+    - "Les [chiens](animal) de mes [voisins](person) laissent pleine de [boue](mess)\
+      \ dans la cage d'escalier](indoor_location) "
+    - "Les [voisins](person) laissent leurs [chiens](animal) [à l'intérieur](indoor_location)\
+      \ sans laisse."
+    - "Les [chiens](animal) des autres [locataires](person) se déplacent librement\
+      \ [dans la cage d'escalier](indoor_location), ça me fait peur."
+    - Il y a toujours des [chiens](animal) qui se promènent sans laisse [dans la maison](indoor_location).
+    - "Quelqu'un laisse toujours promener ses [chiens](animal) librement [dans la\
+      \ cage d'escalier](indoor_location), c'est interdit."
+    - Des [chiens](animal) courent constamment sans laisse [dans la maison](indoor_location), cela effraie les autres [locataires](person).
+    - 'Des [chiens](animal) se promènent librement [dans la maison](indoor_location)
+      et font du bruit. '
+    - "Mes [voisins](person) ne respectent pas le règlement intérieur et laissent\
+      \ leurs [chiens](animal) se promener sans laisse [à l'intérieur](indoor_location)."
+    - "[Les autres](person) continuent laisser leurs [chiens](animal) se promener\
+      \ sans laisse [dans la cage d'escalier](indoor_location)."
+    - "Les [chiens](animal) de mes [voisins](person) aboient constamment, c'est é\
+      nervant."
+    - On entend toujours des [chiens](animal) aboyants [dans la maison](indoor_location).
+    - "Le [locataire](person) situé au-dessus de moi n'a pas so son [chien](animal)\
+      \ sous contrôle et le laisse aboyer tout le temps."
+    - Les [chiens](animal) des [autres locataires](person) aboient pendant les périodes de repos.
+    - Toute la journée, on entend un [chien](animal) japper [dans la maison](indoor_location).
+    - À chaque sonnerie, un [chien](animal) du [appartement au-dessus de moi](indoor_location) aboie.
+    - "Le [chien](animal) jappant de l'autre [locataire] m'énerve."
+    - Les [Moreau](named_person) du [deuxième étage](floor) ont un grand [rottweiler](dog_breed) qui me fait très peur.
+    - Le nouveau [locataire](person) a un [caniche](chien) qui aboie tout le temps.
+    - Les nouveaux [locataires](person) ont un [doberman](dog_breed) très menaçant et grand.
+    - "Mon voisin a un énorme [chien de troupeau](dog_breed), bien que cela n'est\
+      \ pas permis."
+    - "Pouvez-vous faire quelque chose contre le petit [chien](animal) de [l'appartement\
+      \ au-dessus de moi](indoor_location) qui aboie constamment ?"
+    - Un [chat](animal) a caché des [souris](animal) mortes [dans la buanderie](indoor_location).
+    - Le nouveau [locataire](person) garde un [chien de combat](animal:Hund).
+    - Le petit [chinchilla](animal) de mon [voisin](person) mord et jappe toujours.
+    - Le jappement du [colley](dog_breed) de [Mme Laurent](named_person) est insupportable.
+    - "J'entends japper le [dogue](dog_breed) des [Bertrand](named_person) tout le\
+      \ temps."
+    - Je me suis réveillé à nouveau parce que le [chien](animal) des [Martin](named_person) a commencé à aboyer.
+    - Le [couloir](indoor_location) est toujours [sale](mess) à cause des [chiens](animal) de mes [voisins](person).

@@ -1,0 +1,52 @@
+fr:
+  intent:
+    ticket.complaint/parking:
+    - stationnement illicite, stationnement non autorisé
+    - vol de place de parking
+    - remorquer, mettre à la fourrière
+    - '[parking](outdoor_location)'
+    - '[parking](outdoor_location) bloqué'
+    - '[place de parking](outdoor_location) occupé'
+    - parking sauvage
+    - accès bloqué
+    - voiture bloqué, véhicule bloqué
+    - '[Parking](outdoor_location)  est occupé.'
+    - la [sortie des véhicules](outdoor_location)  est bloqué
+    - '[place de parking](outdoor_location)  est occupé'
+    - La voiture du voisin a été garé
+    - place de stationnement a été volé
+    - "Mon [place de parking](outdoor_location)  est à nouveau occupé par d'autres."
+    - "Mon [parking](outdoor_location)  loué est utilisé par d'autres."
+    - Des étrangers occupent mon [parking](outdoor_location).
+    - "D'autres bloquent mon [parking](outdoor_location) ."
+    - "Encore, quelqu'un a garé sa voiture sur mon [place de parking](outdoor_location)\
+      \ ."
+    - Mon [place de parking)(outdoor_location)  est occupé pendant 2 jours par un [véhicule](item) inconnu.
+    - "Encore une fois, quelqu'un s'est garé sur mon [place de parking](outdoor_location),\
+      \ c'est une effronterie."
+    - 'Mon [voisin](person) laisse ses invités se garer sur mon [place de parking](outdoor_location) '
+    - Chaque fois quand il y a une fête quelque part, des étrangers bloquent mon [place de parking](outdoor_location)
+    - "À nouveau, la même voiture inconnue s'est garé sur mon [place de parking](outdoor_location)\
+      \  loué."
+    - "Quelqu'un a garé [sa voiture](item) encore une fois sur mon [place de parking](outdoor_location)\
+      \ ."
+    - "Je souhaite signaler l'utilisation de mon [place de parking](outdoor_location)\
+      \  par un tiers."
+    - Je voudrais me plaindre du stationnement non autorisé.
+    - Je suis affecté par le vol du place de parking.
+    - Mon garage est bloqué.
+    - Les [Hadji](named person) du le [rez-de-chaussée](floor) ont bloqué ma voiture pour la quatrième fois.
+    - Je vais les faire remorquer tout de suite
+    - '[M. Dupont](named person) du [1er étage](floor) se gare toujours devant mon
+      [garage](outdoor_location)'
+    - "Quelqu'un me vole mon [place de parking](outdoor_location) ."
+    - Je ne peux pas garer ma voiture, parce que un autre utilise mon [place de parking](outdoor_location) .
+    - "Je devais me garer loin de la maison car quelqu'un a occupé mon [parking] (outdoor_location)\
+      \ ."
+    - "Je ne pouvais pas apporter mes achats dans la maison, parce que mon [place\
+      \ de parking](outdoor_location)  a été occupé par quelqu'un d'autre."
+    - Je ne peux pas accepter que d’autres occupent toujours mon [place de parking](outdoor_location)  louée.
+    - "Veuillez vous assurer que mon emplacement n'est pas toujours utilisé par d'autres\
+      \ personnes."
+    - "Pouvez-vous garantir que mon place de parking ne sera pas utilisé par quelqu'un\
+      \ d'autre?"

@@ -1,0 +1,56 @@
+fr:
+  intent:
+    ticket.damage_report/doors_windows_locks.stuck:
+    - La porte est bloquée
+    - La [fenêtre](item) est bloquée
+    - La [fenêtre de cuisine](item) est bloquée
+    - La [porte](item) est bloquée
+    - La [porte de la chambre à coucher](item) est bloquée
+    - '[fenêtre] bloquée'
+    - La [porte de blacon](item) ne se ferme pas correctement
+    - La [fenêtre de jardin](item) est deformée
+    - La [porte de jardin](item) ne se laisse pas ouvrir
+    - La [porte](item) ne ferme pas
+    - La [fenêtre](item) ne bascule pas.
+    - "La [porte d'appartement](item) est deformée."
+    - "La [porte d'entrée](item) est bloquée."
+    - La [porte de cave](item) ne ferme pas correctement.
+    - "Il y a un problème avec la [porte d'entrée](item)."
+    - La porte de la boîte aux lettres ne se ferme pas
+    - "La [porte d'entrée](item) ne ferme plus très bien."
+    - "La [porte d'entrée](item) ne ferme que de force."
+    - "Il est difficile de fermer la [porte d'entrée](item) "
+    - "La [porte d'entrée](item) est sorti des gonds"
+    - "Le [volet de la boîte aux lettres](item) ne s'ouvre plus."
+    - La [porte de la salle de bain] ne ferme plus correctement.
+    - La [fenêtre de la toilette](item) ne ferme pas.
+    - "La [porte d'entrée] est coincée."
+    - "La [porte d'entrée](item) frotte sur le sol en la fermant."
+    - "Il faut que [quelqu'un](person) inspecte la [porte d'entrée](item)."
+    - "Je n'arrive pas à fermer la [porte](item) correctement."
+    - La [porte)(item) ne se laisse plus fermer correctement.
+    - "[Quelqu'un](person) devrait inspecter la [porte](item)."
+    - "La [porte d'entrée](item) ne se ferme qu'en claquant."
+    - "La [porte d'entrée](item) ne se ferme qu'en tirant fortement."
+    - La [fenêtre](item) dans la [salle de bain](indoor_location) ne se laisse plus basculer.
+    - La [fenêtre](item) au [salon](indoor_location) presque sort des gondes.
+    - La [fenêtre] dans la [salle de bain](indoor_location) devrait être inspecté.
+    - Le [concierge](person) devrait réparer ma [fenêtre](item) dans la [salle de bain](indoor_location).
+    - Je vourdrais signaler un dommage à ma [fenêtre de la salle de bain](item).
+    - La [fenêtre](item) dans la [cuisine](indoor_location) ne se laisse plus ouvirer correctement.
+    - La [fenêtre](item) aux [toilettes](indoor_location) ne se laisse plus basculer.
+    - La [porte de la maison](item) ne ferme plus correctement.
+    - La [porte](item) ne ferme plus.
+    - Qui est responsable pour les [portes](item) ici ?
+    - La [porte](item) ne se verouille plus correctement.
+    - La [fenêtre de cave](item) ne ferme pas correctement.
+    - "Est-ce que [quelqu'un](person) peut s'occuper de la [porte](item) cassée ?"
+    - "N'importe qui peut entrer dans notre maison parce que la [porte d'entrée](item)\
+      \ ne ferme pas correctement."
+    - La [porte] de ma [chambre à coucher](indoor_location) frotte sur le [sol stratifié](surface).
+    - Ma [fenêtre](item) de la [salle de séjour](indoor_location) ne se ferme que difficilement.
+    - La [fenêtre de salle de sejour](item) en ferme pas correctement.
+    - La [fenêtre de cuisine](item) ne se laisse plus basculer.
+    - Les [boîtes aux lettres](item) grincent en les ouvrant et doivent être lubrifiées.
+    - Ma [boîte aux lettres] ne se referme plus correctement.
+    - "La [barrière](item) aux bennes d'ordures est sorti des gondes."

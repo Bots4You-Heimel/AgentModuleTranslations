@@ -1,0 +1,38 @@
+fr:
+  intent:
+    ticket.damage_report/outdoor_environment.trees_and_hedges:
+    - '[gazon](plant)'
+    - tondre le gazon
+    - tondre
+    - 'soigner [gazon](plant) '
+    - tondre le [gazon](plant)
+    - tailler une [haie](plant)
+    - élaguez [arbre](plant)
+    - rabattez [arbuste](plant)
+    - Le [gazon](plant) doit être tondu.
+    - La [pelouse](plant) devrait être tondue.
+    - "La [haie](plant) à côté de [l'entrée de la maison](outdoor_location) dépasse\
+      \ le [trottoir](outdoor_location)"
+    - "Les [broussailles](plant) s'élèvent dans [l'entrée](outdoor_location)"
+    - "La [plante vivace](plant) de [l'entrée](outdoor_location) dépasse le [trottoir](outdoor_location)"
+    - Les [buissons](plant) de la [maison](outdoor_location) dépassent le [trottoir](outdoor_location)
+    - "La [haie](plant) à [l'entrée](outdoor_location) prend trop de place."
+    - 'Les [haies](plant) doivent être taillées. '
+    - Laissez tailler les [abres](plant).
+    - "Quelqu'un devrait tondre le [jardin](outdoor_location)"
+    - "Quelqu'un devrait balayer les [bouteilles de verre](mess)  devant [l'entreé\
+      e de la maison](outdoor_location)."
+    - Les [arbres](plant) doivent être taillés de toute urgence.
+    - "Pouvez-vous envoyer quelqu'un pour tailler la [haie](plant) s'il vous plaî\
+      t?"
+    - "Quelqu'un peut tailler les [arbres](plant) ?"
+    - Veuillez laisser rabattre les [haies](plant).
+    - "Les [arbres](plant) ont besoin d'être rabattu de tout urgence."
+    - Pouvez-vous laisser élaguer des [arbres](plant) ?
+    - Les [épines](plant) dépassent [les chemins](outdoor_location) de la maison.
+    - Les [buissons](plant) devraient être taillés.
+    - "Quelqu'un doit rabattre les [arbustes](plant) à côté de [l'accès maison](outdoor_location). "
+    - 'Les [arbres](plant) assombrent mon [appartement](indoor_location), pouvez vous
+      laisser les tailler ? '
+    - "Le [buisson](plant) [à côté de l'accès maison](outdoor_location) doit être\
+      \ taillé de toute urgence."

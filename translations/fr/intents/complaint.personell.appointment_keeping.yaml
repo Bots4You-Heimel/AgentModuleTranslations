@@ -1,0 +1,51 @@
+fr:
+  intent:
+    ticket.complaint/personell.appointment_keeping:
+    - manque de poncutalité, retard
+    - ponctualité
+    - fiabilité
+    - fiabilité
+    - manque de fiabilité
+    - ponctualité
+    - rendez-vous manqué
+    - '[artisan](person) en retard'
+    - '[conseiller client](person) pas fiable'
+    - manque de fiabilité du [conseiller client](person)
+    - rendez-vous pas respecté
+    - rendez-vous manqué hier
+    - rendez-vous foiré
+    - "Le [peintre](person) n'est pas venu comme prévu."
+    - "Personne n'est venu au rendez-vous prévu."
+    - "Le rendez-vous d'hier n'a oas été respecté."
+    - Votre [employé](person) a posé un lapin à moi.
+    - "Les [employés](person) de l'entreprise [Fischer](company) n'étaient pas ponctuels."
+    - '[Monsieur Vignard](named person) a posé un lapin à moi.'
+    - "Le [gestionnaire immobilier](person) n'a pas respecté son rendez-vous."
+    - "[L'artisan](person) n'est pas venu à l'heure convenue."
+    - "Votre [conseiller clientèle](person) ne m'a pas appelé hier."
+    - "La [conseillière clintèle](person) était encore en retard aujourd'hui."
+    - "Le [chauffagiste](person) de l'entreprise [Sanitech](company) n'est pas venu\
+      \ hier."
+    - "[L'électricien](person) m'a posé un lapin avant-hier.\n"
+    - "Mon [agent](person) n'a pas annulé notre rendez-vous et ne s'est pas présenté\
+      \ aujourd'hui."
+    - Le [concierge](person) est arrivé beaucoup trop tard.
+    - "Votre [gestionnaire immobilier](person) ne n'est pas venu et il ne m'a pas\
+      \ informé."
+    - "Les [carreleurs](person) sont arrivés plus tôt que prévu et je n'étais pas\
+      \ là."
+    - "Personne n'est venu, même si nous avions un rendez-vous à 11 heures du matin."
+    - "Les [couvreurs](person) devraient être ici à 14 heures aujourd'hui, mais ils\
+      \ ne sont pas venus."
+    - "J'attendais les [monteurs d'échafaudage](person), mais ils ne sont jamais venus."
+    - "Hier, j'avais rendez-vous avec [Mme Boisson](named person), mais elle n'est\
+      \ pas venue"
+    - "[L'installateur](person) pour ma nouvelle [cusinière](item) ne s'est pas pré\
+      senté à l'heure convenue."
+    - "J'ai pris toute la journée de congé et [l'artisan](person) n'est pas venu."
+    - "J'ai dû reporter mes rendez-vous parce que les [plombiers](person)  sont arrivé\
+      s beaucoup plus tard que prévu."
+    - "Je attandais trois heures jusqu'à ce que j'ai appris  que vous ne pouvez pas\
+      \ vous rendre au rendez-vous !"
+    - '[Mme Heinze](named person) a encore une fois fait foirer un rendez-vous avec
+      moi.'

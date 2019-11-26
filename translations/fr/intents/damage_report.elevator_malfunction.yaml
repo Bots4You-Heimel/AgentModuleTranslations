@@ -1,0 +1,38 @@
+fr:
+  intent:
+    ticket.damage_report/elevator_malfunction:
+    - ascenseur endommagé
+    - "dysfonctionnement de l'ascenseur"
+    - "[L'ascenseur](indoor_location) cassé "
+    - '[monte-escaliers] défectueux'
+    - '[ascenseur](indoor_location) endommagé'
+    - "[ascenseur](indoor_location) s'arrête"
+    - "[L'ascenseur](indoor_location) ne vient pas"
+    - "[L'ascenseur](indoor_location) ne fonctionne pas"
+    - "Les touches [d'ascenseur](indoor_location) ne réagissent pas."
+    - "Personne ne répond en appuyant sur le bouton de [l'interphone d'urgence](item) "
+    - "[L'interphone d'urgence](item) dans [l'ascenseur](indoor_location) grésille."
+    - "Le [bouton de sonnette de l'ascenseur](item) ne produit pas de son."
+    - "La [sonnette](item) dans [l'ascenseur](indoor_location) ne sonne pas"
+    - "Rien se passe en appuyant sur les [touches d'ascenseur](item)"
+    - "Certaines [touches d'ascenseur] ne font rien malgré l'actionnement multiple."
+    - "La [sonnette](item) dans [l'ascenseur](indoor_location) ne fonctionne pas"
+    - "Le [panneau de commande](item) [d'ascenseur](indoor_location) ne montre aucune\
+      \ réponse."
+    - "Je ne vois aucune réaction quand j'appuie sur les [touches d'étage](item)"
+    - "Le [bouton d'ascenseur](item) ne fonctionne pas"
+    - "La [touche d'ascenseur](item) est endommagée"
+    - "[L'ascenseur](indoor_location) s'arrête au demi-étage."
+    - "J'ai déjà été coincé [dans l'ascenseur](indoor_location) trois fois !"
+    - "[L'ascenseur](indoor_location) ne vient pas et semble être bloqué."
+    - "[L'ascenseur](indoor_location) est bloqué entre les étages."
+    - "[L'ascenseur](indoor_location) est bloqué très souvent."
+    - "[L'ascenseur](indoor_location) est bloqué tout le temps."
+    - "[L'ascenseur](indoor_location) est coincé."
+    - "[L'ascenseur](indoor_location) est coincé de nouveau."
+    - "[L'ascenseur](indoor_location) s'est arrêté."
+    - "[L'ascenseur](indoor_location) est de nouveau bloqué."
+    - "La [touche d'ascenseur](item) au [22e étage](floor) ne fonctionne plus"
+    - "[L'ascenseur](indoor_location) ne vient plus et je ne peux pas monter autant\
+      \ de [marches](item)"
+    - "C'est la troisème fois que j'étais coincé dans [l'ascenseur](indoor_location)."

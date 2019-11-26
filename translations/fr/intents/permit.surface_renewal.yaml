@@ -1,0 +1,30 @@
+fr:
+  intent:
+    ticket.damage_report/surface_renewal:
+    - renouvellement du sol
+    - renouvellement du [carrelage](surface)
+    - renouvellement du [revêtement de sol](surface)
+    - remplacement du [sol](surface)
+    - rénovation du [sol](surface)
+    - rénovation du [sol](surface)
+    - remplacement du [carrelage](surface)
+    - '[carrelage](surface) devrait être renouvelé'
+    - rénovation du [sol stratifié](surface)
+    - renouvellement de la [moquette](surface)
+    - "À cause un dégat d'eau le [sol stratifié](surface) s'est gonflé et doit être\
+      \ remplacé."
+    - Le [revêtement du sol](surface) devrait être renouvelé.
+    - Le [sol en PVC] est totalement cassé et doit être posé de nouveau.
+    - Le [sol en PVC](surface) est fortement endommagé et devrait être posé de nouveau.
+    - "Le [sol stratifié](surface) dans mon [appartement](indoor_location) a un dé\
+      gat d'eau et doit être renouvelé."
+    - Dans mon [appartement](indoor_location), un noveau [stratifé](surface) doit être posé.
+    - Dans ma chambre le [sol stratifié](surface) est gonflé et doit être remplacé.
+    - Le [revêtement du sol](surface) est gravement endommagé et devrait être remplacé.
+    - Le [carreglage](surface) dans la [cuisine](indoor_location) devrait être renouvelé.
+    - Dans la [salle de bain](indoor_location) un nouveau [carrelage](surface) doit être installé.
+    - Le [sol](surface) dans la [cuisine](indoor_location) doit être renové avec un nouveau [carrelage](surface).
+    - Quelques [carreaus](surface) dans la [salle de bain](indoor_location) doivent être remplacés par des nouveaux.
+    - Les [carreaux](surface) dans la [cuisine intégrée](indoor_location) doivent absolument remplacés.
+    - "Je vous en prie que la [moquette](surface) de [l'entrée](indoor_location) soit\
+      \ remplacée."

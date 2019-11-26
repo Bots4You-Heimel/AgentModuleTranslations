@@ -1,0 +1,34 @@
+fr:
+  intent:
+    ticket.damage_report/water_leak:
+    - fuite
+    - "défaut d'étachnéité"
+    - qui fuit, non étanche
+    - goutte
+    - Le [robinet](sanitary_item) goutte
+    - '[robinetterie](sanitary_item) fuite.'
+    - '[chauffage](sanitary_item) fuit'
+    - '[lavabo](sanitary_item) gouttant'
+    - '[raccord de tuyau](sanitary_item) goutte'
+    - "La [gouttière](item) n'est plus étanche !"
+    - "La [gouttière](item) n'est plus étanche."
+    - Le [meuble sous vasque](sanitary_item) fuit.
+    - "Le [tuyau de descente](item) à [l'entrée de la maison](outdoor_location) doit\
+      \ être étanché."
+    - Il y a une [flaque](mess)  sous un [radiateur](sanitary_item).
+    - "Un des [radiateurs](sanitary_item) a perdu de l'eau."
+    - "J'ai découvert de l'eau au-dessous du [radiateur](sanitary_item) de [salle\
+      \ de bain](indoor_location)."
+    - Un [radiateur](sanitary_item) [dans mon appartement](indoor_location) goutte.
+    - "Le [joint](sanitary_item) de la [vanne d'arrêt](sanitary_item) n'est plus é\
+      tanche."
+    - "J'ai trouvé un défaut d'étachnéité"
+    - La [douche](sanitary_item) goutte sans cesse
+    - Je crois la [baignoire](sanitary_item) fuite.
+    - "Le [radiateur](sanitary_item) perd de l'eau."
+    - "Il y a une flaque d'eau au-dessous un [radiateur](sanitary_item)"
+    - Le [radiateur au sous sol](sanitary_item) a une fuite.
+    - Mon [lavabo](sanitary_item) fuit.
+    - "Quelqu'un peut étancher [le tuyau de descente](item) ?"
+    - "Un des [radiatuers](sanitary_item) a perdu de l'eau."
+    - "Le [radiateur](sanitary_item) perd de l'eau."

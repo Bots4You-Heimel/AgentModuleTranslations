@@ -1,0 +1,19 @@
+fr:
+  intent:
+    ticket.permit:
+    - autorisation
+    - permission
+    - puis-je, je peux, est-ce que je peux
+    - demander une autorisation
+    - demander un permission
+    - une permission
+    - Je suis permis de faire quelque chose ?
+    - "C'est permis ?"
+    - Une autorisation est nécessaire ?
+    - "C'est un problème ?"
+    - "J'ai besoin d'une autorisation."
+    - Je voudrais convenir quelque chose.
+    - Pour quoi il me faut une autorisation ?
+    - "Sie possible j'aimerais demander une autorisation."
+    - On peut demander une permission ici ?
+    - "Je pense j'ai besoin d'une autorisation ou quelque chose ça"

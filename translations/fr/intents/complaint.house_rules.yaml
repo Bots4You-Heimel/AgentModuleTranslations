@@ -1,0 +1,20 @@
+fr:
+  intent:
+    ticket.complaint/house_rules:
+    - "règlement d'ordre intérieur, règlement intérieur, règlement de copropriété"
+    - règle
+    - "infraction à une règle, violation d'une règle"
+    - règles de la maison
+    - respect au règlement intérieur, respect du règlement intérieur, respecter le règlement intérieur, respecter le règlement intérieur
+    - respect aux règles, respecter les règles
+    - "infraction à une règle, violation d'une règle"
+    - infraction au règlement intérieur, violation du règlement intérieur
+    - violation du règlement intérieur, négligence du règlement intérieur
+    - Le [voisin] (person) ignore le règlement intérieur
+    - Les autres [locataires] (person) ne respectent pas le règlement intérieur
+    - ici personne respecte le règlement intérieur
+    - Personne ne se préoccupe des règles [dans la maison](indoor_location)
+    - Chez nous, les [locataires] (person) ne prennent pas vraiment les règles de la maison au sérieux.
+    - '[M. Delacroix] (named_person) ne respecte pas les règles de la maison.'
+    - '[M. Duchamp](named_person) ne remplit pas ses obligations de locataire.'
+    - Mon [voisin] (person), [M. Bernard] (named_person) ne respecte aucune règle!

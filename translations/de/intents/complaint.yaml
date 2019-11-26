@@ -3,44 +3,44 @@ de:
     ticket.complaint:
     - Beschwerde
     - Beanstandung
-    - "Unm\xF6glichkeit"
-    - "\xC4rgerniss"
+    - Unmöglichkeit
+    - Ärgernis
     - Niemand macht
     - Beschwerde einreichen
     - Beanstandung
     - etwas beanstanden
     - Das geht garnicht.
     - Es geht garnicht.
-    - Kein [Schwein](animal) macht
+    - Kein [Schwein](animal)  macht
     - hab ne beschwerde
     - Will mich beschweren
     - Das regt mich auf.
     - Ich rege mich auf.
-    - "Ich m\xF6chte mich beschweren."
+    - Ich möchte mich beschweren.
     - Ich habe eine Beschwerde.
-    - "Das ist sehr \xE4rgerlich."
+    - Das ist sehr ärgerlich.
     - Es kann nicht sein.
     - Ich muss mich Beschweren.
-    - "Ich bin sehr ver\xE4rgert."
+    - Ich bin sehr verärgert.
     - Hier macht niemand
-    - "Es ist zum verr\xFCckt werden"
-    - "Es ist ein gro\xDFes \xE4rgernis"
+    - Es ist zum verrückt werden
+    - Es ist ein großes Ärgernis
     - So etwas kann nicht sein
-    - "Es ist eine Unm\xF6glichkeit"
+    - Es ist eine Unmöglichkeit
     - Etwas geht mir auf die Nerven.
-    - "Ich m\xF6chte etwas beanstanden."
+    - Ich möchte etwas beanstanden.
     - Ich habe eine Beanstandung.
     - Das ist nicht zum aushalten
     - Also ich mache das nicht
-    - "Kann ich mich \xFCber etwas beschweren?"
+    - Kann ich mich über etwas beschweren?
     - Ich will eine Beschwerde einreichen.
-    - "Sie m\xFCssen etwas dagegen Unternehmen."
-    - "Geht ja mal gar nich wie das hier abl\xE4uft"
-    - "Es gibt etwas, \xFCber dass ich mich beschweren muss."
+    - Sie müssen etwas dagegen Unternehmen.
+    - Geht ja mal gar nich wie das hier abläuft
+    - Es gibt etwas, über dass ich mich beschweren muss.
     - Kann man hier auch eine Beschwerde einreichen?
-    - "Ich muss mich \xFCber die neuen [Mieter](person) beschweren"
-    - "Ich \xE4rgere mich sehr \xFCber das Verhalten meiner [Nachbarn](person)."
-    - "Ich m\xF6chte mich \xFCber die [Nachbarn](person) beschweren."
+    - Ich muss mich über die neuen [Mieter](person) beschweren
+    - Ich ärgere mich sehr über das Verhalten meiner [Nachbarn](person).
+    - Ich möchte mich über die [Nachbarn](person) beschweren.
     - Ich habe ein Problem mit [Frau Janssen](named_person) aus dem [1. Stock](floor)
-    - "Ich habe eine Beschwerde \xFCber [Frau Schluz](named_person)!"
-    - "Es muss sich jetzt endlich mal was an den Umst\xE4nden hier \xE4ndern!"
+    - Ich habe eine Beschwerde über [Frau Schluz](named_person)!
+    - Es muss sich jetzt endlich mal was an den Umständen hier ändern!

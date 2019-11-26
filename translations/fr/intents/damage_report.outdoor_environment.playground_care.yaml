@@ -1,0 +1,53 @@
+fr:
+  intent:
+    ticket.damage_report/outdoor_environment.playground_care:
+    - "danger à l'aire de jeux"
+    - '[équipement de jeu](item), [jeux](item)'
+    - '[bac à sable](item)'
+    - '[balançoire](item)'
+    - '[terrain de jeux](outdoor_location) [sale](mess) '
+    - zone dangereux [aire de jeux](outdoor_location), endroit dangereux [aire de jeux](outdoor_location)
+    - '[aire de jeux](outdoor_location) [sale](mess) '
+    - '[balançoire](item) manque'
+    - '[balançoire suspendue] cassée'
+    - '[terrain de jeux](outdoor_location) inacceptable'
+    - "Il y a des [déchets](mess)  sur [l'aire de jeux](outdoor_location)"
+    - Il y a des [morceaux de verre](mess)  sur le [terrain de jeux]
+    - Il y a des [bouteilles de verre](mess)  au [terrain de jeux](outdoor_location)
+    - "Il y a des [bouteilles de bière](outdoor_location) partout sur [l'aire de jeux](mess) "
+    - "Quelqu'un devrait inspecter le [terrain de jeux](outdoor_location)."
+    - "Il y a des [ordures](mess)  des [jeunes](person) à [l'aire de jeux](outdoor_location)"
+    - "Chez nous, il y a des [bouteilles d'alcool](mess)  dans le [sable du terrain\
+      \ de jeux](outdoor_location) "
+    - Les [enfants](person) ne peuvent plus jouer sur [le terrain de jeux](outdoor_location).
+    - 'On ne peut pas laisser son [enfant](person) au [terrain de jeux](outdoor_location)
+      à cause des [ordures](mess) '
+    - "On a trouvé des [serengues](mess)  sur [l'aire de jeux](outdoor_location)"
+    - "Il y a des [restes](mess)  de la fête d'hier soir sur notre [terrain de jeux](outdoor_location) "
+    - Les [poubelles](item) du [terrain de jeux](outdoor_location) débordent.
+    - "Quelqu'un doit enleverr les [bouteillles de verre](mess)  à [l'aire de jeux](outdoor_location)."
+    - Il y a des (morceaux de verre](mess)  dans la sable du [terrain de jeux](outdoor_location)
+    - "Il y a des [morceaux de verre](mess)  sur [l'aire de jeux] qui doivent être\
+      \ énlevés de toute urgence."
+    - "Quelqu'un doit enlever les [morceaux de verre](mess)  qui se traînent sur le\
+      \ [terrain de jeux](outdoor_location), risque de blessures !"
+    - Mes [enfants](person) ont trouvé des [tessons](mess)  dans le [bac à sable](item) du [terrain de jeux](outdoor_location)
+    - Veuillez laisser enlever les [morceaux de verre](mess)  sur le [terrain de jeux](outdoor_location).
+    - Les [enfants](person) de [Madame Gabriel](named person) ont endommagé le [jeux à grimper](item)
+    - "Il y a des [morceaux de verre](mess)  sur [l'aire de jeux], qui doivent être\
+      \ enlevés toute suite !"
+    - "S'il vous plaît, laissez enlever les [tessons](mess)  sur le [terrain de jeux](outdoor_location)\
+      \ avant que quelqu'un se blesse."
+    - "Nous avons trouvé des [tessons](mess)  dans le sable de [l'aire de jeux](outdoor_location).\
+      \ Veuillez les enlever dès que possible."
+    - Il y a des [ordures](mess)  sur le [terrain de jeux](outdoor_location)
+    - Il y a des [ordures](mess)  sur le [terrain de jeux](outdoor_location)
+    - "Quelqu'un devrait enlever les [ordures] sur [l'aire de jeux](outdoor_location)."
+    - "Pouvez vous envoyer quelqu'un qui s'occupe des [déchets](mess)  sur le [terrain\
+      \ de jeux]?"
+    - "Veuillez inspecter [l'aire de jeux](outdoor_location), il y a des [ordures](mess)\
+      \  partout."
+    - "Les gens laissent leurs [déchets](mess)  à côté du [banc](item) sur [l'aire\
+      \ de jeux](outdoor_location), de nouveau aujourd'hui."
+    - "Il y a de nouveau des [ordures](mess)  à [l'aire de jeux](outdoor_location)."
+    - "Quelqu'un peut enlever les [ordures](mess)  du [terrain de jeux](outdoor_location)"

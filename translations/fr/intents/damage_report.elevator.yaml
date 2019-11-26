@@ -1,0 +1,12 @@
+fr:
+  intent:
+    ticket.damage_report/elevator:
+    - "[L'ascenseur](indoor_location) est cassé "
+    - '[ascenseur](indoor_location) defectueux'
+    - "Les [portes d'ascenseur] ne s'ouvrent pas."
+    - "La [porte droite de l'ascenseur](item) est coincée."
+    - "La [porte](item) d'ascenseur](indoor_location) ne s'ouvre pas."
+    - "La [porte d'ascenseur] reste fermée"
+    - "Les [portes](item) [d'ascenseur](indoor_location) restent fermées"
+    - "L'une des [portes d'ascenseur](item) s'arrête en ouvrant."
+    - "Une [porte](item) de [l'ascenseur](indoor_location) ne s'ouvre qu'à moitié"

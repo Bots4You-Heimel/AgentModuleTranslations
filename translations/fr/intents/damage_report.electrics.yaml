@@ -1,0 +1,24 @@
+fr:
+  intent:
+    ticket.damage_report/electrics:
+    - Aucun courant
+    - mauvais contact
+    - mauvais contact
+    - plus de courant
+    - "J'ai percé un câble d'alimentation."
+    - "La [lampe](appliance) [d'entrée](outdoor_location) a un mauvais contact."
+    - Le [bloc multiprises](appliance) a un court-circuit.
+    - Mon [frigo](appliance) semble de ne pas fonctionner correctement.
+    - Mon [interphone](appliance) ne fonctionne plus.
+    - "Le réveil ne se laisse pas s'allumer"
+    - "[L'interphone](appliance) ne fonctionne pas, je ne peux pas entendre personne."
+    - "[L'ouvre-porte](appliance) de [l'interphone](appliance) ne marche plus."
+    - Qui peut venir inspecter mon [interphone](appliance) ?
+    - Le [chauffe-eau](appliance) dans ma [salle de bain](indoor_location) est défectueux.
+    - Le [détecteur de mouvement](appliance) du [corridor](indoor_location) ne fonctionne pas.
+    - Ma [prise](appliance) est défectueuse.
+    - Le [système de ascenseur] a un court-circuit.
+    - Mon [four](sanitary_item) ne se laisse pas allumer.
+    - "Ma [cuisinière](sanitary_item) ne s'allume plus."
+    - Ma [cusinière](sanitary_item) ne se laisse plus allumer.
+    - Mon [four](sanitary_item) ne se laisse plus allumer.

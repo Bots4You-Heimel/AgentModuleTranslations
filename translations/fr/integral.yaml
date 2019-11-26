@@ -12,7 +12,7 @@ fr:
   - chaudière
   - pompe de circulation
   - "réservoir d'eau chaude, accumulateur d'eau chaude, stockage d'eau chaude"
-  - chaudière
+  - chaudière, chauffe-eau
   - pompe de chaleur
   - accumulateur de chaleur, accumulateur thermique, réservoir de chaleur, réservoir thermique
   GasCentralHeating:
@@ -84,7 +84,7 @@ fr:
   - douche arrondie, douche ronde
   - porte de douche
   Sink:
-  - lavabo, table toilette
+  - lavabo, table toilette, meuble sous vasque
   - siphon
   - siphon
   - évier
@@ -110,7 +110,7 @@ fr:
   Bidet:
   - bidet
   Flowheater:
-  - chauffe-eau instantané
+  - chauffe-eau, chauffe-eau instantané
   VisitorReception:
   - accueil des visiteurs, acceuil visiteur
   Doorbell:
@@ -125,7 +125,7 @@ fr:
   - carillon de porte
   - clochette
   DoorOpener:
-  - "touche d'ouverture automatique"
+  - "touche d'ouverture automatique, ouvre-porte"
   - ouvre-porte
   Intercom:
   - interphone

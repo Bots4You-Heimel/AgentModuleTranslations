@@ -1,0 +1,45 @@
+fr:
+  intent:
+    ticket.complaint:
+    - plainte, recours
+    - réclamation
+    - impossibilité
+    - contrariété, scandale
+    - personne ne fait
+    - déposer une plainte, porter plainte
+    - critique, réclamation
+    - critiquer
+    - Ça ne marche pas.
+    - Ça ne marche pas.
+    - "J'ai une plainte"
+    - Je veux me plaindre
+    - "Ça m'énerve."
+    - Je suis contrarié.
+    - Je vourdrais me plaindre.
+    - "J'ai une plainte"
+    - "C'est très énervant."
+    - "C'est impossible."
+    - Il faut que je me plains.
+    - Je suis très contrarié.
+    - 'Ici personne ne fait '
+    - "C'est de la folie"
+    - "C'est une grosse contrariété."
+    - Une telle chose ne peut pas être
+    - "C'est une impossibilité"
+    - "Quelque chose m'énerve."
+    - Je veux me plaindre de quelque chose.
+    - "J'ai une plainte"
+    - "Ce n'est pas supportable."
+    - Donc je ne fais pas ça
+    - Puis-je me plaindre de quelque chose?
+    - Je veux déposer une plainte.
+    - Vous devez faire quelque chose à ce sujet.
+    - "ce qui se passe ici n'est pas acceptable"
+    - Il y a quelque chose dont je dois me plaindre.
+    - Peut-on aussi déposer une plainte ici?
+    - 'Je dois me plaindre des nouveaux [locataires](person) '
+    - Je suis très contrarié par le comportement de mes [voisins](person)
+    - Je voudrais me plaindre des [voisins](person) .
+    - "J'ai un problème avec [Mme Petit](named person) due [1er étage](floor)"
+    - "J'ai une plainte concernant [Mme Richard](named person)!"
+    - Il faut que ces conditions ici changent finalement!

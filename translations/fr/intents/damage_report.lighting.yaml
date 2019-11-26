@@ -1,0 +1,67 @@
+fr:
+  intent:
+    ticket.damage_report/lighting:
+    - '[ampoule](appliance)'
+    - '[éclairage](appliance)'
+    - '[lumière](appliance)'
+    - "[lumière de cage d'escalier](appliance)"
+    - "changement d'ampoule"
+    - changement [ampoule](appliance)
+    - nouveaux [tubes au néon](appliance)
+    - changer [lampe](appliance)
+    - '[lumière](appliance) ne fonctionne pas'
+    - '[lampe](appliance) tombé en panne'
+    - '[lumière](appliance) ne fonctionne pas '
+    - des [néons](appliance) clignotant !
+    - '[néon](appliance) clignote'
+    - "Le [interrupteur](item) n'est plus en bon état."
+    - '[réverbère] sombre'
+    - "[L'éclairage](appliance) ne fonctionne pas."
+    - "La [lumière](appliance) à la [porte d'entrée](outdoor_location) est défectueux."
+    - '[Devant la maison](outdoor_location) la [lumière](appliance) clignote.'
+    - "La [lumière](appliance) à la [porte de la maison](outdoor_location) ne s'allume\
+      \ plus."
+    - "La [lampe](appliance) à [l'entrée de la maison](outdoor_location) doit être\
+      \ remplacée"
+    - La [lumière](appliance) [derhors](outdoor_location) [à la maison](outdoor_location) clignote.
+    - "[L'éclaireage extérieur](appliance) ne fonctionne plus."
+    - "[À l'extérieur](outdoor_location) de la [maison](outdoor_location) [l'éclairage](appliance)\
+      \ n'est plus intact."
+    - "La [lampe](appliance) de la [porte de la maison](outdoor_location) ne s'allume\
+      \ plus."
+    - La [lumière](appliance) de la [porte de la maison](outdoor_location) est défectueuse.
+    - "La [lampe](appliance) dans [l'entrée](outdoor_location) est grillée."
+    - "[L'ampoule](appliance) de [l'éclaireage extérieur] doit être remplacé."
+    - "La [lampe](appliance) au-dessus de la [porte d'entrée](outdoor_location) ne\
+      \ fonctionne pas."
+    - "La [lumière](appliance) de la [lampe de la porte d'entrée] pâlit."
+    - La [lumière](appliance) clignote dans la [cave](indoor_location).
+    - "Quelqu'un a volé toutes les [ampoules](appliance) du [couloir](indoor_location)."
+    - "Les [ampoules](appliance) de la [cage d'escalier](indoor_location) ont été\
+      \ volées."
+    - "[L'éclaireage extérieur](appliance) [devant l'entrée](outdoor_location) est\
+      \ faible."
+    - "La [lampe](outdoor_location) [d'entrée](appliance) a un mauvais contact."
+    - "La [lumière](appliance) clignote dans [l'ascenseur](indoor_location)"
+    - "La [lumière](appliance) dans [l'ascenseur](indoor_location) ne fonctionne pas."
+    - "La [lumière](appliance) ne fonctionne plus dans [l'ascenseur](indoor_location)"
+    - "La [lampe](appliance) dans [l'ascenseur](indoor_location) est cassée."
+    - "La [lampe](appliance) du [système d'ascenseur](indoor_location) est grillé\
+      e."
+    - "[L'éclairage](appliance) de [l'ascenseur](indoor_location) est en panne."
+    - "La [lampe](appliance) ne fonctionne plus dans [l'ascenseur]."
+    - "[L'éclairage](appliance) dans [l'ascenseur](indoor_location) doit être réparé\
+      e de toute urgence."
+    - "Veuillez remplacer la [lampe](appliance) cassée dans [l'ascenseur](indoor_location)"
+    - "La [lampe](appliance) dans [l'ascenseur](indoor_location) clignote seulement."
+    - "Il est sombre dans [l'ascenseur](indoor_location)"
+    - "La [lampe](appliance) ne s'allume pas"
+    - La [lumière](indoor_location) clignote das la [cave](appliance)
+    - "La [lumière](appliance) à [l'escalier de la cave](indoor_location) ne s'allume\
+      \ plus"
+    - La [lampe](appliance) au [couloir](indoor_location) devrait être remplacée de toute urgence.
+    - "Veuillez remplacer [l'éclairage](appliance) dans la [cage d'escalier](indoor_location)."
+    - "La [lumière](appliance) ne fonctionne plus au [couloir](indoor_location), remplacez\
+      \ le [tube néon] s'il vous plaît."
+    - "La [lumière](appliance) dans la [cage d'escalier](indoor_location) clignote,\
+      \ c'est dangereux"

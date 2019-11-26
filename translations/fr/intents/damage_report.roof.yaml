@@ -1,0 +1,26 @@
+fr:
+  intent:
+    ticket.damage_report/roof:
+    - endommagement du toit, dommage au toit
+    - '[toit](outdoor_location) pas étanche'
+    - '[toit](outdoor_location) non étanche'
+    - tuile manquant
+    - dégâts causés par la tempête tuile
+    - dégâts causés par la tempête carton gourdonné
+    - dégâts causés par la tempête [gouttière](item)
+    - "Le [toit](outdoor_location) n'est pas étanche."
+    - Le [toit](outdoor_location) est endommagé.
+    - "Le[toit](outdoor_location) n'est pas étanche au coté nord."
+    - Les tuiles se sont détachées lors de la dernière tempête.
+    - En bas, il y a des tuiles détachées [devant la maison](outdoor_location)
+    - "Il semble qu'il y a des dégâts au [toit](outdoor_location) causés par la tempê\
+      te."
+    - Le vent a démoli quelques tuiles.
+    - Il y manquent quelques tuiles sur le toit de la maison.
+    - Il manque quelques places sur le [toit](outdoor_location).
+    - "Quelques tuiles sont tombées du [toit] à cause d'une tempête."
+    - Plusieurs tuiles ne sont plus existantes.
+    - Beaucoup de tuiles se sont détachées et sont tombées du [toit](outdoor_location).
+    - Le dernier orage a  emporté une tuile
+    - Il goutte par le [toit](outdoor_location)
+    - Plein de tuiles sont tombées du [toit](outdoor_location).

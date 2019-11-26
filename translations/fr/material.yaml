@@ -1,0 +1,30 @@
+fr:
+  Material:
+  - matériel
+  Glas:
+  - verre
+  - en verre, de verre
+  Metal:
+  - métal
+  - de fer
+  - fer
+  - acier
+  - cuivre
+  - métallique
+  - acier affiné
+  Porcelain:
+  - porcelaine
+  Plastic:
+  - plastique
+  StoneConcreteBrick:
+  - béton
+  Stone:
+  - pierre
+  Brick:
+  - brique, tuile
+  - couvert de tuiles
+  Concrete:
+  - béton granuleux, béton lavé
+  - ciment
+  - cimenté
+  - betonné

@@ -1,0 +1,18 @@
+fr:
+  intent:
+    ticket.damage_report/painting:
+    - papier peint endommagé
+    - '[papier peint] vieux'
+    - "La couleur s'écaille"
+    - peindre le [mur](surface)
+    - "tapisser [l'entrée](indoor_location)"
+    - Doit être peint
+    - '[Peintre](person) doit venir'
+    - "Quelqu'un devrait peintre "
+    - Ici, on devrait tapisser les murs
+    - Il y a beaucoup de taches laides sur le mur du [couloir](indoor_location).
+    - "Le [papier peint](surface) dans la [cage d'escalier](indoor_location) se dé\
+      tache du mur."
+    - Le [mur de la maison](outdoor_location) doit être repeint
+    - 'Il faut tapisser '
+    - Le [papier à peindre gros grains](surface) dans la [salle de bain](indoor_location) est taché.

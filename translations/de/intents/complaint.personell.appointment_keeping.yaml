@@ -1,16 +1,16 @@
 de:
   intent:
     ticket.complaint/personell.appointment_keeping:
-    - "Unp\xFCnktlichkeit"
+    - Unpünktlichkeit
     - Termintreue
-    - "Zuverl\xE4ssigkeit"
-    - "Verl\xE4sslichkeit"
-    - "Unzuverl\xE4ssigkeit"
-    - "P\xFCnklichkeit"
+    - Zuverlässigkeit
+    - Verlässlichkeit
+    - Unzuverlässigkeit
+    - Pünklichkeit
     - Termin verpasst
-    - "[Handwerker](person) unp\xFCnklich"
-    - "[Kundenbetreuer](person) unzuverl\xE4ssig"
-    - "Zuverl\xE4ssigkeit [Kunderberaterin](person)"
+    - '[Handwerker](person) unpünklich'
+    - '[Kundenbetreuer](person) unzuverlässig'
+    - Zuverlässigkeit [Kunderberaterin](person)
     - Termin nicht eingehalten
     - Gestern Termin verpasst
     - Termin platzen lassen
@@ -18,31 +18,25 @@ de:
     - Zum abgesprochenen Termin ist keiner gekommen.
     - Der Termin gestern wurde nicht eingehalten.
     - Ihre [Mitarbeiterin](person) hat mich versetzt.
-    - "Die [Mitarbeiter](person) der [Firma Fischer](company) waren unp\xFCnktlich."
+    - Die [Mitarbeiter](person) der [Firma Fischer](company) waren unpünktlich.
     - '[Herr Richter](named_person) hat den Termin platzen lassen.'
     - Der [Objektbetreuer](person) hat seinen Termin nicht eingehalten.
     - Der [Handwerker](person) kam nicht zur verabredeten Zeit.
     - Ihr [Kundeberater](person) hat mich gestern nicht angerufen.
-    - "Die [Kundenberaterin](person) war heute wieder zu sp\xE4t."
-    - Der [Heizungsmonteur](person) von der [Firma Sanitech](company) ist gestern
-      nicht gekommen.
+    - Die [Kundenberaterin](person) war heute wieder zu spät.
+    - Der [Heizungsmonteur](person) von der [Firma Sanitech](company) ist gestern nicht gekommen.
     - Der [Elektriker](person) hat mich vorgestern versetzt.
     - Mein [Sachbearbeiter](person) hat nicht abgesagt, und ist heute nicht erschienen.
-    - "Der [Hausmeister](person) kam viel zu sp\xE4t."
+    - Der [Hausmeister](person) kam viel zu spät.
     - Ihr [Objektbetreuer](person) kam nicht und hat nicht abgesagt.
-    - "Die [Flie\xDFenleger](person) kamen fr\xFCher als besprochen und ich war nicht\
-      \ da."
+    - Die [Fließenleger](person) kamen früher als besprochen und ich war nicht da.
     - Keiner ist gekommen, obwohl wir einen Termin um 11 Uhr morgens hatten.
     - Die [Dachdecker](person) sollten heute um 14 Uhr da sein, sind aber nicht gekommen.
-    - "Ich habe auf die [Ger\xFCstbauer](person) gewartet, die sind aber nie da gewesen."
-    - Ich hatte gestern einen Termin mit [Frau Heiden](named_person), aber sie ist
-      nicht erschienen.
-    - "Der [Installateur](person) f\xFCr meinen neuen [Herd](item) ist nicht zum verabredeten\
-      \ Termin erschienen."
+    - Ich habe auf die [Gerüstbauer](person) gewartet, die sind aber nie da gewesen.
+    - Ich hatte gestern einen Termin mit [Frau Heiden](named_person), aber sie ist nicht erschienen.
+    - Der [Installateur](person) für meinen neuen [Herd](item) ist nicht zum verabredeten Termin erschienen.
     - Ich habe mir den ganzen Tag freigenommen und der [Handwerker](person) kam nicht.
-    - "Ich musste meine Termine verlegen, weil die [Klempner](person) viel sp\xE4\
-      ter als verabredet kamen."
-    - "Ich habe drei Stunden gewartet, bis ich erfahren habe, dass sie den Termin\
-      \ nicht einhalten k\xF6nnen!"
+    - Ich musste meine Termine verlegen, weil die [Klempner](person) viel später als verabredet kamen.
+    - Ich habe drei Stunden gewartet, bis ich erfahren habe, dass Sie den Termin nicht einhalten können!
     - '[Frau Heinze](named_person) hat zum wiederholten male einen Termin mit mir
       platzen lassen.'

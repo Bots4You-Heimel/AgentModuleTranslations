@@ -1,67 +1,52 @@
 de:
   intent:
     ticket.complaint/noise:
-    - "Ruhest\xF6rung"
-    - "Lautst\xE4rke"
+    - Ruhestörung
+    - Lautstärke
     - Ruhe
     - Nachtruhe
-    - "Baustellenl\xE4rm"
+    - Baustellenlärm
     - Keine Ruhe
     - Laute Musik
-    - '[Nachbar](person) laut'
-    - "Bauarbeiten st\xF6ren"
+    - '[Nachbar](person)  laut'
+    - Bauarbeiten stören
     - '[Nachbarn](person) zu laut'
     - '[Nachbarn](person) machen Krach'
-    - '[Mieter](person) feiern durch'
+    - '[Mieter](person)  feiern durch'
     - Baustelle zu laut
-    - "L\xE4rm [im Haus](indoor_location)"
+    - Lärm [im Haus](indoor_location)
     - Hier ist es zu laut.
     - Die [Nachbarn](person) sind zu laut!
-    - "Meine [Nachbarn](person) h\xF6ren laute Musik."
-    - "H\xE4lt sich hier denn keiner an die Ruhezeiten!?"
-    - "Die [Nachbarn](person) m\xE4hen w\xE4hrend der Ruhezeit den [Rasen](outdoor_location)."
-    - "Die [Mieter](person) aus dem Erdgeschoss m\xE4hen regelm\xE4\xDFig an Feiertagen\
-      \ den [Rasen](outdoor_location)."
-    - "Die [Mieter](person) \xFCber mir k\xFCrzen den [Rasen](outdoor_location) w\xE4\
-      hrend der Mittagszeit."
-    - "Ich habe das Gef\xFChl, ich bin der einzige, der sich an die Ruhezeiten h\xE4\
-      lt."
-    - "Die [Mieter](person) \xFCber mir baden nachts regelm\xE4\xDFig."
-    - "Es ist mitten in der Nacht und schon wieder wird in der [Wohnung \xFCber mir](indoor_location)\
-      \ geduscht."
-    - "Aus der [Wohnung unter mir](indoor_location) h\xF6re ich nachts st\xE4ndig\
-      \ L\xE4rm aus dem Badezimmer."
-    - "Meine [Nachbarn](person) duschen und baden nachts, das h\xF6rt man [im ganzen\
-      \ Haus](indoor_location)."
-    - "Immer wenn ich gerade einschlafen k\xF6nnte, h\xF6re ich die [Nachbarn](person)\
-      \ duschen. Das nervt!"
-    - Die [Kinder](person) meiner [Nachbarn](person) schreien und trampeln immer.
+    - Meine [Nachbarn](person) hören laute Musik.
+    - Hält sich hier denn keiner an die Ruhezeiten!?
+    - Die [Nachbarn](person) mähen während der Ruhezeit den [Rasen](outdoor_location).
+    - Die [Mieter](person) aus dem [Erdgeschoss](floor) mähen regelmäßig an Feiertagen den [Rasen](outdoor_location).
+    - Die [Mieter](person) über mir kürzen den [Rasen](outdoor_location) während der Mittagszeit.
+    - Ich habe das Gefühl, ich bin der einzige, der sich an die Ruhezeiten hält.
+    - Die [Mieter](person)  über mir baden nachts regelmäßig.
+    - Es ist mitten in der Nacht und schon wieder wird in der [Wohnung über mir](indoor_location) geduscht.
+    - Aus der [Wohnung unter mir](indoor_location) höre ich nachts ständig Lärm aus dem Badezimmer.
+    - Meine [Nachbarn](person) duschen und baden nachts, das hört man [im ganzen Haus](indoor_location).
+    - Immer wenn ich gerade einschlafen könnte, höre ich die [Nachbarn](person) duschen. Das nervt!
+    - Die [Kinder](person)  meiner [Nachbarn](person) schreien und trampeln immer.
     - Meine [Nachbarn](person) sind zu laut und halten die Ruhezeiten nicht ein.
     - Meine [Nachbarn](person) gucken dauernd zu laut Fernsehen.
-    - "Die [Mieter](person) \xFCber mir drehen ihren Fernseher immer zu laut auf."
-    - "Ich h\xF6re dauernd den Fernseher von den [Mietern](person) unter mir."
-    - "Die [Nachbarn](person) \xFCber mir machen st\xE4ndig L\xE4rm w\xE4hrend der\
-      \ Ruhezeiten."
-    - Keiner [im Haus](indoor_location) schert sich um die Ruhezeiten, nie kann man
-      durchschlafen!
-    - "Die Leute aus der [WG \xFCber mir](indoor_location) veranstalten ein Lautes\
-      \ Fest, und ich kann nicht schlafen."
-    - Die Musik meiner [Nachbarn](person) ist viel zu laut.
-    - "Meine [Nachbarn](person) \xFCber mir trampel dauernd laut herum."
-    - Die [Kinder](person) meiner [Nachbarn](person) geben keine Ruhe.
+    - Die [Mieter](person) über mir drehen ihren Fernseher immer zu laut auf.
+    - Ich höre dauernd den Fernseher von den [Mietern](person) unter mir.
+    - Die [Nachbarn](person) über mir machen ständig Lärm während der Ruhezeiten.
+    - Keiner [im Haus](indoor_location)  schert sich um die Ruhezeiten, nie kann man durchschlafen!
+    - Die Leute aus der [WG über mir](indoor_location) veranstalten ein Lautes Fest, und ich kann nicht schlafen.
+    - Die Musik meiner [Nachbarn](person)  ist viel zu laut.
+    - Meine [Nachbarn](person)  über mir trampel dauernd laut herum.
+    - Die [Kinder](person)  meiner [Nachbarn](person)  geben keine Ruhe.
     - Ich kann nicht schlafen, weil die anderen dauernd so laut ist.
-    - "Die \xFCber mir schreien dauern herum."
-    - "Die neuen [Mieter](person) bumsen so laut, dass ich meinen Fernseher nicht\
-      \ h\xF6ren kann."
-    - "Hier ist es so laut, das ich Ohrenst\xF6psel brauche."
-    - Ich muss Ohropax benutzen um Nachts zu schlafen, weil meine [Nachbarn](person)
-      so laut sind,
-    - "Die [Krauses](named_person) geben nie Ruhe. Bis sp\xE4t in die Nacht h\xF6\
-      re ich getrampel und geschrei."
-    - "Hier wird eine laute Party \xFCber mir veranstaltet. Ich rufe gleich die [Polizei](person)."
-    - Ich habe die [Polizei](person) gerufen, weil die [Familie Lange](named_person)
-      so laut ist.
-    - "Die [Kiddies](person) von [Familie Sturm](named_person) machen so einen L\xE4\
-      rm"
+    - Die über mir schreien dauern herum.
+    - Die neuen [Mieter](person)  bumsen so laut, dass ich meinen Fernseher nicht hören kann.
+    - Hier ist es so laut, das ich Ohrenstöpsel brauche.
+    - Ich muss Ohropax benutzen um Nachts zu schlafen, weil meine [Nachbarn](person)  so laut sind.
+    - Die [Krauses](named_person) geben nie Ruhe. Bis spät in die Nacht höre ich Getrampel und Geschrei.
+    - Hier wird eine laute Party über mir veranstaltet. Ich rufe gleich die [Polizei](person).
+    - Ich habe die [Polizei](person) gerufen, weil die [Familie Lange](named_person) so laut ist.
+    - Die [Kiddies](person) von [Familie Sturm](named_person) machen so einen Lärm
     - Es ist so laut, dass ich nicht schlafen kann.
     - Die [Menkes](named_person) sind immer zu laut.

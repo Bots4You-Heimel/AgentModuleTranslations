@@ -1,0 +1,45 @@
+fr:
+  intent:
+    ticket.damage_report/heat:
+    - '[chauffage](sanitary_item) froid'
+    - '[poêle](sanitary_item) pas chaud'
+    - '[chauffage centrale](sanitary_item) froid'
+    - panne de chauffage
+    - froid
+    - '[appartement](indoor_location) froid'
+    - '[chauffage au gaz] cassé'
+    - maison froid
+    - trop froid
+    - pas de [chauffage](sanitary_item)
+    - On meurt de froid ici
+    - '[chauffage](sanitary_item) trop faible'
+    - '[climatisation](sanitary_item) trop misérable'
+    - Beaucoup trop chaud
+    - Il fait trop chaud ici
+    - Les [chauffages](sanitary_item) sur tout les étages ne fonctionnent plus.
+    - "[Tout l'appartement](indoor_location) est froid"
+    - "Je crois il n'est pas assez chaud dans [toute la maison](indoor_location)"
+    - Il est beaucoup trop froid ici.
+    - Ma [cuisinière](appliance) ne se chauffe plus correctement.
+    - Le [poêle](sanitary_item) reste froid
+    - "Le [chauffage individuel](sanitary_item) ne s'allume plus."
+    - "S'il vous plaît, laissez réparer le [chauffage](sanitary_item) par quelqu'un\
+      \ de toute urgence."
+    - Mon [chauffage](sanitary_item) dans ma [chambre à coucher](indoor_location) est froid.
+    - Les [radiateurs](sanitary_item) dans mon [appartement](indoor_location) sont froids.
+    - Le [four](sanitary_item) de ma [cuisinière à gaz] ne chauffe pluls correctement.
+    - Il y a ue [flaque](mess)  sous mon [radiateur](sanitary_item).
+    - Un [radiateur](sanitary_item) dans mon appartement goutte.
+    - "Je transpire comme un [cochon](animal) parce qu'il fait si chaud ici."
+    - Il est très chaud et mal aéré ici
+    - "Le [poêle-cheminée](sanitary_item) n'est pas suffisant, les pièces restent\
+      \ froids."
+    - "Mon [chauffage](sanitary_item) n'est pas assez chaud."
+    - "Mon [chauffage](sanitary_item) chauffe à fond, mais j'ai encore froid."
+    - Les [chauffages](sanitary_item) dans toute la maison sont froids.
+    - Tous les [radiateurs] de la maison sont glacés.
+    - Le [chauffage](sanitary_item) est tombé en panne à tous les étages.
+    - Dans toute la maison le [chauffage](sanitary_item) est tombé en panne.
+    - Le [chauffage] est tombé en panne partout dans la maison.
+    - À mon [étage](indoor_location) le [chauffage](sanitary_item) est tombé en panne.
+    - Le [chauffage](sanitary_item) dans mon [appartement](indoor_location) est tombé en panne.

@@ -7,14 +7,18 @@ fr:
   - machine à laver
   - lave-linge
   - trambour à linge
-
+  - trambour à linge
+  - trambour à linge
   ElectricalOven:
   - four
+  - four à pizza
+  - tube du four
   - four à pizza
   - tube du four
   GasOven:
   - four à gaz
   GasCooktop:
+  - cuisinière à gaz, cusinière au gas, gazinière
   - cuisinière à gaz
   ElectricCooktop:
   - table de cuisson en vitrocéramique
@@ -28,24 +32,25 @@ fr:
   - boîte de distribution
   - distributeur courant
   - armoire électronique
-  - borne électrique
-  - coffre électronique
-  - armoire de comptage
+  - tableau électrique
   - boîte du compteur
+  - armoire de comptage
   Meter:
   - compteur
+  - couteau
   ElectricMeter:
   - "compteur d'électricité, compteur électrique"
-  - "compteur électrique"
+  - compteur électrique
+  - "compteur d'électricité, compteur électrique"
+  - "compteur d'électricité, compteur électrique"
   GasMeter:
   - compteur gaz
   - compteur de gaz
   - compteur gaz, compteur de gaz
-  
+  - compteur gaz, compteur de gaz
   WaterMeter:
   - débitmètre
   - capteur de débit
   - détecteur de débit
   - "compteur d'eau"
-  - débitmètre d'eau, 
-  - débitmètre eau
+  - "débitmètre d'eau,"

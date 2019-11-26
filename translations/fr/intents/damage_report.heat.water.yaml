@@ -1,0 +1,30 @@
+fr:
+  intent:
+    ticket.damage_report/heat.water:
+    - eau chaude
+    - "pas d'eau chaude"
+    - eau pas chaude
+    - eau froide
+    - approvisionnement en eau chaude, alimentation en eau chaude
+    - '[chauffe-eau](sanitary_item) eau froide'
+    - '[douche](sanitary_item) reste froide'
+    - "pas d'eau chaude"
+    - "seulement d'eau froide"
+    - Je ne peux pas prendre une douche chaude.
+    - La [douche](sanitary_item) est froide.
+    - "L'eau reste froide"
+    - "L'eau est trop chaude. On risque de se brûler."
+    - "La [douchette](sanitary_item) est si froide qu'on meurt de froid."
+    - "L'eau est si froide qu'on ne peut pas prendre un bain."
+    - "Il n'y de l'eau chaude nulle part dans [toute la maison](indoor_location)"
+    - "Nous n'avons pas d'eau chaude."
+    - "Depuis hier, il n'y a pas d'eau chaude. Je ne peux pas prendre une douche"
+    - "L'eau chaude ne sorte plus du [lavabo](sanitary_item)"
+    - "Il ne sort que d'eau foride du [robinet](sanitary_item) de la [cuisine](indoor_location)"
+    - "J'ai besoin d'eau chaude."
+    - "La [douche](sanitary_item) ne fournit que de l'eau froide"
+    - "Comment dois-je me doucher avec de l'eau froide?"
+    - "Le [chauffe-eau](appliance) ne démarre pas, il n'y a que de l'eau froide."
+    - "Il ne sorte que de l'eau froide de mon robinet, s'il vous plaît laissez ré\
+      parer ma [chaudière]."
+    - "Quelqu'un doit rétablir l'alimentation en eau chaude.\n"

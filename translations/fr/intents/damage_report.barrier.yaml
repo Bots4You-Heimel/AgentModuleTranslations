@@ -1,0 +1,22 @@
+fr:
+  intent:
+    ticket.damage_report/barrier:
+    - entretien de la clôture
+    - '[clôture](item) cassé'
+    - '[délimitation](item) cassée'
+    - '[pare-vue](item) défectueux'
+    - La [clôture de chasseur](item) est pourrie!
+    - "Quelqu'un a démoli la [cloison](surface) près des [bennes à ordures](item)."
+    - La [barrière](item) des [poubelles](item) est cassée.
+    - "Quelqu'un a cassé la barrière(item) des [bennes à ordures](item) "
+    - "Quelqu'un a arraché la [barrière](item) des [bennes à ordures](item) "
+    - "Quelqu'un a arraché la [barrière](item) des [bennes à ordures](item) "
+    - "La [barrière](item) des [bennes à ordures](item) s'est détaché"
+    - Le [verrouillage](item) des [bennes à ordures](item) est délabré.
+    - La tempête a arraché la [barrière](item) des [bennes de ordures](item).
+    - La [clôture en bois](item)  a une grande défaut.
+    - La [clôture](item) [devant la maison] (outdoor_location)  est complètement tordu.
+    - Le [mur](item) a plusieurs fissures.
+    - Il y a de nombreux gros trous dans le [mur](item)
+    - De grandes parties du [mur](item) sont détruites.
+    - La [clôture en fil](item) a été coupé à plusieurs endroits.

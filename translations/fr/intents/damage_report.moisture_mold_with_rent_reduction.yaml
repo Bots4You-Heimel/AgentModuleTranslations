@@ -1,0 +1,26 @@
+fr:
+  intent:
+    ticket.damage_report/moisture_mold_with_rent_reduction:
+    - 'réduction de loyer à cause de [moisissure](mess) '
+    - moisissure réduction de loyer
+    - 'réduction de loyer [moisissure](mess) '
+    - 'réduction de loyer [moisissure](mess) '
+    - Réduction de loyer à cause de moisissure
+    - 'réduire loyer moisissure '
+    - '[moisissure noire](mess) réduction de loyer'
+    - 'rétention de loyer à cauase de [moisissure](mess) '
+    - Je vais réduire mon loyer à cause de moisissure.
+    - Je voudrais réduire mon loyer à caus de moisissure.
+    - "J'ai de la [moisissure](mess) et je ais retenir mon loyer."
+    - Il y a de la [moisissure](mess) chez moi et je vais réduire mon payement de loyer.
+    - "Je ne paie pas de loyer jusqu'à ce que la [moisissure](mess)  soit éliminé\
+      e."
+    - '[Taches de moisissure](mess) dans la [salle de bain](indoor_location). Réduction
+      de loyer.'
+    - Puis-je réduire mon loyer en cas moisissure ?
+    - "Je vourdrais retenir mon paiement de loyer parce que j'ai encore de la [moisissure](mess)\
+      \  dans [l'appartement](indoor_location)"
+    - "Malgré deux rappels, rien n'a été fait contre la [moisissure](mess)  dans la\
+      \ [cuisine](indoor_location). Je vais réduire mon loyer."
+    - "Quand quelqu'un vient pour les [taches de moisissure](mess)  dans man [appartement](indoor_location)\
+      \ ? Si ça continue comme ça, je dois réduire le loyer."

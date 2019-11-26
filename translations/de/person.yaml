@@ -1,123 +1,107 @@
 de:
-    Craftspeople:
-     - Handwerker
-     - Arbeiter
-     - Handwerk
-
-    Carpenter:
-     - Tischlerei
-     - Tischler
-     - Schreinerei
-     - Schreiner
-     - Zimmerer
-     - Zimmermann
-     - Zimmerin
-     - Yimmererin
-     - Schreinerin
-
-    Electrician:
-     - Elektroniker
-     - Elektriker
-     - Strippenzieher
-     - Elektroinstallateur
-
-    Glasser:
-     - Glaser
-     - Fensterbauer
-     - Fenserbau
-
-    Gardener:
-     - Gärtnerei
-     - Landschaftsbau
-     - Gartenfirma
-     - Gartenbauer
-     - Gärtner
-
-    Roofer:
-     - Dachdecker
-     - Dachdeckerfirma
-     - Dachdeckerei
-
-    TileSetter:
-     - Fliesenfirma
-     - Fliesenleger
-     - Plattenleger
-
-    Locksmith:
-     - Schlüsseldienst
-     - Schlüsselfirma
-     - Schlüsselnotdienst
-     - Schlossknacker
-
-    Painter:
-     - Maler
-     - Anstreicher
-     - Tapezierer
-     - Malerfirma
-     - Anstreicherfirma
-
-    Plumber:
-     - Klempner
-     - Heizungsbaufirma
-     - Heizungsbauer
-     - Heizungsmonteur
-     - Rohrverleger
-     - Sprengler
-     - Installateur
-     - Flaschner
-     - Kemplerei
-     - Heizungsnotdienst
-
-    ChimneySweep:
-     - Schornsteinfeger
-     - Kaminfeger
-     - Rauchfangkehrer
-     - Kaminkehrer
-
-    Staff:
-     - Mitarbeiter
-     - Mitarbeiterin
-
-    CustomerAdvisor:
-     - Kundenbetreuer
-     - Sachbearbeiter
-     - Sachbearbeiterin
-     - Objektbetreuer
-     - Objektbetreuerin
-     - Sekretärin
-     - Kunderberaterin
-
-    Janitor:
-     - Abwart
-     - Gebäudewart
-     - Hausbesorger
-     - Hausbetreuer
-     - Facility Manager
-     - Hausmeister
-     - Hauswart
-
-    Cleaner:
-     - Putzfrau
-     - Putzfirma
-     - Reinigungsdienst
-     - Putzkraft
-     - Reinigunsfachkraft
-     - Raumpfleger
-     - Gebäudereinigungskraft
-     - Reinigungsfirma
-     - Reinigungs-Service
-     - Putzkraft
-     - Putzhilfe
-     - Reinmachefrau
-     - Putzfee
-     - Raumkosmetikerin
-     - Bedienerin
-     - Reinigungskraft
-     - Raumpflegerin
-     - Putze
-
-    Tenant:
-     - Mieter
-     - Mitbewohner
-     - Nachbar
-     - Bewohner
+  Craftspeople:
+  - Handwerker
+  - Arbeiter
+  - Handwerk
+  Carpenter:
+  - Tischlerei
+  - Tischler
+  - Schreinerei
+  - Schreiner
+  - Zimmerer
+  - Zimmermann
+  - Zimmerin
+  - Zimmererin
+  - Schreinerin
+  Electrician:
+  - Elektroniker
+  - Elektriker
+  - Strippenzieher
+  - Elektroinstallateur
+  Glasser:
+  - Glaser
+  - Fensterbauer
+  - Fenserbau
+  Gardener:
+  - Gärtnerei
+  - Landschaftsbau
+  - Gartenfirma
+  - Gartenbauer
+  - Gärtner
+  Roofer:
+  - Dachdecker
+  - Dachdeckerfirma
+  - Dachdeckerei
+  TileSetter:
+  - Fliesenfirma
+  - Fliesenleger
+  - Plattenleger
+  Locksmith:
+  - Schlüsseldienst
+  - Schlüsselfirma
+  - Schlüsselnotdienst
+  - Schlossknacker
+  Painter:
+  - Maler
+  - Anstreicher
+  - Tapezierer
+  - Malerfirma
+  - Anstreicherfirma
+  Plumber:
+  - Klempner
+  - Heizungsbaufirma
+  - Heizungsbauer
+  - Heizungsmonteur
+  - Rohrverleger
+  - Spengler
+  - Installateur
+  - Flaschner
+  - Klempnerei
+  - Heizungsnotdienst
+  ChimneySweep:
+  - Schornsteinfeger
+  - Kaminfeger
+  - Rauchfangkehrer
+  - Kaminkehrer
+  Staff:
+  - Mitarbeiter
+  - Mitarbeiterin
+  CustomerAdvisor:
+  - Kundenbetreuer
+  - Sachbearbeiter
+  - Sachbearbeiterin
+  - Objektbetreuer
+  - Objektbetreuerin
+  - Sekretärin
+  - Kunderberaterin
+  Janitor:
+  - Abwart
+  - Gebäudewart
+  - Hausbesorger
+  - Hausbetreuer
+  - Facility Manager
+  - Hausmeister
+  - Hauswart
+  Cleaner:
+  - Putzfrau
+  - Putzfirma
+  - Reinigungsdienst
+  - Putzkraft
+  - Reinigunsfachkraft
+  - Raumpfleger
+  - Gebäudereinigungskraft
+  - Reinigungsfirma
+  - Reinigungs-Service
+  - Putzhilfe
+  - Reinmachefrau
+  - Putzfee
+  - Raumkosmetikerin
+  - Bedienerin
+  - Reinigungskraft
+  - Raumpflegerin
+  - Putze
+  Tenant:
+  - Mieter
+  - Mitbewohner
+  - Nachbar
+  - Bewohner

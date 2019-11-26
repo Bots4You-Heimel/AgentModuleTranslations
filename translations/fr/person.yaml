@@ -1,0 +1,84 @@
+fr:
+  Craftspeople:
+  - artisan
+  - travailleur, travailleuse, ouvrier, ouvrière
+  - métier
+  Carpenter:
+  - menuiserie
+  - menuisier
+  - menuisier
+  - charpentier
+  - charpentière
+  - charpentière
+  - menusière
+  Electrician:
+  - ingénieur en électronique, technicien en électronique
+  - électricien, électricienne
+  Glasser:
+  - vitrier, vitrière
+  - constructeur de fenêtres
+  - construction de fenêtres
+  Gardener:
+  - pépinière, établissement horticole
+  - aménagement paysager
+  - établissement horticole
+  - horticole
+  - jardinier, jardinière
+  Roofer:
+  - couvreur, couvreuse
+  - entreprise de couverture
+  TileSetter:
+  - entreprise de carrelage
+  - carreleur, carreleuse
+  - carreleur, carreleuse
+  Locksmith:
+  - service clé, service der serrurier, service de dépannage de serrures, service clé minute
+  - service clé, service de serrurier
+  - crocheteur
+  Painter:
+  - peintre
+  - peintre
+  - tapissier, tapissière
+  - entreprise de peinture
+  - entreprise de peinture
+  Plumber:
+  - plombier, ferblantier
+  - entreprise de chauffage
+  - chauffagiste
+  - plombier-zingueur
+  - installateur
+  - plomberie
+  - urgence chauffage
+  ChimneySweep:
+  - ramoneur, ramoneuse
+  - ramoneur, ramoneuse
+  Staff:
+  - collaborateur
+  - collabortrice
+  CustomerAdvisor:
+  - conseiller clientèle, consellière clientèle, chargé de clientèle, chargée de clientèle, chargé de compte, chargée de compte
+  - consellier, personne responsable
+  - consellière
+  - gestionnaire immobilier
+  - secrétaire
+  - consellière clientèle
+  Janitor:
+  - concierge
+  - "gardien de l'immeuble, gardienne de l'immeuble"
+  - facility manager
+  Cleaner:
+  - femme de ménage
+  - société de nettoyage
+  - service de nettoyage
+  - nettoyeur, nettoyeuse
+  - ' technicien de surface,  technicienne de surface '
+  - agent de nettoyage de bâtiments, argente de nettoyage de bâtiments
+  - entreprise de nettoyage
+  - aide ménagère
+  - femme de ménage
+  - fée du nettoyage
+  Tenant:
+  - locataire
+  - colocataire
+  - voisin, voisine
+  - habitant, habitante

@@ -1,0 +1,38 @@
+fr:
+  intent:
+    ticket.damage_report/surface_damage:
+    - sol endommagé
+    - carrelage endommagé
+    - dommage [carrelage](surface) !
+    - dommage [revêtement de sol](surface)
+    - '[sol](surface) cassé'
+    - sol endommagé
+    - '[sol](surface) gonflé '
+    - remplacement du [carrelage](surface)
+    - '[carreau de salle de bain](surface) brisé'
+    - '[carrelage](surface) est cassé'
+    - Le [parquet] est rayé
+    - Le [sol](surface) se détache au [couloir](indoor_location)
+    - "Un [carreau](surface) du [mur de la cuisine](surface) s'est détaché."
+    - Le [parquet] gonfle.
+    - Mon [parquet] est gonflé.
+    - Le [parquet](surface) dans ma [salle à manger](indoor_location) est endommagé.
+    - Le [parquet](surface) du [salon](indoor_location) se gonfle.
+    - Mon [parquet](surface) est rayé.
+    - "J'ai un dégât d'eau sur le [parquet](surface)"
+    - Le [parquet] est très abîmé.
+    - Dans mon [appartement](indoor_location) le [parquet](surface) est endommagé.
+    - "Quelqu'un devrait réparer le [parquet](surface) dans mon [appartement](indoor_location)"
+    - Le [PVC](surface) se détache !
+    - "Le [sol en PVC](surface) s'est détaché."
+    - Le [sol en PVC](surface) se détache dans mon [appartement](indoor_location)
+    - Le [sol en PVC](surface) dans mon [appartement](indoor_location) devrait être réparé.
+    - "Quelqu'un peut s'occuper de mon [sol en PVC](surface) ?"
+    - "Le [sol en PVC](surface) dans mon [appartement](indoor_location) n'est plus\
+      \ intact."
+    - Dans ma [cuisine](indoor_location) le [sol en PVC](surface) se détache.
+    - "Le [sol en PVC](surface) s'est détaché et ondule."
+    - Dans mon [appartement](indoor_location] le [sol en PVC](surface) se détache.
+    - Le [sol en PVC](surface) commence à se détacher.
+    - "Nous avons un dégât d'eau sur notre [sol stratifié](surface)."
+    - "J'ai cassé un [carreau](surface) dans la [douche](sanitary_item)."

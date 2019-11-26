@@ -1,0 +1,49 @@
+fr:
+  intent:
+    ticket.damage_report/moisture_mold:
+    - '[moisissure](mess) '
+    - détection de moisissure
+    - dommage causé par la moisissure
+    - problème de moisissure
+    - '[taches de moisissure](mess) '
+    - '[humidité](mess) '
+    - 'signaler [moisissure](mess) '
+    - '[moisissure](mess)  détectée'
+    - '[murs](surface) humides'
+    - '[mur de la cave](surface) mouillé'
+    - 'trouvé des [taches de moisissure](mess) '
+    - 'constaté [moisissure](mess) '
+    - '[moisissure](mess)  découvert'
+    - signaler [attaque fongique](mess)
+    - soupçon de [moisissure noire](mess)
+    - "J'ai de la [moisissure](mess) "
+    - 'Il y a de la [moisissure](mess) '
+    - 'Le [mur](surface) a [moisissure](mess) '
+    - 'Le [mur du salon](surface) a [moisissure](mess) '
+    - 'Le [mur de la salle de bain](surface) a [moisissure](mess) '
+    - 'Le [mur de la cuisine](surface) a [moisissure](mess) '
+    - Il y a de la [moisissure](mess)  devant le [placard](item)
+    - Il y a de la [moisissure](mess)  sur la [baignoire](sanitary_item)
+    - Il y a des [taches humides] sur le [mur](surface)
+    - Il y a de la [moisissure](mess)  derrière la [commode](item)
+    - "Qui peut m'aider avec des [taches de moisissure](mess)  ?"
+    - Il y a des [taches humides](mess)  sur le [papier peint](surface) !
+    - "Je pense qu'il y a de la [moisissure](mess)  chez moi."
+    - "J'ai un problème de [moisissure](mess)  dans mon [appartrement](indoor_location)"
+    - "Qu'est-ce que je fais s'il y a de la moisissure ?"
+    - Il y a de la [moisissure](mess)  sur le [plafond](surface) du [couloir](indoor_location)
+    - "J'ai peut être de la [moisissure](mess) "
+    - Qui dois-je contacter en cas de [moisissure](mess)  ?
+    - "Quelqu'un peut venir voir mon [mur](surface) moisi ?"
+    - "Quelqu'un devrait inspecter les taches sombres sur mon [mur](surface)."
+    - "Quelqu'un devrait jeter un coup d'œil aux taches humides dans mon [appartement](indoor_location)."
+    - "J'ai découvert des [taches sombres](mess)  au-dessus le [fenêtre](item) dans\
+      \ ma [chambre](indoor_location)"
+    - "J'ai trouvé des [taches de moisissure](mess)  dans le [coin d'une pièce](surface)"
+    - "C'est de la [moisissure noire](mess)  sur le [plafond](surface) du [salon](indoor_location)"
+    - "La [moisissure](mess)  s'est formée dans [la salle de bain](indoor_location)."
+    - Derrière le [placard](item) ça a commencé à moisir.
+    - "De la [moississure](mess)  s'est formée sur le [mur extérieur](outdoor_location)."
+    - Il y a des taches bizarres sur un [mur extérieur](outdoor_location).
+    - "Pourriez-vous envoyer quelqu'un qui inspecte quelques taches sur le [mur](surface)\
+      \ ?"

@@ -1,0 +1,37 @@
+fr:
+  intent:
+    ticket.damage_report/clogged:
+    - engorgement
+    - écoulement
+    - engorgé, bouché
+    - "nettoyage de drain, nettoyage d'écoulement"
+    - 'déboucheur '
+    - (Écoulement](sanitary_item) bouché
+    - '[toilette](sanitary_item) bouchée'
+    - "éliminer l'engrogement"
+    - '[lavabo](sanitary_item) bouché'
+    - '[évier](sanitary_item) engorgement'
+    - Nettoyer la [douche](sanitary_item) avec un furet.
+    - "Nettoyer [l'écoulement](sanitary_item) de la [douche](sanitary_item)"
+    - Le [siphon](sanitary_item) doit être nettoyé.
+    - "L'eau ne s'écoule plus de la [baignoire](sanitary_item)"
+    - "L'eau ne s'écoule pas."
+    - "L'eau ne s'écoule pas du [receveur de douche](sanitary_item)"
+    - "L'écoulement de la [machine à laver](appliance) est bouché."
+    - "Les eaux usées ne peuvent plus s'écouler."
+    - Le tuyau de la [toilette](sanitary_item) est bouché
+    - "[L'écoulement](sanitary_item) de la [baignoire](sanitary_item) est engorgé."
+    - "Le [siphon](sanitary_item) au dessous [l'évier](sanitary_item) est bouché."
+    - "L'eau dans le [lavabo](sanitary_item) ne s'écoule pas correctement."
+    - "[L'écoulement](sanitary_item) dans [l'évier](sanitary_item) est bouché."
+    - "[L'écoulement](sanitary_item) du [lavabo](sanitary_item) s'est bloqué."
+    - Un [écoulement](sanitary_item) est bloqué ici.
+    - "L'eau ne s'écoule pas dans le [lavabo](sanitary_item)."
+    - "[L'écoulement](sanitary_item) de la [baignoire](sanitary_item) est bouché à\
+      \ nouveau."
+    - "Le [tuyau d'écoulement](sanitary_item) de [l'évier](sanitary_item) est bloqué\
+      ."
+    - Mon [W.C.](sanitary_item) est bouché. Même une ventouse ne sert plus à rien.
+    - "Ma [douche](sanitary_item) ne s'ecoule plus, quelqu'un devrait venir avec un\
+      \ furet."
+    - "J'ai constaté un engorgement dans le [siphon](sanitary_item) sous le [lavabo](sanitary_item)."

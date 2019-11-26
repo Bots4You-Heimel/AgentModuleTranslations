@@ -1,0 +1,34 @@
+fr:
+  intent:
+    ticket.damage_report/elevator_person_rescue:
+    - sauvetage de personne ascenseur
+    - "Coincé dans [l'ascenseur](indoor_location)"
+    - "Il y a une personne coincée dans [l'ascenseur](indoor_location)"
+    - "Quelqu'un est coincé dans [l'ascenseur](indoor_location)"
+    - "Ma [femme](person) est coincée dans [l'ascenseur](indoor_location)"
+    - "Ma [voisine](person) ne peut pas sortir de la [cabine d'ascenseur](indoor_location)"
+    - "Une personne est coincée dans [l'ascenseur](indoor_location)"
+    - "Le [voisin](person) est coincé dans [l'ascenseur](indoor_location)"
+    - "[L'ascenseur](indoor_location) est bloqué et [Madame Maurice](named person)\
+      \ est dedans."
+    - "Quelqu'un est coincé dans [l'ascenseur](indoor_location)."
+    - "Un [locataire](person) est coincé dans [l'ascenseur](indoor_location)."
+    - "[Monsieur Blanchet](named person) est enfermé dans [l'ascenseur](indoor_location)."
+    - "La [locataire](person) est enfermée dans [l'ascenseur]"
+    - "Il y a des [personnes](person) dans [l'ascenseur](indoor_location) bloqué"
+    - "J'entends des gens dans [l'ascenseur](indoor_location) bloqué"
+    - "[Madame Martin](person) est coincée dans le [système d'ascenseur](indoor_location)."
+    - "[Madame Durand](named person) est coincée dans [l'ascenseur](indoor_location)\
+      \ et ne peut pas sortir."
+    - "[L'ascenseur] est coincé et [Monsieur Lefebre](named person) y est emprisonné"
+    - "Un [enfant](person) est coincé dans [l'ascenseur](indoor_location) et ne peut\
+      \ pas sortir."
+    - "[Madame Simon](named person) est coincée dans [l'ascenseur](indoor_location)\
+      \ et doit être libérée."
+    - "Il y a [Monsieur Augustin](named person) qui est coincé dans [l'ascenseur](indoor_location)"
+    - "Ma [femme](person) est coincée dans [l'ascenseur](indoor_location) et le service\
+      \ d'urgence ne répond pas"
+    - "Mon [mari](person) est enfermé dans [l'ascenseur](indoor_location) et la [sonnette](item)\
+      \ ne fait rien."
+    - "[L'ascenseur](indoor_location) est bloqué et mon [fils](person) ne peux pas\
+      \ sortir!"

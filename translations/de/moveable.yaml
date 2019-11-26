@@ -1,26 +1,25 @@
 de:
-    FireExtinguisher:
-     - Feuerlöscher
-     - Brandlöscher
-     - Löscher
-     - Kleinlöschgerät
-
-    Dumpster:
-     - Mülleimer
-     - Müllcontainer
-     - Glascontainer
-     - Papiercontainer
-     - Papiermüllcontainer
-     - Restmüllcontainer
-     - Abfalltonne
-     - Abfalleimer
-     - Müllkübel
-     - Dreckeimer
-     - Ascheneimer
-     - Papierkorb
-     - Restmülltonne
-     - Biomülltonne
-     - Biomülleimer
-     - Mistkübel
-     - grüne Tonne
-     - schwarze Tonne
+  FireExtinguisher:
+  - Feuerlöscher
+  - Brandlöscher
+  - Löscher
+  - Kleinlöschgerät
+  Dumpster:
+  - Mülleimer
+  - Müllcontainer
+  - Glascontainer
+  - Papiercontainer
+  - Papiermüllcontainer
+  - Restmüllcontainer
+  - Abfalltonne
+  - Abfalleimer
+  - Müllkübel
+  - Dreckeimer
+  - Ascheneimer
+  - Papierkorb
+  - Restmülltonne
+  - Biomülltonne
+  - Biomülleimer
+  - Mistkübel
+  - grüne Tonne
+  - schwarze Tonne

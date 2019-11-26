@@ -1,0 +1,221 @@
+fr:
+  Structure:
+  - bâtiment
+  - bâtiment
+  - construction de bâtiments
+  Stair:
+  - escalier
+  - marche
+  - palier
+  - marche
+  - escalier
+  - escalier en colimaçon
+  - escalier
+  Elevator:
+  - ascenseur
+  - élévateur
+  - "cage d'ascenseur "
+  - "cage d'élévateur"
+  - "moteur d'ascenseur"
+  - câble de levage
+  - "moteur d'ascenseur"
+  - "système d'ascenseur"
+  - "cabine d'ascenseur"
+  - ascenseur
+  - monte-charge
+  - ascenseur
+  - pater noster
+  - ascenseur
+  - "cabine d'ascenseur"
+  - "système d'ascenseur"
+  - "système d'ascenseur"
+  - "monte d'escalier"
+  - monte-charge
+  ElevatorDoor:
+  - "porte d'ascenseur"
+  - "porte d'ascenseur"
+  StairRail:
+  - rampe
+  Chimney:
+  - cheminée
+  - hotte
+  - cheminée
+  - 'cheminée '
+  Cellar:
+  - cave
+  - chaufferie
+  - cave à vélo
+  - buanderie
+  - sous-sol
+  Door:
+  - porte
+  - porte
+  - porte
+  - cadre de porte
+  - vantail de porte
+  AppartmentDoor:
+  - "porte de l'appartement"
+  Eingangstür:
+  - "porte d'entrée"
+  - porte de maison
+  - entrée de maison
+  - entrée principale
+  - "porte d'entrée principale"
+  Garagedoor:
+  - porte de garage
+  Gate:
+  - porte de jardin
+  - porte de maison
+  - porte de clôture
+  - porte de clôture
+  - barrière
+  Peephole:
+  - judas
+  - judas
+  Enclosure:
+  - bordure
+  - enclos
+  Fence:
+  - clôture
+  - clôture
+  - clôture de jardin
+  - clôture de chasseur
+  - palissade
+  - clôture de grillage
+  - clôture en treillis
+  - piquet
+  - clôture
+  - palissade
+  - pare-vue
+  FireProtectionSystem:
+  - système de protection contre les incendies
+  Garage:
+  - garage
+  Pipe:
+  - tuyau
+  - conduite
+  GasPipe:
+  - conduite de gaz
+  - tuyau de gaz
+  Gutter:
+  - gouttière
+  - "descente d'eaux pluviales"
+  - gouttière
+  - gouttière
+  - avant-toit
+  - "tuyau de descente d'eaux pluviales"
+  - "descente d'eau"
+  - conduite des eaux pluviales
+  WaterPipe:
+  - "conduite d'eau"
+  - "conduite d'eau"
+  SewagePipe:
+  - égout
+  - canalisation
+  - "tuyau d'égout"
+  - déversoir
+  WarmWaterPipe:
+  - "canal d'égout"
+  Roof:
+  - toit
+  AsphaltRoofingBoard:
+  - carton bitumé
+  - carton gourdonné
+  - bardeaux bitumés
+  - tuile bitumeux
+  - tuile bitumineuse
+  RoofingTile:
+  - tuile
+  - tuile de toiture
+  - tuile de toit, tavillon
+  - panneau de toiture
+  - couverture en bois, tavillion en bois
+  - tuile en terre cuite
+  - tuile en ardoise
+  Skylight:
+  - fenêtre de toit, lucarne
+  - vasistas
+  - fenêtre du pignon
+  - chien-assis
+  - imposte
+  Wall:
+  - mur
+  - mur de la maison
+  - murs, murailles
+  Window:
+  - fenêtre
+  - trappe, écoutille
+  - ouverture de fenêtre
+  - fenêtre balcon, fenêtre du balcon
+  - fenêtre des toilettes
+  - fenêtre de sol
+  - cadre de fenêtre
+  - hublot
+  Key:
+  - clé
+  - "clé de la porte d'entrée"
+  - clé de la chambre
+  Schloss:
+  - serrure
+  - cylindre de serrure
+  - verrou de porte
+  WindowPane:
+  - vitre de fenêtre
+  GlasPane:
+  - vitre, vitrage
+  - vitrage de sécurité, verre de sécurité, verre protecteur, verr de protection
+  GarageDoorOpener:
+  - entraînement de porte
+  - télécommande porte de garage
+  - ouvre-porte de garage
+  - ouvre-porte
+  Remotecontroll:
+  - télécommande
+  - télécommande radio
+  - émetteur portatif
+  GarageDoor:
+  - porte de garage
+  - porte sectionelle
+  Electric:
+  - électrique
+  - électronique
+  SmokeDetector:
+  - détecteur de fumée
+  - détecteur de feu, détecteur de flammes
+  - avertisseur de fumée
+  Light:
+  - éclairage
+  - "interrupteur, interrupteur d'éclairage"
+  - lampe
+  - lustre
+  - ampoule
+  - lampe fluorescente
+  - éclairage au néon, néon
+  - luminaire
+  - laterne
+  - laterne de jardin
+  - lampion
+  - spot, projecteur, émetteur
+  - éclaire, brille
+  - phare
+  - ampoule
+  - LED, DEL
+  - lumière
+  - plafonnier, lampe de plafond
+  - chandelier
+  - réverbère
+  - lampe de jardin
+  - lampe halogène
+  - spot halogène
+  - socle de lampe
+  - ampoules
+  - source lumineuse, source de lumière
+  - éclairer
+  - illuminer
+  - veilleuse
+  - ampoule halogène
+  - "lumière d''escalier"
+  - ampoule économique
+  - lampe LED, éclairage DEL
+  - diode électroluminescente
+  - source LED

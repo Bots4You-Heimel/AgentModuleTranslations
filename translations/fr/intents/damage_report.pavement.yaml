@@ -1,0 +1,24 @@
+fr:
+  intent:
+    ticket.damage_report/pavement:
+    - '[trottoir](outdoor_location)'
+    - '[trottoir](outdoor_location)'
+    - chaussée
+    - pavé
+    - dalles
+    - '[dalle](outdoor_location) inégale'
+    - "Le pavé de [l'accès maison] s'abaisse."
+    - '[bas-côté] endommagé'
+    - "Les [dalles] s'élèvent."
+    - Le chemin [devant la maison](outdoor_location) est accindnté.
+    - Les dalles du [trottoir](outdoor_location) se détachent.
+    - Quelques pavés du [trottoir](outdoor_location) sont branlants.
+    - 'Quelques dalles du chemin [derrière la maison](outdoor_location) se sont détachées '
+    - Les [dalles du trottoir](outdoor_location) sont branlantes.
+    - Quelques dalles se sont détachées [devant la maison](outdoor_location)
+    - Le [trottoir](outdoor_location) devrait être renouvelé.
+    - "Veuillez envoyer quelqu'un qui s'occupe du [trottoir](outdoor_location)"
+    - Les [dalles](outdoor_location) sont bancales.
+    - Les dalles du [trottoir](outdoor_location) ne sont pas vraiment solide.
+    - Les dalles de la terrasse sont brisées.
+    - Le pavé de ma [terrasse](outdoor_location) est bancale.

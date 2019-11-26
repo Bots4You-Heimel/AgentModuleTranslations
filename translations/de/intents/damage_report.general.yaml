@@ -5,17 +5,17 @@ de:
     - Schadensmeldung
     - kaputt
     - Fehlfunktion
-    - "Besch\xE4digung"
+    - Beschädigung
     - Schaden
-    - "funktionsunf\xE4hig"
+    - funktionsunfähig
     - Schadensfall
     - Etwas kaputt
     - Ticket Schaden
-    - "Meldung Besch\xE4dingung"
+    - Meldung Beschädingung
     - '[Ventilator](appliance) kaputt'
     - '[Waschmaschine](appliance) defekt.'
-    - "[T\xFCrzarge](item) kaputt"
-    - "Schaden am [Fahrradst\xE4nder](item)"
+    - '[Türzarge](item) kaputt'
+    - Schaden am [Fahrradständer](item)
     - Defektes [Klingelschild](item)
     - Kaputter [Kabelkanal](item)
     - kaputti
@@ -26,83 +26,72 @@ de:
     - im Eimer
     - im Arsch
     - kompletter [Schrott](mess)
-    - "[W\xE4schestange](item) nicht funktional"
-    - Das [Fahrrad](item) ist kaputt
-    - Mein [Auto](item) geht nicht
-    - '[WC](indoor_location) defekt'
-    - "Das [Regal](item) ist besch\xE4digt"
+    - '[Wäschestange](item)  nicht funktional'
+    - Das [Fahrrad](item)  ist kaputt
+    - Mein [Auto](item)  geht nicht
+    - '[WC](indoor_location)  defekt'
+    - Das [Regal](item)  ist beschädigt
     - Das Ding ist kaputt.
-    - "Mein [K\xFChlschrank](appliance) funktioniert nicht mehr"
-    - Die [Gardinenstange](item) muss repariert werden
+    - Mein [Kühlschrank](appliance) funktioniert nicht mehr
+    - Die [Gardinenstange](item)  muss repariert werden
     - Der [Gleichrichter](appliance) ist im Arsch!
     - Es gibt einen Defekt im [Keller](indoor_location)
     - Das [Waschbecken](sanitary_item) ist defekt.
     - Der [Waschtisch](sanitary_item) ist nicht mehr intakt.
     - Mein [Waschbecken](sanitary_item) ist kaputt gebrochen.
-    - "Das [Waschbecken](sanitary_item) ist besch\xE4digt."
-    - Kann jemand mein [Telefon](item) reparieren?
-    - Die [Dachrinne](item) [auf der Haushinterseite](outdoor_location) ist defekt.
-    - Die [Garderobe](indoor_location) ist kaputt.
-    - '[Heizung](item) funktioniert nicht'
-    - '[Sprenkler](item) geht nicht'
+    - Das [Waschbecken](sanitary_item) ist beschädigt.
+    - Kann jemand mein [Telefon](item)  reparieren?
+    - Die [Dachrinne](item)  [auf der Haushinterseite](outdoor_location) ist defekt.
+    - Die [Garderobe](indoor_location)  ist kaputt.
+    - '[Heizung](item)  funktioniert nicht'
+    - '[Sprenkler](item)  geht nicht'
     - Die Sache ist defekt.
-    - "Also meine [S\xE4ge](item) ist v\xF6llig im Eimer!"
-    - Die [Schreibmaschine](item) macht nicht mehr
-    - Der [Computer](item) geht nicht mehr
-    - Die [Leiter](item) geht wahrscheinlich bald kaputt.
+    - Also meine [Säge](item)  ist völlig im Eimer!
+    - Die [Schreibmaschine](item)  macht nicht mehr
+    - Der [Computer](item)  geht nicht mehr
+    - Die [Leiter](item)  geht wahrscheinlich bald kaputt.
     - Wer kann mal nach meinem [Durchlauferhitzer](appliance) schauen?
-    - "K\xF6nnen Sie bitte meinen [Boiler](appliance) reparieren lassen?"
-    - Die Klappe des [Briefkastens](item) ist verbogen.
-    - Der [Briefkasten](item) geht nicht mehr richtig zu.
-    - "Der [Postkasten](item) quietscht beim \xD6ffnen."
-    - "Das [Schloss](item) vom [Briefkasten](item) l\xE4sst sich nur schwer aufschlie\xDF\
-      en."
-    - Der [Briefkasten](item) ist eingedellt.
-    - "Am [Heizk\xF6rper](sanitary_item) im [Wohnzimmer](indoor_location) ist der\
-      \ [Verbrauchsmesser](sanitary_item) defekt."
-    - "Der [Z\xE4hler](sanitary_item) an der [Heizung](sanitary_item) geht nicht mehr."
-    - "Im [Schlafzimmer](indoor_location) ist der [W\xE4rmez\xE4hler](sanitary_item)\
-      \ an der [Heizung](sanitary_item) kaputt gegangen."
-    - "Der [W\xE4rmez\xE4hler](sanitary_item) an einem der [Heizk\xF6rper](sanitary_item)\
-      \ geht nicht mehr."
-    - "Wer kann den [Verbrauchsmesser](sanitary_item) an einem [Heizk\xF6rper](sanitary_item)\
-      \ austauschen oder reparieren?"
-    - "Kann jemanden den [Z\xE4hler](sanitary_item) an meinem [Heizk\xF6rper](sanitary_item)\
-      \ repariert?"
-    - "Bitte lassen Sie den [Z\xE4hler](sanitary_item) an der [Heizung](sanitary_item)\
-      \ in meiner [Wohnung](indoor_location) austauschen."
-    - "In der [Einbauk\xFCche](indoor_location) funktioniert die [Herdplatte](sanitary_item)\
-      \ nicht mehr."
+    - Können Sie bitte meinen [Boiler](appliance) reparieren lassen?
+    - Die Klappe des [Briefkastens](item)  ist verbogen.
+    - Der [Briefkasten](item)  geht nicht mehr richtig zu.
+    - Der [Postkasten](item)  quietscht beim Öffnen.
+    - Das [Schloss](item)  vom [Briefkasten](item)  lässt sich nur schwer aufschließen.
+    - Der [Briefkasten](item)  ist eingedellt.
+    - Am [Heizkörper](sanitary_item) im [Wohnzimmer](indoor_location)  ist der [Verbrauchsmesser](sanitary_item) defekt.
+    - Der [Zähler](sanitary_item) an der [Heizung](sanitary_item) geht nicht mehr.
+    - Im [Schlafzimmer](indoor_location)  ist der [Wärmezähler](sanitary_item) an der [Heizung](sanitary_item) kaputt gegangen.
+    - Der [Wärmezähler](sanitary_item) an einem der [Heizkörper](sanitary_item) geht nicht mehr.
+    - Wer kann den [Verbrauchsmesser](sanitary_item) an einem [Heizkörper](sanitary_item) austauschen oder reparieren?
+    - Kann jemanden den [Zähler](sanitary_item) an meinem [Heizkörper](sanitary_item) reparieren?
+    - Bitte lassen Sie den [Zähler](sanitary_item) an der [Heizung](sanitary_item) in meiner [Wohnung](indoor_location)  austauschen.
+    - In der [Einbauküche](indoor_location)  funktioniert die [Herdplatte](sanitary_item) nicht mehr.
     - Wer kann mir meinen [Herd](sanitary_item) reparieren?
     - Die Kochplatten von meinem [Herd](sanitary_item) gehen nicht mehr an.
-    - Im [Flur](indoor_location) ist etwas kaputt
-    - Im [Waschkeller](indoor_location) geht was net
+    - Im [Flur](indoor_location)  ist etwas kaputt
+    - Im [Waschkeller](indoor_location)  geht was net
     - Ich habe einen Schadensfall produziert
-    - Jemand hat einen Schaden im [Keller](indoor_location) produziert
+    - Jemand hat einen Schaden im [Keller](indoor_location)  produziert
     - Der [Ofen](sanitary_item) ist defekt.
-    - Der [Ofen](sanitary_item) im [Wohnzimmer](indoor_location) geht nicht.
-    - "Wer kann meinen [Heizk\xF6rper](sanitary_item) warten?"
+    - Der [Ofen](sanitary_item) im [Wohnzimmer](indoor_location)  geht nicht.
+    - Wer kann meinen [Heizkörper](sanitary_item) warten?
     - Weder bei mir, noch bei den Nachbarn gehen die [Heizung](sanitary_item) an.
-    - Irgendetwas ist mit der [Garage](outdoor_location) kaputt
-    - Irgendwas stimmt mit einer [Leiter](item) nicht
-    - "K\xF6nnten Sie bitte meinen [Heizk\xF6rper](sanitary_item) reparieren lassen?"
+    - Irgendetwas ist mit der [Garage](outdoor_location)kaputt
+    - Irgendwas stimmt mit einer [Leiter](item)  nicht
+    - Könnten Sie bitte meinen [Heizkörper](sanitary_item) reparieren lassen?
     - Der Haken [am Haus](outdoor_location) ist kaputt.
-    - "Die T\xFCrschwelle der [Eingangst\xFCr](outdoor_location) ist ausgefallen."
-    - "Der [Verbrauchsmesser](sanitary_item) am [Heizk\xF6rper](sanitary_item) ist\
-      \ ausgefallen."
-    - "Auf meiner [Etage](indoor_location) ist ein Ger\xE4t ausgefallen."
-    - "Der [M\xFClleimer](item) ist kaputt"
-    - "Der [Stromz\xE4ler](appliance) in meiner [Wohnung](indoor_location) ist ausgefallen."
-    - Das [Dach](item) muss repariert werden.
-    - Die [Dachrinne](item) scheint sich gelockert zu haben.
-    - Jemand sollte sich mal die gelockerte [Dachrinne](item) angucken.
-    - "Die [Dachrinne](item) hat sich gelockert und m\xFCsste wieder neu angebracht\
-      \ werden."
+    - Die Türschwelle der [Eingangstür](outdoor_location) ist ausgefallen.
+    - Der [Verbrauchsmesser](sanitary_item) am [Heizkörper](sanitary_item) ist ausgefallen.
+    - Auf meiner [Etage](indoor_location)  ist ein Gerät ausgefallen.
+    - Der [Mülleimer](item)  ist kaputt
+    - Der [Stromzäler](appliance) in meiner [Wohnung](indoor_location)  ist ausgefallen.
+    - Das [Dach](item)  muss repariert werden.
+    - Die [Dachrinne](item)  scheint sich gelockert zu haben.
+    - Jemand sollte sich mal die gelockerte [Dachrinne](item)  angucken.
+    - Die [Dachrinne](item)  hat sich gelockert und müsste wieder neu angebracht werden.
     - Bitte lassen Sie mal die [Dachrinne](item) befestigen.
-    - "Die [Dachrinne](item) h\xE4ngt runter und muss neu befestigt werden."
-    - '[Jemand](person) soll die [Dachrinne](item) wieder fest anbringen.'
-    - Das [Fallrohr](item) [neben dem Kellereingang](outdoor_location) ist nicht mehr
-      in Ordnung.
+    - Die [Dachrinne](item)  hängt runter und muss neu befestigt werden.
+    - '[Jemand](person)  soll die [Dachrinne](item)  wieder fest anbringen.'
+    - Das [Fallrohr](item)  [neben dem Kellereingang](outdoor_location) ist nicht mehr in Ordnung.
     - Da ist eine undichte Stelle in dem [Fallrohr](item) [hinterm Haus](outdoor_location).
-    - Ein Teil vom [Regenfallrohr](item) muss mal ausgetauscht werden.
-    - In meiner [Wohnung](indoor_location) geht das [Parkett](surface) kaputt.
+    - Ein Teil vom [Regenfallrohr](item)  muss mal ausgetauscht werden.
+    - In meiner [Wohnung](indoor_location)  geht das [Parkett](surface) kaputt.

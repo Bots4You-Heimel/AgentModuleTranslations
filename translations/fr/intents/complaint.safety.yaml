@@ -1,0 +1,54 @@
+fr:
+  intent:
+    ticket.complaint/safety:
+    - zone dangereuse, endroit dangereux, lieu de danger
+    - risque de glissade, risque de glisser, risque de chute, risque de dérapage
+    - "risque d'accident"
+    - peur, angoisse, anxiété
+    - problème de sécurité
+    - peu sûr
+    - danger
+    - sécurité
+    - risque de trébuchement, risque de trébucher
+    - Lieu de danger découvert
+    - Risque de glissement identifié
+    - problème de sécurité détecté, problème de sécurité constaté
+    - signaler un risque de trébuchement
+    - signaler un risque de glissade
+    - violation de sécurité
+    - Il y existe un risque de sécurité
+    - signaler un risque de blessure, signaler un risque de lésion
+    - "J'ai peur"
+    - "C'est dangereux"
+    - "[L'escalier](item) est [glissant](mess) "
+    - Il y manque une [lumière](item) dans la cave.
+    - La [main courante](item) manque complètement.
+    - La [sortie de véhicules](outdoor_location)  est peu sûr.
+    - "(L'échelle](item) du [grenier](indoor_location) est trop dangereuse"
+    - "Les [marches d'escalier](item) sont dangereuses."
+    - "[L'escalier](indoor_location) de la cave est risqué."
+    - La situation me fait peur
+    - "J'ai peur pour ma sécurité dans la [cage d'escalier](indoor_location)"
+    - "J'ai peur des blessures"
+    - "La hauteur du plafond représente un risque d'accident"
+    - Je ne me sens pas en sécurité
+    - "Ce n'est pas sûr !"
+    - "C'est un danger"
+    - "Sans lumière, c'est dangereux."
+    - "Sans barrières, c'est risqué."
+    - "Il y a un risque de chute sur [l'escalier](item) ."
+    - Le [escalier](item) est dangereux sans [éclairage](item).
+    - "C'est tellement [glissant](mess)  que j'ai peur de glisser"
+    - "J'ai peur de me briser tous les os"
+    - "J'ai peur quand je rentre à la maison pendant la nuit"
+    - "Quelqu'un se cassera tous les os ici"
+    - La manque de [lumière](item) est un véritable problème de sécurité.
+    - Sur les [escaliers](item), on risque de se casser les os dans le noir.
+    - Les [escaliers](item) [mouillés](mess)  sont un risque important de glisser
+    - Un jour un accident se passera sur les [escaliers](item) branlants.
+    - "Nous avons besoin d'un bon [rampe d'escalier](item) de toute urgence pour des\
+      \ raisons de sécurité."
+    - "La manque de la [main courante](item) de [l'escalier](item)  est un véritable\
+      \ problème de sécurité."
+    - "Sans [lumière](item) [l'escalier](item)représente un véritable risque d'accident."
+    - Chez nous il y manque une [lampe](item). Il y a un risque de trébucher.

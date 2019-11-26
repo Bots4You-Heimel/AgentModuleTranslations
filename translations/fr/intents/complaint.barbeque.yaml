@@ -1,0 +1,57 @@
+fr:
+  intent:
+    ticket.complaint/barbeque:
+    - interdiction aux barbecues
+    - puanteur du barbecue
+    - fumée de grill
+    - interdiction aux barbecues
+    - interdiction BBQ
+    - "n'avaoir pas respecté l'interdiction aux barbecues"
+    - barbecue non autorisé
+    - "violation de l'interdiction aux barbecues "
+    - interdiction aux barbecues
+    - "ne pas respecter l'interdiction aux barbecues"
+    - "[À l'extérieur](outdoor_location), un barbecue a lieu."
+    - signaler un barbecue non autorisé, signaler un barbecue non ilicite
+    - "n'avaoir pas respecté l'interdiction aux barbecues"
+    - Ll fait tout simplement un barbecue sur [le balcon](outdoor_location)
+    - "Je voudrais signaler une violation de l'interdiction aux barbecues."
+    - "Mon [voisin](person) ne respecte pas l'interdiction aux barbecues."
+    - "La [famille](person) au dessous de moi ne respecte pas l'interdiction aux barbecues."
+    - Les [voisins](person) ne respectent pas le règlement intérieur et font un barbecue.
+    - "Toute la fumée du [barbecue](item) vient du [balcon](outdoor_location),  vers\
+      \ moi, bien que c'est interdit."
+    - Mon [voisin](person) fait un barbecue non-autorisé sur son [balcon](outdoor_location).
+    - "Le [mec](person) fait souvent des barbecues sur son [balcon](outdoor_location),\
+      \ même si ce n'est pas autorisé."
+    - "Je voudrais me plaindre parce que dans l'appartement ci-dessous, on fait souvent\
+      \ des barbecues sur le [balcon](outdoor_location)."
+    - Je voudrais déposer une plainte contre un barbecue non-autorisé sur la [terrasse](outdoor_location).
+    - La fumée du barbecue continue de vernir vers moi.
+    - 'La puanteur du barbecue vient du [balcon](outdoor_location) des [voisins](person) '
+    - Bien que cela ne soit pas autorisé, les [gens] (person) du 4ème étage(indoor_location) se font de nouveau un barbecue sur le [balcon] (outdoor_location).
+    - Le [locataire](person) en dessous de moi fait des barbecues tout le temps sur le [balcon](outdoor_location). Cela me dérange.
+    - 'Monsieur [Guignol](person) fait griller ses saucisses sans autorisation sur
+      le [balcon](outdoor_location). '
+    - "Les [étrangers](person) dans l'appartement à côté de moi font griller des choses\
+      \ bizarres sur le [balcon](outdoor_location)."
+    - "Il me dérange que les gens sous moi organisent leur barbecue malgré l'interdiction\
+      \ sur la [terrasse](outdoor_location)"
+    - Où puis-je signaler une violation des règles de la maison concernant les barbecues?
+    - "J'aimerais déposer un rapport contre l'interdiction du barbecue."
+    - Les [voisins](person)ont un fumoir, bien que cela soit interdit.
+    - "L'odeur du barbecue de [voisins](person) est très dérangeante et je le sent\
+      \ toujours."
+    - "Que faire si un [locataire](person) ne respecte pas l'interdiction de barbecue?"
+    - Les [voisins](person) utilisent un [fumeur](item), bien que que cela soit interdit.
+    - Les gens qui sont au-dessus de moi ont installé [barbecue](item) avec une flamme nue qui pue.
+    - "L'odeur de barbecue des [voisins](person) me dérange extrêmement."
+    - "Pas un [chat](animal) respecte l'interdiction aux barbecues."
+    - Je suis totalement fumé par la fumée du barbecue.
+    - Les fumées du [barbecue](item) des [voisins] (person) continuent de venir vers moi.
+    - "La puanteur du barbecue des [vosins](person) vient dans mon appartement, quand\
+      \ j'ouvre la [fenêtre](item). "
+    - "Je voulais vous informer que mon [voisin](person) ne respecte pas l'interdiction\
+      \ aux barbecues"
+    - "Je voudrais signaler que la [dame](person) au-dessus de moi ignore systématiquement\
+      \ l'interdiction de barbecue."

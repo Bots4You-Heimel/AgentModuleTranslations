@@ -1,0 +1,58 @@
+fr:
+  intent:
+    ticket.damage_report/porcelain_glas.sanitary_item:
+    - dommage au lavabo
+    - dommage à la cuvette
+    - fissure au lavabo
+    - 'fuit au meuble sous vasque '
+    - fissure au des W.-C.
+    - dommage des chiottes
+    - W.-C. endommagé
+    - fissure de la cuvette des W.-C.
+    - signaler fissure au lavabo
+    - Déclaration de dommage au [lavabo](sanitary_item)
+    - Le [meuble sous vasque]((sanitary_item) fuit
+    - Signaler une fissure dans une cuvette de toilette
+    - cuvette de toilette fissurée
+    - '[cuvette de toilette](sanitary_item) fendue'
+    - "J'ai une fissure dans la cuvette de toilette"
+    - '[lavabo](sanitary_item) est brisé'
+    - Mon [lavabo](sanitary_item) goutte
+    - Le [lavabo](sanitary_item) se brise
+    - '[vasque](sanitary_item) fêlée'
+    - "J'ai une [vasque] défectueuse"
+    - Quelques éclats sont brisés de la [vasque](sanitary_item)
+    - Mon [lavabo](sanitary_item) est fendu.
+    - Mon [lavabo](sanitary_item) se fragmente.
+    - Le [lavabo] se brise.
+    - Il y a une fissure dans le [lavabo](sanitary_item)
+    - Le [lavabo](sanitary_item) est fragile ne tient plus longtemps.
+    - Mon [enfant](person) a détruit notre [lavabo](sanitary_item).
+    - Le [lavabo](sanitary_item) a une fuite.
+    - 'Le [lavabo] va bientôt se briser. '
+    - La cuvette est fêlée
+    - "Il y a une grande fissure dans la [vasque](sanitary_item). Ça n'a pas l'air\
+      \ bon."
+    - "Le [lavabo](sanitary_item) dans la [salle de bain](indoor_location) a une fissure\
+      \ qui ne cesse pas de s'agrandir."
+    - "Le [lavabo](sanitary_item) doit remplacé de toute urgence, la fissure s'agrandit\
+      \ de plus en plus."
+    - La [vasque](sanitary_item) est fêlée et probablement doit être renouvelée bientôt.
+    - "Veuillez installer un nouveau [meuble de vasque], le vieux n'est plus utilisable."
+    - Le [lavabo](sanitary_item) ne tiendra pas très longtemps, il y a une fissure énorme.
+    - "Quelqu'un peut inspecter le [lavabo](sanitary_item) ?"
+    - "J'ai besoin d'un [artisan](person) pour mon [lavabo](sanitary_item)."
+    - Il y a une grande fissure dans le [lavabo](sanitary_item) qui doit être réparée.
+    - "Qui s'occupe des dommages au [lavabo](sanitary_item) ?"
+    - Le [lavabo](sanitary_item) fuit et ne va pas se tenir très longtemps.
+    - Le [lavabo](sanitary_item) a une grande fissure.
+    - "Mon [lavabo](sanitary_item) a une fissure énorme. J'ai besoin d'aide le plus\
+      \ rapidement possible."
+    - Le [lavabo](sanitary_item) a une fissure et va briser bientôt.
+    - Mon [lavabo](sanitary_item) fuit. Que dois-je faire?
+    - Je voudrais signaler un dommage à mon [lavabo](sanitary_item).
+    - Qui peut inspecter mon [lavabo](sanitary_item) fêlé ?
+    - "Pouvez-vous m'envoyer quelqu'un qui remplace le vieux [meuble sous vasque](sanitary_item)\
+      \ qui est fêlé ?"
+    - 'Un [verre](item) est tombé sur ma [vasque](sanitary_item) et quelque chose
+      est éclaté. '

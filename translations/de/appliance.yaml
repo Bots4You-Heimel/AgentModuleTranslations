@@ -1,67 +1,57 @@
 de:
-    ClothesDryer:
-     - Trockner
-     - Wäschetrockner
-     - Kleidertrockner
-
-    WashingMachine:
-     - Waschmaschine
-     - Waschautomoat
-     - Wäschetrommel
-     - Waschtrommel
-     - Trommel
-
-    ElectricalOven:
-     - Ofen
-     - Backofen
-     - Backröhre
-     - Pizzaofen
-     - Ofenröhre
-
-    GasOven:
-     - Gasofen
-
-    GasCooktop:
-     - Gasherd
-     - Gaskocher
-
-    ElectricCooktop:
-     - Glaskeramik-Kochfeld
-     - Kochfeld
-     - Kochplatte
-     - Herd
-     - Herdplatte
-
-    CircuitBreaker:
-     - Sicherungskasten
-     - Sicherung
-     - Verteilerkasten
-     - Sicherungsdose
-     - Stromverteiler
-     - Stromkasten
-     - Zählerkasten
-     - Stromzählerkasten
-
-    Meter:
-     - Zähler
-     - Messer
-     - Meßgerät
-
-    ElectricMeter:
-     - Elektrozähler
-     - Stromzähler
-     - Stromverbrauchsmesser
-     - Stromverbrauchszähler
-
-    GasMeter:
-     - Gasuhr
-     - Gaszähler
-     - Gasverbrauchsmesser
-     - Gasverbrauchszähler
-
-    WaterMeter:
-     - Durchflussmesser
-     - Wasseruhr
-     - Wasserzähler
-     - Wasserverbrauchsmesser
-     - Wasserverbrauchszähler
+  ClothesDryer:
+  - Trockner
+  - Wäschetrockner
+  - Kleidertrockner
+  WashingMachine:
+  - Waschmaschine
+  - Waschautomoat
+  - Wäschetrommel
+  - Waschtrommel
+  - Trommel
+  ElectricalOven:
+  - Ofen
+  - Backofen
+  - Backröhre
+  - Pizzaofen
+  - Ofenröhre
+  GasOven:
+  - Gasofen
+  GasCooktop:
+  - Gasherd
+  - Gaskocher
+  ElectricCooktop:
+  - Glaskeramik-Kochfeld
+  - Kochfeld
+  - Kochplatte
+  - Herd
+  - Herdplatte
+  CircuitBreaker:
+  - Sicherungskasten
+  - Sicherung
+  - Verteilerkasten
+  - Sicherungsdose
+  - Stromverteiler
+  - Stromkasten
+  - Zählerkasten
+  - Stromzählerkasten
+  Meter:
+  - Zähler
+  - Messer
+  - ''
+  ElectricMeter:
+  - Elektrozähler
+  - Stromzähler
+  - Stromverbrauchsmesser
+  - Stromverbrauchszähler
+  GasMeter:
+  - Gasuhr
+  - Gaszähler
+  - Gasverbrauchsmesser
+  - Gasverbrauchszähler
+  WaterMeter:
+  - Durchflussmesser
+  - Wasseruhr
+  - Wasserzähler
+  - Wasserverbrauchsmesser
+  - Wasserverbrauchszähler

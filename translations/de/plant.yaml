@@ -1,35 +1,32 @@
 de:
-    Plant:
-     - Pflanze
-     - Zimmerpflanze
-     - Bepflanzung
-     - Grün
-     - Busch
-     - Büsche
-     - Unkraut
-     - Strauch
-     - Gebüsch
-
-    Hedge:
-     - Hecke
-     - Strauchreihe
-
-    Lawn:
-     - Gras
-     - Wiese
-     - Rasen
-     - Rasenfläche
-     - Grünfläche
-
-    Trees:
-     - Baum
-     - Obstbaum
-     - Tanne
-     - Fichte
-     - Eiche
-     - Birke
-     - Kastanie
-     - Nadelbaum
-     - Laubbaum
-     - Ahohrn
-     - Buche
+  Plant:
+  - Pflanze
+  - Zimmerpflanze
+  - Bepflanzung
+  - Grün
+  - Busch
+  - Büsche
+  - Unkraut
+  - Strauch
+  - Gebüsch
+  Hedge:
+  - Hecke
+  - Strauchreihe
+  Lawn:
+  - Gras
+  - Wiese
+  - Rasen
+  - Rasenfläche
+  - Grünfläche
+  Trees:
+  - Baum
+  - Obstbaum
+  - Tanne
+  - Fichte
+  - Eiche
+  - Birke
+  - Kastanie
+  - Nadelbaum
+  - Laubbaum
+  - Ahohrn
+  - Buche

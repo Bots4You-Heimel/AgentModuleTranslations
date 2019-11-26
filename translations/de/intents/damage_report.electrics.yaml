@@ -8,19 +8,17 @@ de:
     - Ich habe in ein Stromkabel gebohrt
     - '[Am Eingang](outdoor_location) hat die [Lampe](appliance) einen Wackelkontakt'
     - Die [Steckdosenleiste](appliance) hat einen Kurzschluss
-    - "Meine [K\xFChlschrank](appliance) scheint nicht richtig zu funktionieren."
+    - Meine [Kühlschrank](appliance) scheint nicht richtig zu funktionieren.
     - Meine [Gegensprechanlage](appliance) funktioniert nicht mehr.
-    - "Der Wecker l\xE4sst sich nicht einschalten"
-    - "Die [Sprechanlage](appliance) funktioniert nicht, ich kann niemanden h\xF6\
-      ren."
-    - "Der [T\xFCr\xF6ffner](appliance) von der [Gegensprechanlage](appliance) geht\
-      \ nicht mehr."
+    - Der Wecker lässt sich nicht einschalten
+    - Die [Sprechanlage](appliance) funktioniert nicht, ich kann niemanden hören.
+    - Der [Türöffner](appliance) von der [Gegensprechanlage](appliance) geht nicht mehr.
     - Wer kann mal nach meiner [Sprechanlage](appliance) gucken?
     - Der [Durchlauferhitzer](appliance) im meinem [Bad](indoor_location) ist defekt.
-    - Der [Bewegungsmelder](appliance) im [Flur](indoor_location) klappt nicht
+    - Der [Bewegungsmelder](appliance) im [Flur](indoor_location)  klappt nicht
     - Meine [Steckdose](appliance) ist defekt.
-    - Die [Aufzugsanlage](indoor_location) hat einen Kurzen.
-    - "Meine [Backofen](sanitary_item) l\xE4sst sich nicht anschalten"
+    - Die [Aufzugsanlage](indoor_location)  hat einen Kurzen.
+    - Mein [Backofen](sanitary_item) lässt sich nicht anschalten
     - Mein [Herd](sanitary_item) geht nicht mehr an.
-    - "Mein [Herd](sanitary_item) l\xE4sst sich pl\xF6tzlich nicht mehr anschalten."
-    - "Mein [Ofen](sanitary_item) l\xE4sst sich nicht mehr einschalten."
+    - Mein [Herd](sanitary_item) lässt sich plötzlich nicht mehr anschalten.
+    - Mein [Ofen](sanitary_item) lässt sich nicht mehr einschalten.

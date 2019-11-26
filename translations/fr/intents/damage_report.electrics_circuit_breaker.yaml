@@ -1,0 +1,43 @@
+fr:
+  intent:
+    ticket.damage_report/electrics.circuit_breaker:
+    - '[fusible](appliance)'
+    - '[boîte de distribution](appliance)'
+    - '[boîte de distribution](appliance)'
+    - '[disjoncteur](appliance)'
+    - '[boîte du compteur](appliance)'
+    - court-circuit
+    - "court-circuit [cage d'escalier](indoor_location)"
+    - '[fusible](appliance) défectueux'
+    - 'installation [disjoncteur différentiel](appliance) '
+    - '[fusible](appliance) saute toujours'
+    - '[fusible](appliance) continue de sauter'
+    - '[boîte du compteur](appliance) défectueux'
+    - La [fusible](appliance) saute toujours
+    - "J'ai provoqué un court-circuit dans le [salon](indoor_location)"
+    - La [fusible](appliance) vient de sauter la troisième fois cette semaine.
+    - "La [fusible](appliance) saute toujours quand je fais bouillir de l'eau."
+    - Veuillez sécuriser davantage mon appartement, mes [fusibles](appliance) sautent régulièrement.
+    - "Il n'est pas acceptable que les [fusibles](appliance) sautent quand je branche\
+      \ plusieurs appareils électroniques"
+    - Mes [fusibles](appliance) sont grillés de nouveau.
+    - "Mon appartement n'est pas assez sécurisé, les [fusibles](appliance) sautent\
+      \ toujours."
+    - Un [fusible](appliance) a sauté de nouveau.
+    - "L'électricité a été coupée dans [toute la maison](indoor_location)."
+    - Les [fusibles](appliance) de la [boîte de distribution](appliance) ont sautés de nouveau.
+    - La [boîte de distribution](appliance) doit être contrôlée.
+    - Veuillez contrôler les vieux [fusibles](appliance) dans le [tableau électrique](appliance)
+    - "[Quelqu'un](person) devrait installer le [disjoncteur différentiel](appliance) "
+    - La [fusible](appliance) ne se laisse pas changer.
+    - Le [disjoncteur](appliance) est défectueux.
+    - Le [disjoncteur](appliance) est cassé.
+    - 'Il y manquent des [disjoncteurs](appliance) '
+    - Où puis-je me procurer un nouveau[fusible](appliance) ?
+    - Un [fusible] a sauté
+    - Il y a un défaut dans [le tableau électrique](appliance)
+    - "Le [fusible](appliance) pour la [cage d'escalier](indoor_location) a sauté"
+    - Je ne trouve pas la [boîte à fusibles](appliance) du [grenier](indoor_location)
+    - "Quelqu'und doit changer le [fusible](appliance) dans la [buanderie](indoor_location)."
+    - La [boîte à fusibles](appliance) a des [fusibles](appliance) grillés.
+    - Les [fusibles](appliance) sautent du [boîte du compteur](appliance)

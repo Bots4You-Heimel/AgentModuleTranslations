@@ -7,22 +7,21 @@ de:
     - Telefon dauernd besetzt.
     - Konnte niemanden erreichen
     - Tefonisch nicht erreichbar.
-    - "Ich erreiche niemanden \xFCber die Hotline vom Kundenservice."
+    - Ich erreiche niemanden über die Hotline vom Kundenservice.
     - Dauernd ist die Leitung belegt.
     - Ich muss viel zu lange warten, bevor ich jemanden erreiche
     - Bei euch geht ja niemand ans Telefon.
     - Leider kann ich niemand telefonisch erreichen.
     - Keiner geht ans Telefon
     - Ich habe versucht anzurufen, es ist aber niemand dran gegangen
-    - Wiese geht bei euch niemand ans Telefon.
+    - Wieso geht bei euch niemand ans Telefon.
     - Die Leitung ist dauernd besetzt.
-    - Man kann [Frau Siemer](person) telefonisch kaum erreichen.
-    - Euer [Servicecenter](person) ist nicht erreichbar.
-    - "Die Wartezeiten f\xFCr eure Rufnummer sind viel zu lange."
-    - "Es ist kaum m\xF6glich, euch telefonisch zu erreichen."
+    - Man kann [Frau Siemer](person)  telefonisch kaum erreichen.
+    - Euer [Servicecenter](person)  ist nicht erreichbar.
+    - Die Wartezeiten für eure Rufnummer sind viel zu lange.
+    - Es ist kaum möglich, euch telefonisch zu erreichen.
     - Unter der Rufnummer [0261 55135](base.telefone_number) ist niemand erreichbar!
     - Eure Telefonummer ist dauernd besetzt.
     - Schon oft habe ich versucht, den [Kunderbetreuer](person) telefonisch zu erreichen.
     - Unter der [12345-1245](base.telefone_number) geht niemand ans Telefon.
-    - Ich habe heute schon viele male unter der [12345](base.telefone_number) versucht
-      anzurufen, und niemand ist dran gegangen.
+    - Ich habe heute schon viele male unter der [12345](base.telefone_number) versucht anzurufen, und niemand ist dran gegangen.

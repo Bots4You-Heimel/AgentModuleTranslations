@@ -1,0 +1,62 @@
+fr:
+  Domain:
+  - espace, zone, domaine, secteur
+  Heating:
+  - chaleur
+  AccessControl:
+  - "contrôle d'accès"
+  Firesafety:
+  - "prtection incendie, protection contre l'incendie, protection anti-incendie, protection\
+    \ anti-feu"
+  - "prtection incendie, protection contre l'incendie, protection anti-incendie, protection\
+    \ anti-feu"
+  Safety:
+  - sécurité
+  Sanitary:
+  - sanitaire
+  Surface:
+  - surfaces
+  FloorCovering:
+  - revêtement de sol
+  - stratifié
+  - tapis
+  - tapis, moquette, sol moquette
+  - linoléum
+  - sol
+  - sol
+  - revêtement de sol
+  - parquet, revêtement en planches
+  - planchers poncés au pinceau
+  - sol en bois, parquet, parquet en bois, plancher de bois
+  - parquet
+  - carreaux de sol
+  - parquet
+  - revêtement de sol stratifié, plancher laminé
+  WallCovering:
+  - revêtement mural
+  - revêtement mural, revêtement de mur, revêtement de façade, revêtementde paroi, tapisserie, lambris
+  - revêtement extérieur
+  - boiseries, panneaux de bois, lambris de bois
+  - panneau mural, panneau de mur
+  Paint:
+  - couleur
+  - couleur des murs
+  - peinture, couche de peinture
+  - peinture
+  - peinture, laquage, vernissage, couche der vernis, fini peint, finition de peinture
+  - couche de protection, revêtement de protection, vernis de protection
+  - couleur intérieure
+  Plaster:
+  - crépi, enduit
+  - crépi décoratif, enduit décoratif
+  - crépi de la façade, enduit de façade
+  - crépi extérieur
+  - crépi, enduit
+  Wallpaper:
+  - papier, papier peint, tapisserie
+  - "papier peint d'apprêt, papier à peindre gros grains"
+  - paysage du papier peint
+  - papier peint
+  - papier peint en tissu, tapisserie en tissu
+  - papier peint en tissu, tapisserie en tissu
+  - papier peint avec des motifs
