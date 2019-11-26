@@ -1,0 +1,390 @@
+Document:
+ - Dokument
+ - Schreibe
+ - Papier
+ - Brief
+ - Urkunde
+ - Nachweis
+ - Ausweis
+ - Text
+ - Schriftsatz
+ - Kopie
+ - Schriftstück
+ - Protokoll
+ - Fax
+ - Formular
+ - Blatt
+ - Anhang
+ - Anschreiben
+ - Einschreiben
+ - Wisch
+ - Billet
+ - Mitteilung
+ - Eingabe
+ - Rundschreiben
+Notification:
+ - Benachrichtigung
+ - Bescheid
+ - Ankündigung
+ - Bekanntmachung
+ - Ratifizierung
+ - Nachticht
+ - Verlautbarung
+ - Zustellung
+ - Gerichtsbeschluss
+Survey:
+ - Erhebungsbogen
+ - Fragebogen
+ - Umfragebogen
+ - Fragenkatalog
+ - Erhebung
+ - Befragung
+ - Fragebogenaktion
+
+Listing:
+ - Auflistung
+ - Aufstellung
+ - Aufzählung
+ - Datenbank
+ - Gliederung
+ - Katalog
+ - Liste
+ - Register
+ - Tabelle
+ - Verzeichnis
+ - Syllabus
+ - Zusammenfassung
+ - Übersicht
+ - Aufführung
+ - Nennung
+ - Wiedergabe
+ - Angabe
+ - Anführung
+
+Certificate:
+ - Zertifikat
+ - Bestätigung
+ - Beurkundung
+ - Testat
+ - Vidimation
+ - Beglaubigung
+ - Erklärung
+ - Beleg
+ - Rechtfertigung
+ - Diplom
+ - Qualifikation
+ - Attest
+
+Payment:
+ - Zahlung
+ - Bezahlung
+ - Einzahlung
+ - bezahlen
+ - zahlen
+ - einzahlen
+ - barzahlen
+ - Barzahlung
+ - Abzahlung
+ - Geldleistung
+
+Financial:
+ - Geld
+ - Bargeld
+ - Euro
+ - Betrag
+ - Summe
+ - Geldmenge
+ - Post
+ - Absolutbetrag
+ - Wert
+
+DeferredPayment:
+ - Ratenzahlung
+ - Rat
+ - abstottern
+ - Monatsrat
+ - Abschlagszahlung
+ - Abschlag
+ - Teilzahlung
+ - Teilbetrag
+
+Permit:
+ - Genehmigung
+ - Erlaubnis
+ - Berechtigung
+ - Mandat
+ - Zulassung
+ - Befugnis
+ - Recht
+ - Bewilligung
+ - Anerkennung
+ - Autorisierung
+ - Authorisierung
+ - Ermächtigung
+ - Billigung
+
+FalseOccupancyPermit:
+ - Fehlbelegungsbescheinigung
+ - Fehlbelegungsabgabe
+ - Fehlbelegungszertifikat
+ - Fehlbelegungszeugnis
+ - Belegungsbescheinigung
+ - Fehlerbelegungsbescheinigung
+ - Fehlbelegungschreiben
+
+SEPA:
+ - Lastschrift
+ - Einzug
+ - Lastschriftverfahren
+ - Abbuchung
+ - Bankeinzug
+ - Kontoeinzug
+ - Lastschrifteinzug
+ - Mieteinzug
+ - Abzug
+ - EPA
+ - SEPAFirmenlastschrift
+ - Firmenlastschrift
+ - SEPAlastschrift
+ - SEPABasislastschrift
+
+AdditionalTenantPermit:
+ - Zuzugsermächtigung
+ - Zuzugsgenehmigung
+ - Einzugsgenehmigung
+ - Untermietgenemigung
+
+SEPAPermit:
+ - Einzugsermächtigung
+ - SepaMandat
+ - SEPAErmächtigung
+ - SEPAMandat
+ - Lastschriftermächtigung
+ - Sepamandat
+ - Kontoeinzugsermächtigung
+ - Abbuchungsermächtigung
+ - Kontoermächtigung
+ - Lastschriftmandat
+ - Einzugsmandat
+ - Lastschrifteinzugsmandat
+ - Lastschrifteinzugsermächtigung
+ - Sepaformular
+
+Contract:
+ - Vereinbarung
+ - Kontrakt
+ - Vertrag
+
+Lease:
+ - Mietvertrag
+ - Mietkontrakt
+ - Mietkaufvertrag
+ - Leasingvertrag
+ - Pachtvertrag
+ - Wohnungsvertrag
+ - Wohnvertrag
+
+Debt:
+ - Schuld
+ - Rückstand
+ - Forderung
+ - ausstehend Zahlung
+ - Schuldner
+ - rückständig
+ - schuldig
+ - Darlehen
+ - Anleihe
+ - Entschuldung
+ - Verpflichtung
+ - Verbindlichkeit
+ - überschuldet
+ - zahlungsunfähig
+ - Pleite
+ - Schuldenberg
+ - Verzug
+ - Verschuldung
+ - verschulden
+
+Renting:
+ - mieten
+ - leasen
+ - anmieten
+ - pachten
+
+Rent:
+ - Miete
+ - Mietbetrag
+ - Wohnungsmiete
+ - Mietkosten
+ - Kaltmiete
+ - Warmmiete
+ - Gesamtmiete
+ - Grundmiete
+ - Pacht
+ - Pachtbetrag
+ - Pachtkosten
+ - Wohnungsentgelt
+ - Mietentgelt
+ - Leihgebür
+ - Leasingrat
+ - Leasinggebür
+ - Mietspreis
+ - Mietpreis
+ - Mietgebühr
+ - Wohnungsmietbetrag
+ - Pachtgebühr
+
+RentDebt:
+ - Mietschuld
+ - Wohnungsmietschulden
+ - Mietrückstand
+ - Mietschuldner
+
+CertificateOfRentUnindebtedness:
+ - Mietschuldenfreiheitsbescheinigung
+ - Schuldenfreiheitsbescheinigung
+ - Mietrückstandsbescheinigung
+ - Mietschuldbescheinigung
+
+GarageLease:
+ - Garagenmietvertrag
+ - Garagenpachtvertrag
+ - Stellplatzvertrag
+ - Garagenvertrag
+ - Parkplatzvertrag
+
+SubtenantLease:
+ - Untermietvertrag
+ - Untermietervertrag
+
+LandlordConfirmation:
+ - Wohnungsgeberbescheinigung
+ - Vermieterbescheinigung
+
+ConfirmationOfResidence:
+ - Mietbescheinigung
+ - Wohnbescheinigung
+ - Wohnortbescheinigung
+ - Mietungsbescheingigung
+ - Wohnungsbestätigung
+ - Wohnungszertfikat
+ - Wohnungskonfirmation
+ - Wohnortkonfirmation
+ - Mietzeugnis
+ - Wohnungszeugnis
+ - Wohnortzeugnis
+ - Mietbestätigung
+ - Wohnungsbescheinigung
+
+ResidencePermit:
+ - Zuzugsgenehmigung
+ - Zuzugsberechtigung
+ - Wohnungsberechtigung
+ - Wohnberechtigung
+
+Bill:
+ - Rechnung
+ - Berechnung
+ - Festsetzung
+ - Kostenstellung
+ - Kosten
+ - Kostenkalkulation
+ - Abrechnung
+ - Schlussrechnung
+ - Bilanz
+ - Kostenforderung
+ - Geldforderung
+ - Proformarechnung
+ - Fakturierung
+ - Fälligkeit
+ - Veranschlagung
+ - Voranschlag
+ - Zählung
+
+Charge:
+ - Aufwendung
+ - Unkosten
+ - Kostenaufwand
+ - Belastung
+
+HeatingCost:
+ - Heizkosten
+ - Gaskosten
+ - Wärmekosten
+ - Ölrechnung
+ - Heizrechnung
+ - Heizungskosten
+ - Heizölkosten
+ - Erdgaskosten
+
+UtilityCost:
+ - Nebenkosten
+ - Betriebskosten
+ - Wohnnebenkosten
+ - Wohnungsnebenkosten
+ - Zusatzkosten
+ - Gemeinkosten
+ - Fixkosten
+ - Unterhaltskosten
+
+BillOfUtilityCosts:
+ - Betriebskostenabrechnung
+ - Nebenkostenrechnung
+ - Nebenkostenauftellung
+ - Betriebskostenaufstellung
+ - Wohnnebenkostenabrechnung
+ - Warmmieteabrechnung
+ - Betriebskostenrechnung
+
+BillOfHeatingCosts:
+ - Heizkostenabrechnung
+ - Heizkostenrechnung
+ - Warmkostenabrechnung
+ - Heizungskostenabrechnung
+ - Heißkostenabrechnung
+ - Beheizungskostenabrechnung
+ - Beheizungskostenrechnung
+ - Aufheizungskostenabrechnung
+ - Aufheizungskostenrechnung
+ - Gasrechnung
+ - Heizölabrechnung
+ - Ölkostenabrechnung
+ - Heizölrechnung
+ - Erdgasrechnung
+ - Schwerölrechnung
+
+LandlordTUVList:
+ - Mietertüvliste
+ - MieterTÜVliste
+ - MieterTÜV
+ - zittern
+ - Mieterbegutachtung
+ - Vermieterbegutachtung
+ - Mieterprüfplakette
+ - Mieterbegutachtungsplakette
+
+
+PaymentSlip:
+ - Zahlschein
+ - Erlagschein
+ - Zahlungsanweisung
+ - Einzahlungsschein
+
+ActionForEviction:
+ - Rausschmiss
+ - Räumungsklage
+ - Zwangsräumung
+
+ElectricityBill:
+ - Stromrechnung
+ - Stromabrechnung
+ - Elektrizitätsrechnung
+ - Elektrizitätsabrechnung
+
+GasBill:
+ - Gasabrechnung
+
+TenancyLease:
+ - Wohnungsmietvertrag
+ - Appartementvertrag
+ - Unterkunftsvertrag

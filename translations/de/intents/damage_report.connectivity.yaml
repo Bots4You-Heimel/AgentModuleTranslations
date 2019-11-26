@@ -1,0 +1,36 @@
+de:
+  intent:
+    ticket.damage_report/connectivity:
+    - "St\xF6rung"
+    - "Emfangst\xF6rung"
+    - "Signalst\xF6rung"
+    - "Verbindungsst\xF6rung"
+    - "Signal gest\xF6rt"
+    - schlechtes Signal
+    - "Emfang gest\xF6rt"
+    - schlechtes Signal
+    - schlechter Empfang
+    - keine Verbindung
+    - "Telefonsignal gest\xF6rt"
+    - keine Telefonverbindung
+    - kein [Telefon](item)
+    - Telefonverbindung bricht ab
+    - "Telefonieren nicht m\xF6glich"
+    - "[Telefonanlage](item) gest\xF6rt"
+    - "Da gibt es eine St\xF6rung"
+    - kann nicht Telefonieren
+    - es knackt wenn ich telefoniere
+    - Aussetzer beim Telefonieren
+    - Telefondosen mit Breitbandkabelanschluss
+    - Habe Probleme mit der [Telefondose](appliance) mit breitband
+    - "Ich glaube da liegt eine St\xF6rung vor"
+    - Es tutet nicht, wenn ich mein [Telefon](item) einstecke
+    - "Die Telefonverbindung bricht st\xE4ndig weg"
+    - Keine Verbindung bei [Telefondose](appliance) mit Breitbandanschluss
+    - "Verbindungsst\xF6rung beim Breitband"
+    - Schlechte Verbindung auf meiner Breitbanddose
+    - Es rauscht in der [Telefondose](appliance)
+    - "St\xE4ndig sind da viele Aussetzer beim Telefonieren"
+    - "Seit kurzem ist die Qualit\xE4t wenn ich telefoniere sehr schlecht"
+    - beim telefoniere passieren viele Aussetzer so 1-2 Sekunden
+    - "kann meinen Gespr\xE4chspartner wenn ich telefoniere nicht verstehen"

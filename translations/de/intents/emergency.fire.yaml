@@ -1,0 +1,32 @@
+de:
+  intent:
+    ticket.emergency/fire:
+    - Brand
+    - Feuer
+    - Feuerwehr
+    - Feuerschaden
+    - Brandschaden
+    - "K\xFCchenbrand"
+    - Wohnungsbrand
+    - Es hat gebrannt
+    - Meine [Wohnung](indoor_location) hat gebrannt
+    - Hier hats gebrannt
+    - Alles ist abgekokelt
+    - Viele Sachen sind verkokelt
+    - Ein Topf hat gebrannt
+    - Verschmorte [Wohnung](indoor_location)
+    - "Meine [K\xFCche](indoor_location) brennt lichterloh"
+    - Meine [Bude](indoor_location) fackelt gerade ab
+    - "Meine [Wohnung](indoor_location) wurde durch das Feuer in der Nachbarwohnung\
+      \ besch\xE4digt"
+    - "Nach dem Brand gab es hier Sch\xE4den"
+    - Meine Frau hat eine Pfanne auf dem [Herd](appliance) vergessen und die Feuerwehr
+      musste kommen
+    - Ein Feuer ist im [Hausflur](indoor_location) ausgebrochen
+    - "Es gab hier ein Feuer, weil meine [Tochter](person) gez\xFCndelt hat"
+    - Der [Lennart](named_person) hat nicht aufgepasst und alles ist abgebrannt
+    - Die [Couch](item) geht in Flammen auf
+    - Das [Wohnzimmer](indoor_location) steht in Flammen
+    - Mein [Computer](item) kokelt vor sich hin
+    - Es lodern Flammen im [Aufzug](indoor_location)
+    - "Ich habe einen Gro\xDFbrand im [Schlafzimmer](indoor_location)"

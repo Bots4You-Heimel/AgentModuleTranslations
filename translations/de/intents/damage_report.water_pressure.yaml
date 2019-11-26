@@ -1,0 +1,47 @@
+de:
+  intent:
+    ticket.damage_report/water_pressure:
+    - Wasserdruck
+    - Druckminderer
+    - "Druckerh\xF6hungsanlagen"
+    - "Wasserdruckerh\xF6hungsanlage"
+    - "ungen\xFCgender Wasserdruck"
+    - Zu geringer Druck
+    - Niedriger Wasserdruck
+    - "Wasserdruck l\xE4sst nach"
+    - Kein Wasserdruck
+    - Kaum Warmwasser
+    - Druck anlagen
+    - Wasserdruck Anlage
+    - "Anlagen Druckerh\xF6hung"
+    - Kaum Wasser kommt aus [Wasserhahn](sanitary_item)
+    - Flauer Wasserdruck
+    - Die [Badewanne](sanitary_item) braucht mehr Warmwasserdruck
+    - Probleme mit Wasserdruck
+    - "Druckverh\xE4ltnisse der Wasserversorgung"
+    - Wasserdruck Anlage defekt
+    - "Druckerh\xF6hungsanlage ist kaputt"
+    - "Anlage f\xFCr Wasserdruck"
+    - "Anlage zur Wasserdruckerh\xF6hung"
+    - "Druckerh\xF6hungsanlagen im [Haus](indoor_location) kaputt"
+    - Wasserdruck Anlage geht nicht mehr
+    - "Anlage f\xFCr den Wasserdruck defekt"
+    - "Ger\xE4te die den Wasserdruck regulieren sind kaputt"
+    - "Die Druckerh\xF6hungsanlagen tun nicht mehr"
+    - Zu wenig Wasser kommt aus [Dusche](sanitary_item)
+    - Es kommt aus dem [Wasserhahn](sanitary_item) kaum Wasser
+    - Das [Waschbecken](sanitary_item) hat kaum Druck
+    - "Wieso kommt das warme Wasser abends nur noch tr\xF6pfelnd?"
+    - Es kommt bei mir zu wenig Wasser heraus
+    - "Aus der [Dusche](sanitary_item) rinnt nur ein m\xFCdes Rinnsal"
+    - Wenn morgens alle Duschen kommt kaum noch warmes Wasser raus
+    - Der Wasserdruck ist nicht hoch genug
+    - "Flie\xDFgeschwindigkeit des Wassers hier"
+    - "K\xF6nnte es sein, dass der Wasserdruck niedriger geworden ist, oder ist hier\
+      \ einfach meine Leitung zu?"
+    - "Der Wasserdruck hat nachgelassen, die Druckerh\xF6hungsanlagen m\xFCssen Schuld\
+      \ dran sein"
+    - "Im [10. Stock](floor) haben wir hier kaum noch Wasserdruck, die Anlagen daf\xFC\
+      r sind wohl kaputt"
+    - "In unserem Hochhaus funktionieren diese Anlagen f\xFCr den Wasserdruck nicht\
+      \ mehr"

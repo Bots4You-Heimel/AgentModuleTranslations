@@ -1,28 +1,43 @@
 de:
   intent:
     ticket.complaint/snow:
-    - '[Schnee](mess)'
     - Salz
-    - Räumpflicht
+    - "R\xE4umpflicht"
     - Streupflicht
-    - Schneeräumplan
-    - '[Schnee](mess) schippen'
-    - '[Schnee](mess) schaufeln'
+    - "Schneesch\xFCppen"
+    - Glatteis
+    - "Schneer\xE4umplan"
     - Salz streuen
+    - "Vernachl\xE4ssigung Winterdienst"
     - '[Nachbar](person) streut nicht'
-    - '[Schnee](mess) nicht geräumt'
-    - Der [Nachbar](person) erfüllt seine Räumpflicht nicht
-    - Der [Schnee](mess) wurde nicht weggeräumt
-    - Die Wege sind glatt
-    - Ich bin vorhin auf dem Weg ausgerutscht
+    - "[Schnee](mess) nicht ger\xE4umt"
+    - Winterdienst nicht eingehalten
+    - "Winterdienst wird vernachl\xE4ssigt"
+    - "Beschwerde \xFCber Winterdienst"
+    - Der Winterdienst wurde nicht eingehalten
+    - Niemand schert sich um den Winterdienst
+    - Keiner kommt dem Winterdienst nach
+    - "Der [Nachbar](person) erf\xFCllt seine R\xE4umpflicht nicht"
+    - "Der [Schnee](mess) wurde nicht wegger\xE4umt"
+    - Im [Eingangsbereich](indoor_location) liegt knietief [Schnee](mess)
+    - Die [Treppe](item) zum [Parkplatz](outdoor_location) ist eisglatt. Hier muss
+      mal jemand streuen
+    - "Auf den [Stellpl\xE4tzen](outdoor_location) sollte unbedingt mal jemand [Schnee](mess)\
+      \ sch\xFCppen"
+    - Das [Pflaster](surface) ist voller Tiefschnee
+    - Die [Wege](outdoor_location) sind glatt
+    - Ich bin vorhin auf dem [Weg](outdoor_location) ausgerutscht, weil nicht gestreut
+      wurde
     - '[Herr Winter](named_person) kommt der Streupflicht nicht nach'
-    - Auf dem Weg zu den Mülltonnen liegt noch meterweise [Schnee](mess)
-    - '[Schnee](mess) und [Eis](mess) bedecken die Wege'
-    - Die [Frau Laub](named_person) hält sich nicht an den Schneeräumplan
-    - Unsere [Nachbarin](person) hat nicht genügend Salz gestreut
-    - '[Herr Meier](named_person) hat wieder nicht die Wege gestreut'
-    - '[Frau Stein](named_person) kümmert sich nicht um den [Schnee](mess) [vor dem
-      Haus](outdoor_location)'
-    - Es wurde wieder nicht [auf dem Bürgersteig](outdoor_location) gestreut
-    - Der [Herr Sommer](named_person) räumt einfach nicht den [Schnee](mess) [vor der Haustür](outdoor_location)  weg
+    - "[Auf dem Weg](outdoor_location) zu den [M\xFClltonnen](item) liegt noch meterweise\
+      \ [Schnee](mess)"
+    - '[Schnee](mess) und Eis bedecken die [Wege](outdoor_location)'
+    - "Die [Frau Laub](named_person) h\xE4lt sich nicht an den Schneer\xE4umplan"
+    - "Unsere [Nachbarin](person) hat nicht gen\xFCgend Salz gestreut"
+    - '[Herr Meier](named_person) hat wieder nicht die [Wege](outdoor_location) gestreut'
+    - "[Frau Stein](named_person) k\xFCmmert sich nicht um den [Schnee](mess) [vor\
+      \ dem Haus](outdoor_location)"
+    - "Es wurde wieder nicht [auf dem B\xFCrgersteig](outdoor_location) gestreut"
+    - "Der [Herr Sommer](named_person) r\xE4umt einfach nicht den [Schnee](mess) [vor\
+      \ der Haust\xFCr](outdoor_location) weg"
     - Es liegt so viel [Schnee](mess) auf den Wegen [am Haus](outdoor_location)

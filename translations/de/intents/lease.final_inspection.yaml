@@ -1,0 +1,29 @@
+de:
+  intent:
+    ticket.lease/final_inspection:
+    - "Wohnungs\xFCbergabe"
+    - Wohnungsendabhnahme
+    - Wohnungsabnahme
+    - "Schl\xFCssel\xFCbergabe"
+    - "[Schl\xFCssel](item) \xFCbergeben"
+    - "[Wohnung](indoor_location) \xFCbergeben"
+    - Abnahme [Wohnung](indoor_location)
+    - "\xDCbergabe der [Wohnung](indoor_location)"
+    - "R\xFCckgabe der [Wohnung](indoor_location)"
+    - Muss ich wirklich vor Auszug die [Wohnung](indoor_location) streichen?
+    - Was darf der [Vermieter](person) von mir vor Auszug verlangen?
+    - "Bei wem kann ich einen termin zur Wohnungs\xFCbergabe machen?"
+    - Ich will einen Termin haben zur Wohnungsabnahme.
+    - schickt jemanden vorbei zur Wohnungsabnahme bitte
+    - "Ich will ausziehen, und habe die K\xFCndigung gerade abgeschickt, ist sonst\
+      \ noch was zu tun?"
+    - "weil ich demn\xE4chst ausziehe will ich einen Termin haben zur Wohnungs\xFC\
+      bergabe"
+    - "Gerade die [Wohnung](indoor_location) gek\xFCndigt, jetzt muss die [Wohnung](indoor_location)\
+      \ noch abgenommen werden"
+    - "Gern w\xFCrde ich n\xE4chste Woche die Wohnungs\xFCbergabe"
+    - "ich ziehe aus und muss jetzt noch die [Wohnung](indoor_location) \xFCbergeben"
+    - "an wen muss ich mich wenden wenn ich die [Wohnung](indoor_location) \xFCbergeben\
+      \ will?"
+    - "ich habe gerade schriftlich gek\xFCndigt und will wissen wer f\xFCr die Abnahme\
+      \ der [Wohnung](indoor_location) zust\xE4ndig ist."

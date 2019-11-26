@@ -9,39 +9,43 @@ de:
     - '[Feuchtigkeit](mess)'
     - '[Schimmel](mess) melden'
     - '[Schimmelbefall](mess) entdeckt'
-    - feuchte [Wände](surface)
+    - "feuchte [W\xE4nde](surface)"
     - Nasse [Kellerwand](surface)
     - '[Schimmelstellen](mess) gefunden'
     - '[Schimmel](mess) festgestellt'
     - '[Schimmelpilze](mess) entdeckt'
-    - '[Pilzbefall](mess) melden'
+    - Pilzbefall melden
     - Verdacht auf [Schwarzschimmel](mess)
     - Ich habe [Schimmel](mess)
     - Da ist [Schimmel](mess)
     - '[Wand](surface) hat [Schimmel](mess)'
     - '[Wohnzimmerwand](surface) hat [Schimmel](mess)'
     - '[Badezimmerwand](surface) hat [Schimmel](mess)'
-    - '[Küchenwand](surface) hat [Schimmel](mess)'
-    - Hinter dem [Schrank](item)  ist [Schimmel](mess)
+    - "[K\xFCchenwand](surface) hat [Schimmel](mess)"
+    - Hinter dem [Schrank](item) ist [Schimmel](mess)
     - An der [Badewanne](sanitary_item) ist [Schimmel](mess)
-    - An der [Wand](surface) sind [Feuchtigkeitsflecken](mess)
-    - Hinter der [Kommode](item)  ist [Schimmel](mess)
+    - An der [Wand](surface) sind Feuchtigkeitsflecken
+    - Hinter der [Kommode](item) ist [Schimmel](mess)
     - Wer kann mir bei [Schimmelflecken](mess) helfen?
     - Da sind feuchte [Flecken](mess) an der [Tapete](surface)!
     - Da ist glaube [Schimmel](mess) bei mir.
     - Ich habe ein Problem mit [Schimmel](mess) in meiner [Wohnung](indoor_location)
-    - Was mache ich bei Schimmel?
-    - Im [Flur](indoor_location)  ist [Schimmel](mess) an der [Decke](surface).
-    - Ich habe möglicherweise [Schimmel](mess).
+    - Was mache ich bei [Schimmel](mess)?
+    - Im [Flur](indoor_location) ist [Schimmel](mess) an der [Decke](surface).
+    - "Ich habe m\xF6glicherweise [Schimmel](mess)."
     - An wen muss ich mich bei [Schimmelbefall](mess) wenden?
     - Guckt sich mal bitte jemand meine schimmlige [Wand](surface) an?
     - Jemand sollte sich die dunklen Stellen an meiner [Wand](surface) mal anschauen.
-    - Jemand sollte sich mal die nassen Stellen in meiner [Wohnung](indoor_location)  anschauen.
-    - Im [Schlafzimmer](indoor_location)  habe ich oberhalb des [Fensters](item)  [dunkle Stellen](mess) festgestellt.
+    - Jemand sollte sich mal die nassen Stellen in meiner [Wohnung](indoor_location)
+      anschauen.
+    - Ich habe [Schimmel](mess) in der [Wohnung](indoor_location) entdeckt.
+    - Im [Schlafzimmer](indoor_location) habe ich oberhalb des [Fensters](item) dunkle
+      Stellen festgestellt.
     - Ich habe [Schimmelflecken](mess) in einer [Zimmerecke](surface) gefunden.
-    - Es ist schwarzer [Schimmel](mess) an der [Decke](surface) im [Wohnzimmer](indoor_location)
-    - Da hat sich [Schimmel](mess) im [Badezimmer](indoor_location)  gebildet.
-    - Hinter einem [Schrank](item)  hat es angefangen zu schimmeln.
-    - An der [Außenwand](outdoor_location) hat sich [Schimmel](mess) gebildet.
-    - Da sind ein paar komische Flecken an einer [Außenwand](outdoor_location).
-    - Könnten Sie jemanden bei mir vorbeischicken, der sich ein paar Flecken an der [Wand](surface) mal ansieht?
+    - Es ist scharzer [Schimmel](mess) an der [Decke](surface) im [Wohnzimmer](indoor_location)
+    - Da hat sich [Schimmel](mess) im [Badezimmer](indoor_location) gebildet.
+    - Hinter einem [Schrank](item) hat es angefangen zu schimmeln.
+    - "An der [Au\xDFenwand](outdoor_location) hat sich [Schimmel](mess) gebildet."
+    - "Da sind ein paar komische [Flecken](mess) an einer [Au\xDFenwand](outdoor_location)."
+    - "K\xF6nnten Sie jemanden bei mir vorbeischicken, der sich ein paar [Flecken](mess)\
+      \ an der [Wand](surface) mal ansieht?"

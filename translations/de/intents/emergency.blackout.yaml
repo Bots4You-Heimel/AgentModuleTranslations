@@ -1,0 +1,27 @@
+de:
+  intent:
+    ticket.emergency/blackout:
+    - Stromausfall
+    - Blackout
+    - Netzausfall
+    - Spannungsausfall
+    - kein Strom
+    - "Unterbrechung Elektrizit\xE4t"
+    - Alles schwarz
+    - Alles dunkel
+    - Strom ausgefallen
+    - Kein Strom mehr
+    - "Elektrizit\xE4t ausfall"
+    - Zusammenbruch der Stromversorgung
+    - Zusammenbruch des Stromnetzes
+    - "\xDCberall ist der Strom ausgefallen"
+    - Der Strom ist bei mir ausgefallen
+    - Wie reagiere ich am besten auf einem Blackout?
+    - "Es l\xE4uft keine Elektrizit\xE4t mehr im [Haus](indoor_location)"
+    - "Der Strom flie\xDFt pl\xF6tzlich nicht mehr"
+    - Der Stromfluss im ganzen [Haus](indoor_location) ist unterbrochen.
+    - Ich habe keinen Saft in meiner [Wohnung](indoor_location)
+    - Auf einmal gibts nirgens mehr Strom
+    - Wir haben hier einen Stromausfall!
+    - "Es gehen auf einmal alle [elektrischen Ger\xE4te](appliance) in der [Bude](indoor_location)\
+      \ nicht mehr"

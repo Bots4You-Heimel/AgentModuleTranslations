@@ -3,17 +3,38 @@ de:
     ticket.permit:
     - Genehmigung
     - Erlaubnis
+    - Antrag
+    - Absprache
+    - Bewilligung
+    - Billigung
+    - Berechtigung
+    - Befugnis
+    - "Erm\xE4chtigung"
     - Kann ich
     - Genehmigung anfordern
     - Erlaubnis beantragen
+    - Erlauben sie
     - eine Genehmigung
+    - genehmigt ihr es
     - Darf ich etwas?
     - Ist es erlaubt?
-    - Genehmigung notwendig dafür?
+    - "Genehmigung notwendig daf\xFCr?"
+    - "Ich m\xF6chte beantragen"
+    - "K\xF6nnte ich beantragen"
+    - "K\xF6nnte ich"
+    - Ist es erlaubt
     - Ist es ein problem?
+    - Mit ihrem einvernehmen
+    - Darf man hier
+    - "D\xFCrfte ich etwas"
+    - "K\xF6nnte ich die Erlaubnis bekommen"
+    - "Ich w\xFCrde gerne"
+    - Ist es von Ihnen aus in Ordnung
     - Ich brauche eine Genehmigung.
-    - Ich möchte etwas absprechen.
-    - Wofür brauche ich eine Genehmigung?
-    - Falls möglich würde ich hier gerne eine Genehmigung beantragen.
+    - "Ich m\xF6chte etwas absprechen."
+    - "Wof\xFCr brauche ich eine Genehmigung?"
+    - "Ich m\xF6chte einen Antrag stellen"
+    - Geht es in Orndung
+    - "Falls m\xF6glich w\xFCrde ich hier gerne eine Genehmigung beantragen."
     - Geht es hier eine Erlaubnis einzufordern?
     - Ich glaub ich brauch ne Genehmigung oder so

@@ -1,0 +1,15 @@
+de:
+  intent:
+    faq/smoke_detector_maintenance:
+    - Wartung [Rauchmelder](item)
+    - "Regelm\xE4\xDFige \xDCberpr\xFCfung der [Brandmeldeanlage](item)"
+    - "Zust\xE4ndigkeit Wartung [Rauchmelder](item)"
+    - "Sorgt jemand daf\xFCr, dass die [Feuermelder](item) funktionieren?"
+    - "Ist daf\xFCr gesorgt, dass jemand alle [Brandmelder](item) \xFCberpr\xFCft?"
+    - "Ich m\xF6chte sicher gehen, dass f\xFCr die Wartung der [Rauchmelder](item)\
+      \ gesorgt ist"
+    - "Wer k\xFCmmert sich um die [Brandmelder](item)?"
+    - Wartet auch jemand alle [Rauchmelder](item), die hier [im Haus](indoor_location)
+      sind?
+    - Ich hoffe, dass die [Brandmelder](item) auch alle gewartet werden.
+    - Werden die [Rauchmelder](item) [in der Wohnung](indoor_location) gewartet?

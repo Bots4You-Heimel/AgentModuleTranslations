@@ -1,0 +1,97 @@
+Furniture:
+ - Möbel
+ - Mobiliar
+ - Möbelstück
+ - Einrichtungsgegenstand
+ - Inventar
+ - Wohnungseinrichtung
+ - Sofa
+ - Couch
+ - Stuhl
+ - Tisch
+ - Regal
+ - Truhe
+ - Esstisch
+ - Ohrensessel
+ - Sessel
+ - Bürostuhl
+ - Schreibtisch
+ - Bestuhlung
+ - Bett
+ - Himmelbett
+ - Matratze
+ - Kissen
+ - Sofakissen
+ - Bücherregal
+
+KitchenFurniture:
+ - Küchenmöbel
+ - Kücheneinrichtung
+ - Küchenmobiliar
+ - Einbauküche
+ - Küchenplatte
+ - Anrichte
+ - Arbeitsplatte
+ - Küchenwagen
+ - Küchenzeile
+ - Küchenblock
+ - Unterschrank
+ - Küchenstuhl
+ - Küchentisch
+ - Geschirrtuchhalter
+
+Refrigerator:
+ - Kühlschrank
+ - Gefrierschrank
+ - Eisschrank
+ - Gefrierfach
+ - Gefriertruhe
+ - Kühltruhe
+ - Kühlraum
+ - Kälteraum
+ - Eiskasten
+ - Frigidaire
+ - Gefrierkaste
+ - Kühlbox
+
+KitchenCupboard:
+ - Küchenschrank
+ - Oberschrank
+ - Küchenregal
+ - Küchenkiste
+ - Küchenumbauschrank
+ - Geschirrschrank
+ - Herdumbauschrank
+
+BathroomFurniture:
+ - Badezimmereinrichtung
+ - Badkommode
+ - Badezimmermöbel
+ - Badezimmerschrank
+ - Barhocker
+ - Waschbeckenunterschrank
+ - Handtuchhalter
+ - Bandschrank
+
+BathroomMirror:
+ - Badezimmerspiegel
+ - Rasierspiegel
+ - Badspiegel
+ - Spiegelschrank
+
+Cupboard:
+ - Schrank
+ - Einbauschrank
+ - Kaste
+ - Schuhschrank
+ - Schuhregal
+ - Schaft
+ - Schrein
+ - Kleiderschrank
+ - Schlafzimmerschrank
+
+
+Mirror:
+ - Spiegel
+ - Schminkspiegel
+

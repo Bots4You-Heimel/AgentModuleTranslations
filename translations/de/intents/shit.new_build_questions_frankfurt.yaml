@@ -1,0 +1,37 @@
+de:
+  intent:
+    ticket.shit/new_build_questions_frankfurt:
+    - Neubau [Frankfurt](city)
+    - '[Frankfurt](city) Neubau'
+    - Neubauwohnungen [Frankfurt](city)
+    - '[Wohnung](indoor_location) Neubau [Frankfurt](city)'
+    - Neubau frankfurter Raum
+    - "Neubauh\xE4user in [Frankfurt](city)"
+    - Neubauten bei [Frankfurt](city)
+    - aktuelle Neubauten [Frankfurt](city)
+    - '[Frankfurt](city) [Mietwohnung](indoor_location) neubau'
+    - Bauprojekte bei [Frankfurt](city)
+    - Gibt es Neubauten Raum [Frankfurt](city)?
+    - Neu gebaute [Wohnungen](indoor_location) um [Frankfurt](city)
+    - Interesse an Neubauten in [Frankfurt](city)
+    - "Bewerbung f\xFCr Neubauwohnung nahe [Frankfurt](city)"
+    - "Eine Eigentumswohnung in [Frankfurt](city), m\xF6glichst neubau"
+    - Was baut ihr da gerade bei [Frankfurt](city)
+    - Ich bin auf der Suche nach Neubauwohnungen zur Miete im Umkreis von [Frankfurt](city)
+    - "Habt ihr in der N\xE4he von [Frankfurt](city) auch Neubauh\xE4user zum Kauf\
+      \ im Angebot?"
+    - Ich suche neue [Wohnungen](indoor_location) in der Gegend von [Frankfurt](city)
+    - Wie siehts mit neuen Eigentumswohnungen bei [Frankfurt](city) aus?
+    - "ich w\xFCrde mich gerne als [Mieter](person) einer Neubauwohnung in [Frankfurt](city)\
+      \ anmelden"
+    - "Kann ich mich hier f\xFCr eine Neubau Eigentumswohnung bewerben? Bei [Frankfurt](city)\
+      \ suche ich"
+    - "Letztens gesehen dass ihr bei [Frankfurt](city) neue H\xE4user baut, wie und\
+      \ wo finde ich dazu mehr?"
+    - "Was f\xFCr Neubauten macht ihr gerade bei [Frankfurt](city)?"
+    - "F\xFCr wen sind die neuen [Wohnungen](indoor_location) die ihr gerade bei [Frankfurt](city)\
+      \ baut gedacht?"
+    - "Gerade erfahren dass ihr n\xF6rdlich von [Frankfurt](city) H\xE4user baut -\
+      \ wozu gibt es da mehr Infos?"
+    - "Bin an eurem Bauprojekt in der N\xE4he von [Frankfurt](city) vorbeigefahren,\
+      \ was hats damit auf sich?"

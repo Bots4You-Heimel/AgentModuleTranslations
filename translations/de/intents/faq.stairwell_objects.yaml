@@ -1,0 +1,26 @@
+de:
+  intent:
+    ticket.permit/stairwell_objects:
+    - Erlaubnis Lagerung [Flur](indoor_location)
+    - Dekoration [Treppenhaus](indoor_location)
+    - "Gegenst\xE4nde [Hausflur](indoor_location)"
+    - Lagerung im [Eingangsbereich](indoor_location)
+    - Abstellen im [Flur](indoor_location) genehmigt?
+    - "Darf ich eine [Vase](item) vor die [T\xFCr](item) stellen?"
+    - Kann man [Schuhe](item) im [Flur](indoor_location) haben
+    - "K\xF6nnen die [Menzels](named_person) ihre [Fahrr\xE4der](item) im [Eingang](indoor_location)\
+      \ hinstellen"
+    - Ist das abstellen von Dingen im [Flur](indoor_location) erlaubt?
+    - "D\xFCrfen wir einen [Schuhschrank](item) im [Hausflur](indoor_location) aufstellen?"
+    - "Darf mein [Nachbar](person) seine W\xE4sche im [Eingangsbreich](indoor_location)\
+      \ trocknen?"
+    - "K\xF6nnen wir [Pflanzen](plant) auf der [Treppe](item) hinstellen?"
+    - "D\xFCrfen wir uns ein paar sch\xF6ne Topfpflanzen vor die [Wohnungst\xFCre](item)\
+      \ tun?"
+    - Ist es erlaubt, Finge im gemeinsamen [Flur](item) zu lagern
+    - "Darf ich Gegenst\xE4nde im [Treppenhaus](indoor_location) abstellen?"
+    - "Ist es erlaubt [Schuhe](mess) im [Hausflur](indoor_location) vor die [Wohnungst\xFC\
+      r](item) zu stellen?"
+    - Kann ich einen [Schuhschrank](item) im [Flur](indoor_location) tun?
+    - Darf ich das [Treppenhaus](indoor_location) mit Blumen dekorieren?
+    - "Sind Blument\xF6pfe auf den [Treppen](item) im [Flur](indoor_location) erlaubt?"

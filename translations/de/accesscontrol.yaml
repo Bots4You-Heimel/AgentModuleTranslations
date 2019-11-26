@@ -1,0 +1,102 @@
+ApartmentKey:
+ - Wohnungsschlüssel
+ - Zimmerschlüssel
+ - Apartmentschlüssel
+
+Chip:
+ - Chipkarte
+ - RFID
+ - RFIDChip
+ - Chipmarke
+ - RFIDMarke
+ - Chip
+ - Schlüsselkarte
+ - Token
+ - RFIDToken
+ - Authtoken
+ - Marke
+
+GarageChip:
+ - Garagenchip
+ - Garagenmarke
+ - Garagentoken
+ - Tiefgaragenchip
+ - Tiefgaragentoken
+ - Tiefgaragenkarte
+
+GarbageChip:
+ - Müllchip
+ - Mülltonnenchip
+ - Mülltoken
+ - Müllkarte
+ - Müllmarke
+
+EntryDoorKey:
+ - Haustürschlüssel
+ - Hausschlüssel
+ - Eingangsschlüssel
+
+DumpKey:
+ - Müllplatzschlüssel
+ - Müllverschlagschlüssel
+
+DumpsterKey:
+ - Mülltonnenschlüssel
+ - Müllcontainerschlüssel
+
+DumpsterShack:
+ - Mülltonnenverschlag
+ - Mülltonnenschuppe
+ - Müllbox
+ - Müllverhau
+ - Mülltonnenbox
+ - Recyclingschuppe
+ - Mülltonnenverkleidung
+ - Mülltonnenunterstand
+
+Shack:
+ - Schuppe
+ - Laub
+ - Verschlag
+ - Blechverschlag
+ - Blechschuppe
+ - Holzschuppen
+ - Hütte
+ - Einhaltung
+ - Unterstand
+ - Gartenschuppe
+
+GarageKey:
+ - Garagenschlüssel
+ - Garagentorschlüssel
+
+GateKey:
+ - Torschlüssel
+ - Gatterschlüssel
+ - Zaunschlüssel
+ - Gartenschlüssel
+
+MailboxKey:
+ - Briefkastenschlüssel
+ - Postkastenschlüssel
+ - Briefboxschlüssel
+ - Postfachschlüssel
+
+BoomGate:
+ - Schrank
+ - Barriere
+ - Schlagbaum
+ - Wegeschrank
+ - Hindernis
+ - Sperre
+ - Blockierung
+ - Blockade
+ - Riegel
+
+GarbageAccess:
+ - Müllzugriff
+ - Müllzugang
+ - Mülltonnenzugriff
+ - Mülltonenzugang
+ - Müllcontainerzugriff
+ - Müllcontainerzugang

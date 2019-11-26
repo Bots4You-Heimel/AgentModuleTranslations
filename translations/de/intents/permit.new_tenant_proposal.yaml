@@ -1,0 +1,24 @@
+de:
+  intent:
+    ticket.permit/tenant_proposal:
+    - '[Nachmieter](person)'
+    - Vorschlag [Nachmieter](person)
+    - '[Nachmieter](person) Vorschlag'
+    - "D\xFCrfen Nachmietervorschl\xE4ge von mir kommen?"
+    - "Nominierung n\xE4chster [Mieter](person)"
+    - "Ich m\xF6chte jemanden als [Nachmieter](person) nominieren"
+    - Kann ich einen [Nachmieter](person) vorschlagen?
+    - "Ich will einen Vorschlag f\xFCr einen [Nachmieter](person) abgeben"
+    - Darf ich einen [Nachmieter](person) selber aussuchen?
+    - Der [Kollege](person) von mir will die [Wohnung](indoor_location) haben
+    - Kann ein [Bekannter](person) von mir meine [Wohnung](indoor_location) mieten?
+    - "Ein [Freund](person) von mir will die [Wohnung](indoor_location) \xFCbernehmen"
+    - Mein [Kumpel](person) hat Interesse an der [Wohnung](indoor_location)
+    - "Ich m\xF6chte jemanden vorschlagen, der mein [Appartment](indoor_location)\
+      \ mieten w\xFCrde, wenn ich ausgezogen bin"
+    - "Ich habe einen [Interessenten](person) f\xFCr meine [Wohnung](indoor_location)\
+      \ gefunden, der sofort \xFCbernehmen w\xFCrde."
+    - "Ich kenne einen [Arbeitskollegen](person) der sich die [Wohnung](indoor_location)\
+      \ gerne n\xE4her anschauen will"
+    - Ich kenne eine [Freundin](person), die an meiner Stelle in die [Wohnung](indoor_location)
+      einziehen will

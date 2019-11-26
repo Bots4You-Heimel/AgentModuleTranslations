@@ -1,0 +1,115 @@
+de:
+  intent:
+    ticket.permit/renewal_general:
+    - Modernisierung
+    - Modernisieren
+    - Erneuern
+    - Erneuerung
+    - Wohnungsmodernisierung
+    - Instandsetzung
+    - Sanierung
+    - '[Gasanschluss](sanitary_item) [Frankfurt](city)'
+    - Modernisierungsarbeiten
+    - Badsanierung [Wiesbaden](city)
+    - Badsanierungen in [Wiesbaden](city)
+    - Bestandsmietern Badsanierung [Wiesbaden](city)
+    - Wann modernisiert
+    - '[Wohnung](indoor_location) instandsetzen'
+    - '[Wohnung](indoor_location) erneuern'
+    - "[Wohnung](indoor_location) ver\xE4ndern"
+    - '[Bad](indoor_location) erneuern'
+    - "[K\xFCche](indoor_location) modernisiern"
+    - neuer [Backofen](appliance)
+    - '[Gasanschluss](sanitary_item) Gebiet [Frankfurt](city)'
+    - "K\xFCchenausstattung erneuerung"
+    - "[Einbauk\xFCche](indoor_location) sanieren"
+    - '[Gasanschluss](sanitary_item) [Frankfurt](city)'
+    - '[Frankfurt](city) [Gasanschluss](sanitary_item)'
+    - "Gasanschlu\xDF [Frankfurt](city)"
+    - "[Frankfurt](city) Gasanschlu\xDF"
+    - Gas-Anschluss [Frankfurt](city)
+    - '[Frankfurt](city) Gas-Anschluss'
+    - "Gas-Anschlu\xDF [Frankfurt](city)"
+    - "[Frankfurt](city) Gas-Anschlu\xDF"
+    - '[Badewanne](sanitary_item) erneuern'
+    - '[Haltegriff](item) austauschen'
+    - Duschhaltegriff wechseln
+    - "[Heizk\xF6rper](sanitary_item) erneuern"
+    - "[Heizk\xF6rper](sanitary_item) austauschen"
+    - "Bitte [Heizk\xF6rper](sanitary_item) auswechseln"
+    - Einbau neues [Badezimmer](indoor_location)
+    - Renovierung der [Wohnung](indoor_location)
+    - Neuanlage des [Gartens](outdoor_location)
+    - Wann wird renoviert?
+    - Sanierung [Badezimmer](indoor_location)
+    - Neuer [Gasanschluss](sanitary_item)
+    - '[Gasleitung](sanitary_item) legen'
+    - "\xC4nderung an [Wohnung](indoor_location)"
+    - "Ver\xE4nderung der [Wohnung](indoor_location)"
+    - '[Namensschild](item) anbringen'
+    - Warte auf Sanierung
+    - Brauche jemanden, der mir mein [Briefkastenschild](item) anbringt
+    - '[Gasanschluss](sanitary_item) im Gebiet [Frankfurt](city)?'
+    - "Neuer Gasanschlu\xDF in [Frankfurt](city)?"
+    - Interesse an Gas-Anschluss in [Frankfurt](city)
+    - Bitte um Ersetzung der Heizungen in der [Wohnung](indoor_location)
+    - "Laut [Vertrag](document) h\xE4tte die [Terrasse](outdoor_location) l\xE4ngst\
+      \ neu gemacht werden sollen"
+    - Bitte neues schnelleres Internet
+    - Ich brauche einen Anschluss ans Gasnetz im Gebiet [Frankfurt](city)
+    - "Die [Einbauschr\xE4nke](item) sind uralt. K\xF6nnen die modernisiert werden?"
+    - Es wird mal Zeit dass die [Steckdosen](appliance) neu gemacht werden
+    - "Die [K\xFCchenzeile](item) ist ausm letzten jahrhundert, austauschen"
+    - "Bei der hohen Miete kann doch mal ne neue [Haust\xFCr](item) her gell?"
+    - "K\xF6nnen endlich mal neue [Kabel](item) verlegt werden?"
+    - "Ich m\xF6chte meine Silikonfugen erneuern"
+    - Darf ich meine [Wohnung](indoor_location) erneuern?
+    - Ich plane Erneuerungsarbeiten an meiner [Wohnung](indoor_location)
+    - "K\xF6nnte jemand mein [Klingelschild](item) machen?"
+    - Bald werde ich meine [Wohnung](indoor_location)  instand setzen
+    - "Darf ich meine [Wohnung](indoor_location) ver\xE4ndern?"
+    - "Darf ich \xC4nderungen an der [Wohnung](indoor_location) vornehmen"
+    - Einstiegshilfe [Badewanne](sanitary_item)
+    - "K\xF6nnte mir jemand eine Einstiegshilfe f\xFCr die [Badewanne](sanitary_item)\
+      \ montieren?"
+    - "Ist es m\xF6glich, dass mir ein Badezimmerhaltegriff eingebaut werden k\xF6\
+      nnte?"
+    - Bestandsmietern Badsanierung in [Wiesbaden](city)
+    - Ich suche einen [Gasanschluss](sanitary_item) in Gebiet [Frankfurt](city)
+    - "Ich w\xFCrde mehr \xFCber den [Gasanschluss](sanitary_item) [Frankfurt](city)\
+      \ erfahren"
+    - "Wie l\xE4uft das mit dem Gasanschlu\xDF in [Frankfurt](city) ab?"
+    - Wo gibt es Infos zu dem Gas-Anschluss in [Frankfurt](city)
+    - "Habt ihr in Gebiet [Frankfurt](city) [Gasanschluss](sanitary_item) f\xFCr mich?"
+    - Badsanierungen bei Bestandsmietern in [Wiesbaden](city)
+    - '[Bad](indoor_location) sanieren bei Bestandsmietern in [Wiesbaden](city)'
+    - "Die [Fliesen](surface) im [Bad](indoor_location) sind echt h\xE4sslich und\
+      \ au\xDFer Mode und sollten ausgetauscht werden"
+    - Die alten [Durchlauferhitzer](sanitary_item) sind total ineffizient, bitte gegen
+      neue austauschen
+    - "Die Nebenkosten sind doch nur so hoch weil die [Boiler](appliance) so uralt\
+      \ sind, k\xF6nnen die nicht mal auf den neuesten Stand gebracht werden?"
+    - Wie sieht es denn mit einer Komplettsanierung vom [Badezimmer](indoor_location)
+      aus?
+    - "Bessern sie bitte die [Treppe](item) zu den [Garagen](outdoor_location) aus\
+      \ bevor noch jemand st\xFCrzt"
+    - die [Herdplatten](appliance) sind nicht mehr zu retten, ich will einen neuen
+      [Herd](appliance) beantragen
+    - der [Ofen](appliance) hat schon zu viele Gebrauchsspuren, kann der ausgetauscht
+      werden?
+    - "Der [Vermieter](person) wollte doch schon l\xE4ngst die [Treppen](item) im\
+      \ [Flur](indoor_location) erneuern oder?"
+    - "Seit 2 Jahren sind die [Treppengel\xE4nder](item) veraltet und eklig, bitte\
+      \ austauschen"
+    - "Die [Fenster](item) in meiner [Wohnung](indoor_location) m\xFCssen mal rundum\
+      \ erneuert werden, sind viel zu undicht weil alt etc."
+    - "Die Erneuerung der [Einbauk\xFCche](indoor_location) ist echt \xFCberf\xE4\
+      llig, wo kann ich das beantragen?"
+    - "Meine [K\xFCche](indoor_location) ist noch die gleiche wie aus den 80ern, wann\
+      \ wird da endlich mal was neu gemacht?"
+    - "Die [Nachbarn](person) haben neues Internet, aber bei mir sind noch die alten\
+      \ Anschl\xFCsse.. wie lange noch?!"
+    - Wann wird denn endlich mal das neue [Badezimmer](indoor_location) eingebaut?
+    - Das [Bad](indoor_location) unserer [Wohnung](indoor_location) bedarf einer Komplettsanierung,
+      besonders die [Dusche](sanitary_item) ist nicht zumutbar!
+    - Darf ich [in meiner Wohnung](indoor_location) feste Einbauten vornehmen?

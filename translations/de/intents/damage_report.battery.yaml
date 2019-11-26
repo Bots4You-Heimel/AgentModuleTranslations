@@ -1,0 +1,41 @@
+de:
+  intent:
+    ticket.damage_report/battery:
+    - Batterie
+    - Akku
+    - Batteriepack
+    - Akkupack
+    - Knopfzelle
+    - Akku tauschen
+    - Batterie wechseln
+    - Neue Batterie
+    - Batteriewechsel
+    - Akkuwechsel
+    - Batterie leer
+    - "Akku Kapazit\xE4t ersch\xF6pft"
+    - Batterie muss getauscht werden
+    - braucht einen neuen Akku
+    - "k\xF6nnte eine neue Batterie gebrauchen"
+    - die Batterie ist leer
+    - neue Bleibatterie
+    - neue AA Batterie
+    - neue Batteriezelle
+    - Temperaturregler leer
+    - Der Temperaturregler ist leer
+    - "Die [Uhr](item) im [Flur](indoor_location) br\xE4uchte eine neue Batterie"
+    - "Die Batterie von meinem [Heizkostenz\xE4hler](sanitary_item) im [Bad](indoor_location)\
+      \ ist leer"
+    - Mein [HKV](sanitary_item) hat keinen Saft mehr
+    - "Ich brauche eine neue Batterie f\xFCr meine [Klingel](item)"
+    - Der [Heizkostenverteiler](sanitary_item) braucht mal eine neue Batterie
+    - "Der Akku vom [Rasenm\xE4her](item) l\xE4dt nicht mehr"
+    - Der [Rauchmelder](item) hat gepiept, weil er eine neue Batterie braucht
+    - Die [Brandmeldeanlage](item) braucht einen neuen Notstromakku
+    - "Die [Rauchmelder](item) hier br\xE4uchten mal neue Batterien!"
+    - "Die [Brandmelder](item) im [Treppenhaus](indoor_location) m\xFCssten neue 9-Volt-Block-Batterie"
+    - "Der [Laubbl\xE4ser](item) braucht einen neues Akkupack"
+    - "Wer bezahlt mir neue Batterien f\xFCr die Melder?"
+    - "Die Knopfzelle f\xFCr den [Messer](item) am [Heizk\xF6rper](sanitary_item)\
+      \ muss ausgetauscht werden"
+    - Warum tauscht niemand die Batterien aus?
+    - "Wer ist daf\xFCr zust\xE4ndig, die Akkus auszutauschen?"

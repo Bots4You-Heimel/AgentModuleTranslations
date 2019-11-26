@@ -7,30 +7,35 @@ de:
     - Reinigungspflicht
     - Putzplan
     - Einhaltung Kehrwoche
-    - Verstoß Kehrwoche
+    - "Versto\xDF Kehrwoche"
     - Kehrwoche verpasst
     - Putzen verweigert
     - Reinigungspflicht missachtet
     - '[Nachbar](person) [fegt nicht](mess)'
     - '[Mieter](person) [kehrt nicht](mess)'
-    - '[Nachbar](person) [putzt nicht](mess)'
+    - '[Nachbar](person) putzt nicht'
     - Putzdienst nicht eingehalten
     - Reinigungspflicht wurde verletzt
     - Der [Nachbar](person) kehrt den [Flur](indoor_location) nicht!
     - '[Nachbar](person) macht wieder [nicht sauber](mess)'
     - Der [Nachbar](person) hat wieder [nicht durchgewischt](mess)
-    - Die Leute [in der Wohnung über mir](indoor_location) haben schon wieder [nicht gefegt](mess).
-    - Der [Mieter](person) [im Erdgeschoss](indoor_location) macht den [Dreck](mess) nie richtig weg.
-    - Die Woche ist schon vorbei und die [Treppe](indoor_location) ist immer noch [nicht sauber](mess).
-    - Hier hält sich keiner an den Putzplan.
-    - Ich bin die einzige, die sich an die Kehrwoche hält.
-    - Keiner hält sich an die Absprachen der Kehrwoche.
-    - Meine [Nachbarn](person) wollen sich schon wieder um die Kehrwoche drücken.
-    - Die [Mieterin](person) aus dem [Dachgeschoss](indoor_location) hat schon wieder [nicht gekehrt](mess).
-    - Es kann nicht sein, dass ich der einzige bin, der sich an den Putzplan hält.
-    - Ich bin der einzige, der den [Flur](indoor_location) sauber macht
-    - Hier hält sich niemand an den Putzplan.
+    - "Die Leute [in der Wohnung \xFCber mir](indoor_location) haben schon wieder\
+      \ [nicht gefegt](mess)."
+    - Der [Mieter](person) [im Erdgeschoss](indoor_location) macht den [Dreck](mess)
+      nie richtig weg.
+    - Die Woche ist schon vorbei und die [Treppe](item) ist immer noch [nicht sauber](mess).
+    - "Hier h\xE4lt sich keiner an den Putzplan."
+    - "Ich bin die einzige, die sich an die Kehrwoche h\xE4lt."
+    - "Keiner h\xE4lt sich an die Absprachen der Kehrwoche."
+    - "Meine [Nachbarn](person) wollen sich schon wieder um die Kehrwoche dr\xFCcken."
+    - Die [Mieterin](person) aus dem [Dachgeschoss](indoor_location) hat schon wieder
+      [nicht gekehrt](mess).
+    - "Es kann nicht sein, dass ich der einzige bin, der sich an den Putzplan h\xE4\
+      lt."
+    - Ich bin der einzige, der den [Flur](indoor_location) [sauber](mess) macht
+    - "Hier h\xE4lt sich niemand an den Putzplan."
     - Ich bin der einzige, der fegt
-    - Ich bin der einzige [im Haus](indoor_location), der sich darum kümmert, dass das [Treppenhaus](indoor_location) sauber bleibt.
-    - dass mein [Nachbar](person) den Flur [nicht reinigt](mess).
+    - "Ich bin der einzige [im Haus](indoor_location), der sich darum k\xFCmmert,\
+      \ dass das [Treppenhaus](indoor_location) [sauber](mess) bleibt."
+    - dass mein [Nachbar](person) den [Flur](indoor_location) [nicht reinigt](mess).
     - der [Nachbar](person) seine Putzpflicht nicht nachkommt

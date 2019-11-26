@@ -1,0 +1,48 @@
+de:
+  intent:
+    ticket.damage_report/storm_damage:
+    - Sturmschaden
+    - Wetterschaden
+    - "Windst\xE4rke"
+    - Unwetterschaden
+    - Gewitterschaden
+    - Ast [Auto](item)
+    - Starkwind Schaden
+    - "Sturm Sch\xE4den"
+    - "Sturmsch\xE4den [am Haus](outdoor_location)"
+    - "Wind Besch\xE4digung"
+    - "Gewitter Zerst\xF6rung"
+    - '[Tanne](plant) umgeweht'
+    - Sturmschaden Dachziegel
+    - '[Dach](outdoor_location) Sturmschaden'
+    - Sturmschaden an Teerpappe
+    - Starkwind Dachschaden
+    - "Windst\xE4rke Ziegel heruntergerissen"
+    - Sturmschaden an [Dachrinne](item)
+    - Sturm [Baum](plant) umgefalln
+    - Da hats wohl einen [Ahorn](plant) herausgerissen
+    - Ein Ast ist auf mein [Auto](item) gefallen
+    - Es hat wohl beim letzten Wind das [Hausdach](outdoor_location) abgedeckt!
+    - Der Wind hat einige Dachziegel abgetragen.
+    - "Es scheint Sturmsch\xE4den am [Dach](outdoor_location) zu geben."
+    - "Der letzte Sturm hat wohl das [Dach](outdoor_location) besch\xE4digt!"
+    - Beim letzten Gewitter hat sich wurde wohl ein Dachziegel weggeweht
+    - Durch ein Unwetter sind viele Dachpfannen vom [Dach](outdoor_location) runtergeflogen.
+    - "Beim letzten Sturm ist ein Blumenk\xFCbel heruntergerissen worden"
+    - Ein [Baum](plant) ist umgeweht worden
+    - "Es gibt Sturmsch\xE4den am [Zaun](item)"
+    - "Der Wind hat die [Dachrinne](item) besch\xE4digt"
+    - "Beim letzten Gewitter gab es Besch\xE4digung am [Sichtschutz](item)"
+    - Der Wind hat die Weihnachtsdekoration herabgerissen
+    - Der Sturm hat hier einen [Baum](plant) umgeblasen
+    - "Es gab durch das extreme Wetter Sch\xE4den am Grundst\xFCck"
+    - "Die [Au\xDFenfassade](surface) wurde durch den Sturm besch\xE4digt"
+    - "Mein [Audi](item) wurde durch einen herabfallenden Ast besch\xE4digt"
+    - Das Gewitter hat einen Ast auf meinen [Kombi](item) fallen lassen
+    - Der Wind hat eine [Eiche](plant) im [Garten](outdoor_location) umfallen lassen
+    - Der Blitz ist in die [Birke](plant) im [Vorgarten](outdoor_location) eingeschlagen
+    - "Bei dem gro\xDFen Sturm ist ein langer Ast auf das [Dach](outdoor_location)\
+      \ meines [BMWs](item) gefallen"
+    - Ein Ast des [Apfelbaums](plant) ist auf meine [Karre](item) geweht worden
+    - Der Wind war so stark, das es die [Eibe](plant) umgeweht hat
+    - "Die Windst\xE4rke war so hoch, dass es Sch\xE4den gab"

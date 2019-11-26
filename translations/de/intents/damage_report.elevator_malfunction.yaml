@@ -3,34 +3,35 @@ de:
     ticket.damage_report/elevator_malfunction:
     - Aufzugsschaden
     - Fahrstuhlfehlfunktion
-    - '[Aufzug](indoor_location)  kaputt'
-    - '[Treppenlift](item)  defekt'
-    - '[Lift](indoor_location)  beschädigt'
-    - '[Fahrstuhl](indoor_location)  steht'
-    - '[Aufzug](indoor_location)  kommt nicht'
-    - '[Aufzug](indoor_location)  geht nicht'
-    - Die Tasten im [Aufzug](indoor_location)  reagieren nicht
-    - Beim Drücken des Knopfs für die [Notsprechanlage](item)  antwortet keiner
-    - Die [Notsprechanlage](item)  im [Aufzug](indoor_location)  rauscht
-    - Die [Klingeltaste](item)  des [Aufzugs](indoor_location)  erzeugt keinen Ton
-    - Die [Klingel](item)  im [Fahrstuhl](indoor_location) schellt nicht
-    - Es passiert nichts beim Drücken der [Fahrstuhltasten](item)
-    - Einige [Aufzugstasten](item)  machen nichts trotz mehrfacher Betätigung
-    - Die [Klingel](item)  im [Aufzug](indoor_location) funktioniert nicht
-    - Das [Bedienfeld](item)  des [Aufzugs](indoor_location)  zeigt keine Antwort
-    - Ich sehe keine Reaktion beim Betätigen der [Stockwerktasten](item)
-    - Der [Aufzugsknopf](item)  funktioniert nicht
-    - Der [Aufzugsschalter](item)  ist beschädigt
-    - Der [Aufzug](indoor_location)  hält auf halber Etage
+    - '[Aufzug](indoor_location) kaputt'
+    - '[Treppenlift](item) defekt'
+    - "[Lift](indoor_location) besch\xE4digt"
+    - '[Fahrstuhl](indoor_location) steht'
+    - '[Aufzug](indoor_location) kommt nicht'
+    - '[Aufzug](indoor_location) geht nicht'
+    - Die Tasten im [Aufzug](indoor_location) reagieren nicht
+    - "Beim Dr\xFCcken des Knopfs f\xFCr die [Notsprechanlage](item) antwortet keiner"
+    - Die [Notsprechanlage](item) im [Aufzug](indoor_location) rauscht
+    - Die [Klingeltaste](item) des [Aufzugs](indoor_location) erzeugt keinen Ton
+    - Die [Klingel](item) im [Fahrstuhl](indoor_location) schellt nicht
+    - "Es passiert nichts beim Dr\xFCcken der [Fahrstuhltasten](item)"
+    - "Einige [Aufzugstasten](item) machen nichts trotz mehrfacher Bet\xE4tigung"
+    - Die [Klingel](item) im [Aufzug](indoor_location) funktioniert nicht
+    - Das [Bedienfeld](item) des [Aufzugs](indoor_location) zeigt keine Antwort
+    - "Ich sehe keine Reaktion beim Bet\xE4tigen der [Stockwerktasten](item)"
+    - Der [Aufzugsknopf](item) funktioniert nicht
+    - "Der [Aufzugsschalter](item) ist besch\xE4digt"
+    - "Der [Aufzug](indoor_location) h\xE4lt auf halber [Etage](indoor_location)"
     - Ich bin schon drei mal im [Aufzug](indoor_location) stecken geblieben!
-    - Der [Fahrstuhl](indoor_location)  kommt nicht und steckt anscheinend fest.
-    - Der [Aufzug](indoor_location)  ist zwischen den Stockwerken stecken geblieben.
-    - Der [Fahrstuhl](indoor_location)  bleibt sehr oft stecken.
+    - Der [Fahrstuhl](indoor_location) kommt nicht und steckt anscheinend fest.
+    - Der [Aufzug](indoor_location) ist zwischen den Stockwerken stecken geblieben.
+    - Der [Fahrstuhl](indoor_location) bleibt sehr oft stecken.
     - Dauernd bleibt der [Aufzug](indoor_location) stecken.
-    - Der [Fahrstuhl](indoor_location)  ist hängen geblieben.
-    - Die [Aufzugsanlage](indoor_location)  ist schon wieder hängen geblieben.
-    - Der [Fahrstuhl](indoor_location)  ist stehen geblieben.
-    - Der [Aufzug](indoor_location)  steckt wieder fest.
-    - Die [Aufzugstaste](item)  im [22. Stock](floor) funktioniert nicht mehr
-    - Es kommt kein [Aufzug](indoor_location)  mehr und ich kann nicht so viele [Treppenstufen](item)  laufen
-    - Ich bin jetzt schon zum dritten Mal im [Fahrstuhl](indoor_location)  festgesessen.
+    - "Der [Fahrstuhl](indoor_location) ist h\xE4ngen geblieben."
+    - "Die [Aufzugsanlage](indoor_location) ist schon wieder h\xE4ngen geblieben."
+    - Der [Fahrstuhl](indoor_location) ist stehen geblieben.
+    - Der [Aufzug](indoor_location) steckt wieder fest.
+    - Die [Aufzugstaste](item) im [22. Stock] funktioniert nicht mehr
+    - Es kommt kein [Aufzug](indoor_location) mehr und ich kann nicht so viele [Treppenstufen](item)
+      laufen
+    - Ich bin jetzt schon zum dritten Mal im [Fahrstuhl](indoor_location) festgesessen.

@@ -1,0 +1,98 @@
+de:
+  intent:
+    ticket.lease/rent_review:
+    - Mietminderung
+    - Mietanpassung
+    - Miete verringern
+    - Minderung der Miete
+    - Anpassung der Miete
+    - Miete wird angepasst
+    - Verringerung der Miete
+    - Miete zu Hoch
+    - Weniger Miete sofort
+    - Ich fordere eine Minderung der Miete
+    - "Die H\xF6he der Miete ist nicht ok"
+    - "Die Miete wurde um mehr als 20 Prozent erh\xF6ht, das ist nicht legal!"
+    - "Es wurd schon wieder eine Mieterh\xF6hung angek\xFCndigt, so oft ist das doch\
+      \ nicht erlaubt!?"
+    - "Grad erst eingezogen und schon kommt ne Mieterh\xF6hung, so geht das nich"
+    - "Nur ich bekomme eine Mieterh\xF6hung, habe die [Nachbarn](person) gefragt und\
+      \ bei denen ist das nicht so!"
+    - Es ist ungerecht dass ich schon wieder mehr Miete zahlen muss.
+    - Meine [Nachbarn](person) zahlen weniger als ich, wo bleibt meine Mietanpassung?
+    - "Ich bin seit l\xE4ngerem der Meinung dass die Miete zu hoch ist und verringert\
+      \ werden sollte"
+    - Bei dem schauerlichen Zustand meiner [Wohnung](indoor_location) kommen Sie mit
+      keiner Mietanpassung durch.
+    - "Bei dem Zustand meiner [Wohnung](indoor_location) k\xF6nnen Sie unm\xF6glich\
+      \ eine Mieterh\xF6hung planen!"
+    - "Bei der schlechten Verfassung meiner [Wohnung](indoor_location) k\xF6nnen Sie\
+      \ unm\xF6glich die Miete erh\xF6hen."
+    - "Bei der Verfassung meiner [Wohnung](indoor_location) k\xF6nnen Sie nicht auch\
+      \ noch die Miete erh\xF6hen."
+    - "Bei der Verfassung, in der meine [Wohnung](indoor_location) ist, k\xF6nnen\
+      \ Sie keine Anpassung der Miete durchsetzen."
+    - "Bei einer derartigen [Wohnung](indoor_location) k\xF6nnen Sie keine Mietanpassung\
+      \ durchsetzen."
+    - "Bei so einer [Wohnung](indoor_location) k\xF6nnen Sie keine h\xF6here Miete\
+      \ fordern."
+    - Dauernd soll meine Miete teurer werden, das geht gar nicht.
+    - "Der schlechte Zustand meiner [Wohnung](indoor_location) widerspricht Ihrer\
+      \ gewollten Mieterh\xF6hung."
+    - Der Zustand der [Wohnung](indoor_location) spricht gegen eine Anpassung der
+      Miete.
+    - "Der Zustand meiner [Wohnung](indoor_location) ist katastrophal, ich werde die\
+      \ Mieterh\xF6hung nicht bezahlen."
+    - Der Zustand meiner [Wohnung](indoor_location) passt wirklich nicht zu der geforderten
+      Mietanpassung.
+    - "Die H\xF6he meiner Miete wird erneut angehoben und ich stimme dem nicht zu."
+    - Die Miete kann nicht schon wieder angehoben werden.
+    - "Die Miete soll erh\xF6ht werden, wo kann ich Widerspruch einlegen?"
+    - "Die Miete soll noch mal erh\xF6ht werden und ich bin nicht einverstanden."
+    - Die Miete soll wiederholt angepasst werden, das kann nicht sein.
+    - "Die neue Miete ist viel zu hoch. Ich stimme der Erh\xF6hung nicht zu."
+    - "Die neue Mieterh\xF6hung ist nicht gerechtfertigt."
+    - "Die Verfassung meiner [Wohnung](indoor_location) passt nicht zu Ihrer geplanten\
+      \ Mieterh\xF6hung."
+    - "Die Verfassung meiner [Wohnung](indoor_location) rechtfertigt keine Mieterh\xF6\
+      hung."
+    - Die [Wohnung](indoor_location) ist mangelhaft und Sie fordern eine Mietanpassung.
+    - Die [Wohnung](indoor_location) ist so schlecht erhalten und Sie wollen noch
+      die Miete nach oben korrigieren.
+    - Es kann nicht sein, dass die Miete schon wieder angehoben wird.
+    - "F\xFCr diese minderwertige [Wohnung](indoor_location) k\xF6nnen Sie nicht ernsthaft\
+      \ die Miete anpassen."
+    - "F\xFCr so eine heruntergekommene [Wohnung](indoor_location) ist eine Mietanpassung\
+      \ absolut nicht gerechtfertigt."
+    - Ich akzeptiere die Mietanpassung nicht.
+    - "Ich akzeptiere die neue Mieterh\xF6hung nicht."
+    - "Ich bin mit der Mieterh\xF6hung nicht einverstanden."
+    - "Ich finde die Erh\xF6hung der Miete nicht okay."
+    - Ich lehne die Anpassung der Miete ab.
+    - "Ich lehne die Erh\xF6hung der Miete ab."
+    - "Ich m\xF6chte die Mieterh\xF6hung anfechten."
+    - Ich stimme der Mietanpassung nicht zu.
+    - "Ich verstehe nicht, wie Sie f\xFCr eine [Wohnung](indoor_location) in diesem\
+      \ Zustand noch eine h\xF6here Miete verlangen wollen."
+    - "Ich weigere mich, die Erh\xF6hung der Miete zu akzeptieren."
+    - "Ich weigere mich, eine h\xF6here Miete zu bezahlen."
+    - Ich widerspreche der Mietanpassung.
+    - "Ich will mich \xFCber die Mieterh\xF6hung beschweren."
+    - Mein Mietpreis soll angehoben werden und ich will widersprechen.
+    - Meine Miete soll angepasst werden, das finde ich nicht richtig.
+    - "Meine Miete wird erneut angehoben und ich m\xF6chte widersprechen."
+    - "Meine [Wohnung](indoor_location) ist desolat und Sie wollen eine h\xF6here\
+      \ Miete."
+    - Meine [Wohnung](indoor_location) ist in miserablem Zustand und Sie wollen eine
+      Mietanpassung.
+    - "Meine [Wohnung](indoor_location) ist in schlechtem Zustand und Sie wollen die\
+      \ Miete erh\xF6hen."
+    - "Meine [Wohnung](indoor_location) ist in so schlechter Verfassung und Sie erh\xF6\
+      hen die Miete."
+    - "Meine [Wohnung](indoor_location) ist unterdurchschnittlich und Sie erh\xF6\
+      hen meine Miete!"
+    - "Sie k\xF6nnen f\xFCr eine solche [Wohnung](indoor_location) unm\xF6glich eine\
+      \ Mietanpassung fordern."
+    - "sie wollen schon wieder meine miete erh\xF6hen, das ist nicht okay"
+    - "Wie es um meine [Wohnung](indoor_location) bestellt ist, k\xF6nnen Sie keine\
+      \ Mieterh\xF6hung fordern."

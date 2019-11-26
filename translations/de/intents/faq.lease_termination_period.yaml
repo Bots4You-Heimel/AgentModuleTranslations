@@ -1,0 +1,26 @@
+de:
+  intent:
+    ' faq/lease_cancellation_period':
+    - "K\xFCndigungsfirst"
+    - "K\xFCndigung [Wohnung](indoor_location) Zeitpunkt"
+    - "Mietverh\xE4ltnis Ende Wann"
+    - "Wann fr\xFChestens [Wohnung](indoor_location) k\xFCndigen?"
+    - "Wie lange K\xFCndigungsfrist?"
+    - "Wann K\xFCndigung [Mietvertrag](document)"
+    - "Wie ist die K\xFCndignungsfrist"
+    - "Wie ist die Frist beim K\xFCndigen?"
+    - "Bis wann muss ich mein [K\xFCndigungsschreiben](document) abschicken?"
+    - "Wann muss die K\xFCndigung bei ihnen sein"
+    - "K\xFCndigungsbrief, wann sp\xE4testens schicken?"
+    - "Frist [Mietvertrag](document) k\xFCndigen"
+    - Ende [Vertrag](document) bis wann?
+    - Bis wann Ende des [Mietvertrages](document) raus?
+    - "Fr\xFChester Auszugstermin bei K\xFCndigung"
+    - "K\xFCndigung, wie sind die Fristen?"
+    - Wie lange muss ich warten, bis ich aus dem [Zimmer](indoor_location) ausziehen
+      kann?
+    - "Wie schnell kann ich meine [Wohnung](indoor_location) k\xFCndigen?"
+    - Wann komme ich aus dem [Vertrag](document)
+    - "Wie schnell kann ich meine [Garage](outdoor_location) k\xFCndigen"
+    - "Was ist der fr\xFCheste Zeitpunkt, aus dem ich aus meinem Mietverh\xE4ltnis\
+      \ austreten kann?"

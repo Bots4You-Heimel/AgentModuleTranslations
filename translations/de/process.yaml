@@ -1,0 +1,33 @@
+Process:
+ - Prozess
+ - Vorgang
+ - Verlauf
+ - Bearbeitung
+ - Verfahren
+ - Durchführung
+
+Handover:
+ - Wohnungsübergabe
+ - Übergabe
+
+ApartmentInspection:
+ - Wohnungsabnahme
+ - Inspektion
+ - Überprüfung
+ - Mängelprüfung
+ - Wohnungscheck
+ - Check
+
+ApartmentFinalInspection:
+ - Wohnungsendabnahme
+ - Wohnungsendinspektion
+ - Endabnahme
+
+ApartmentPreAcceptance:
+ - Wohnungsvorabnahme
+ - Vorabnahme
+
+KeyHandover:
+ - Schlüsselabgabe
+ - Schlüsselüberreichung
+ - Schlüsselübergabe

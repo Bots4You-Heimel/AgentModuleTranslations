@@ -1,0 +1,155 @@
+de:
+  intent:
+    chitchat.are_you_a_chatbot:
+    - Bist du ein Chatbot?
+    - Bist du ein Chatboter
+    chitchat.are_you_a_man:
+    - Bist du Mann oder Frau?
+    - Bist du ein Mann?
+    - Bist du eine Frau?
+    chitchat.are_you_a_robot:
+    - Bist du ein Roboter?
+    - Bist du ein Mensch?
+    - bist du eine maschine?
+    - bist du eine software?
+    - bist du ein mensch?
+    - spreche ich mit eine maschine?
+    - spreche ich mit eine software?
+    - spreche ich mit einem Menschen?
+    - bist du eine person?
+    - bist du ein computer?
+    - bist du echt?
+    - bist du ein programm?
+    - bist du ein bot?
+    - bist du real?
+    - bist du ein softwareprogramm?
+    - bist du ein ki?
+    - bist du ein ai?
+    - mit wem schreibe ich gerade?
+    - "schreibe ich mit einer k\xFCnstlichen intelligenz?"
+    chitchat.goodbye:
+    - "tsch\xFCss"
+    - auf wiedersehen
+    - ciao
+    - tschau
+    - bye
+    - "tsch\xFCssi"
+    - hau rein
+    - bis dann
+    - "viel spa\xDF"
+    - ich bin dann mal offline
+    chitchat.greet:
+    - Hallo
+    - Hi
+    - Na?
+    - Moje
+    - Morje
+    - hey
+    - guten morgen
+    - guten abend
+    - guten tag
+    - hello
+    - moin
+    - huhu
+    chitchat.how_are_you:
+    - wie geht es dir
+    - wie geht's dir?
+    - wie gehts dir?
+    - alles fit?
+    - wie ist dein befinden?
+    - wie isses?
+    chitchat.how_do_you_look:
+    - Wie siehst du aus?
+    - Aussehen
+    - Wie schauste aus
+    - wie kann ich mir dich vorstellen
+    chitchat.i_love_you:
+    - Ich mag dich
+    - Ich liebe dich
+    - hdl
+    - hab dich lieb
+    chitchat.tell_me_a_joke:
+    - "Erz\xE4hl mir einen Witz."
+    - "erz\xE4hl mir nen witz"
+    - "kannst du einen joke erz\xE4hlen?"
+    - bist du witzig?
+    - sei mal lustig
+    - "witz rei\xDFen"
+    chitchat.thanks:
+    - danke
+    - dank
+    - "dankesch\xF6n"
+    - ok
+    - okidoki
+    - okay
+    - super
+    - prima
+    - fantastisch
+    - hervorragend
+    - '[sauber](mess)'
+    - perfekt
+    - okelidokeli
+    - alles klar
+    chitchat.what_are_you_doing:
+    - Was machst du grad?
+    - Was machst du?
+    - was machste?
+    - was tust du?
+    - was treibst du gerade?
+    chitchat.what_can_you_do:
+    - Was kannst du so?
+    - was kannst du?
+    - was kannste?
+    - was sind deine Kompetenzen?
+    - "wozu bist du f\xE4hig?"
+    - was sind deine skills
+    - was hast du drauf?
+    chitchat.what_is_your_favorite_color:
+    - Was ist deine Lieblingsfarbe
+    - farbe
+    - lieblingsfarbe
+    - magst du rot?
+    - "welche farbe gef\xE4llt dir"
+    - "was f\xFCr eine Farbe gef\xE4llt dir am besten?"
+    - welche farben magst du so
+    chitchat.what_is_your_favorite_food:
+    - was ist dein lieblingsessen?
+    - was isst du so
+    - "wovon ern\xE4hrst du dich"
+    - guten appetit
+    - mahlzeit
+    chitchat.where_do_you_come_from:
+    - Woher kommst du?
+    - Woher stammst du?
+    - Wo kommst du her?
+    - Woher du
+    - Woher
+    - wo kommst du denn her?
+    - sag mal wo kommst du her?
+    - du, woher kommst du?
+    - woher bist
+    - wo bist du denn her
+    chitchat.where_do_you_live:
+    - Wo wohnst du?
+    - wo bist du?
+    - wo ist dein wohnsitz?
+    - wo befindet sich dein arbeitsplatz?
+    - wo lebst du?
+    chitchat.who_are_you:
+    - Wer bist du?
+    - Wer sind Sie?
+    - Wer du?
+    - Was bist du?
+    - Wer warst du noch gleich?
+    - Wer warst du noch mal?
+    - Wer waren Sie noch gleich?
+    - Wer waren Sie noch mal?
+    - "Wie hei\xDFt du?"
+    - "Wie hei\xDFen Sie?"
+    - Wie lautet dein Name?
+    - Wie ist dein Name?
+    chitchat.who_developed_you:
+    - Wer hat dich entwickelt?
+    - wer hat dich erstellst
+    - programmierer
+    - wer hat deinen Code geschrieben

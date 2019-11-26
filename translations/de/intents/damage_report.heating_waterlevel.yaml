@@ -1,0 +1,28 @@
+de:
+  intent:
+    ticket.damage_report/heating_waterlevel:
+    - Wasserstand
+    - Heizwasserstand
+    - "F\xFCllung [Heizung](sanitary_item)"
+    - "Heizkreislauf f\xFCllen"
+    - "[Heizung](sanitary_item) auff\xFCllen"
+    - '[Zentralheizung](sanitary_item) wasserstand'
+    - "[Heizk\xF6rper](sanitary_item) nachf\xFCllen"
+    - Wasserstand Warmwasserkreislauf?
+    - "Heizwasser nachf\xFCllen"
+    - "Wasser [Heizk\xF6rper](sanitary_item) Stand"
+    - "Bef\xFCllung Gastherme"
+    - "[Therme](sanitary_item) Wasser auff\xFCllen"
+    - "Warmwasser nachf\xFCllen"
+    - "[Heizung](sanitary_item) Wasserbef\xFCllen"
+    - "[Heizung](sanitary_item) Wasser nachf\xFCllen"
+    - "Jemand muss Wasser nachf\xFCllen im [Heizkeller](indoor_location)"
+    - "Wie f\xFCllt man Wasser in die [Gasheizung](sanitary_item)"
+    - Da ist zu wenig Wasser in der [Heizung](sanitary_item).
+    - Der Wasserstand ist nicht ausreichend
+    - Die [Heizung](sanitary_item) hat nicht genug Wasser.
+    - Ich glaube da ist nicht genug Wasser in der zentralen [Heizanlage](sanitary_item)
+    - "Die Wassermenge in den [Heizungsrohren](sanitary_item) muss erh\xF6ht werden!"
+    - Der Wasserstand in der [Heizung](sanitary_item) ist zu niedrig
+    - "Es ist wichtig, das da Wasser in den [Heizk\xF6rpern](sanitary_item) nachgef\xFC\
+      llt ist"

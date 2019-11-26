@@ -1,0 +1,20 @@
+de:
+  intent:
+    ticket.lease/termination_breakup:
+    - "K\xFCndigung Trennung"
+    - "K\xFCndigung [Mietvertrag](document) Trennung"
+    - "K\xFCndigung wegen Scheidung"
+    - "Vertragsaufl\xF6sung nach Trennung"
+    - "Meine Frau hat mich verlassen, bitte [Mietvertrag](document) k\xFCndigen"
+    - "[Mietvertrag](document) k\xFCndigen wegen Trennung"
+    - "[Mietvertrag](document) soll wegen Scheidung gek\xFCndigt werden"
+    - "Bitte k\xFCndigen Sie mir den Mietvertrag, mein Mann hat mich verlassen."
+    - Wir haben uns getrennt und wollen die [Wohnung](indoor_location) nicht mehr
+    - "Ohne meinen Ex ist mir die [Wohnung](indoor_location) zu gro\xDF, ich will\
+      \ den [Vertrag](document) k\xFCndigen"
+    - "Vor kurzem habe ich mich von meiner Lebenspartnerin getrennt und m\xF6chte\
+      \ nun unseren [Mietvertrag](document) aufl\xF6sen."
+    - "Endlich bin ich das [Schwein](animal) los! Jetzt muss nur noch der [Mietvertrag](document)\
+      \ gek\xFCndigt werden."
+    - "unsere Ehe war nicht mehr zu retten, bitte den [Mietvertrag](document) aufl\xF6\
+      sen"

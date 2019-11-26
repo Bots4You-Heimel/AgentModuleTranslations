@@ -2,28 +2,46 @@ de:
   intent:
     ticket.damage_report/heat.water:
     - Warmwasser
+    - Warmwasserspeicher [Wiesbaden](city)
+    - W-Wasserspeicher [Wiesbaden](city)
+    - W-Wasserspeicher in [Wiesbaden](city)
+    - Es gibt Probleme mit dem Warmwasser in [Wiesbaden](city)
+    - Warmwasserspeicher
     - Kein Warmwasser
     - Wasser nicht warm
     - Wasser kalt
+    - Leitungswasser kalt
     - Warmwasserversorgung
+    - Warmwasserreservoir
+    - "Hei\xDFwasserreservoir"
+    - Wasser nicht warm
     - '[Durchlauferhitzer](sanitary_item) kaltes Wasser'
     - '[Dusche](sanitary_item) bleibt kalt'
     - Kein warmes Wasser
     - Nur kaltes Wasser
+    - "Kein hei\xDFes Wasser"
+    - Wasser nur lauwarm
     - Ich kann mich nicht warm duschen
     - Die [Dusche](sanitary_item) ist kalt.
     - Das Wasser bleibt kalt
-    - Das Wasser ist zu heiß. Da verbrennt man sich dran.
+    - "Wer k\xFCmmert sich darum dass das Warmwasser bei uns hier in [Wiesbaden](city)\
+      \ endlich wieder l\xE4uft?"
+    - "Wie f\xFClle ich Wasser nach im [Heizungskeller](indoor_location)?"
+    - Die Warmwasserspeicher in [Wiesbaden](city) haben den Geist aufgegeben
+    - "Das Wasser ist zu hei\xDF. Da verbrennt man sich dran."
     - Die [Duschbrause](sanitary_item) ist so kalt, dass man erfiert
     - Das Wasser ist so kalt, dass man garnicht baden kann
     - Hier ist nirgendwo warmes Wasser [im ganzen Haus](indoor_location)
     - Wir haben kein warmes Wasser mehr
     - Seit gestern ist hier kein warmes Wasser mehr, ich kann mich garnicht duschen
     - Es kommt kein warmes Wasser mehr aus dem [Waschbecken](sanitary_item)
-    - Aus dem [Wasserhahn](sanitary_item) in der [Küche](indoor_location)  kommt nur kaltes Wasser
+    - "Aus dem [Wasserhahn](sanitary_item) in der [K\xFCche](indoor_location) kommt\
+      \ nur kaltes Wasser"
     - Ich brauche wieder warmes Wasser
     - Die [Dusche](sanitary_item) gibt nur kaltes Wasser
     - Wie soll ich mich mit kaltem Wasser duschen?
-    - Der [Durchlauferhitzer](appliance) springt nicht an, es kommt nur kaltes Wasser.
-    - Aus meinem Wasserhahn kommt nur eiskaltes Wasser, bitte lassen Sie meinen [Boiler] (appliance) reparieren.
+    - Der [Durchlauferhitzer](sanitary_item) springt nicht an, es kommt nur kaltes
+      Wasser.
+    - Aus meinem [Wasserhahn](sanitary_item) kommt nur eiskaltes Wasser, bitte lassen
+      Sie meinen [Boiler](appliance) reparieren.
     - Jemand muss die Warmwasserversorgung wieder herstellen

@@ -1,0 +1,34 @@
+Service:
+ - Service
+ - Dienstleistung
+ - Dienst
+ - Wartung
+ - Bedienung
+
+DebtAdvisor:
+  - Schuldenberatung
+  - Schuldenberatungsstelle
+  - Schuldenberater
+  - Schuldenberaterin
+  - Schuldnerberatung
+  - Schuldnerberatungsstelle
+  - Schuldnerberaterin
+  - Schuldnerberater
+  - Insolvenzberater
+  - Insolvenzberaterin
+  - Insolvenzberatungsstelle
+
+SeniorCounseling:
+  - Seniorenberatung
+  - Seniorenberatungsstelle
+  - Seniorenberater
+  - Seniorenberaterin
+  - Rentnerberatung
+  - Rentnerberaterin
+  - Altersbertung
+  - Altersberatungsstelle
+  - Altersberaterin
+  - Altenberater
+  - Altenberaterin
+  - Altenberatungsstelle
+  - Rentnerberater

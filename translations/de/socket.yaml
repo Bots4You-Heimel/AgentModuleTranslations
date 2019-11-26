@@ -1,0 +1,36 @@
+Socket:
+ - Steckdose
+ - Sockel
+ - Buch
+ - socken
+ - Scheckbuch
+ - Anschlussdose
+ - Fassung
+
+ElectricalSocket:
+ - Elektrosteckdose
+
+TelephoneSocket:
+ - Telefonsteckdose
+ - Telefonbuchs
+ - Telefonanschluss
+ - Telefondose
+
+TvSocket:
+ - TVbuchs
+ - Antenndose
+ - Antennendose
+ - Antennbuchs
+ - Fernsehanschluss
+ - Fernsehdose
+ - Fernseherdose
+ - Kabelfernsehdose
+ - Satellitendose
+ - Fernsehsignaldose
+ - Teedose
+ - Tvbuchs
+ - Fernsehsteckdose
+ - Tvanschluss
+ - Fernseheranschluss
+ - Anschluss
+ - TVstecker

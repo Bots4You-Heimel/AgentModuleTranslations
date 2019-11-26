@@ -1,0 +1,55 @@
+LeafBlower:
+ - Laubbläser
+ - Laubpuster
+ - Laubgebläse
+ - Laubsauger
+
+CentralVentilationSystem:
+ - Lüfter
+ - Belüfter
+ - Lüftungsanlage
+ - Entlüftungsanlage
+ - Belüftungsanlage
+ - Hauslüftungsanlage
+ - Raumlüftungsanlage
+ - Sicherheitslüftungsanlage
+ - Wohnraumlüftungsanlage
+ - Zentrallüftungsanlage
+
+NightStorageHeater:
+ - Nachtspeicherofen
+ - Nachtspeicherheizung
+ - Nachtspeichergerät
+
+TvSignalBlocker:
+ - Sperrfilter
+ - Kabelfilter
+ - Tvfilter
+ - Blockfilter
+ - Sperrungsfilter
+ - Fernsehsperre
+ - Fernsehsperrfilter
+ - Kabelanschlussfilter
+ - Blockierfilter
+ - Bandfilter
+ - TVfilter
+ - TVSperrfilter
+
+CookingPlate:
+ - Kochplatte
+
+Cooktop:
+ - Herdplatte
+ - Kochstelle
+ - Kochfeld
+ - Kochfläche
+ - Ceranfeld
+ - Glaskeramikkochfeld
+
+Cooling:
+ - abkühlen
+ - Kühlung
+ - Abkühlung
+ - Erkalten
+ - Auskühlung
+ - Kühlbetrieb

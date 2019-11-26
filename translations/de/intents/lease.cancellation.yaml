@@ -1,0 +1,28 @@
+de:
+  intent:
+    ticket.lease/cancellation:
+    - "Vertragsr\xFCcktritt"
+    - Vertragsstorno
+    - Mietvertragsstorno
+    - "Mietvertragsr\xFCcktritt"
+    - Storno [Vertrag](document)
+    - Widerruf [Mietvertrag](document)
+    - Miete abbrechen
+    - "R\xFCcktritt [Mietvertrag](document)"
+    - "R\xFCcktritt vom [Vertrag](document)"
+    - '[Vertrag](document) canceln'
+    - "Vom Mietverh\xE4ltnis zur\xFCcktreten"
+    - doch nicht mieten
+    - "Ich trete vom [Mietvertrag](document) zur\xFCck"
+    - "Vom R\xFCcktrittsrecht gebrauch machen"
+    - Tut mir leid, aber ich will die [Mietwohnung](indoor_location) lieber nicht
+      haben
+    - "Ich m\xF6chte vin meinem unterschrieben [Vertrag](document) f\xFCr die [Garage](outdoor_location)\
+      \ zur\xFCcktreten"
+    - "Also ich m\xF6chte die [Wohnung](indoor_location), die ich mir bei euch angeschaut\
+      \ hatte, doch nicht"
+    - "Ich habe zwar gesagt, dass ich das [Zimmer](indoor_location) mieten m\xF6chte,\
+      \ habe aber etwas besseres gefunden"
+    - In der Zwischenzeit alternative gefunden, werde daher [Appartment](indoor_location)
+      nicht anmieten
+    - "Ich kann leider die [Gesch\xE4ftsr\xE4ume](indoor_location) doch nicht anmieten"

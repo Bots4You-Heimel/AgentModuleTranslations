@@ -1,0 +1,57 @@
+de:
+  intent:
+    ticket.financial/payment_by_installment:
+    - Ratenzahlung
+    - '[Ratenzahlungsvereinbarung](document)'
+    - Raten zahlen
+    - "[Ratenzahlungsvereinbarung](document) abschlie\xDFen"
+    - in Raten zahlen
+    - "Ratenzahlung f\xFCr Miete"
+    - Miete in Raten
+    - vereinbaren einer [Ratenzahlungsvereinbarung](document)
+    - Miete in Raten zahlen.
+    - "Nicht genug Geld f\xFCr Miete."
+    - "Zahlungstermine der Miete \xE4ndern."
+    - Ich muss meine Miete in Raten zahlen.
+    - "Ist es m\xF6glich die Miete in Teilbetr\xE4gen zu zahlen?"
+    - "Ist es m\xF6glich seine Miete gest\xFCckelt zu zahlen?"
+    - Kann die Miete auch in Raten abbezahlt werden?
+    - "W\xE4re es machbar die Miete auf mehrere Monate aufzuteilen?"
+    - Kann die Miete nicht auf einmal bezahlen.
+    - Die Miete soll in zwei Zahlungen aufgeteilt werden
+    - Kann ich die Nachforderung in Raten zahlen
+    - "Es w\xE4re mir lieber die Miete zweiw\xF6chig zu zahlen, geht das?"
+    - "wie soll ich so viel Geld f\xFCr die Miete auf einmal aufbringen?"
+    - kann Miete nicht im monatlichen takt bezahlen
+    - Hat der [Vermieter](person) Anspruch auf Zinsen wenn ich die Miete in Raten
+      zahle?
+    - ist es teurer wenn ich die Miete nicht auf einmal zahlen kann
+    - "ich bin nicht so fl\xFCssig alles Geld auf einem mal dem [Vermieter](person)\
+      \ zu geben"
+    - Ich will eine [Ratenzahlungsvereinbarung](document) mit dem [Vermieter](person)
+      treffen
+    - "Da mein gehalt immer erst sp\xE4ter kommt w\xFCrde ich gerne die Miete in Raten\
+      \ zahlen"
+    - Kann ich mit dem [Vermieter](person) eine Vereinbarung treffen wenn ich die
+      Miete in kleineren Teilen bezahlen will?
+    - "Habe das Geld f\xFCr die Miete nicht immer auf ein mal, was tun?"
+    - Ich kann meine Miete nicht komplett aufeinmal zahlen.
+    - "Weil ich das Gehalt gek\xFCrzt bekommen hab, kann ich die n\xE4chste Miete\
+      \ nur in Raten zahlen."
+    - "Ist es m\xF6glich dass ich die Miete in mehreren Schritten zahle?"
+    - "Ich m\xF6chte f\xFCr meine Miete eine Ratenzahlung vereinbaren."
+    - Es muss doch machbar sein dass ich meine Miete in mehreren Teilen und nicht
+      auf einmal bezahl
+    - Bei mir ist es grad leider knapp mit dem Geld, kann ich die Miete vielleicht
+      in Raten zahlen?
+    - "ich m\xF6chte eine Vereinbarung zur Ratenzahlung abschlie\xDFen"
+    - "was sind die Schritte f\xFCr eine Ratenzahlung der Miete?"
+    - "ich m\xF6chte meine Miete zu anderen terminen bezahlen"
+    - "Momentan kann ich die Miete nicht auf einmal so bezahlen, in 3 Teilen aufgespalten\
+      \ w\xFCrde es aber gehen"
+    - Ab jetzt will ich die Miete in zwei Schritten zahlen
+    - "In welchen zeitabst\xE4ndne kann ich die raten der miete zahlen?"
+    - Wo seh ich wann ich die Raten der miete zahlen soll?
+    - "Ich wei\xDF nicht mehr zu welchen Fristen ich die Miete in Raten zahlen muss"
+    - ich warte immer auf die zahlung vom Arbeitslosengeld und kann die Miete nicht
+      auf einen schlag so zahlen

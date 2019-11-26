@@ -1,0 +1,52 @@
+de:
+  intent:
+    ticket.complaint/power_thief:
+    - Stromklau
+    - Stromdiebstahl
+    - Strom-Betrug
+    - Strom geklaut
+    - Stromklau melden
+    - "manipulierter [Stromz\xE4hler](appliance)"
+    - '[Nachbar](person) klaut Strom'
+    - Entziehung elektrischer Energie
+    - Stromklau nimmt zu
+    - ungewohnt hoher Stromverbrauch
+    - Stromdiebstahl [im Haus](indoor_location)
+    - "Ich m\xF6chte melden, dass irgendein [Mieter](person) [im Haus](indoor_location)\
+      \ Strom klaut."
+    - "Verd\xE4chtige [Kabel](item) im Flur, Stromklau?"
+    - Ich denke meine [Nachbarn](person) beziehen ihren Strom von mir
+    - Die [Nachbarn](person) klauen meinen Strom!
+    - Was tun wenn Stromdiebstahl unter Verdacht?
+    - "An meinem [Stromz\xE4hler](appliance) habe ich Magnete entdeckt"
+    - Ich glaub die [Familie Krause](named_person) klaut mir den Strom
+    - "Da will wer sein Stromproblem l\xF6sen indem er mir meinen klaut!"
+    - "[Kabel](item) der [Stromz\xE4hler](appliance) wurden"
+    - "Jemand hat an den [Stromz\xE4hlern](appliance) rumgefummelt, klaut da wer Strom?"
+    - "[Stromz\xE4hler](appliance) dreht weiter auch wenn ich die [Sicherungen](appliance)\
+      \ meiner [Wohnung](indoor_location) ausschalte"
+    - "Jemand hat sich an der Verkabelung der [Stromz\xE4hler](appliance) zu schaffen\
+      \ gemacht."
+    - "Ich hab s\xE4mtlichen Strom in meiner [Wohnung](indoor_location) abgeschaltet\
+      \ und der [Stromz\xE4hler](appliance) dreht sich trotzdem weiter, \xFCberpr\xFC\
+      fen!"
+    - Nach den Umbauten an der [Wohnung](indoor_location) letzten Jahres ist meine
+      [Stromrechnung](document) stark angestiegen
+    - "Im [Flur](indoor_location) sind lauter Mehrfachsteckdosen und Verl\xE4ngerungskabel\
+      \ die zu den [Beyers](named_person) f\xFChren."
+    - "Ich habe [Kabel](item) entdeckt die von den [Stromz\xE4hlern](appliance) in\
+      \ die Kellerr\xE4ume der [Nachbarn](person) f\xFChren, verd\xE4chtig!"
+    - "Ich kann mir die starken Abweichungen im Stromverbrauch nicht erkl\xE4ren"
+    - Meine Stromverbrauch ist angeblich doppelt so hoch wie im Vorjahr, das kann
+      doch nicht mit rechten Dingen zugehen!
+    - "Der Z\xE4hklerstand vom [Stromz\xE4hler](appliance) ist m\xE4chtig angestiegen\
+      \ obwohl ich im Urlaub war, da stimmt was nicht!"
+    - "Ich habe merkw\xFCrdige versteckte [Kabel](item) entdeckt, die in die [Wohnung](indoor_location)\
+      \ von [Herrn Kowick](named_person) f\xFChren."
+    - "Ich habe Magneten an dem [Stromz\xE4hler](appliance) der [Nachbarn](person)\
+      \ entdeckt, was soll das"
+    - "Seitdem die Polen bei uns [im Haus](indoor_location) wohnen ist der Stromz\xE4\
+      hlerstand rapide angestiegen und ich denke die klauen meinen Strom!"
+    - "Den [Nachbarn](person) \xFCber mir wurde letztens der Strom abgeschaltet -\
+      \ jetzt l\xE4uft er wohl wieder und mein Z\xE4hlerstand steigt t\xE4glich viel\
+      \ mehr. Das muss Stromdiebstahl sein!"

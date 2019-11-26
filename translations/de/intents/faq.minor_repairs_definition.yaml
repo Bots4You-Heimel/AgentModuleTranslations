@@ -1,0 +1,21 @@
+de:
+  intent:
+    faq/minor_repairs_definition:
+    - Was Kleinreparaturen
+    - Was Bargatellreparaturen
+    - Badarmatur Kleinrepartur
+    - Was sind Kleinreparaturen?
+    - "erkl\xE4re kleinere Reparaturen"
+    - "Erkl\xE4r mir Kleinreparaturen"
+    - "Bitte erkl\xE4re Bargatellreparaturen"
+    - Was sind kleinere Reparaturen?
+    - "Was f\xE4llt unter Kleinreparaturen?"
+    - "Was z\xE4hlt denn zu Kleinreparaturen"
+    - "Was geh\xF6rt zu Bargatellreparaturen?"
+    - "Die [Beleuchtung](appliance) im [Treppenhaus](indoor_location) musste ausgetauscht\
+      \ werden, das geh\xF6rt zu Kleinreparturen oder?"
+    - "Die Fenstergriffe im [Bad](indoor_location) habe ich reparieren lassen, z\xE4\
+      hlt das zu Kleinreparaturen?"
+    - "Was geh\xF6rt zu Kleinreparaturen in der Wohnung?"
+    - "Was geh\xF6rt zu Kleinreparaturen am Haus?"
+    - "Ist das Instandsetzen der WC-Sp\xFClung Teil von Kleinreparturen?"

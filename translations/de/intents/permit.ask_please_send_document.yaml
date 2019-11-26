@@ -1,0 +1,59 @@
+de:
+  intent:
+    ticket.permit/ask_please_send_document:
+    - '[Zuzugsgenehmigung](document)!'
+    - '[Mietbescheinigung](document)'
+    - '[Vermieterbescheinigung](document)'
+    - '[Betriebskostenabrechnung](document)'
+    - '[Fehlbelegungsbescheinigung](document)'
+    - '[Wohnungsgeberbescheinigung](document)!'
+    - "[Einzugserm\xE4chtigung](document)"
+    - '[Vermieterbescheinigung](document)'
+    - '[Mietschuldenfreiheitsbescheinigung](document).'
+    - "[Energieversorgungsger\xE4teliste](document)"
+    - "Mieter-T\xDCV"
+    - "[Energieversorgungsger\xE4te](appliance) [Liste](document)"
+    - "[Energieversorgungsger\xE4te](appliance) [Auflistung](document)"
+    - "[Energieversorgungsger\xE4te](appliance) [Liste](document)"
+    - "welche Energieger\xE4te"
+    - "[Liste](document) zu den Energieversorgungsger\xE4ten"
+    - "verwendete [Energieversorgungsger\xE4te](appliance)"
+    - '[Auflistung](document) zusenden'
+    - '[Mietbescheinigung](document) senden'
+    - Zuschicken [Lastschriftverfahren](document) [Formular](document)
+    - '[Kopie](document) schicken'
+    - "[Mieter](person) T\xDCV"
+    - Brauche [Nebenkostenrechnung](document) zugeschickt!
+    - "Brauche Kopien der notwendigen Dokumente f\xFCr das [Lastschriftverfahren](document)"
+    - "Ich brauche eine [Einzugserm\xE4chtigung](document)"
+    - Bitte schickt [Mietbescheinigung](document)
+    - "K\xF6nnten Sie mir bitte eine [Dokument](document) zukommen lassen?"
+    - Ich brauche etwas zugeschickt
+    - "[Liste](document) Apparate f\xFCr Elektrizit\xE4tversorgung"
+    - '[Formular](document) SEPA-Mandat [Kopie](document)'
+    - SEPA [Formular](document) zuschicken
+    - "[Liste](document) der [Energieversorgungsger\xE4te](appliance)"
+    - "\xDCbermitteln Sie mir die [Vermieterbescheinigung](document)."
+    - Ich brauche eine [Wohnungsgeberbescheinigung](document)
+    - Schicken Sie bitte eine [Kopie](document) der [Nebenkostenabrechnung](document)
+    - Bitte schicken Sie die [Zuzugsgenehmigung](document)
+    - Senden Sie die [Betriebskostenabrechnung](document) an meine Adresse
+    - "K\xF6nnen Sie die [Nebenkostenabrechnung](document) per Post zusenden?"
+    - Wer sendet mir die [Mietschuldenfreiheitsbescheinigung](document)?
+    - Lassen Sie mir die [Fehlbelegungsbescheinigung](document) zukommen
+    - Wie bekomme ich eine [Mietbescheinigung](document)?
+    - "K\xF6nnte mir jemand eine [Bescheinigung](document) schicken"
+    - "Infos zu den Energieversrogungsger\xE4ten"
+    - "Gibt es eine [Liste](document) aller Ger\xE4te zur Energieversorgung"
+    - "Gibt es andere Bezugsquellen f\xFCr die Energieversorgung?"
+    - Ich bitte um die Versendung einer [Kopie](document) meines [Mietvertrags](document)
+    - "Ich ben\xF6tige die [Unterlagen](document), um eine [Einzugserm\xE4chtigung](document)\
+      \ zu erteilen"
+    - "Ich muss eine [Kopie](document) des [Mietvertrags](document) an das Arbeitsamt\
+      \ \xFCbergeben"
+    - "Ihr m\xFCsstet mir nochmal eine [Mitbeischeinigung](document) schicken"
+    - "Bitte schick mir so schnell wie m\xF6glich die [Betriebskostenabrechnung](document)!"
+    - "K\xF6nnte mir jemand bitte bald nochmal die [Nebenkostenabrechnung](document)\
+      \ auf dem Postweg zukommen lassen?"
+    - "Bei mir zieht ein neuer [Untermieter](person) ein uch daf\xFCr br\xE4uchte\
+      \ ich eine [Zuzugsgenehmigung](document)"

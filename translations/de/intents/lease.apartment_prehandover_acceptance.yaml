@@ -1,0 +1,36 @@
+de:
+  intent:
+    ticket.lease/apartment_prehandover_acceptance:
+    - Wohnungsabgabe
+    - "Wohnungs\xFCbergabe"
+    - Wohnungsvorabnahme
+    - Wohnungsvorabnahmetermin
+    - Wohnungsabnahme regeln
+    - Vorabnahme Termin
+    - Termin Wohnungsvorabgabe
+    - Wohnungsvorabnahme vereinbaren
+    - Wohnungsvorabnahme Termin abmachen
+    - "Termin f\xFCr Wohnungsvorabnahme"
+    - Vorabnahme der [Wohnung](indoor_location)
+    - Wohnungsvorabnahme Termin wegen baldigen Auszug
+    - "Wer ist f\xFCr die abnahme meiner [Wohnung](indoor_location) zust\xE4ndig"
+    - Termin zur Abnahme der [Wohnung](indoor_location)
+    - Ich will wissen ob vor Auszug noch was zu reparieren ist
+    - Muss ich vorm Auszug noch die [Wohnung](indoor_location) auf trapp bringen?
+    - ziehe im Oktober aus, wer sagt mir ob/was ich noch zu reparieren etc. hab?
+    - Kann jemand vorbei kommen um zu checken ob ich noch was reparieren muss vor
+      Auszug?
+    - Kommt der [Vermieter](person) noch vorbei bevor ich ausziehe um zu schauen was
+      noch gemacht werden muss?
+    - "Ich will die [Wohnung](indoor_location) \xFCbergeben und ben\xF6tige daf\xFC\
+      r einen Termin"
+    - Die Abnahme der [Wohnung](indoor_location) muss noch geregelt werden, ziehe
+      Ende des Monats aus
+    - "Die Wohnungsr\xFCckgabe ist schon in zwei Wochen, sollte davor nicht eine Vorabnahme\
+      \ durchgef\xFChrt werden?"
+    - "Ich ziehe n\xE4chste Woche aus und hab vergessen einen Termin f\xFCr die Wohnungsvorabnahme\
+      \ zu vereinabaren"
+    - "[Wohnung](indoor_location) gek\xFCndigt, bald zieh ich aus, aber noch immer\
+      \ kein termin f\xFCr diese Wohnungsvorabnahme..."
+    - "Letzte Woche habe ich die [Wohnung](indoor_location) gek\xFCndigt und will\
+      \ jetzt mal die Vorabnahme abhaken, der Auszugstermin ist ja schon bald"

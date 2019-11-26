@@ -1,0 +1,64 @@
+de:
+  intent:
+    ticket.damage_report/water_quality:
+    - "Wasserqualit\xE4t"
+    - Wasserverschmutzung
+    - Wasserkontamination
+    - Legionellen
+    - Dosieranlage
+    - Wasserbehandlungsanlage
+    - '[Dosierungsanlage](sanitary_item)'
+    - "Qualit\xE4t Wasser"
+    - Wasser kontaminiert
+    - "Unzureichende Wasserqualit\xE4t"
+    - Trinkwasser braun
+    - Trinkwasser verseucht
+    - Wasser [verschmutzt](mess)
+    - Braunes Wasser
+    - Bleihaltiges Wasser
+    - Bleiverseuchtes Warmwasser
+    - Trinkwasser arsenhaltig
+    - Wasser Schadstoffhalting
+    - "Ungen\xFCgende Wasserqualit\xE4t"
+    - Unsauberes Leitungswasser
+    - Warmwasser [unsauber](mess)
+    - Kranwasser verkeimt
+    - Dosieranlage Filter
+    - Dosieranlage defekt
+    - "Komische Dosierger\xE4usche"
+    - "Dosierungsger\xE4t kaputt"
+    - Wasser braun
+    - Wasser nicht trinkbar
+    - Giftstoffe in Wasserrohren
+    - Schadstoffe im Trinkwasser
+    - Keime im Leitungswasser
+    - Kalk im Warmwasser
+    - Zu viel Chlor im Trinkwasser
+    - Kupfergehalt im Leitungswasser ist zu hoch
+    - Die Filter der [Dosierungsanlage](sanitary_item) wechseln
+    - Kontamination des Wassers
+    - Wasser ist braun
+    - "Die Trinkwasserqualit\xE4t ist unzureichend"
+    - Das Leitungswasser schmeckt bleiern
+    - Das Wasser ist braun
+    - Wasser nicht in Ordnung
+    - Das Wasser ist nicht in Ordnung
+    - Irgendwas stimmt nicht mit dem Wasser
+    - Das Wasser schmeckt anders als sonst
+    - Irgendwas ist komisch mit dem Wasser
+    - Ich habe mein Wasser testen lassen, und laut Testbericht ist es bleihaltig
+    - "Aus meinem [Wasserhahn](sanitary_item) kam gestern eine braune Br\xFChe"
+    - Ich glaube, die [Rohre](sanitary_item) [in diesem Haus](indoor_location) sind
+      aus blei
+    - Das Wasser in der [Dusche](sanitary_item) muss mit Legionellen kontaminiert
+      sein
+    - Ich habe das Wasser getrunken und Colera bekommen
+    - "Im Wasser habe ich F\xE4kalkeime gefunden"
+    - Die Filter der [Dosierungsanlage](sanitary_item) wechseln
+    - Das Wasser hier ist so schmutzig, dass man es nicht trinken kann
+    - Hier kann man das Wasser nicht als Trinkwasser verwenden
+    - Laut eines Tests ist das Wasser [nicht sauber](mess)
+    - "Man m\xFCsste dringend mal den [Wasserfilter](item) austauschen"
+    - Die alte [Dosierungsanlage](sanitary_item) hat nun endlich ihren Geist aufgegeben..
+    - Das Wasser ist zu hart, wahrscheinlich funktioniert die [Dosierungsanlage](sanitary_item)
+      nicht mehr

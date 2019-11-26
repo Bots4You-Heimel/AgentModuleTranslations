@@ -1,0 +1,17 @@
+de:
+  intent:
+    ticket.permit/satellite_dish:
+    - "Satellitensch\xFCssel Anbringung"
+    - Parabolantenne Installation
+    - "Antennensch\xFCssel anbringen"
+    - "Darf ich eine Satellitensch\xFCssel anbringen?"
+    - Ist die Anbringung einer Parabolantenne erlaubt?
+    - "Ist das Anbringen einer Antennensch\xFCssel gestattet?"
+    - "D\xFCrfen [Mieter](person) eine Satellitensch\xFCssel installieren?"
+    - "Brauche ich eine Erlaubnis f\xFCr die Installation einer Parabolantenne?"
+    - "Bekomme ich Ihre Zustimmung f\xFCr eine Antennensch\xFCssel auf dem Balkon?"
+    - "Darf ich eine Parabolantenne am [Balkon](outdoor_location) aufh\xE4ngen?"
+    - "Ben\xF6tige ich eine Genehmigung f\xFCr die Befestigung einer Satellitensch\xFC\
+      ssel?"
+    - "Erlauben Sie mir die Montage einer Antennensch\xFCssel?"
+    - Habe ich die Berechtigung eine Parabolantenne zu montieren?

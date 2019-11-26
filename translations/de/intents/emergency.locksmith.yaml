@@ -1,0 +1,24 @@
+de:
+  intent:
+    ticket.emergency/locksmith:
+    - Ausgeschlossen
+    - "[Schl\xFCsselnotdienst](person)"
+    - Hab mich ausgeschlossen
+    - "Brauche Notschl\xFCssel"
+    - "[T\xFCr](item) zugefallen"
+    - "Bitte schickt mir einen Notschl\xFCssel"
+    - Jemand muss mein [Schloss](item) aufbohren
+    - Ich habe mich aus meiner [Wohnung](indoor_location) ausgeschlossen
+    - Ich habe mich ausgeperrt
+    - "Ich brauche jemanden, um die [T\xFCr](item) aufzubrechen"
+    - Ich komme nicht in meine [Wohnung](indoor_location) rein
+    - "Die [Wohnungst\xFCr](item) l\xE4sst sich nicht mehr \xF6ffnen"
+    - "Der [Schl\xFCsseldienst](person) soll meine [T\xFCr](item) aufschlie\xDFen"
+    - "Die [T\xFCr](item) ist von innen abgeschlossen"
+    - "Meine [Wohnungst\xFCr](item) ist zugefallen"
+    - "Meine [Balkont\xFCr](item) wurde vom Wind zugedr\xFCckt"
+    - "Ich stehe Splitternakt auf der Stra\xDFe und komme nicht in meine [Wohnung](indoor_location)"
+    - "Ich habe meinen [Schl\xFCssel](item) in der [Wohnung](indoor_location) vergessen\
+      \ und komme nicht mehr rein"
+    - "Ich habe meinen [Wohnungsschl\xFCssel](item) vergessen und komme in meine [Wohnung](indoor_location)\
+      \ nicht mehr rein."

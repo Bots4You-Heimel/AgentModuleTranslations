@@ -5,38 +5,44 @@ de:
     - '[Verteilerkasten](appliance)'
     - '[Sicherungskasten](appliance)'
     - '[Schutzschalter](appliance)'
-    - '[Zählerkasten](appliance)'
+    - "[Z\xE4hlerkasten](appliance)"
     - Kurzschluss
     - Kurzschluss [Treppenhaus](indoor_location)
     - '[Sicherung](appliance) defekt'
-    - '[FI-Schalter](appliance) Einbau'
-    - '[Sicherung](appliance) springt dauernd raus'
+    - '[FI-Schalter](appliance) einbau'
+    - '[Sicherung](appliance) springt dauernd'
     - '[Sicherung](appliance) geht dauernd los'
-    - '[Zählerkasten](appliance) defekt'
+    - "[Z\xE4hlerkasten](appliance) defekt"
     - Die [Sicherung](appliance) fliegt laufend raus
-    - Ich habe einen Kurzen im [Wohnzimmer](indoor_location) produziert
+    - Ich einen Kurzen im [Wohnzimmer](indoor_location) produziert
     - Mir ist jetzt zum dritten Mal in dieser Woche die [Sicherung](appliance) herausgeflogen.
-    - Ständig fliegt meine [Sicherung](appliance) raus, wenn ich Wasser koche.
-    - Bitte sichern Sie meine Wohnung besser ab, meine [Sicherungen](appliance) fliegen regelmäßig raus.
-    - Es kann nicht sein, dass immer die [Sicherungen](appliance) herausfliegen, wenn ich mal mehrere Elektrogeräte am Netz hängen habe.
-    - Mir sind schon wieder die [Sicherungen](appliance) durchgebrannt.
-    - Meine Wohnung ist nicht ausreichend abgesichert, ständig fliegen die [Sicherungen](appliance) heraus.
+    - "St\xE4ndig fliegt meine [Sicherung](appliance) raus, wenn ich Wasser koche."
+    - "Bitte sichern Sie meine [Wohnung](indoor_location) besser ab, meine [Sicherungen](appliance)\
+      \ fliegen regelm\xE4\xDFig raus."
+    - "Es kann nicht sein, dass immer die [Sicherungen](appliance) herausfliegen,\
+      \ wenn ich mal mehrere Elektroger\xE4te am Netz h\xE4ngen habe."
+    - Mir sind schon wieder die [Sicherungen](appliance) herausgeflogen.
+    - "Meine [Wohnung](indoor_location) ist nicht ausreichend abgesichert, st\xE4\
+      ndig fliegen die [Sicherungen](appliance) heraus."
     - Es hat wieder die [Sicherung](appliance) rausgehauen
-    - '[Im ganzen Haus](indoor_location)  ist der Strom ausgefallen.'
+    - '[Im ganzen Haus](indoor_location) ist der Strom ausgefallen.'
     - Die [Sicherungen](appliance) im [Sicherungskasten](appliance) sind erneut rausgesprungen
-    - Der [Verteilerkasten](appliance) soll mal überprüft werden.
-    - Prüfen Sie bitte die alten [Sicherungen](appliance) im [Stromkasten](appliance)
-    - '[Jemand](person) sollte mal [FI-Schalter](appliance) nachrüsten'
+    - "Der [Verteilerkasten](appliance) soll mal \xFCberpr\xFCft werden."
+    - "Pr\xFCfen Sie bitte die alten [Sicherungen](appliance) im [Stromkasten](appliance)"
+    - "Jemand sollte mal [FI-Schalter](appliance) nachr\xFCsten"
     - Die [Sicherung](appliance) geht nicht mehr rein
     - Der [FI-Schalter](appliance) ist defekt
-    - Der [Fehlerstrom-Schutzschalter](appliance) ist kaputt
+    - Die [Fehlerstrom-Schutzschalter](appliance) ist kaputt
     - Es fehlen [Fehlerstrom-Schutzschalter](appliance)
     - Wo kriege ich eine neue [Sicherung](appliance)
     - Eine [Sicherung](appliance) ist gesprungen
     - Der [Sicherungsschalter](appliance) klappt dauernd um
     - Es gibt einen Defekt im [Sicherungskasten](appliance)
-    - Die [Sicherung](appliance) für das [Treppenhaus](indoor_location)  ist aus
-    - Ich finde den [Sicherungskasten](appliance) des [Dachbodens](indoor_location)  nicht
-    - Jemand muss die [Sicherung](appliance) im [Wäschekeller](indoor_location)  wechseln
+    - "Die [Sicherung](appliance) f\xFCr das [Treppenhaus](indoor_location) ist aus"
+    - Ich finde den [Sicherungskasten](appliance) des [Dachbodens](indoor_location)
+      nicht
+    - "Jemand muss die [Sicherung](appliance) im [W\xE4schekeller](indoor_location)\
+      \ wechseln"
     - Der [Sicherungskasten](appliance) hat durchgebrannte [Sicherungen](appliance)
-    - Es springen ständig die [Sicherungen](appliance) aus dem [Zählerkasten](appliance) heraus
+    - "Es springen st\xE4ndig die [Sicherungen](appliance) aus dem [Z\xE4hlerkasten](appliance)\
+      \ heraus"

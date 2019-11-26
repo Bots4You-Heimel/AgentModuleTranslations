@@ -1,0 +1,139 @@
+de:
+  intent:
+    ticket.financial/invoice_protest:
+    - falsche [Rechnung](document)
+    - Nachforderung falsch
+    - '[Abrechnung](document) inkorrekt'
+    - Fehler in [Abrechnung](document)
+    - '[Nebenkostenabrechnung](document) ist falsch'
+    - Fehler in der [Rechnung](document)
+    - So viel habe ich nicht geheizit, die [Abrechnung](document) kann nicht richtig
+      sein
+    - Nachforderung der Miete ist ungerechtfertigt
+    - "Hab die miete bezahlt und trotzdem soll ich was zur\xFCckzahlen?"
+    - Kann nicht sein dass ich eine Nachforderung zahlen soll!
+    - '[Betriebskostenabrechnung](document) kann nicht stimmen'
+    - "Der Mieterh\xF6hung habe ich widersprochen und trotzdem fordern sie das jetzt\
+      \ nach!"
+    - Ich glaube ihnen ist da ein Fehler mit der [Abrechnung](document) unterlaufen
+    - "Die Miete ist doch bezahlt, was soll das mit dem Brief und der R\xFCckzahlung?"
+    - "Miete wurde \xFCberwiesen und trotzdem habe ich eine Mahnung erhalten, wieso\
+      \ das"
+    - werde die geforderte Nachzahlung ignorieren weil bereits gezahlt
+    - Ich habe eine Nachforderung erhalten obwohl ich die Miete fristgerecht bezahlt
+      hab!
+    - Warum sind meine Betriebskosten wieder so hoch?
+    - "Kl\xE4ren Sie mich \xFCber meine Nebenkosten auf"
+    - "Wieso muss ich so viel f\xFCr meine Betriebskosten zahlen?"
+    - "Meine [Abrechnung](document) hat falsche Betr\xE4ge"
+    - Die Zahlen auf der [Abrechnung](document) stimmen nicht.
+    - Meine [Abrechnung](document) stimmt nicht.
+    - Mich wundern die hohen Zahlen in der Betriebskostenrechnung
+    - Auf meiner [Abrechnung](document) ist ein Betrag zu hoch.
+    - "Meine [Betriebskosten-Abrechnung](document) f\xE4llt zu hoch aus."
+    - "Die Nebenkosten f\xFCr meine [Wohnung](indoor_location) sind zu hoch veranschlagt."
+    - "Meine Betriebskosten sind nicht vollst\xE4ndig"
+    - In der [Abrechnung](document) sind einzelne Punkte, die ich nicht verstehe
+    - "Meine [Nebenkostenabrechnung](document) enth\xE4lt Betr\xE4ge, die nicht korrekt\
+      \ sind."
+    - Die [Betriebskostenabrechnung](document) kann nicht stimmen. Die Nachzahlung
+      ist viel zu hoch.
+    - Die [Heizkostenabrechnung](document) ist nicht korrekt
+    - Auf der [Abrechnung](document) fehlen Kostenpunkte, die sonst immer abgerechnet
+      wurden.
+    - "Auf der [Abrechnung](document) ist der Z\xE4hlerstand nicht korrekt notiert."
+    - Auf meiner [abrechnung](document) ist ein betrag zu hoch.
+    - Auf meiner [Abrechnung](document) sind mehrere Kostenpunkte nicht richtig.
+    - "Auf meiner [Abrechnung](document) steht ein falscher Z\xE4hlerstand."
+    - Auf meiner [Nebenkostenabrechnung](document) ist ein Betrag zu niedrig.
+    - "Auf meiner [Nebenkostenabrechnung](document) stimmt der Z\xE4hlerstand nicht."
+    - "Da ist ein betrag drin, der da nicht aufgef\xFChrt sein darf."
+    - "Da ist ein Betrag enthalten, der \xFCber Nebenkosten nicht abgerechnet werden\
+      \ kann."
+    - Da sind zu hohe Kosten auf meiner [Abrechnung](document)
+    - "Da stehen Betr\xE4ge auf meiner [Abrechnung](document), die da nicht drauf\
+      \ geh\xF6ren."
+    - Da stimmen mehrere Kostenpunkte auf der [Abrechnung](document) nicht.
+    - Da stimmt was nicht mit meinen Nebenkosten, die sind viel zu hoch.
+    - Der Betrag von meiner [Abrechnung](document) ist zu gering berechnet.
+    - Der Betrag von meiner [Abrechnung](document) stimmt nicht. Er ist zu niedrig.
+    - "Der Z\xE4hlerstand auf der [Abrechnung](document) ist nicht korrekt."
+    - "Der Z\xE4hlerstand auf der [Abrechnung](document) ist nicht richtig."
+    - "Der Z\xE4hlerstand auf der [Nebenkostenabrechnung](document) stimmt nicht."
+    - "Der Z\xE4hlerstand auf meiner [Abrechnung](document) stimmt nicht."
+    - "Der Z\xE4hlerstand ist anscheinend falsch notiert worden."
+    - "Der Z\xE4hlerstand ist falsch abgelesen worden."
+    - "Die [Abrechnung](document) enth\xE4lt falsche Zahlen."
+    - "Die [Abrechnung](document) kam zu sp\xE4t bei mir an."
+    - "Die [Abrechnung](document) meiner Nebenkosten ist viel zu sp\xE4t bei mir abgegeben\
+      \ worden."
+    - "Die [Auflistung](document) der Betriebskosten ist l\xFCckenhaft."
+    - "Die [Auflistung](document) meiner Nebenkosten ist unvollst\xE4ndig."
+    - "Die Betr\xE4ge auf der [Abrechnung](document) sind falsch."
+    - "Die Betr\xE4ge auf eminer [Abrechnung](document) sind viel zu hoch"
+    - "Die Betr\xE4ge der [Abrechnung](document) sind falsch."
+    - "Die [Betriebskostenabrechnung](document) kam viel zu sp\xE4t und ich werde\
+      \ sie nicht bezahlen."
+    - "Die [Betriebskostenabrechnung](document) war zu sp\xE4t in der Post."
+    - Die Heizkosten sind laut [Abrechnung](document) doppelt so hoch wie im letzten
+      Jahr. Da stimmt was nicht.
+    - "Die Nebenkosten f\xFCr meine [Wohnung](indoor_location) sind zu hoch veranschlagt."
+    - "Die Nebenkosten sind in der [Abrechnung](document) nicht vollst\xE4ndig aufgef\xFC\
+      hrt."
+    - Die Nebenkosten sind zu niedrig veranschlagt.
+    - "Die [Nebenkostenabrechnung](document) ist mir zu sp\xE4t [zugestellt](mess)\
+      \ worden."
+    - "Die [Nebenkostenabrechnung](document) ist nicht vollst\xE4ndig."
+    - Die [Nebenkostenabrechnung](document) ist zu niedrig
+    - "Die [Nebenkostenabrechnung](document) kam versp\xE4tet bei mir an."
+    - Die Zahlen auf der [Abrechnung](document) stimmen nicht.
+    - Einige Punkte auf der [Abrechnung](document) sind nicht korrekt.
+    - Einige Zahlen auf der [Abrechnung](document) sind nicht korrekt.
+    - Es fehlen einzelne Kostenpunkte auf meiner [Abrechnung](document).
+    - Etwas fehlt auf meiner [Nebenkostenabrechnung](document).
+    - "F\xFCr die [Abrechnung](document) ist der [Z\xE4hler](sanitary_item) falsch\
+      \ abgelesen worden."
+    - In der [Abrechnung](document) sind einzelne Punkte, die ich nicht bezahlen werde
+    - "In meiner [Abrechnung](document) ist ein Betrag, der da nicht hinein geh\xF6\
+      rt."
+    - "In meiner [Abrechnung](document) sind Betr\xE4ge enthalten, die nicht umlagef\xE4\
+      hig sind."
+    - "In meiner [Abrechnung](document) sind nicht alle Posten aufgef\xFChrt."
+    - "In meiner [Nebenkostenabrechnung](document) steht ein Betrag, der da nicht\
+      \ reingeh\xF6rt."
+    - Irgendwas fehlt auf der [Nebenkostenabrechnung](document).
+    - Manche Punkte auf meiner [Abrechnung](document) stimmen nicht
+    - Mehrere Faktoren in meiner [Nebenkostenabrechnung](document) sind nicht richtig.
+    - Mehrere Kostenfaktoren auf meiner [Abrechnung](document) sind nicht korrekt.
+    - Mehrere Kostenpunkte auf meiner [Abrechnung](document) sind nicht korrekt.
+    - Mehrere Punkte auf meiner [Abrechnung](document) sind nicht korrekt.
+    - Mehrere Punkte auf meiner [Abrechnung](document) sind nicht richtig.
+    - Mehrere Punkte auf meiner [Betriebskostenabrechnung](document) sind nicht korrekt.
+    - Mehrere Punkte auf meiner [Nebenkostenabrechnung](document) sind nicht korrekt.
+    - "Meine [Abrechnung](document) enth\xE4lt einen falschen Z\xE4hlerstand."
+    - "Meine [Abrechnung](document) hat falsche Betr\xE4ge"
+    - "Meine [Abrechnung](document) ist mir versp\xE4tet [zugestellt](mess) worden."
+    - "Meine [Abrechnung](document) ist zu hoch, weil die [Z\xE4hler](sanitary_item)\
+      \ nicht mehr g\xFCltig geeicht sind."
+    - Meine [Abrechnung](document) ist zu hoch.
+    - Meine [Abrechnung](document) stimmt nicht.
+    - "Meine [Betriebskosten Abrechnung](document) f\xE4llt zu hoch aus."
+    - Meine Betriebskosten sind nicht komplett enthalten.
+    - "Meine Betriebskosten sind nicht vollst\xE4ndig"
+    - Meine Betriebskosten sind niedriger als auf der [Abrechnung](document).
+    - Meine neben kosten [abrechnung](document) hat einen kostenpunkt, der da nicht
+      drin stehen darf.
+    - "meine nebenkosten sind h\xF6her als auf der abrechnung."
+    - "Meine [Nebenkostenabrechnung](document) enth\xE4lt Betr\xE4ge, die nicht korrekt\
+      \ sind."
+    - "Meine [Nebenkostenabrechnung](document) enth\xE4lt Posten, die dar\xFCber nicht\
+      \ abgerechnet werden d\xFCrfen."
+    - "Meine [Nebenkostenabrechnung](document) enth\xE4lt Posten, die ich nicht bezahlen\
+      \ will"
+    - "Meine [Nebenkostenabrechnung](document) ist mir zu sp\xE4t [zugestellt](mess)\
+      \ worden."
+    - meine [Nebenkostenabrechnung](document) ist zu niedrig
+    - "Meine [Nebenkostenabrechnung](document) kam sehr sp\xE4t."
+    - "Meine [Nebenkostenabrechnung](document) kam viel zu sp\xE4t."
+    - Mir wurden zu hohe Nebenkosten in [Rechnung](document) gestellt.
+    - Mit meiner Nebenkosten [abrechnung](document) stimmt was nicht

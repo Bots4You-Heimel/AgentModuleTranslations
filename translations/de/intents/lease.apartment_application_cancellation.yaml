@@ -1,0 +1,28 @@
+de:
+  intent:
+    ticket.lease/apartment_application_cancellation:
+    - Wohnungsabsage
+    - '[Wohnung](indoor_location) absagen'
+    - "Wohnungszusage zur\xFCcknehmen"
+    - Wohnungsabsage erhalten
+    - '[Wohnung](indoor_location) wurde abgesagt'
+    - "Wohnungsanmeldung r\xFCckg\xE4ngig machen"
+    - Wieso lehnt ihr alle meine Wohnungsbewerbungen ab?!
+    - Habe doch kein Interesse an der besichtigten [Wohnung](indoor_location)
+    - Die [Wohnung](indoor_location) wurde mir abgesagt
+    - Kein Interesse mehr an der [Wohnung](indoor_location) die ich besichtigt hab
+    - "Ich m\xF6chte die Anmeldung f\xFCr die [Wohnung](indoor_location) zur\xFCcknehmen"
+    - "Die besichtigte [Wohnung](indoor_location) gef\xE4llt mir doch nich"
+    - Habe eine bessere [Wohnung](indoor_location) gefunden
+    - "Wieso habe ich eine Absage f\xFCr die [Wohnung](indoor_location) im [Eulerweg](street)\
+      \ erhalten?"
+    - "[Wohnung](indoor_location) in der [Lindenstra\xDFe](street) gef\xE4llt mir\
+      \ doch nicht mehr nach der Besichtigung"
+    - Die [Wohnung](indoor_location) hat mir doch nicht gefallen
+    - "Die besichtigte [Wohnung](indoor_location) gef\xE4llt mir doch nicht und m\xF6\
+      chte meine Anmeldung absagen"
+    - "Ich hatte eine best\xE4tigung der [Wohnung](indoor_location) und jetzt doch\
+      \ ne Absage erhalten, was soll das?"
+    - "Gerade eine Absage f\xFCr die [Wohnung](indoor_location) erhalten, wieso!?"
+    - Bei der Besichtigung wurd mir gesagt dass ich die [Wohnung](indoor_location)
+      bekomme, aber jetzt wurd sie doch abgesagt

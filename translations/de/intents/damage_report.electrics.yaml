@@ -1,24 +1,32 @@
 de:
   intent:
     ticket.damage_report/electrics:
+    - SAT-Anlage
+    - "Elektroger\xE4te"
+    - "Elektrische Ger\xE4te"
     - Kein Strom
     - Wackler
     - Wackelkontakt
+    - SAT-Anlage defekt
+    - SAT-Anlage geht nimmer
+    - "[Untertischger\xE4t](appliance) defekt"
     - Kommt kein Strom mehr
+    - "[Untertischger\xE4t](appliance) ist kaputt"
     - Ich habe in ein Stromkabel gebohrt
-    - '[Am Eingang](outdoor_location) hat die [Lampe](appliance) einen Wackelkontakt'
+    - '[Am Eingang](outdoor_location) hat die [Lampe](item) einen Wackelkontakt'
     - Die [Steckdosenleiste](appliance) hat einen Kurzschluss
-    - Meine [Kühlschrank](appliance) scheint nicht richtig zu funktionieren.
-    - Meine [Gegensprechanlage](appliance) funktioniert nicht mehr.
-    - Der Wecker lässt sich nicht einschalten
-    - Die [Sprechanlage](appliance) funktioniert nicht, ich kann niemanden hören.
-    - Der [Türöffner](appliance) von der [Gegensprechanlage](appliance) geht nicht mehr.
-    - Wer kann mal nach meiner [Sprechanlage](appliance) gucken?
-    - Der [Durchlauferhitzer](appliance) im meinem [Bad](indoor_location) ist defekt.
-    - Der [Bewegungsmelder](appliance) im [Flur](indoor_location)  klappt nicht
+    - "Meine [K\xFChlschrank](appliance) scheint nicht richtig zu funktionieren."
+    - Meine [Gegensprechanlage](item) funktioniert nicht mehr.
+    - "Der Wecker l\xE4sst sich nicht einschalten"
+    - "Die [Sprechanlage](item) funktioniert nicht, ich kann niemanden h\xF6ren."
+    - "Der [T\xFCr\xF6ffner](item) von der [Gegensprechanlage](item) geht nicht mehr."
+    - Wer kann mal nach meiner [Sprechanlage](item) gucken?
+    - Der [Durchlauferhitzer](sanitary_item) im meinem [Bad](indoor_location) ist
+      defekt.
+    - Der [Bewegungsmelder](appliance) im [Flur](indoor_location) klappt nicht
     - Meine [Steckdose](appliance) ist defekt.
-    - Die [Aufzugsanlage](indoor_location)  hat einen Kurzen.
-    - Mein [Backofen](sanitary_item) lässt sich nicht anschalten
-    - Mein [Herd](sanitary_item) geht nicht mehr an.
-    - Mein [Herd](sanitary_item) lässt sich plötzlich nicht mehr anschalten.
-    - Mein [Ofen](sanitary_item) lässt sich nicht mehr einschalten.
+    - Die [Aufzugsanlage](indoor_location) hat einen Kurzen.
+    - "Meine [Backofen](appliance) l\xE4sst sich nicht anschalten"
+    - Mein [Herd](appliance) geht nicht mehr an.
+    - "Mein [Herd](appliance) l\xE4sst sich pl\xF6tzlich nicht mehr anschalten."
+    - "Mein [Ofen](appliance) l\xE4sst sich nicht mehr einschalten."

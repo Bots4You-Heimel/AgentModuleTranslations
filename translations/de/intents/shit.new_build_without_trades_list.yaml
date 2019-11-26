@@ -1,0 +1,11 @@
+de:
+  intent:
+    ticket.shit/new_build_without_trades_list:
+    - Neubau ohne [Gewerkeliste](document)
+    - Keine [Gewerkeliste](document) Neubau
+    - Neubauwohnung ohne Gewerksauflistung
+    - Neubauten ohne [Liste](document) der Gewerke
+    - "Welche Bauma\xDFnahmen macht ihr ohne [Gewerkeliste](document)?"
+    - habt ihr Bauvorhaben ohne [Gewerkeliste](document)?
+    - Habt ihr Neubauten ohne eine [Auflistung](document) der Gewerke?
+    - "Kann ein Neubau ohne [Auflistung](document) der Gewerke durchgef\xFChrt werden?"

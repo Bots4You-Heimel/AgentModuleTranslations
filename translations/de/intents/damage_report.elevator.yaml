@@ -1,12 +1,12 @@
 de:
   intent:
     ticket.damage_report/elevator:
-    - '[Fahrstuhl](indoor_location)  kaputt'
-    - '[Aufzug](indoor_location)  defekt'
-    - Die [Aufzugstüren](item)  gehen nicht auf
-    - Es klemmt die rechte [Fahrstuhltür](item)
-    - Beim [Aufzug](indoor_location)  öffnet sich die [Tür](item) nicht.
-    - Die [Aufzugstür](item)  bleibt geschlossen
-    - Die [Türen](item) des [Fahrstuhls](indoor_location) bleiben zu
-    - Eine der [Aufzugtüren](item)  bleibt beim Öffnen stehen
-    - Die eine [Tür](item) des [Aufzugs](indoor_location) öffnet sich nur halb
+    - '[Fahrstuhl](indoor_location) kaputt'
+    - '[Aufzug](indoor_location) defekt'
+    - "Die [Aufzugst\xFCren](item) gehen nicht auf"
+    - "Es klemmt die rechte [Fahrstuhlt\xFCr](item)"
+    - "Beim [Aufzug](indoor_location) \xF6ffnet sich die [T\xFCr](item) nicht."
+    - "Die [Aufzugst\xFCr](item) bleibt geschlossen"
+    - "Die [T\xFCren](item) des [Fahrstuhls](indoor_location) bleiben zu"
+    - "Eine der [Aufzugt\xFCren](item) bleibt beim \xD6ffnen stehen"
+    - "Die eine [T\xFCr](item) des [Aufzugs](indoor_location) \xF6ffnet sich nur halb"

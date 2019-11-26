@@ -1,0 +1,51 @@
+Water:
+ - Wasser
+ - Aqua
+ - H2O
+ - Trinkwasser
+ - Leitungswasser
+
+WarmWater:
+ - Warmwasser
+ - warm Wasser
+
+WaterContaining:
+ - wasserhaltig
+ - Wasser enthaltend
+ - Wasser beinhaltend
+
+WaterSource:
+ - Wasserquell
+ - Wasserzufuhr
+ - Wasserversorgung
+
+DosingSystem:
+ - Dosieranlage
+ - Dosierungsanlage
+ - Wasserdosierungsanlage
+ - dosieren
+
+WaterUsageSystem:
+ - Trinkwassernutzungsanlage
+ - Wasseraufbereitungsanlage
+ - Kläranlage
+ - Leitungsnutzungsanlage
+ - Bewässerungsanlage
+ - Wasseranlage
+ - Regenmanager
+ - Wassernutzungsanlage
+
+WaterFilter:
+ - Wasserfilter
+ - Wasseraufbereitung
+ - Trinkwasseraufbereitung
+ - Britta
+ - Brittafilter
+ - Aktivkohlefilter
+ - Ionenfilter
+ - Wasserfiltration
+ - Filterkartusche
+ - Trinkwasserfilter
+ - Leitungswasserfilter
+ - Wassersieb
+

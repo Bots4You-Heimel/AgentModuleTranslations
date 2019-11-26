@@ -1,0 +1,19 @@
+de:
+  intent:
+    ticket.permit/barbecue_balcony:
+    - Darf ich auf meinem [Balkon](outdoor_location) grillen?
+    - Darf ich bei mir grillen?
+    - "Ich w\xFCrde gerne auf meinem [Balkon](outdoor_location) grillen, darf ich\
+      \ das?"
+    - Darf mein [Nachbar](person) auf seinem [Balkon](outdoor_location) grillen?
+    - Darf ich auf dem [Balkon](outdoor_location) grillen?
+    - "Wo darf ich auf dem Grundst\xFCck grillen?"
+    - Ist das Grillen auf dem [Balkon](outdoor_location) erlaubt?
+    - Darf ich auf meinem [Balkon](outdoor_location) grillen?
+    - "Darf ich [drau\xDFen](outdoor_location) grillen?"
+    - "Ich w\xFCrde gerne [drau\xDFen](outdoor_location) grillen."
+    - "Darf man [drau\xDFen](outdoor_location) W\xFCrstchen machen?"
+    - Darf ich einen [Grill](item) auf dem [Balkon](outdoor_location) benutzen?
+    - Ist ein Gasgrill erlaubt?
+    - Ist ein Kohlegrill erlaubt?
+    - Darf man mit dem Elektrogrill auf der [Terrasse](outdoor_location) grillen?

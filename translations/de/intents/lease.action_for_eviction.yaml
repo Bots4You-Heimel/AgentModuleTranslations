@@ -1,0 +1,38 @@
+de:
+  intent:
+    ticket.lease/action_for_eviction:
+    - "R\xE4umungsklage"
+    - "Zwangsr\xE4umung"
+    - Rausschmiss
+    - "Rausschmi\xDF"
+    - "R\xE4umungsklage erhalten"
+    - "R\xE4umungsklage widersprechen"
+    - "Zwangsr\xE4umung angedroht"
+    - "Rausschmiss angek\xFCndigt"
+    - "drohende R\xE4umungsklage"
+    - "Zwangsr\xE4umung Einspruch"
+    - "R\xE4umungsklage in Post"
+    - "Zwangsr\xE4umung nicht rechtens"
+    - "Ihr wollt mich raus schmei\xDFen"
+    - Ich werde raus geschmissen!
+    - "Ihr k\xF6nnt uns doch nicht so einfach vor die [T\xFCr](item) setzen!"
+    - "Wir sollen vor die [T\xFCr](item) gesetzt werden"
+    - "Ich habe eine R\xE4umungsklage erhalten"
+    - "Was kann ich bei einer R\xE4umungsklage unternehmen?"
+    - "Mir wurde eine R\xE4umungsklage zugesendet"
+    - "Der [Vermieter](person) droht mir mit einer Zwangsr\xE4umung"
+    - "ohne Ank\xFCndigung wurde meine [Wohnung](indoor_location) leer ger\xE4umt"
+    - "R\xE4umungsklage erhalten obwohl ich die Miete jetzt doch gezahlt hab"
+    - "Meine [Wohnung](indoor_location) wurd leer ger\xE4umt wegen zwangsr\xE4umung,\
+      \ wo ist mein Zeug?"
+    - "Pl\xF6tzlich habe ich ne R\xE4umungsklage per post bekommen, hab doch nichts\
+      \ gemacht?"
+    - "Habe Stress mit meinem [Vermieter](person), der meint er kann mich verklagen\
+      \ mit ner R\xE4umungsklage oder so"
+    - "K\xF6nnt ihr mich einfach raus schmei\xDFen?"
+    - "Nur weil ich ein bisschen l\xE4nger brauch hat mir der [Vermieter](person)\
+      \ ne R\xE4umungsklage an den Hals gesetzt"
+    - "Da stand letztens ein Gerichtsvollzieher vor der [T\xFCr](item) der meine [Bude](indoor_location)\
+      \ r\xE4umen wollte, was da los?"
+    - "habe eine R\xE4umungsklage erhalten weil ich den Hausfrieden gest\xF6rt haben\
+      \ soll aber das stimmt nicht!"

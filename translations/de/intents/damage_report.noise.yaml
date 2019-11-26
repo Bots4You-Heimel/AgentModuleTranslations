@@ -1,27 +1,33 @@
 de:
   intent:
     ticket.damage_report/noise:
-    - '[Heizkörper](item)  gluckert'
-    - '[Heizung](item)  blubbert'
-    - '[Aufzug](indoor_location)  Geräusche'
-    - '[Lüftung](item)  zu laut.'
-    - '[Kühlschrank](appliance) kratzt seltsam'
-    - Die [Waschmaschine](appliance) hört sich kaputt an
+    - "Laufger\xE4usche"
+    - "[Heizk\xF6rper](sanitary_item) gluckert"
+    - '[Heizung](sanitary_item) blubbert'
+    - "[Aufzug](indoor_location) Ger\xE4usche"
+    - "[L\xFCftung](item) zu laut."
+    - "[K\xFChlschrank](appliance) kratzt seltsam"
+    - "Der [Aufzug](indoor_location) macht Ger\xE4usche"
+    - "Die [Waschmaschine](appliance) h\xF6rt sich kaputt an"
     - Der [Trockner](appliance) rumpelt!
-    - Der [Fahrstuhl](indoor_location)  hört sich nicht gesund an.
+    - "Der [Fahrstuhl](indoor_location) h\xF6rt sich nicht gesund an."
     - Meine [Heizung](sanitary_item) gluckert
-    - Der [Lüfter](sanitary_item) im [Bad](indoor_location) knarzt
-    - Die Geräusche des [Aufzugs](indoor_location)  klingen komisch.
-    - Der [Personenfahrstuhl](indoor_location)  klingt nicht gut.
-    - Der [Aufzug](indoor_location)  rumpelt ganz merkwürdig.
-    - Der [Personenaufzug](indoor_location)  macht komische Geräusche
-    - Der [Aufzugsanlage](indoor_location)  macht Geräusche
-    - Der [Fahrstuhl](indoor_location)  klingt wenig vertrauenerweckend
-    - Der [Lift](indoor_location)  knackt komisch.
-    - Bei der Benutzung der [Fahrstuhlanlage](indoor_location)  entstehen knacksende Geräusche
-    - Der [Fahrstuhl](indoor_location)  gibt merkwürdige Laute von sich
-    - Der [Personenaufzug](indoor_location)  macht einen Heidenlärm
-    - Ich glaube, der [Aufzug](indoor_location)  geht bald kaputt, der hört sich nicht gut an.
-    - Meine [Dunstabzugshaube](item)  ist zu laut
-    - Der [Heizkörper](item)  im [Wohnzimmer](indoor_location)  gluckert.
-    - Die [Heizkörper](item)  macht seltsame Geräusche
+    - "Der [L\xFCfter](sanitary_item) im [Bad](indoor_location) knarzt"
+    - "Die Ger\xE4usche des [Aufzugs](indoor_location) klingen komisch."
+    - Der [Personenfahrstuhl](indoor_location) klingt nicht gut.
+    - "Der [Aufzug](indoor_location) rumpelt ganz merkw\xFCrdig."
+    - "Der [Personenaufzug](indoor_location) macht komische Ger\xE4usche"
+    - "Der [Fahrstuhl](indoor_location) verursacht ein schleifendes Ger\xE4usch"
+    - Der [Lastenaufzug](indoor_location) klingt kaputt
+    - "Der [Aufzugsanlage](indoor_location) macht Ger\xE4usche"
+    - Der [Fahrstuhl](indoor_location) klingt wenig vertrauenerweckend
+    - Der [Lift](indoor_location) knackt komisch.
+    - "Bei der Benutzung der [Fahrstuhlanlage](indoor_location) entstehen knacksende\
+      \ Ger\xE4usche"
+    - "Der [Fahrstuhl](indoor_location) gibt merkw\xFCrdige Laute von sich"
+    - "Der [Personenaufzug](indoor_location) macht einen Heidenl\xE4rm"
+    - "Ich glaube, der [Aufzug](indoor_location) geht bald kaputt, der h\xF6rt sich\
+      \ nicht gut an."
+    - Meine [Dunstabzugshaube](item) ist zu laut
+    - "Der [Heizk\xF6rper](sanitary_item) im [Wohnzimmer](indoor_location) gluckert."
+    - "Die [Heizk\xF6rper](sanitary_item) macht seltsame Ger\xE4usche"

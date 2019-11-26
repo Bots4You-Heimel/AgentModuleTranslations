@@ -1,0 +1,26 @@
+de:
+  intent:
+    ticket.damage_report/furniture:
+    - "M\xF6belschaden"
+    - Furnier
+    - Schublade
+    - Tischbein
+    - Stuhlbein
+    - "[Mobiliar](item) besch\xE4digt"
+    - '[Einbauschrank](item) abgerissen'
+    - "[K\xFCchenschrank](item) kaputt"
+    - '[Mobiliar](item) zerschlissen'
+    - "[Mietm\xF6bel](item) Schaden"
+    - "Schaden an [K\xFCchenzeile](item)"
+    - Furnier aufgequollen
+    - Diie Schublade meines [Unterschranks](item) klemmt
+    - "Mein [K\xFCchenschrank](item) ist locker"
+    - "Vom [Badezimmerschrank](item) ist eine [T\xFCre](item) herausgerissen"
+    - Der [Wohnzimmertisch](item) hat ein Bein verloren
+    - "Die [Couch](item) hat einen gro\xDFen Ri\xDF"
+    - Das [Ledersofa](item) ist zerkratzt
+    - Der [Esszimmertisch](item) ist in sich zusammengebrochen
+    - "Der [K\xFCchenstuhl](item) hat ein Bein verloren"
+    - "Der [Spiegelschrank](item) im [G\xE4ste-Wc](indoor_location) ist abgerissen"
+    - "in meiner [K\xFCche](indoor_location) knackt der [K\xFCchenschrank](item) ganz\
+      \ komisch"

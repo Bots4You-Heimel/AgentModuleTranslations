@@ -1,0 +1,21 @@
+de:
+  intent:
+    faq/stairwell_cleaning:
+    - "Zust\xE4ndigkeit Flurreinigung"
+    - Wer putzt [Keller](indoor_location)
+    - Wer macht [Eingangsbreich](indoor_location) sauber?
+    - Putzen [Treppenhaus](indoor_location), wer tuts?
+    - Wer reinigt das [Treppenhaus](indoor_location)?
+    - Wer putzt den [Flur](indoor_location)?
+    - "Wer ist f\xFCr die Reinigung des [Hausflurs](indoor_location) verantwortlich?"
+    - "Wer ist zust\xE4ndig f\xFCr das Putzen des [Treppenflurs](indoor_location)?"
+    - Wer macht den [Treppenaufgang](indoor_location) sauber?
+    - Wer muss das [Treppenhaus](indoor_location) fegen?
+    - Muss ich den [Hausflur](indoor_location) kehren?
+    - "In welcher Zust\xE4ndigkeit f\xE4llt das Wischen des [Flurs](indoor_location)?"
+    - "Sind die [Mieter](person) f\xFCr die Sauberkeit des [Treppenhauses](indoor_location)\
+      \ verantwortlich?"
+    - In welcher Verantwortung liegt die Reinheit des [Hausflurs](indoor_location)?
+    - Wer muss den [Eingang](indoor_location) [sauber](mess) machen?
+    - Und wer macht den [Waschkeller](indoor_location) rein?
+    - "In welcher Zust\xE4ndigkeit f\xE4llt die Treppenhausreinigung?"

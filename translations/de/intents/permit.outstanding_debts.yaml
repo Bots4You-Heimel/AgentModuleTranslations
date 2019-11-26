@@ -1,0 +1,30 @@
+de:
+  intent:
+    ticket.permit/outstanding_debts:
+    - "R\xFCckstand"
+    - Mietschulden
+    - "Mietr\xFCckstand"
+    - Schulden
+    - Schuldenberatung
+    - "Ank\xFCndigung Mietr\xFCckstand"
+    - "Ich bin \xFCberschuldet"
+    - Ich bin pleite
+    - "Ich bin nicht mehr fl\xFCssig"
+    - Wie gelange ich zur Schuldnerberatung?
+    - Ich brauche Beratung wegen Schulden
+    - Kann Miete nicht zahlen
+    - Diesen Monat kann ich meine Miete nicht bezahlen
+    - "Wir m\xF6chten \xFCber unseren Mietr\xFCckstand reden"
+    - Ich kann meine Miete nicht mehr bezahlen
+    - Ich habe einen [Haufen](mess) an Schulden
+    - "Ich liege mit meiner Miete im Zahlungsr\xFCckstand"
+    - "Mein Geld reicht nicht mehr f\xFCr die n\xE4chste Miete"
+    - "Mein Schuldenberg w\xE4chst weiter an"
+    - Ich schulde vielen Leuten Geld
+    - Ich bin in die roten Zahlen geraten
+    - "Ich muss mein Konto \xFCberziehen"
+    - Die Miete schaffe ich nicht diesen Monat
+    - "Ich muss meine Miete sp\xE4ter zahlen"
+    - "Ich kann kein Geld f\xFCr die Miete aufbringen"
+    - "Mein Bankonto ist nicht f\xFCr die n\xE4chste Mietzahlung gedeckt"
+    - "Die n\xE4chste Mietzahlung steht an und ich habe daf\xFCr nicht genug Geld"

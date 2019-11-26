@@ -2,21 +2,22 @@ de:
   intent:
     ticket.damage_report/barrier:
     - Zaunwartung
-    - '[Zaun](item)  kaputt'
-    - '[Begrenzung](item)  kaputt'
+    - '[Zaun](item) kaputt'
+    - '[Begrenzung](item) kaputt'
     - '[Sichtschutz](item) defekt'
-    - Der [Jägerzaun](item)  ist morsch!
-    - Jemand hat die [Trennwand](surface) bei den [Müllcontainern](item)  abgerissen.
-    - Die [Absperrung](item)  bei den [Müllcontainern](item)  ist kaputt.
-    - Jemand hat die [Absperrung](item)  von den [Müllcontainern](item)  kaputt gemacht
-    - Bei den [Mülltonnen](item)  ist die [Absperrung](item)  kaputt gerissen.
+    - "Der [J\xE4gerzaun](item) ist morsch!"
+    - "Jemand hat die [Trennwand](surface) bei den [M\xFCllcontainern](item) abgerissen."
+    - "Die [Absperrung](item) bei den [M\xFCllcontainern](item) ist kaputt."
+    - "Jemand hat die [Absperrung](item) von den [M\xFCllcontainern](item) kaputt\
+      \ gemacht"
+    - "Bei den [M\xFClltonnen](item) ist die [Absperrung](item) kaputt gerissen."
     - Irgendwer hat die [Absperrung](item) bei den Containern abgerissen.
-    - Die [Barriere](item)  bei den [Müllcontainern](item)  hat sich gelöst.
-    - Die [Abriegelung](item)  der [Müllcontainer](item)  ist heruntergekommen.
-    - Die [Absperrung](item)  zu den [Müllcontainern](item)  ist beim Sturm abgerissen.
-    - Der [Holzzaun](item)  hat eine große Macke
-    - Der [Zaun](item)  [vorm Haus](outdoor_location) ist völlig durchgebogen
-    - Die [Mauer](item)  hat mehrere Risse
-    - In der [Mauer](item)  sind viele große Löcher drin
-    - Große Teile der [Mauer](item)  sind abgebrochen
-    - Der [Drahtzaun](item)  ist an mehreren Stellen durchgeschnitten worden
+    - "Die [Barriere](item) bei den [M\xFCllcontainern](item) hat sich gel\xF6st."
+    - "Die [Abriegelung](item) der [M\xFCllcontainer](item) ist heruntergekommen."
+    - "Die [Absperrung](item) zu den [M\xFCllcontainern](item) ist beim Sturm abgerissen."
+    - "Der [Holzzaun](item) hat eine gro\xDFe Macke"
+    - "Der [Zaun](item) [vorm Haus](outdoor_location) ist v\xF6llig durchgebogen"
+    - Die [Mauer](item) hat mehrere Risse
+    - "In der [Mauer](item) sind viele gro\xDFe L\xF6cher drin"
+    - "Gro\xDFe Teile der [Mauer](item) sind abgebrochen"
+    - Der [Drahtzaun](item) ist an mehreren Stellen durchgeschnitten worden

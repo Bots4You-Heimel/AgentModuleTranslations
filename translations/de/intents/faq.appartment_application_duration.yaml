@@ -1,0 +1,19 @@
+de:
+  intent:
+    faq/appartment_application_duration:
+    - '[Wohnung](indoor_location) Wartezeit'
+    - '[Wohnung](indoor_location) Abwartezeit'
+    - '[Wohnung](indoor_location) warten'
+    - Wie lange warte ich auf eine [Wohnung](indoor_location)?
+    - "Was ist die Wartezeit f\xFCr eine Unterkunft?"
+    - "Wie viele Wochen muss ich auf einen Bescheid f\xFCr eine [Bude](indoor_location)\
+      \ warten?"
+    - Nach welcher Zeit bekomme ich wegen einer freien [Wohnung](indoor_location)
+      eine Mitteilung?
+    - Wie lange dauert es bis eine Unterkunft frei wird?
+    - "Wann bekomme ich neue Infos \xFCber leerstehende [Wohnungen](indoor_location)?"
+    - Wie viele Tage muss ich auf eine [Wohnung](indoor_location) warten?
+    - "Was sind die \xFCblichen Wartezeiten f\xFCr eine [Wohnung](indoor_location)?"
+    - "Was ist die durchschnittliche Abwartezeit f\xFCr [Wohnungen](indoor_location)\
+      \ bei euch?"
+    - "Habt ihr lange Wartezeiten f\xFCr eure [Wohnungen](indoor_location)?"

@@ -1,0 +1,76 @@
+SecurityDeposit:
+  - Kaution
+  - Wohnungskaution
+  - Pfand
+  - Mietpfand
+  - Hinterlegung
+  - Mietpfand
+  - Mietkaution
+  - Kautionsbetrag
+
+Provider:
+  - Anbieter
+  - Versorger
+  - Bereitsteller
+  - Lieferant
+  - Händler
+  - Hersteller
+  - Verkäufer
+
+GasProvider:
+  - Gasanbieter
+  - Gaslieferant
+  - Gasverkäufer
+  - Erdgaslieferant
+  - Erdgashändler
+  - Erdgasverkäufer
+  - Erdgasversorger
+  - Erdgasproduzent
+  - Erdgasverkäufer
+  - Erdgasanbieter
+  - Gasversorger
+  - Gasproduzent
+  - Gasanbieter
+  - Gastarif
+  - Stadtgaswerk
+  - Gaswerk
+  - Erdgastarif
+
+EnergyProducingDevice:
+  - Energieversorgungsgerät
+  - Solarzelle
+  - Heizkraftwerk
+  - Stromversorgungsgerät
+  - Energieproduktionsgerät
+  - Stromproduktiosgerät
+  - Sonnenkraftwerk
+  - Heimkraftwerk
+  - Brennstoffzelle
+  - Solaranlage
+  - Stromkraftwerk
+
+ElectricityProvider:
+  - Energieanbieter
+  - Energieprovider
+  - Energieversorger
+  - Energiewerk
+  - Energieproduzent
+  - Stromprovider
+  - Stromversorger
+  - Stromproduzent
+  - Stromverkäufer
+  - Stromlieferant
+  - Stromhändler
+  - Elektrizitätswerk
+  - Stromversorger
+  - Elektrizitätsversorger
+  - Elektrizitätsanbieter
+  - Stromanbieter
+  - E.ON Energie
+  - RWE
+  - Naturstrom
+  - Greenpeace Energy
+  - Lichtblick
+  - Vattenfall
+  - Stromtarif
+  - Elektrizitätstarif

@@ -1,0 +1,36 @@
+de:
+  intent:
+    ticket.permit/lease_application:
+    - Wohnungsbewerbung
+    - '[Wohnung](indoor_location) anmieten'
+    - '[Garage](outdoor_location) mieten'
+    - Bewerbung [Wohnung](indoor_location)
+    - Bewerbung [Garage](outdoor_location)
+    - Bewerbung um [Appartment](indoor_location)
+    - wo [Wohnung](indoor_location) frei
+    - Auf Anzeige bewerben
+    - Will [souterrain](floor) [Wohnung](indoor_location) bekommen!
+    - "M\xF6chten [Studentenwohnung](indoor_location) mieten"
+    - '[Wohnung](indoor_location) aus Anzeige mieten'
+    - Auf Wohnungsanzeige bewerben
+    - "Ich m\xF6chte bei Ihnen eine [Garage](outdoor_location) anmieten"
+    - Kann ich die [Doppelgarage](outdoor_location) aus ihrer Anzeige mieten
+    - Bewerbung darum, die [Wohnung](indoor_location) zu mieten?
+    - "Ich w\xFCrde gerne die [Mietwohnung](indoor_location) bekommen, die ich bei\
+      \ Ihnen gesehen habe."
+    - "Wir haben uns daf\xFCr entschiedne, dass wir gerne die [Wohnung](indoor_location)\
+      \ haben w\xFCrden."
+    - Ich brauche eine [Wohnung](indoor_location)
+    - "Ich m\xF6chte eine Bewerbung f\xFCr eine Wohnungsanzeige einreichen"
+    - "Ich m\xF6chte mich um den angebotenen [Parkplatz](outdoor_location) bewerben"
+    - Wie kann ich mich um die [Dachgeschosswohnung](indoor_location) bewerben?
+    - "Wir wollen zu den Bewerbern f\xFCr die [Kellerwohnung](indoor_location) geh\xF6\
+      ren"
+    - "Wir w\xFCrden gerne die [Wohnung](indoor_location) haben"
+    - "Den [Mietvertrag](document) w\xFCrden wir gerne haben"
+    - "Ich w\xFCrde gerne die [Dreizimmerwohnung](indoor_location) bekommen, die ich\
+      \ gestern mit ihnen angeschaut habe."
+    - "Ich will die [Garage](outdoor_location) in der [Parkstra\xDFe](street) gerne\
+      \ haben"
+    - "Die [Wohnung](indoor_location) in der [Elisenstra\xDFe](street) w\xFCrden ich\
+      \ und meine [Familie](person) gerne mieten."

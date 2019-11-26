@@ -1,0 +1,84 @@
+AirConditioning:
+ - AirCondition
+ - Aircondition
+ - Klimatisierung
+ - Luftkonditionierer
+ - AirConditioning
+ - Klimaanlage
+ - Klimatechnik
+ - Luftkonditionierungssystem
+ - Klimagerät
+ - raumlufttechnische Anlage
+
+WaterTank:
+ - Wassertank
+ - Wasserspeicher
+ - Wasserreservoir
+ - Zisterne
+ - Wasserturm
+ - Hochbehälter
+ - Nutzwasserspeicher
+ - Wasserkammer
+ - Wasserbehälter
+ - Sammelspeicher
+ - Sammelbeck
+
+WarmWaterTank:
+ - Warmwasserspeicher
+ - WWasserspeicher
+ - Warmwasserreservoir
+ - Heißwasserspeicher
+ - Warmwasserbehälter
+ - Warmwassertank
+ - Warmwassersammelbeck
+ - Heißwasserreservoir
+
+BoosterStation:
+ - Druckerhöhungsanlage
+ - Druckerhöhungsgerät
+ - Druckerhöhungsstation
+ - Wasserdruckerhöhungsanlage
+ - Wasserdruckerhöhungsstation
+
+LiftingStation:
+ - Hebeanlage
+ - Abwasserpumpe
+ - Abwasserhebeanlage
+ - Wasserhebeanlage
+ - Abwasserförderanlage
+ - Fäkalienhebeanlage
+ - Schmutzwasserhebeanlage
+ - Abwasseranhebung
+
+Sewage:
+ - Abwasser
+ - Schmutzwasser
+ - Brauchwasser
+ - Fäkalienhaltig
+ - Regenwasser
+ - Mischwasser
+ - Schwarzwasser
+ - Grauwasser
+ - Drecksbrühe
+
+Disinfector:
+ - Desinfektion
+ - Disinfektor
+ - desinfizieren
+ - Wasserdesinfizierer
+ - Desinfektionsanlage
+ - Disinfektionsanalge
+ - Trinkwasserdesinfizierer
+ - Desinfektionsgeräz
+ - UVDesinfektionsanlage
+ - Chloroxidanlage
+ - UVanlage
+ - Chlorierer
+ - Keimtöter
+ - Keimtötung
+ - Leginoellentöter
+ - Keimkiller
+ - Bakterientöter
+
+Valve:
+ - Ventil

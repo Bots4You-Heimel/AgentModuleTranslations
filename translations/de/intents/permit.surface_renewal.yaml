@@ -1,6 +1,6 @@
 de:
   intent:
-    ticket.damage_report/surface_renewal:
+    ticket.permit/surface_renewal:
     - Bodenerneuerung
     - Erneuerung [Fliesen](surface)
     - Erneuerung [Bodenbelag](surface)
@@ -9,19 +9,31 @@ de:
     - Renovation [Boden](surface)
     - Tausch [Fliesen](surface)
     - '[Fliesen](surface) sollten erneuert werden'
-    - Renovation des [Laminats](surface)
+    - Revation des [Laminats](surface)
     - Erneuerung des [Teppichbodens](surface)
-    - Aufgrund des Wasserschadens ist das [Laminat](surface) aufgequollen und muss ersetzt werden.
-    - Der [Bodenbelag](surface) müsste mal erneuert werden.
-    - Der [PVC](surface) Boden ist total kaputt und muss neu verlegt werden.
-    - Der [PVC-Boden](surface) ist stark beschädigt und sollte neu verlegt werden.
-    - Das [Laminat](surface) in meiner [Wohnung](indoor_location) hat einen Wasserschaden und muss neu gemacht werden.
-    - In meiner [Wohnung](indoor_location)  muss neues [Laminat](surface) verlegt werden.
-    - In einem Zimmer ist das [Laminat](surface) verquollen und muss ausgetauscht werden.
-    - Der [Bodenbelag](surface) ist sehr stark beschädigt und sollte mal erneuert werden.
-    - Die [Fliesen](surface) in der [Küche](indoor_location) müssen erneuert werden
-    - Im [Badezimmer](indoor_location)  müssen neue [Fliesen](surface) angebracht werden.
-    - Der [Boden](surface) in der [Küche](indoor_location) muss mit neuen [Fliesen](surface) renoviert werden
-    - Ein paar [Fliesen](surface) im [Badezimmer](indoor_location)  sind durch neue zu ersetzen.
-    - Die [Kacheln](surface) in der [Einbauküche](indoor_location)  müssen unbedingt ausgetauscht werden.
-    - Ich bitte darum, dass der [Teppich](surface) im [Eingang](indoor_location)  ersetzt wird
+    - Aufgrund des Wasserschadens ist das [Laminat](surface) aufgequollen und muss
+      ersetzt werden.
+    - "Der [Bodenbelag](surface) m\xFCsste mal erneuert werden."
+    - Der [PVC](surface) [Boden](surface) ist total kaputt und muss neu verlegt werden.
+    - "Der [PVC-Boden](surface) ist stark besch\xE4digt und sollte neu verlegt werden."
+    - Das [Laminat](surface) in meiner [Wohnung](indoor_location) hat einen Wasserschaden
+      und muss neu gemacht werden.
+    - In meiner [Wohnung](indoor_location) muss neues [Laminat](surface) verlegt werden.
+    - In einem [Zimmer](indoor_location) ist das [Laminat](surface) verquollen und
+      muss ausgetauscht werden.
+    - "Der [Bodenbelag](surface) ist sehr stark besch\xE4digt und sollte mal erneuert\
+      \ werden."
+    - "Die [Fliesen](surface) in der [K\xFCche](indoor_location) m\xFCssen erneuert\
+      \ werden"
+    - "Im [Badezimmer](indoor_location) m\xFCssen neue [Fliesen](surface) angebracht\
+      \ werden."
+    - "Der [Boden](surface) in der [K\xFCche](indoor_location) muss mit neuen [Fliesen](surface)\
+      \ renoviert werden"
+    - Ein paar [Fliesen](surface) im [Badezimmer](indoor_location) sind durch neue
+      zu ersetzen.
+    - "Die [Kacheln](surface) in der [Einbauk\xFCche](indoor_location) m\xFCssen unbedingt\
+      \ ausgetauscht werden."
+    - Ich bitte darum, dass der [Teppich](surface) im [Eingang](indoor_location) ersetzt
+      wird
+    - Darf ich [in meiner Wohnung](indoor_location) einen anderen [Bodenbelag](surface)
+      verlegen oder feste Einbauten vornehmen?

@@ -1,0 +1,19 @@
+de:
+  intent:
+    faq/appartment_state:
+    - "In welchem Zustand \xFCbernehme ich die [Wohnung](indoor_location)?"
+    - "\xDCbernehme ich die [Wohnung](indoor_location) unrenoviert?"
+    - Ist die [Wohnung](indoor_location) renoviert?
+    - In welcher Verfassung nehme ich die [Wohnung](indoor_location) ab?
+    - Wie erfolgt die Abnahme der Unterkunft?
+    - "Wie sieht die [Wohnung](indoor_location) bei der Wohnungs\xFCbernahme aus?"
+    - Wie ist das Aussehen der Unterkunft bei der Wohnungsabnahme?
+    - "Ist die [Wohnung](indoor_location) m\xF6bliert?"
+    - "Sind die [Wohnungen](indoor_location) mit M\xF6bel ausgestattet?"
+    - Wie ist die [Wohnung](indoor_location) eingerichtet?
+    - Was ist alles in der [Wohnung](indoor_location) drin?
+    - Wie schaut die [Bude](indoor_location) aus?
+    - Wie ist der Look der [Wohnung](indoor_location)?
+    - "Sind die [W\xE4nde](surface) in der [Wohnung](indoor_location) angestrichen?"
+    - Wie sieht die [Decke](surface) in der [Wohnung](indoor_location) aus?
+    - "Sind in der [Wohnung](indoor_location) M\xF6bel drin?"

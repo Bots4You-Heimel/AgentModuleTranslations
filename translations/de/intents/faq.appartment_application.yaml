@@ -1,0 +1,18 @@
+de:
+  intent:
+    faq/appartment_application:
+    - "Wie und wo bewerbe ich mich f\xFCr eine Wohnung?"
+    - "Wie bewirbt man sich f\xFCr eine Wohnung?"
+    - "Wo  kann ich mich f\xFCr eine [Wohnung](indoor_location) bewerben?"
+    - "Wohin geht die Bewerbung f\xFCr die Wohnung?"
+    - "Auf welchen [Weg](outdoor_location) kann ich meine Bewerbungsunterlagen f\xFC\
+      r eine Unterkunft schicken?"
+    - "Auf welche Art kann man sich bei euch f\xFCr interessante [Wohnungen](indoor_location)\
+      \ melden?"
+    - "Ich interessiere mich f\xFCr eine [Bude](indoor_location) bei euch"
+    - "Wer soll mein Bewerbungsschreiben f\xFCr ein Wohnungsangebot bekommen?"
+    - "Kann ich mich \xFCber eure Internetseite f\xFCr eine [Wohnung](indoor_location)\
+      \ bewerben?"
+    - "Ist eine Wohnungsbewerbung vor Ort m\xF6glich?"
+    - "Kann ich die Bewerbungsbl\xE4tter f\xFCr eine freie [Wohnung](indoor_location)\
+      \ pers\xF6nlich abgeben?"

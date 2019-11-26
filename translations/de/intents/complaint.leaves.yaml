@@ -1,0 +1,33 @@
+de:
+  intent:
+    ticket.complaint/leaves:
+    - "[Bl\xE4tter](mess)"
+    - '[Laub](mess)'
+    - '[Laub](mess) rechen'
+    - "[Bl\xE4tter](mess) rechen"
+    - '[Laub](mess) kehren'
+    - '[Laub](mess) zusammenrechen'
+    - "[Bl\xE4tter](mess) liegen rum"
+    - "[Bl\xE4tter](mess) [nicht gekehrt](mess)"
+    - Macht doch mal das [Laub](mess) endlich weg
+    - Niemand fegt das [Laub](mess) weg
+    - "Es sollte jemand die [Bl\xE4tter](mess) auf der [Wiese](outdoor_location) zusammenkehren"
+    - "Es sind \xFCberall [Laubhaufen](mess), niemand tut sie in die [Biotonne](item)"
+    - Auf dem [Gehweg](outdoor_location) liegt viel [Laub](mess)
+    - "Der [Garten](outdoor_location) ist voller [Bl\xE4tter](mess)"
+    - Das [Laub](mess) ist in der ganzen [Tiefgarage](outdoor_location) verteilt
+    - Das [Laubwerk](mess) bedeckt den den [Weg](outdoor_location) [zum Haus](outdoor_location)
+    - '[Hinterm Haus](outdoor_location) hat sich ein [Laubteppich](mess) gebildet'
+    - "Ein [Bl\xE4tterteppich](mess) \xFCberdeckt den [Gemeinschaftsgarten](outdoor_location)"
+    - "Das [Blattwerk](mess) des [Baums](plant) ist auf dem [Fu\xDFg\xE4ngerweg](outdoor_location)\
+      \ gefallen"
+    - "[Vor der Garage](outdoor_location) liegen \xFCberall [Laubbl\xE4tter](mess)\
+      \ rum"
+    - "Der [Weg](outdoor_location) vor dem [Garagentor](outdoor_location) ist mit\
+      \ [Laub](mess) \xFCberzogen"
+    - "Bin fast auf dem [Gehweg](outdoor_location) ausgerutscht wegen den ganzen [Bl\xE4\
+      ttern](mess) weg"
+    - "Die [Hecke](plant) des [Nachbarn](person) verliert ihre [Bl\xE4tter](mess)\
+      \ auf unseren Grundst\xFCck"
+    - "Die [Zufahrt](outdoor_location) zur [Tiefgarage](outdoor_location) ist vom\
+      \ [Laubwerk](mess) der umliegenden [B\xE4ume](plant) verdeckt"

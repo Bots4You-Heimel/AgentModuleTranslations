@@ -1,6 +1,17 @@
 de:
   intent:
     ticket.damage_report/doors_windows_locks.locking_system:
-    - Die [Eingangstüre](item) lässt sich nicht mehr abschließen
-    - Das [Schloss](item) meiner [Klotüre](item) verschließt nicht mehr
-    - Der [Schlüssel](item) bricht fast ab, wenn ich die [Haustür](item)  aufschließen will.
+    - Schlossschaden
+    - "Schl\xF6sser"
+    - "Schlo\xDF"
+    - "[Schloss](item) besch\xE4digt"
+    - "Das [Gartentor](item) schlie\xDFt nicht mehr ab"
+    - "Der Schliesszylinder der [Eingangst\xFCre](item) ist schwerg\xE4ngig"
+    - "Das [T\xFCrschlo\xDF](item) meiner [Badezimmert\xFCr](item) schlie\xDFt nicht\
+      \ mehr ab"
+    - "Das Einsteckschloss meiner [Wohnzimmert\xFCr](item) muss ausgetauscht werden"
+    - "Die [Eingangst\xFCre](item) l\xE4sst sich nicht mehr abschlie\xDFen"
+    - "Der Riegel der [Kellet\xFCre](item) ist verbogen"
+    - "Das [Schloss](item) meiner [Klot\xFCre](item) verschlie\xDFt nicht mehr"
+    - "Der [Schl\xFCssel](item) bricht fast ab, wenn ich die [Haust\xFCr](item) aufschlie\xDF\
+      en will."

@@ -1,0 +1,22 @@
+de:
+  intent:
+    faq/jobs_house_cleaning:
+    - Hausreinigungsaufgabe
+    - Aufgaben Kehrwoche
+    - Aufgaben Reinigung
+    - Umfang Saubermachen?
+    - "Was m\xFCssen wir machen, wenn wir dran sind mit dem Kehren?"
+    - "Und was m\xFCssen wir alles putzen?"
+    - Was sind die Aufgaben beim Putzen?
+    - "Was muss meine Alte alles machen, wenn wir [sauber](mess) mache m\xFCssen?"
+    - Was muss man alles machen, wenn man mit der Reinigung dran ist?
+    - "Was ist \xFCberhaupt bei Hausreinigung mit drin?"
+    - "Welche Arbeiten geh\xF6ren zur Hausreinigung?"
+    - Was sind die Hausreinigungsaufgaben?
+    - "Welche Aufgaben muss man f\xFCr die Treppenhausreinigung erf\xFCllen?"
+    - "Was sind die Verpflichtungen f\xFCr die Hausflurreinigung?"
+    - "Was geh\xF6rt alles zu der Reinigung des [Treppenflurs](indoor_location) dazu?"
+    - "Was ist alles f\xFCr das Saubermachen des [Flurs](indoor_location) zu tun?"
+    - "Was ist f\xFCr das Putzen des [Hausflurs](indoor_location) notwendig?"
+    - Welche Pflichten muss ich beim Wischen des [Treppenhauses](indoor_location)
+      nachkommen?

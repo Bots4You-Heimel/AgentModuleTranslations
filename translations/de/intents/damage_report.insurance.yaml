@@ -1,0 +1,30 @@
+de:
+  intent:
+    ticket.damage_report/insurance:
+    - Versicherungsschaden
+    - "Versicherungssch\xE4den"
+    - Versicherung Schaden
+    - Versicherungsschaden melden
+    - "Beseitigung von Versicherungssch\xE4den"
+    - "\xFCber Versicherungsschaden informieren"
+    - Versicherung muss zahlen
+    - zahlt das die Versicherung
+    - Es ist im [Haus](indoor_location) ein Versicherungsschaden zu melden
+    - "Hier muss ein Schaden f\xFCr die Versicherung gemeldet werden"
+    - "Ich m\xF6chte einen Versicherungsschaden melden"
+    - "Ich will einen Schaden f\xFCr die Versicherung dokumentieren"
+    - Schaden melden der durch Versicherung gedeckt ist
+    - will hier n Versicherungsschaden melden
+    - "kommt die Versicherung f\xFCr den Bodenschaden auf?"
+    - geht es hier eine schadenserstattung von der versicherung zu beantragen?
+    - ich will Geld von der Versicherung wegen der kaputten [Lampe](item)
+    - Bezahlt mir die Versicherung den Schaden an der [Badewanne](sanitary_item)?
+    - Die Versicherung bezahlt doch den Wasserschaden am [Laminat](surface) oder?
+    - "Die Versicherung soll mir gef\xE4lligst den Schaden an der [T\xFCr](item) zahlen"
+    - "Ich hab jetzt die [Rechnung](document) f\xFCr die [Handwerker](person) bezahlt\
+      \ und das Geld von der Versicherung immer noch nicht bekommen"
+    - Versicherungsschaden melden den ich nicht verursacht habe
+    - "Ich hoffe ihr habt ne gute Versicherung die den Schadensfall am Geb\xE4ude\
+      \ \xFCbernimmt!"
+    - Letztens ist hier ein Schaden entstanden der glaub ich noch nicht der Versicherung
+      gemeldet wurde

@@ -1,0 +1,29 @@
+de:
+  intent:
+    ticket.damage_report/lost:
+    - Verlustmeldung
+    - Fundmeldung
+    - verloren
+    - verlegt
+    - "[Schl\xFCssel](item) verloren"
+    - "[Schl\xFCsselbund](item) verlegt"
+    - "[Haust\xFCrtschl\xFCssel](item) unaufindbar"
+    - "Verlust [Briefkastenschl\xFCssel](item)"
+    - '[Mietvertrag](document) verloren'
+    - "Der [Schl\xFCssel](item) ist weg!"
+    - Kann [Abrechnung](document) nicht finden
+    - "Ich habe meinen [Eingangst\xFCrschl\xFCssel](item) verloren!"
+    - "Seit gestern habe ich den [Wohnungsschl\xFCssel](item) verloren"
+    - "Ich denke, dass ich im Urlaub den [Schl\xFCssel](item) verlegt habe"
+    - Ich kann meine [Garagenfernbedienung](item) nicht mehr finden
+    - "Meine Frau hat den [Haust\xFCrschl\xFCssel](item) verlegt"
+    - "Den [Kloschl\xFCssel](item) k\xF6nnen wir nicht finden"
+    - "Mein Mann hat seine [Postkastenschl\xFCssel](item) im Bus liegen gelassen"
+    - Ich kann unsere [Nebenkostenabrechnung](document) nicht mehr finden
+    - "Der [Chip](item) f\xFCr die [Schranke](item) ist unauffindbar"
+    - "Wir haben alles abgesucht, k\xF6nnen aber den [Garagendr\xFCcker](item) nicht\
+      \ finden"
+    - "Ich habe \xFCberall nachgesehen, der zweite [M\xFCllchip](item) ist nirgendwo"
+    - "Unser [M\xFClltonnenschl\xFCssel](item) ist nirgends mehr findbar"
+    - "Was mache ich, wenn ich meinen [Schl\xFCsselbund](item) im Zug hab liegen lassen"
+    - Mein [Sohn](person) hat seinen [Parkchip](item) irgendwo liegen lassen
