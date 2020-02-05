@@ -1,0 +1,59 @@
+fr:
+  intent:
+    ticket.lease/add_additional_tenant:
+    - sous-loué
+    - '[sous-locataire](person)'
+    - '|'
+    - nouveau [sous-locataire](person)
+    - sous-louer [appartement](indoor_location) | sous-louer [logement](indoor_location)
+    - Je me suis marié
+    - nouveau cocontractant
+    - '[appartement](indoor_location) sous-loué'
+    - ajouter cocontractant | enregistrer cocontractant | insérer cocontractant
+    - '[Ami](person) emménage'
+    - enregistrer cocontractant | inscrire cocontractant
+    - '[partenaire](person] habite ici'
+    - '[amie](person) va emménager'
+    - '[sous-locataire](person) est emménagé'
+    - '[appratement](indoor_location) est sous-loué'
+    - "J'ai l'intention de sous-louer mon [appartement](indoor_location)."
+    - Je peux sous-louer mon objet de location ?
+    - "Est-ce qu'un [ami](person) peut louer mon [appartement](indoor_location] ?"
+    - "Je voudrais vous informer qu'un [sous-locataire](person) erst emménagé"
+    - Je voudrais ajouter un autre [locataire](person)
+    - "Je souhaite sous-louer l'[appartement](indoor_location) temporairement"
+    - Veuillez ajouter mon [partenaire](person) au [contrat de location](document)
+    - Mon [petit ami](person) est emménagé chez moi
+    - '|'
+    - Je veux ajouter un autre [locataire](person)
+    - Ma femme est emménage chez moi | Ma femme vit avec moi maintenant
+    - "J'ai promis à un de mes amis qu'il pourrait rester ici pendant un certain temps,\
+      \ ça vous convient ?"
+    - "Comment signaler si quelqu'un de nouveau vit ici ?"
+    - Il y a deux semaines, un [ami](person) a emménagé chez moi
+    - "J'ai trouvé un [sous-locataire](person)"
+    - un [sous-locataire](person) doit emménager bientôt
+    - Finalement, je ne vis plus seule dans ce  piaule !
+    - Elle a dit oui ! La semaine prochaine, ma fiancée emménage avec moi
+    - "En raison d'un coup du destin, j'ai proposé à mon [ami](person) de rester avec\
+      \ moi temporairement, vous êtes d'accord ?"
+    - "Je ne serai pas à la maison pour quelques mois et je voudrais sous-louer l'[appartement](indoor_location)"
+    - "Bientôt, quelqu'un de nouveau va vivre avec moi"
+    - Il est permis de laisser loger une autre personne chez moi ?
+    - "Par manque d'argent, je voudrais "
+    - "Je dois savoir si je peux sous-louer l'appartement."
+    - Un [connaissance](person) va bientôt emménager avec moi
+    - Il est permis que mon père vit avec moi pour un certain temps ?
+    - "Comme je me sens seul, j'aimerais trouver quelqu'un pour partager l'appartement\
+      \  (indoor_location)"
+    - Est-ce que ma sœur peut habiter chez moi temporairement ?
+    - "Il est bien permis de laisser habiter une deuxième personne dans l'[appartement](indoor_location)\
+      \ ?"
+    - Comme je suis en déplacement je veux sous-louer mon [appartement](indoor_location)
+    - "Je suis à l'étranger pour une période plus longue et je souhaite sous-louer\
+      \ l'[appartement](indoor_location) à quelqu'un d'autre"
+    - "Je me suis séparée de mon mari et je ne peux pas payer l'[appartement](indoor_location)\
+      \ toute seule, puis-je chercher un [sous-locataire](personne) ?"
+    - "Il est possible que d'autres personnes emménagent avec moi ?"
+    - '[copain](person) est emménagé'
+    - '[copine](person) est emménagé'

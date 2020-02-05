@@ -1,0 +1,21 @@
+fr:
+  intent:
+    ticket.shit/senior_toilet_facility:
+    - Aménagement des toilettes pour personnes âgées
+    - toilettes adaptées aux personnes âgées
+    - Installations de WC adaptées aux personnes âgées
+    - toilettes pour personnes âgées
+    - Les toilettes sont adaptés aux personnes âgées ?
+    - '[toilttes](sanitary_item) adaptés aux personnes âgées ?'
+    - '[WC](indoor_location] pour seniors'
+    - '[Salle de bain](indoor_location) aménagée pour les personnes âgées ?'
+    - Avez-vous des toilettes avec des sièges surélevés ?
+    - Vous offrez des toilettes adaptées aux personnes âgées ?
+    - Avez-vous pensé aux personnes âgées dans la conception de votre salle de bains ?
+    - Disposez-vous de toilettes adaptées aux personnes âgées ?
+    - "J'espère que vos toilettes sont conçues pour les personnes âgées !"
+    - "Quels [appartements](indoor_location) disposent d'une WC adaptées aux personnes\
+      \ âgées ?"
+    - Vos [appartements](indoor_location) sont équipés de salles de bains adaptées aux personnes âgées ?
+    - "J'ai absolument besoin d'informations sur l'équipement de vos salles de bains\
+      \ adaptées aux personnes âgées."

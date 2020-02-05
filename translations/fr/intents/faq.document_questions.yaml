@@ -1,0 +1,18 @@
+fr:
+  intent:
+    ' faq/document_questions':
+    - questions de document
+    - "questions [décompte des frais de chauffage et d'exploitation](document)"
+    - explication [facture](document)
+    - explication [décompte des charges](document)
+    - '[décompte](document) des frais'
+    - composition du [décompte de charges](document)
+    - questions à propos du [décompte des charges](document)
+    - "Comment s'effectue le [décompte des charges](document) ?"
+    - "J'ai quelques questions concernant le [décompte des charges](document)"
+    - "Le [décompte de charges] n'est pas clair pour moi"
+    - "Quelqu'un peut me renseigner sur une [facture](document]"
+    - Pouvez-vous repondre à quelques questions concernant le [décompte de charges](document) ?
+    - Renseignez-moi sur le [décompte de charges](document)
+    - "Est-ce que quelqu'un peut m'expliquer le [contrat de location](document) ?\
+      \ | Quelqu'un peut expliquer le [contrat de bail](document) ?"

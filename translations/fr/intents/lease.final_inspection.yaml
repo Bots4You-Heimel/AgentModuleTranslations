@@ -1,0 +1,30 @@
+fr:
+  intent:
+    ticket.lease/final_inspection:
+    - "remise de l'appartement | réception de logement | état des lieux d'entrée |\
+      \ état des lieux de sortie "
+    - '|'
+    - état des lieux
+    - remise de clés
+    - '[clé](item) remis'
+    - '[appartement](indoor_location) remis'
+    - réception [logement](indoor_location)
+    - remise du [logement](indoor_location)
+    - "restitution de l'[appartement](indoor_location) | remise de l'[appartement](indoor_location)"
+    - Je dois vraiment peindre mon [appartement](indoor_location) avant de déménager ?
+    - Que peut me demander le [propriétaire](person) avant de déménager ?
+    - "Avec qui je peux prendre rendez-vous pour la remise de l'appartement ?"
+    - "Je veux prendre un rendez-vous pour la remise de l'appartement"
+    - "envoyez quelqu'un pour la remise de l'appartement"
+    - "Je veux déménager et je viens d'envoyer l'avis, il y a autre chose à faire\
+      \ ?"
+    - "parce que je vais bientôt déménager, je veux prendre un rendez-vous pour la\
+      \ remise de l'appartement"
+    - "Viens de résilier [l'appartement](indoor_location), maintenant il ne reste\
+      \ que l'état des lieux "
+    - "Je aimerais faire l'état des lieux la semaine prochaine"
+    - "Je déménage et je dois remettre l'[appartement](indoor_location)"
+    - "Je m'adresse à qui si je souhaite restituer l'[appartement](indoor_location)\
+      \ ?"
+    - "Je viens de résilier par écrit et je voudrais savoir qui est résponsable de\
+      \ la remise de l'[appartement](indoor_location)"

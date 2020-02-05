@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.permit/satellite_dish:
+    - montage antenne parabolique

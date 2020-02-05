@@ -1,0 +1,32 @@
+fr:
+  intent:
+    ticket.damage_report/insurance:
+    - "sinistre d'assurance | sinistre déclaré à l'assurance"
+    - "sinistres d'assurance | sinstres déclarés à l'aussrance"
+    - assurance sinistre | aussurance dommage
+    - "déclarer un sinstre à l'assurance | signaler un dommage à l'assurance | annoncer\
+      \ un dommage à l'assurance"
+    - "informer d'un sinistre d'assurance | informer d'un dommage d'assurance"
+    - "L'assurance doit payer"
+    - "l'assurance le paye"
+    - "Il y a un sinistre à déclarer à l'assurance dans la [maison](indoor_location)"
+    - "Ici il faut déclarer un sinistre à l'assurance"
+    - "Je voudrais signaler un dommage à l'assurance | Je voudrais déclarer un sinistre\
+      \ à l'assurance"
+    - "Je veux documenter un dommage pour l'assurance "
+    - "Déclarer un sinistre qui est couvert par l'assurance"
+    - "Je veux signaler un dommage d'assurance ici"
+    - "L'assurance couvre-t-elle les dommages au sol ?"
+    - "on peut déclarer un sinistre à l'assurance ici ?"
+    - "Je veux l'argent de l'assurance pour la [lampe](item) cassée."
+    - "Est-ce que l'assurance couvre les dommages causés à la [baignoire](sanitary_item)\
+      \ ?"
+    - "L'assurance paye le dommage a [sol stratifié](surface), n'est-ce pas ?"
+    - "Je veux que l'assurance paie finalement pour les dommages à la [porte](item)"
+    - "J'ai payé la [facture](document)  pour les [artisans](person), mais je n'ai\
+      \ pas encore reçu de l'argent de l'assurance."
+    - "Signaler un dommage que je n'ai pas causé"
+    - "J'espère que vous avez une bonne assurance qui couvre les dommages au bâtiment\
+      \ !"
+    - "Récemment, il y a eu un dommage qui, je pense, n'a pas encore été signalé à\
+      \ l'assurance."

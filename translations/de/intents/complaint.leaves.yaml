@@ -1,0 +1,27 @@
+de:
+  intent:
+    ticket.complaint/leaves:
+    - '[Blätter](mess)'
+    - '[Laub](mess)'
+    - '[Laub](mess) rechen'
+    - '[Blätter](mess) rechen'
+    - '[Laub](mess) kehren'
+    - '[Laub](mess) zusammenrechen'
+    - '[Blätter](mess) liegen rum'
+    - '[Blätter](mess) [nicht gekehrt](mess)'
+    - Macht doch mal das [Laub](mess) endlich weg
+    - Niemand fegt das [Laub](mess) weg
+    - Es sollte jemand die [Blätter](mess) auf der [Wiese](outdoor_location) zusammenkehren
+    - Es sind überall [Laubhaufen](mess), niemand tut sie in die [Biotonne](item)
+    - Auf dem [Gehweg](outdoor_location) liegt viel [Laub](mess)
+    - Der [Garten](outdoor_location) ist voller [Blätter](mess)
+    - Das [Laub](mess) ist in der ganzen [Tiefgarage](outdoor_location) verteilt
+    - Das [Laubwerk](mess) bedeckt den den [Weg](outdoor_location) [zum Haus](outdoor_location)
+    - '[Hinterm Haus](outdoor_location) hat sich ein [Laubteppich](mess) gebildet'
+    - Ein [Blätterteppich](mess) überdeckt den [Gemeinschaftsgarten](outdoor_location)
+    - Das [Blattwerk](mess) des [Baums](plant) ist auf dem [Fußgängerweg](outdoor_location) gefallen
+    - '[Vor der Garage](outdoor_location) liegen überall [Laubblätter](mess) rum'
+    - Der [Weg](outdoor_location) vor dem [Garagentor](outdoor_location) ist mit [Laub](mess) überzogen
+    - Bin fast auf dem [Gehweg](outdoor_location) ausgerutscht wegen den ganzen [Blättern](mess) weg
+    - Die [Hecke](plant) des [Nachbarn](person) verliert ihre [Blätter](mess) auf unseren Grundstück
+    - Die [Zufahrt](outdoor_location) zur [Tiefgarage](outdoor_location) ist vom [Laubwerk](mess) der umliegenden [Bäume](plant) verdeckt

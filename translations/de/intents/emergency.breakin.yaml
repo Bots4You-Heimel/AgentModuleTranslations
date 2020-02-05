@@ -1,0 +1,25 @@
+de:
+  intent:
+    ticket.emergency/breakin:
+    - Einbruch
+    - Diebstahl
+    - Einbrecher
+    - Wohnungseinbruch
+    - Bei mir wurde eingebrochen.
+    - Hier wurde versucht einzubrechen
+    - Leider wurde bei uns eingebrochen. Die [Polizei](person) ist eingeschaltet
+    - Jemand hat meine [Tür](item)  aufgebrochen.
+    - Das [Schloss](item) an meiner [Wohnungstür](item) wurde aufgebrochen
+    - Das [Schloss](item) an meiner [Wohnungstür](item) wurde geknackt.
+    - Jemand ist in meine [Wohnung](indoor_location) eingebrochen
+    - Ein Einbruch fand in unserer [Wohnung](indoor_location) statt
+    - Unsere [Wohnung](indoor_location) wurde ausgeplündert
+    - Wir wurden ausgeraubt. Die [Polizei](person) weiß schon Bescheid.
+    - Verbrecher habem mir alles geklaut, die Diebe!
+    - Als wir im Urlaub waren, wurde in unsere [Garage](outdoor_location) eingebrochen!
+    - Jemand hat mit einer Brechstange versucht, den [Fahrradkeller](indoor_location) aufzubrechen
+    - Diebe sind in unserer [Bude](indoor_location) eingedrungen
+    - Es fand ein Diebstahl in unserer [Wohnung](indoor_location) statt
+    - Wir hatten einen Einbrecher im [Haus](indoor_location)
+    - Unsere [Tür](item)  weist Einbruchspuren auf
+    - Ein paar Kriminelle haben die [Wohnung](indoor_location) ausgeräumt

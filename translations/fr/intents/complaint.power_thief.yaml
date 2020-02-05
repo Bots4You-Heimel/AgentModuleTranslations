@@ -1,0 +1,51 @@
+fr:
+  intent:
+    ticket.complaint/power_thief:
+    - "vol d'électricité"
+    - '|'
+    - "fraude d'électricité | fraude au compteur"
+    - électricité volée | électricité piquée
+    - "signaler vol d'électricité | signaler raccordement frauduleux"
+    - '[compteur électrique](appliance) manipulé'
+    - "[voisin](person) pique de l'électricité | [voisin](person] s'alimente chez\
+      \ moi en électricité"
+    - "détournement illicite d'énergie"
+    - "des vols d'électricité augmente"
+    - consommation de courant inhabituel | consommation électrique exceptionnelle
+    - "vol d'électricité [dans la maison](indoor_location)"
+    - "Je voudrais signaler que un des [locataires](person) [dans la maison](indoor_location)\
+      \ pique de l'électricité"
+    - "[câbles](item) suspects dans le couloir, vol d'électricité?"
+    - "Je pense que mes [voisins](person) s'alimentent en électricité chez moi"
+    - Les [voisins](person) me volent mon électricité !
+    - Quoi faire en cas de soupçon de fraude électrique ?
+    - "J'ai découvert des aimants sur mon [compteur électrique](appliance)"
+    - "Je crois la [famille Dupont](named person) me pique l'électricité"
+    - "Quelqu'un veut résoudre son problème de courant en volant le mien !"
+    - '[câbles](item) des [compteurs électriques](appliance) ont étés '
+    - "Quelqu'un a bricolé après les [compteurs électrique](appliance), quelqu'un\
+      \ pique de l'électricité ?"
+    - Le [compteur électrique](appliance) continue à tourner même si je coupe les [fusibles](appliance) de mon [appartement](indoor_location)
+    - "Quelqu'un a s'manipulé le câblage des [compteurs électriques](appliance)"
+    - "J'ai coupe tout le courant dans mon [appartement](indoor_location) et le [compteur](appliance)\
+      \ continue de tourner. Vérifiez !"
+    - "Après les transformations de mon [appartement](indoor_location) l'année derniè\
+      re, ma [facture d'électricité](document)  a fortement augmenté."
+    - Il y a beaucoup de prises multiples et des rallonges dans le [couloir](indoor_location) qui mènent aux [Dupont](named person)
+    - "J'ai découvert des [câbles](item) qui mènent du [compteur électrique](appliance)\
+      \ à la cave des [voisins](person). C'est suspect !"
+    - Je ne peux pas expliquer les divergences fortes de la consommation de courant.
+    - "Ma consommation électrique est prétendument deux fois plus élevée que l'anné\
+      e dernière, c'est impossible !"
+    - "Le valeur du compteur du [compteur électrique](appliance) a beaucoup augmenté\
+      \ bien que j'étais en vacances. Il y a quelque chose qui ne va pas !"
+    - "J'ai découvert des [câbles](item) étranges qui mènent dans l'[appartement](indoor_location)\
+      \ de [Monsieur Kowick](named person),"
+    - "J'ai découvert des aimants sur le [compteur électrique](appliance) des [voisins](person),\
+      \ qu'est-ce qui se passe ?"
+    - "Depuis que les Arabes sont emménagés dans notre [maison](indoor_location),\
+      \ le relevé du compteur électrique a augmenté rapidement et je pense qu'ils\
+      \ volent mon électricité !"
+    - "Le courant des [voisins](person) au-dessus de moi a été coupé - maintenant\
+      \ il semble d'être remis et le relevé de mon compteur augmente chaque jour beaucoup\
+      \ plus. Ça doit être un vol d'électricité !"

@@ -1,0 +1,20 @@
+fr:
+  intent:
+    faq/appartment_state:
+    - "Dans quel état je reprends l'[appartement](indoor_location) ?"
+    - "Je reprends l'[appartement](indoor_location) pas rénové ?"
+    - "L'[appartement](indoor_location)(indoor_location) est renové ?"
+    - "Je reprends l'[appartement](indoor_location) dans quel état ?"
+    - Comment se fait la réception du logement ?
+    - "Quel est l'état de l'[appartement](indoor_location) lors de la réception ?"
+    - "Quelle est l'apparence du logement lors de la réception ?"
+    - "L'[appartement](indoor_location)) est meublé ?"
+    - Est-ce que les [appartements](indoor_location) sont équipés de meubles ?
+    - "Est-ce que l'[appartement](indoor_location) est aménagé ?"
+    - "Qu'est-ce qu'il y a dans l'[appartement](indoor_location) ?"
+    - À quoi ressemble la [piaule](indoor_location) ?
+    - "Quel est le look de l'[appartement](indoor_location) ?"
+    - "Les [mûrs](surface) dans l'[appartement](indoor_location) sont peints ?"
+    - "À quoi ressemble le [plafond](surface) dans l'[appartement](indoor_location)\
+      \ ?"
+    - "Il y a des meubles dans l'[appartement](indoor_location) ?"

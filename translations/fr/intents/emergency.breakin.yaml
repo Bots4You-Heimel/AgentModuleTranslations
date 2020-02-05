@@ -1,0 +1,25 @@
+fr:
+  intent:
+    ticket.emergency/breakin:
+    - cambriolage
+    - vol
+    - cambrioleur
+    - "cambriolage dans l'appartement"
+    - "J'ai été cambriolé. | Je me suis fait cambrioler. | J'ai éte victime d'un cambriolage."
+    - On a tenté de cambrioler ici
+    - Malheureusement on a été cambriolé. La [police](person) a été informé
+    - "Quelqu'un a forcé la [porte](item)"
+    - "La [serrure](item) de ma porte [d'appartement](item) a été forcé"
+    - '|'
+    - "Quelqu'un a cambriolé mon [appartement](indoor_location)"
+    - Un cambriolage a eu lieu dans notre [appartement](indoor_location)
+    - 'Notre [appartement](indoor_location) a été dévalié '
+    - On a été cambriolé. La [police](person) est déjà informée.
+    - "Des cambrioleurs m'ont volé tout, voleurs !"
+    - Quand nous étions en vacances, notre [garage](outdoor_location) a été cambriolé
+    - "Quelqu'un a tenté de forcer la [cave à velos](indoor_location) avec des pieds-de-biche"
+    - Des cambrioleurs sont pénétré dans notre [piaule](indoor_location)
+    - Un vol a eu lieu dans notre [appartement](indoor_location)
+    - On a eu un cambrioleur dans la [maison](indoor_location)
+    - "Notre [porte](item)présente des traces d'effraction"
+    - "Qeulques criminaux m'ont vidé l'[appartement](indoor_location)"

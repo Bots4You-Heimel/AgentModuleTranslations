@@ -1,0 +1,44 @@
+fr:
+  intent:
+    ticket.damage_report/battery:
+    - pile
+    - batterie
+    - bloc-piles
+    - bloc-batterie
+    - pile bouton
+    - changer batterie
+    - changer pile
+    - nouvelle pile
+    - changement de pile
+    - changement de batterie
+    - pile vide | pile usée
+    - capacité de la batterie epuisée | déchargée | à plat
+    - La pile doit être remplacée.
+    - "a besoin d'une nouvelle batterie"
+    - "pourrait avoir besoin d'une nouvelle pile"
+    - La pile est vide
+    - nouvelle batterie acide-plomb
+    - nouvelle pile AA
+    - "cellule d'accumulateur"
+    - régulateur de température vide
+    - Le thermostat est vide
+    - "La [horloge] au [couloir](indoor_location) aurait besoin d'une nouvelle [pile](item).\
+      \ | La [pendule] au [couloir(indoor_location) aurait besoin d'une noouvelle\
+      \ [batterie](item)"
+    - La pile de mon [compteur pour les frais de chauffage](sanitary_item) dans la [salle de bain](indoor_location) est vide.
+    - Mon [répartiteur de frais de chuffage](sanitary_item) a crevé.
+    - "J'ai besoin d'une nouvelle pile pour ma [sonnette](item)"
+    - "Le [répartiteur de frais de chauffage](sanitary_item) a besoin d'une nouvelle\
+      \ pile."
+    - La batterie de la [tendeuse à gazon](item) ne charge plus.
+    - "Le [détecteur de fumée](item) a ému un bip parce qu'il a besoin d'une nouvelle\
+      \ pile."
+    - "[L'installation de détection d'incendie](item) a besoin d'un nouveau accumulateur"
+    - Ce [détecteur de fumée](item) aurait besoin de nouvelles piles !
+    - "Les [détecteurs de feu](item) de la [cage d'escalier](indoor_location) auraient\
+      \ besoin d'une batterie-bloc de 9V."
+    - "Le [souffleur](item) a besoin d'un nouveau bloc d'accumulateurs"
+    - Qui me paye les nouvelles piles pour le détecteur ?
+    - La [pile bouton] pour le [compteur](item) au [radiateur](sanitary_item) doit être rempacé.
+    - Pourquoi personne ne remplace les piles ?
+    - Qui est responsable pour le remplacement des batteries ?

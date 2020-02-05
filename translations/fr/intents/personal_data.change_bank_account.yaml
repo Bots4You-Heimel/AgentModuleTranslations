@@ -1,0 +1,25 @@
+fr:
+  intent:
+    ticket.personal_data/change_bank_account:
+    - "coordonnées bancaires | RIB | relevé d'identité bancaire"
+    - compte | compte bancaire
+    - changement de compte
+    - Changer coordonnées bancaires
+    - autre compte
+    - '|'
+    - Indiquez un autre numéro de compte
+    - "Changer l'IBAN"
+    - changer compte
+    - Nouveau numéro de compte
+    - loyer coordonnées bancaires
+    - autre numéro de compte
+    - prélèvement autre compte
+    - "J'ai un nouveau compte"
+    - nouveau compte pour loyer
+    - "Veuillez prélever le loyer d'un autre compte à l'avenir"
+    - "Mon nouveau compte a l'IBAN [FR14 2004 1010 0505 0001 3M02 606](iban). Dès\
+      \ maintenant le loyer doit être prélévé de ce compte."
+    - "J'ai un autre compte bancaire à la [caisse d’Épargne Marseille](bank) duquel\
+      \ le loyer doit être prélevé désormais"
+    - A partir du mois prochain, tous les frais devront être déduits du compte [FR14 2004 1010 0505 0001 3M02 606](iban) et BIC [CEPAFRPP131](bic)
+    - "avis de débit d'un autre compte | prélèvement SEPA d'un autre compte"

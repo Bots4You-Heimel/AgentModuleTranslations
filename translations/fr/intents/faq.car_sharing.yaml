@@ -1,0 +1,24 @@
+fr:
+  intent:
+    faq/car_sharing:
+    - voiture de location | véhicule de location | voiture louée | vehicule louée
+    - '|'
+    - '|'
+    - '|'
+    - autopartage
+    - carsharing
+    - louer [voiture](item)
+    - 'louer une voiture '
+    - offrir autopartage
+    - "offre de l'auopartage | offre autopartage"
+    - disponibilié voiture de location
+    - "Vous offrez l'autopartage ?"
+    - On peut louer une [voiture](item) chez vous ?
+    - Je voudrais louer une [voiture](item)
+    - Des voitures de location sont-elles disponibles chez vous ?
+    - Vous mettez des voitures de location à la disposition ?
+    - Vous tenez des bagnoles à louer ?
+    - Est-ce que vous me louez une [voiture](item) ?
+    - "Vous avez des offres d'auopartage ?"
+    - Où se trouvent vos vouitures de location ?
+    - Où est-ce que je trouve les parkings pour les voitures de location ?

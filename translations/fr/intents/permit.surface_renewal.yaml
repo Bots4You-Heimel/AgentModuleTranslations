@@ -26,5 +26,5 @@ fr:
     - Le [sol](surface) dans la [cuisine](indoor_location) doit être renové avec un nouveau [carrelage](surface).
     - Quelques [carreaus](surface) dans la [salle de bain](indoor_location) doivent être remplacés par des nouveaux.
     - Les [carreaux](surface) dans la [cuisine intégrée](indoor_location) doivent absolument remplacés.
-    - "Je vous en prie que la [moquette](surface) de [l'entrée](indoor_location) soit\
+    - "Je vous en prie que la [moquette](surface) de l'[entrée](indoor_location) soit\
       \ remplacée."

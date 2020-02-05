@@ -1,0 +1,20 @@
+fr:
+  intent:
+    ticket.permit/barbecue_balcony:
+    - Je peux faire un barbecue sur mon [balcon](outdoor_location) ?
+    - Je peux faire un barbecue chez moi ?
+    - "J'aimerais faire un barbecue sur mon [balcon](outdoor_location), Puis-je le\
+      \ faire ?"
+    - Mon [voisin](person) est autorisé à faire un barbecue sur son [balcon](outdoor_location) ?
+    - Je peux faire un barbecue sur le [balcon](outdoor_location)
+    - Où est-ce que je peux faire un barbecue sur la propriété ?
+    - Il est permis de faire un barbecue sur le [balcon](outdoor_location) ?
+    - Je peux faire un barbecue sur mon [balcon](outdoor_location)
+    - "Je peux faire un barbecue [à l'extérieur](outdoor_location) ?"
+    - "J'aimerais faire un barbecue [à l'extérieur](outdoor_location)"
+    - "Il est permis de giller des saucisses [à l'extérieur](outdoor_location) ?"
+    - Je peux utilisier un [grill](item) sur le [balcon](outdoor_location] ?
+    - Un grill à gaz est autorisé ?
+    - Un barbecue au charbon est autorisé ?
+    - "Est-ce qu'il est permis de faire un barbecue avec un gril électrique sur la\
+      \ [terrasse](outdoor_location) ?"

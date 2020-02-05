@@ -1,0 +1,26 @@
+fr:
+  intent:
+    faq/register_electricity_gas:
+    - souscrire un contrat de gaz
+    - "souscrire un contrat d'électricité"
+    - ouvrir contrat de gaz
+    - "ouvrir contrat d'électricité"
+    - '|'
+    - '|'
+    - "Qui souscrit un contrat de gaz et d'électricité ?"
+    - Je dois souscrire un contrat de gaz moi-même?
+    - Comment faire pour souscrire contrat électricité ?
+    - "Qui est responsable pour l'alimentation en gaz et en électricité "
+    - "Vous souscrivez un contrat d'électricité et de gaz pour moi ?"
+    - Suis je moi-même responsable de souscrire un contrat de gaz et électricité ?
+    - "Dois-je m'occuper moi-même du gaz et de l'électricité ?"
+    - "Comment l'alimentation en électricité est réglé ?"
+    - "Et l'approvisionnement en gaz ?"
+    - Qui souscrit un contrat de gaz ?
+    - "Qui s'occupe de la souscription à un contrat d'électricité ?"
+    - "Le [locataire](person) sosucrit contrat de gaz et d'électricité ?"
+    - "Le [locataire](person) doit-il régler la souscription à un contrat de gaz et\
+      \ d'électricité ?"
+    - "Qui règle la souscription à un contrat de gaz et d'électricité ?"
+    - "En tant que [locataire](person), dois-je souscrire un contrat de gaz et d'é\
+      lectricité ?"

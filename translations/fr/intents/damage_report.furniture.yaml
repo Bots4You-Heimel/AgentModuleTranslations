@@ -1,0 +1,27 @@
+fr:
+  intent:
+    ticket.damage_report/furniture:
+    - dommage aux meubles
+    - placage
+    - tiroir
+    - pied de table
+    - pied de chaise
+    - '[obilier](item) endommagé'
+    - '[placard](item) arraché'
+    - '[armoire de cuisine](item) cassée | [placard de cuisine](item) cassé | [meuble
+      de cuisine](item) cassé'
+    - '[mobilier](item) en mauvais état | [mobilier](item) usé'
+    - '[mobilier de location](item) dommage'
+    - dommage à la [cuisinette]
+    - placage gonflé
+    - Le tiroir de mon [élement bas](item) est bloqué
+    - Mon [frigo](item) est desserré. | Mon [réfrigérateur](item est desserré.
+    - "Une [porte](item) de [l'armoire de toilette](item) est arrachée"
+    - La [table de salon](item) a perdu un pied.
+    - Le [canapé](item) a une grande fissure | Le [divan](item) a une grande fissure
+    - Le [canapé en cuir](item) est rayé
+    - "La [table de salle à manger](item) s'est effondrée"
+    - La [chaise de cuisine](item) a perdu un pied
+    - "[L'armoire de toilette](item) aux [WC invités](indoor_location) est arraché\
+      e"
+    - 'Le [frigo](item) craque assez étrangement dans ma [cuisine](indoor_location) '

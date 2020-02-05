@@ -1,0 +1,34 @@
+fr:
+  intent:
+    ticket.emergency/water:
+    - rupture de conduite
+    - "rupture de conduite d'eau"
+    - "[conduite d'eau](sanitary_item) gicle"
+    - "[conduite d'eau](sanitary_item) rompue "
+    - "[conduite d'eau](sanitary_item) rompue"
+    - "L'eau gicle du [mûr](surface)"
+    - Le [tuyau](sanitary_item) a éclaté
+    - "L'hiver a fait éclater une [conduite d'eau](sanitary_item)"
+    - "L'eau gicle fortement du [mûr](surface)"
+    - Il y a une rupture de [canalisation](sanitary_item) ici
+    - Je crois je viens de percer dans un [tube de chauffage](sanitary_item)
+    - "Il y a un trou dans la [conduite d'eau](sanitary_item)"
+    - "L'eau gicle de la [conduite d'eau](sanitary_item)"
+    - Il y a une rupture de canalisatioin à signaler
+    - "De l'eau s'écoule des ouvertures indésirables"
+    - "Le [tuyau des eaux usées](sanitary_item) a une fuite où s'écoule de l'eau"
+    - "L'eau s'écoule des [conduites de chauffage](sanitary_item)"
+    - "Un jet d'eau glice de la [conduite de chauffage](sanitary_item)"
+    - "L'eau s'écoule partout des [tuyaux](sanitary_item)"
+    - "L'eau s'écoule à flots par des fuites dans le [tuyau](sanitary_item)."
+    - "L'eau goutte à plusierus parties de la [conduite d'eau](sanitary_item)"
+    - "J'ai planté un clou dans la [conduite de l'eau chaude](sanitary_item)"
+    - "Ma femme a fait un trou dans le tuyau et de l'eau coule"
+    - "On a eu une rupture de canalisation et devait couper l'eau"
+    - "L'eau gronde d'une fuite énorme dans le [tuyau](sanitary_item)"
+    - "On cherche la vanne d'arrêt, tout es inondé"
+    - "Nous avons besoin d'aide de toute urgence, nous avons un trou dans la [conduite\
+      \ d'eau](sanitary_item)."
+    - "La [conduite d'eau](sanitary_item) s'est éclaté à cause  tu temps froid"
+    - "Où puis-je couper l'eau ? Tout l'[appartement](indoor_location) est inondé"
+    - "Sous le [lavabo](sanitary_item) les eaux usées s'écoulent du [siphon](sanitary_item)"

@@ -1,0 +1,24 @@
+de:
+  intent:
+    ticket.lease/final_inspection:
+    - Wohnungsübergabe
+    - Wohnungsendabhnahme
+    - Wohnungsabnahme
+    - Schlüsselübergabe
+    - '[Schlüssel](item) übergeben'
+    - '[Wohnung](indoor_location) übergeben'
+    - Abnahme [Wohnung](indoor_location)
+    - Übergabe der [Wohnung](indoor_location)
+    - Rückgabe der [Wohnung](indoor_location)
+    - Muss ich wirklich vor Auszug die [Wohnung](indoor_location) streichen?
+    - Was darf der [Vermieter](person) von mir vor Auszug verlangen?
+    - Bei wem kann ich einen termin zur Wohnungsübergabe machen?
+    - Ich will einen Termin haben zur Wohnungsabnahme.
+    - schickt jemanden vorbei zur Wohnungsabnahme bitte
+    - Ich will ausziehen, und habe die Kündigung gerade abgeschickt, ist sonst noch was zu tun?
+    - weil ich demnächst ausziehe will ich einen Termin haben zur Wohnungsübergabe
+    - Gerade die [Wohnung](indoor_location) gekündigt, jetzt muss die [Wohnung](indoor_location) noch abgenommen werden
+    - Gern würde ich nächste Woche die Wohnungsübergabe machen
+    - ich ziehe aus und muss jetzt noch die [Wohnung](indoor_location) übergeben
+    - an wen muss ich mich wenden wenn ich die [Wohnung](indoor_location) übergeben will?
+    - ich habe gerade schriftlich gekündigt und will wissen wer für die Abnahme der [Wohnung](indoor_location) zuständig ist.

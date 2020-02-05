@@ -1,0 +1,15 @@
+fr:
+  intent:
+    faq/appartment_application_reply:
+    - "Quand dois-je contacter à nouveau [l'entreprise](company) au plus tard ?"
+    - Après combien de temps dois-je vous contacter ?
+    - Quand dois-je me renseigner de nouveau ?
+    - "Quand dois-je rappeler NHW pour l'[appartement](indoor_location) ?"
+    - Quand dois-je vous rappeler ?
+    - "Après combien de jours dois-je vous rappeler pour l'[appartement](indoor_location))\
+      \ ?"
+    - "Quand dois-je contacter à nouveau [l'entreprise](company) ?"
+    - "Après combien de semaines dois-je vous écrire de nouveau à propos l'[appartement](indoor_location)\
+      \ ?"
+    - "Quand dois-je vous contacter à nouveau à cause de l'offre d'appartement ?"
+    - A quelle date dois-je vous recontacter au plus tard ?

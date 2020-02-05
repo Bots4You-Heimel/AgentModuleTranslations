@@ -29,6 +29,7 @@ fr:
   - "cabine d'ascenseur"
   - "système d'ascenseur"
   - "système d'ascenseur"
+  - '|'
   - "monte d'escalier"
   - monte-charge
   ElevatorDoor:
@@ -102,12 +103,17 @@ fr:
   - "descente d'eaux pluviales"
   - gouttière
   - gouttière
+  - '|'
+  - '|'
+  - '|'
+  - '|'
   - avant-toit
   - "tuyau de descente d'eaux pluviales"
   - "descente d'eau"
   - conduite des eaux pluviales
   WaterPipe:
   - "conduite d'eau"
+  - "tuyeau de conduite d'eau"
   - "conduite d'eau"
   SewagePipe:
   - égout
@@ -128,19 +134,23 @@ fr:
   - tuile
   - tuile de toiture
   - tuile de toit, tavillon
+  - tuile de toiture
   - panneau de toiture
-  - couverture en bois, tavillion en bois
-  - tuile en terre cuite
-  - tuile en ardoise
+  - couverture en bois | tavillion en bois
+  - ' tuile en terre cuite'
+  - 'tuile en ardoise '
   Skylight:
   - fenêtre de toit, lucarne
   - vasistas
   - fenêtre du pignon
   - chien-assis
-  - imposte
+  - '|'
+  - '|'
   Wall:
   - mur
-  - mur de la maison
+  - mur
+  - 'mur de la maison '
+  - mur de maison
   - murs, murailles
   Window:
   - fenêtre
@@ -159,22 +169,31 @@ fr:
   - serrure
   - cylindre de serrure
   - verrou de porte
+  - '|'
   WindowPane:
   - vitre de fenêtre
+  - '|'
   GlasPane:
   - vitre, vitrage
-  - vitrage de sécurité, verre de sécurité, verre protecteur, verr de protection
+  - 'vitre de fenêtre '
+  - vitrage de sécurité | verre de sécurité |verre protecteur |verr de protection
+  - '|'
   GarageDoorOpener:
   - entraînement de porte
+  - ouvre-porte de garage
+  - entrainement de garage
   - télécommande porte de garage
   - ouvre-porte de garage
   - ouvre-porte
+  - '|'
   Remotecontroll:
+  - télécommande
   - télécommande
   - télécommande radio
   - émetteur portatif
   GarageDoor:
   - porte de garage
+  - '|'
   - porte sectionelle
   Electric:
   - électrique
@@ -182,40 +201,45 @@ fr:
   SmokeDetector:
   - détecteur de fumée
   - détecteur de feu, détecteur de flammes
+  - '|'
   - avertisseur de fumée
   Light:
   - éclairage
   - "interrupteur, interrupteur d'éclairage"
   - lampe
   - lustre
-  - ampoule
-  - lampe fluorescente
-  - éclairage au néon, néon
+  - '|'
+  - lampes [ ampoules
+  - tube fluorescnent | lampe fluorescente | tube néon
+  - éclairage au néon | néon
   - luminaire
   - laterne
-  - laterne de jardin
-  - lampion
-  - spot, projecteur, émetteur
+  - 'laterne du jardin '
+  - 'lampion '
+  - lampe
+  - 'spot, projecteur | émetteur '
   - éclaire, brille
-  - phare
+  - 'phare '
   - ampoule
-  - LED, DEL
+  - LED | DEL
+  - ampoule
   - lumière
-  - plafonnier, lampe de plafond
-  - chandelier
-  - réverbère
+  - spot
+  - 'plafonnier, lampe de plafond '
+  - chandelier | lustre
+  - 'réverbère '
   - lampe de jardin
+  - 'lampe halogène '
   - lampe halogène
-  - spot halogène
-  - socle de lampe
-  - ampoules
-  - source lumineuse, source de lumière
+  - 'socle de lampe '
+  - '|'
+  - 'source lumineuse, source de lumière '
+  - 'illuminer '
   - éclairer
-  - illuminer
-  - veilleuse
-  - ampoule halogène
-  - "lumière d''escalier"
-  - ampoule économique
-  - lampe LED, éclairage DEL
+  - '|'
+  - 'ampoule halogène '
+  - "lumière d''escalier "
+  - 'ampoule économique '
+  - 'lampe LED, éclairage DEL '
+  - 'diode électroluminescente '
   - diode électroluminescente
-  - source LED

@@ -7,15 +7,16 @@ fr:
     - '[nettoyeur](person), [nettoyeuse](person)'
     - '[agent de nettoyage de bâtiments](person), [argente de nettoyage de bâtiments](person)'
     - '[aide ménagère](person)'
+    - '   '
     - travaux de nettoyage
     - travaux de nettoyage
-    - '[femme de ménage](person) nettoie'
     - '[nettoyeuse](person) nettoie'
-    - '[femme de ménage](person) nettoyer [couloir](indoor_location)'
+    - '[femme de ménage](person) nettoie'
     - '[nettoyeuse](person) nettoyer [couloir](indoor_location)'
+    - '[femme de ménage](person) nettoyer [couloir](indoor_location)'
     - '[femme de ménage](person) ne nettoie pas'
     - '[nettoyeuse](person) nettoie mal'
-    - "[La nettoyeuse](person) n'a [pas nettoyé](mess) le [couloir](indoor_location)"
+    - "[La nettoyeuse](person) n'a [pas nettoyé](mess)  le [couloir](indoor_location)"
     - "Le travail de l'entreprise de nettoyage laisse beaucoup à désirer"
     - "La [cage d'escalier](indoor_location) doit être nettoyé à nouveau par [l'agent\
       \ de nettoyage] (person) "

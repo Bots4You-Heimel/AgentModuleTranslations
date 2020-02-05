@@ -1,0 +1,18 @@
+fr:
+  intent:
+    faq/household_insurance_move:
+    - 'assurance vol déménagement '
+    - 'assurance déménagement '
+    - assurance changement de domicile
+    - assurance incendie changement de domicile
+    - assurance habitation après déménagement
+    - aussurance ménage quand je déménage
+    - aussurance ménage après nous sommes déménagés
+    - "Nous sommes déménagés, j'ai toujours la même assurance habitation ?"
+    - Dois-je souscrire une nouvelle assurance vol ?
+    - "On a besoin d'une autre aussurance ménage après le déménagement ?"
+    - "Est-ce que j'ai besoin d'une nouvelle assurance habitation après un déménagement\
+      \ ?"
+    - Il faut souscrire à nouveau une assurance ménage, quand je suis emménagé dans un nouveau [appartement](indoor_location)
+    - Je garde mon assurance si je déménage ?
+    - Est-ce que mon assurance ménage sera maintenue après mon déménagement ?

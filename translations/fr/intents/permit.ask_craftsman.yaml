@@ -6,24 +6,25 @@ fr:
     - '[peintre](person)'
     - '[serrurier](person), [serrurière](person)'
     - '[constructeur de fenêtres](person)'
-    - '[jardinier](person), [jardinière](person), [horticulteur](person), [horticultrice](person)'
-    - '[tapissier](person), [tapissière](person)'
-    - "Besoin d'un expert"
-    - '[Carreleur](person) doit venir.'
-    - "Est-ce qu'un[peintre](personne) peut jeter un coup d'œil là-dessus ?"
-    - "J'ai besoin d'un [peintre](person) pour mon [appartement](indoor_location)."
-    - "Un [vitrier](person) devrait jeter un coup d'œil sur ma [salle de bain](indoor_location)."
-    - "Le [jardinier](person) doit s'occuper de la [haie](plant)"
+    - '[jardinier](person) | [jardinière](person) | [horticulteur](person) | [horticultrice](person) '
+    - "demande d'un  [tapissier](person)"
+    - '|'
+    - "Besoin d'un [expert](person) "
+    - '[Carreleur](person) doit venir'
+    - "Est-ce qu'un[peintre](person) peut jeter un coup d'œil là-dessus ? "
+    - "J'ai besoin d'un [peintre](person) pour mon [appartement](indoor_location). "
+    - "Un [vitrier](person) devrait jeter un coup d'œil sur ma [salle de bain](indoor_location). "
+    - "Le [jardinier](person) doit s'occuper de la [haie](plant) "
     - "J'ai besoin de l'aide du [concierge](person)"
-    - "Tu peux m'envoyer un [peintre](person) ici ?"
-    - "Peut-êtr tu peux m'envoyer un [menusier](person) ?"
+    - " Tu peux m'envoyer un [peintre](person) ici ? "
+    - "Peut-être tu peux m'envoyer un [menuiser](person) ? "
     - "Est-ce que je peux appeler un [menusier](person) pour ma [porte d'appartement](item)\
-      \ ?"
-    - "J'ai besoin d'un [plombier](person) pour ma [salle de bain](indoor_location)."
-    - "J'ai besoin d'une [nettoyeuse](person) pour ma [piaule](indoor_location)."
-    - "Pouvez-vous m'envoyer un [serrurier](person) ?"
-    - "Est-ce qu'un [plombier](person) peut venir chez moi ?"
+      \ ?  "
+    - "J'ai besoin d'un [plombier](person) pour ma [salle de bain](indoor_location). "
+    - "J'ai besoin d'une [nettoyeuse](person) pour ma [piaule](indoor_location)"
+    - "Pouvez-vous m'envoyer un [serrurier](person) ?  "
+    - Un [plombier](person) peut venir chez moi ?
     - "J'aurais besoin d'un [couvreur](person) ici"
-    - Le [service clé minmute] doit venir ici.
-    - "Je veux qu'un[électricien](person) passe chez moi."
-    - Veuillez demander un [installateur](person) pour moi
+    - Le [service de dépannage de serrures](person) doit venir ici.
+    - "Je veux qu'un [électricien](person) vienne me voir"
+    - Veuillez commander un [installateur](person) pour moi

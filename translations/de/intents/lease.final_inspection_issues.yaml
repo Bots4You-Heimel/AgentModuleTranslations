@@ -1,0 +1,39 @@
+de:
+  intent:
+    ticket.lease/final_inspection_issues:
+    - Wohnungsübergabeprobleme
+    - Wohnungsübergabe Probleme
+    - Wohnungsendabhnahme erfolglos
+    - '[Wohnung](indoor_location) nicht abgenommen'
+    - Wohnungsübergabe nicht reibungslos
+    - Problem bei Wohnungsabnahme
+    - Wohnungsübergabe schief gelaufen
+    - Der [Vermieter](person) wollte meine [Wohnung](indoor_location) nicht abnehmen
+    - '[Vermieter](person) hat sich über meine [Wohnung](indoor_location) bei der
+      Übergabe beklagt'
+    - Der [Vermieter](person) meldet sich nicht zur Wohnungsübergabe
+    - Der [Vermieter](person) hält den termin zur Wohnungsabnahme nicht ein
+    - Ich erreiche niemanden zur Wohnungsübergabe
+    - Wohnungsübergabe hat nicht geklappt, wurde verweigert
+    - Nur wegen ein paar [Flecken](mess) im [Bad](indoor_location) wurde die Wohnungsabnahme verweigert
+    - Was tun wenn meine [Wohnung](indoor_location) nicht abgenommen wird
+    - Bin umgezogen und soll jetzt noch die [Wohnung](indoor_location) sanieren
+    - Ich soll nachträglich noch die [Wohnung](indoor_location) streichen
+    - '[Vermieter](person) lässt mich nicht ausziehen wegen ein paar Mängeln'
+    - Es gab Probleme bei der Wohnungsübergabe
+    - Die Abnahme der [Wohnung](indoor_location) hat nicht geklappt
+    - Der [Vermieter](person) wollte die [Wohnung](indoor_location) nicht abnehmen
+    - Ich soll die [Türen](item) reparieren bevor ich ausziehe, dabei waren die schon vorher im Arsch!
+    - Kann doch nicht sein dass ich die ganze [Wohnung](indoor_location) renovieren muss nur weil mein [Vermieter](person) das nicht machen will!
+    - Ich hab keine zeit dafür die [Wohnung](indoor_location) in den Zustand zu bringen den mein [Vermieter](person) verlangt, ich bin doch schon umgezogen
+    - Der [Vermieter](person) meint ich soll die [Wohnung](indoor_location) in den ursprünglichen Zustand bringen, dabei wars doch sogar noch schlimmer vorher!
+    - Obwohl ich fristgererecht gekündigt habe meldet sich der [Vermieter](person) nicht zur Übergabe der Wohnung!
+    - Ich habe den [Vertrag](document) gekündigt aber der [Vermieter](person) meldet sich nicht zur Übergabe
+    - Muss ich wirklich alles reparieren und in Stand setzen beim Auszug?
+    - Der vermieter hat die Wohnungsübergabe verweigert!
+    - Nur wegen ein paar Kratzern an der [Wand](surface) wollte der [Vermieter](person) die [Wohnung](indoor_location) nicht abnehmen!
+    - Ich konnte die [Wohnung](indoor_location) nicht rechtzeitig übergeben, was nun?
+    - Muss ich Strafe zahlen wenn ich die [Wohnung](indoor_location) nicht zum vereinbarten termin übergeben kann?
+    - Ich ziehe demnächst aus und jetzt soll ich noch tausend Sachen reparieren die ich nicht kaputt gemacht hab!
+    - Der [Vermieter](person) verlangt dass ich die ganze [Wohnung](indoor_location) vor dem Auszug saniere obwohl es vorher wie dreck aussah!
+    - Der [Vermieter](person) will dass ich Sachen repariere die im Übergabeprotokoll bereits vermerkt waren!

@@ -2,6 +2,7 @@ fr:
   Bathtub:
   - baignoire
   - baignoire en zinc
+  - baignoire
   - se baigner
   - salle de bain
   CentralHeating:
@@ -15,6 +16,7 @@ fr:
   - chaudière, chauffe-eau
   - pompe de chaleur
   - accumulateur de chaleur, accumulateur thermique, réservoir de chaleur, réservoir thermique
+  - pompe de chaleur
   GasCentralHeating:
   - chauffage central au gaz
   - chauffage au gaz
@@ -32,6 +34,7 @@ fr:
   - cheminée, foyer, poêle à bois
   Oven:
   - four
+  - poêle de la chambre
   SolidsStove:
   - poêle à bois
   - poêle de faïence
@@ -42,10 +45,11 @@ fr:
   - radiateur à accumulation
   Radiator:
   - radiateur
-  - chauffage au sol, chauffage de sol, plancher chauffant
-  - thermostat
+  - radiateur
+  - 'chauffage au sol, chauffage de sol, plancher chauffant '
+  - 'thermostat '
   - vanne thermostatique
-  - thermostat de radiateur
+  - ' thermostat de radiateur'
   - thermostat de chauffage
   WaterDrain:
   - écoulement
@@ -89,18 +93,23 @@ fr:
   - siphon
   - évier
   - lavabo
-  - goulotte, décharge
-  - évier, lavabo
+  - /
+  - évier, lavabo, bec
+  - vasque de lavabo
   - vasque de lavabo
   Toilet:
   - toilette
+  - toilettes
   - chiottes
   - latrines
   - toilette
-  - urinoir
+  - 'urinoir '
   - chiottes
-  - petit coin, petit coin tranquille
-  - cuvette des toilettes, cuvette de WC
+  - /
+  - WC
+  - ' petit coin, petit coin tranquille'
+  - /
+  - 'cuvette des toilettes, cuvette de WC '
   - WC
   - toilettes
   - "chasse d'eau"
@@ -119,7 +128,8 @@ fr:
   - sonnette
   - heurtoir, marteau
   - système de sonnette
-  - bouton de sonnette
+  - interrupteur de sonnette
+  - sonnette de porte
   - sonnette de porte
   - sonnette de porte
   - carillon de porte
@@ -131,11 +141,11 @@ fr:
   - interphone
   - interphone
   - interphone
-  - interphone
-  - interphone
-  - interphone
-  - interphone
-  - interphone
-  - interphone
-  - interphone
-  - interphone
+  - ' interphone'
+  - ' interphone'
+  - ' interphone'
+  - ' interphone'
+  - "sytème d'interphone"
+  - vidéo-ingterphone, streamer vidéo
+  - vidéophon
+  - '  interphone'

@@ -1,0 +1,24 @@
+fr:
+  intent:
+    ticket.emergency/locksmith:
+    - enfermé dehors
+    - '[service de dépannage de serrures](person)'
+    - Je me suis enfermé dehors
+    - "Besoin d'une clé de secours"
+    - "[Tür](item) s'est refermé"
+    - Svp envoyez-moi une clé de secours
+    - "Quelqu'un doit percer ma [serrure](item)"
+    - Je me suis enfermé dehor mon [appartement](indoor_location)
+    - '|'
+    - "J'ai besoin de quelqu'n pour forcer la [porte](item)"
+    - Je ne peux pas entrer dans mon [appartement](indoor_location)
+    - "La [porte d'entrée](item) ne se laisse plus ouvrir"
+    - Le [service clé minute](person) doit ouvrir ma [porte](item)
+    - "La [porte](item) est verrouillée de l'intérieur"
+    - "Ma [porte d'appartement](item) s'est renfermé"
+    - Ma [porte de balcon](item) a été fermé par le vent
+    - Je me trouve nue dans la rue et je ne peux pas entrer dans mon [appartement](indoor_location)
+    - "J'ai oublié ma [clé](item) dans l'[appartement](indoor_location) et je n'y\
+      \ peux plus entrer"
+    - "J'ai oublié ma [clé d'appartement](item) et je ne peux plus entrer dans mon\
+      \ [appartement](indoor_location)"

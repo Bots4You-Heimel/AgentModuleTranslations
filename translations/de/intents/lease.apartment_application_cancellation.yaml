@@ -1,0 +1,24 @@
+de:
+  intent:
+    ticket.lease/apartment_application_cancellation:
+    - Wohnungsabsage
+    - '[Wohnung](indoor_location) absagen'
+    - Wohnungszusage zurücknehmen
+    - Wohnungsabsage erhalten
+    - '[Wohnung](indoor_location) wurde abgesagt'
+    - Wohnungsanmeldung rückgängig machen
+    - Wieso lehnt ihr alle meine Wohnungsbewerbungen ab?!
+    - Habe doch kein Interesse an der besichtigten [Wohnung](indoor_location)
+    - Die [Wohnung](indoor_location) wurde mir abgesagt
+    - Kein Interesse mehr an der [Wohnung](indoor_location) die ich besichtigt hab
+    - Ich möchte die Anmeldung für die [Wohnung](indoor_location) zurücknehmen
+    - Die besichtigte [Wohnung](indoor_location) gefällt mir doch nich
+    - Habe eine bessere [Wohnung](indoor_location) gefunden
+    - Wieso habe ich eine Absage für die [Wohnung](indoor_location) im [Eulerweg](street) erhalten?
+    - '[Wohnung](indoor_location) in der [Lindenstraße](street) gefällt mir doch nicht
+      mehr nach der Besichtigung'
+    - Die [Wohnung](indoor_location) hat mir doch nicht gefallen
+    - Die besichtigte [Wohnung](indoor_location) gefällt mir doch nicht und möchte meine Anmeldung absagen
+    - Ich hatte eine bestätigung der [Wohnung](indoor_location) und jetzt doch ne Absage erhalten, was soll das?
+    - Gerade eine Absage für die [Wohnung](indoor_location) erhalten, wieso!?
+    - Bei der Besichtigung wurd mir gesagt dass ich die [Wohnung](indoor_location) bekomme, aber jetzt wurd sie doch abgesagt

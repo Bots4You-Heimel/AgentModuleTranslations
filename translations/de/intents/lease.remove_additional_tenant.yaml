@@ -1,0 +1,50 @@
+de:
+  intent:
+    ticket.lease/remove_additional_tenant:
+    - '[Untermieter](person) entlassen'
+    - '[Freund](person)ausgezogen'
+    - Untervermietung beendet
+    - Vertragspartner entfernen
+    - '[Mitmieter](person) will kündigen'
+    - Der [Untermieter](person) geht
+    - '[Partner](person) zieht aus'
+    - '[Freundin](person) geht weg'
+    - '[Untermieter](person) wurde entlassen'
+    - '[Freundin](person) verlässt [Wohnung](indoor_location)'
+    - '[Partner](person) ist ausgezogen'
+    - Ein [Wg-Mitglied](person) will wegziehen!
+    - Meine [Freundin](person) zieht aus
+    - Habe keinen [Untermieter](person) mehr.
+    - Die Untervermietung bei mir ist beendet.
+    - '[Wohnung](indoor_location) wird nicht mehr weitervermietet.'
+    - Bin wieder alleine [in der Wohnung](indoor_location)
+    - Kein [Untermieter](person) mehr da
+    - '[Freund](person) wohnt nicht mehr hier'
+    - Ich vermiete die [Wohnung](indoor_location) jetzt nicht mehr weiter.
+    - Nach längerem wohne ich jetzt wieder alleine hier
+    - Mein [Mitbewohner](person) will ausziehen
+    - Ich möchte einen Vertragspartner vom [Mietvertrag](document) entfernen lassen
+    - Ich habe mich von meinem freund getrennt, wohne also wieder alleine hier.
+    - Ich möchte einen Vertragspartner vom [Mietvertrag](document) entfernen lassen
+    - Bitte entfernen Sie meinen Ex als Vertragspartner, der wohnt nicht mehr hier!
+    - Mein Bruder hat endlich wieder seine eigene Bleibe und wohnt nicht mehr hier.
+    - Mein [Freund](person) hat sich berappelt und eine neue Bleibe gefunden
+    - Leider hat sich mein [Untermieter](person) nicht benommen und ich musste ihn rauswerfen
+    - Bitte tragen sie den [Untermieter](person) [Schmidt](person) aus, der wohnt nicht mehr hier!
+    - Ab sofort vermiete ich die [Wohnung](indoor_location) nicht mehr weiter, bitte tragen Sie das aus
+    - Die Wohnung, die ich untervermietet habe wird frei.
+    - Ich habe die Untervermietung zum nächsten Monat gekündigt.
+    - Ich habe meinem [Untermieter](person) gekündigt.
+    - Ich habe meinen [Untermieter](person) rausgeschmissen.
+    - Ich möchte melden, dass mein [Untermieter](person) auszieht.
+    - Ich möchte melden, dass nächsten Monat  mein [Untermieter](person) auszieht.
+    - Mein [Mitbewohner](person) zur Untermiete zieht aus.
+    - Mein [Untermieter](person) wird nächsten Monat umziehen.
+    - Mein [Untermieter](person) zieht zum Monatsende aus.
+    - Mein Zwischenmieter zieht aus.
+    - Meine untervermietete [Wohnung](indoor_location) ist wieder frei demnächst.
+    - Die Untervermietung ist beendet.
+    - Ich wohne nun wieder alleine in meiner Wohnung. Der [Untermieter](person) ist gegangen.
+    - Mein [Untermieter](person) ist raus.
+    - Mein [Untermieter](person) ist wieder ausgezogen.
+    - Mein [Untermieter](person) ist wieder weg.

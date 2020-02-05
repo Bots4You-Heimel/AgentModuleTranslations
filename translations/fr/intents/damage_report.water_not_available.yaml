@@ -1,0 +1,29 @@
+fr:
+  intent:
+    ticket.damage_report/water_not_available:
+    - "pas d'eau"
+    - eau ne vient pas
+    - "pas d'eau courante"
+    - "L'eau ne coule pas"
+    - "l'eau ne coule pas du robinet"
+    - "l'eau de robinet ne coule pas\n\n"
+    - "Rien se passe quand j'ouvre le robinet "
+    - Eau ne coule pas du [robinet](sanitary_item) de la [salle de bain]
+    - "Il n'y a pas d'eau"
+    - "L'eau ne coule plus du robinet"
+    - "L'eau ne coule plus du [robinet](sanitary_item)"
+    - Le [robinet](sanitary_item) ne fonctionne plus depuis des jours
+    - "L'eau de robinet ne coule plus"
+    - "L'eau ne coule pas dans la [douche](sanitary_item)"
+    - Plus rien ne coule de la douchette
+    - "L'eau ne se coule plus dans toute la [maison]((indoor_location)"
+    - "L'eau ne coule plus chez moi"
+    - "L'eau ne coule pas dans la [salle de bain](indoor_location)"
+    - "L'eau ne couple plus du robinet dans la [cuisine](indoor_location)"
+    - "Soudain, l'eau ne coule plus dans tout mon [appartement](indoor_location)"
+    - Chez moi et le [voisin](person) à côté le ne coule plus depuis hier
+    - "L'eau a été coupé ? Ne coule rien depuis ce matin"
+    - "Bien que j'ouvre tous les robinets, pas une goutte d'eau coule !"
+    - "Quand j'ouvre le [robinet](sanitary_item), il se passe rien"
+    - "Depuis hier l'eau ne coule plus dans la [cuisine](indoor_location)"
+    - "Pas d'eau quand j'ouvre le robinet"

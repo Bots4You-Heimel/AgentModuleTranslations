@@ -1,2 +1,4 @@
-en: {
-  }
+en:
+  intent:
+    ticket.complaint/house_rules:
+    - house rules

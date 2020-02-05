@@ -1,0 +1,22 @@
+fr:
+  intent:
+    faq/name_plate:
+    - '[plaque de sonnette](item) | [etiquette de sonnette](item)'
+    - '[inscription bouton de sonnette](item)'
+    - '[étiquette de boîte postale](item)'
+    - '[plaque de porte](item) | [plaque](item)'
+    - '[inscription sonnette](item)'
+    - inscription du nom
+    - faire [plaque ](item)
+    - Mon nom à la [porte](item)
+    - Qui me fait une [étiquette pour la boîte aux lettres](item) ?
+    - Qui est responsable pour les [étiquettes de boîte aux lettres](item) ?
+    - "Est-ce que quelqu'un met mon nom sur la [porte d'entrée](item), ou dois-je\
+      \ le faire ?"
+    - "Qui s'occupe des plaques pour la [porte](item), la [sonnette](item) et la [boî\
+      te aux lettres] ?"
+    - Dois je me faire la [plaque de sonnette] moi-même ?
+    - "Qui fait [l'étiquette](item) pour ma [plaque](item) ?"
+    - "Qui est responsable pour l'étoquette de ma sonnette ?"
+    - "Qui fait l'étiquette de notre boîte aux lettres ? "
+    - Qui fixe une nouvelle [plaque] à notre [porte](item)

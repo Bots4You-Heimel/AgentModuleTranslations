@@ -1,0 +1,37 @@
+fr:
+  intent:
+    ticket.lease/action_for_eviction:
+    - action en expulsion | commandement de quitter les lieux
+    - expulsion locative
+    - mis à la porte
+    - '|'
+    - commandement de quitter les lieux reçu
+    - 'contester commandement de quitter les lieux '
+    - 'menace de commandement de quitter les lieux '
+    - mis à la porte annoncé
+    - commandement de quitter les lieux imminent
+    - 'recours commandement de quitter les lieux '
+    - commandement de quitter les lieux  dans le courrier
+    - commandement de quitter les lieux  pas légale
+    - Vous voulez me mettre dehors
+    - Je serai mis à la porte !
+    - Vous ne pouvez pas nous mettre à la [porte](item) comme ça !
+    - On va nous mettre devant la [porte](item)
+    - "J'ai reçu un commandement de quitter les lieux "
+    - "Qu'est-ce que je peux faire en cas d'action en expulsion ?"
+    - "On m'a envoyé un commandement de quitter les lieux "
+    - "Le [propriétaire](person) me menace d'expulsion"
+    - Mon appartement a été vidé sans préavis.
+    - "J'ai reçu un commandement de quitter les lieux  alors que j'ai payé le loyer"
+    - Mon [appartement](indoor_location) a été vidé pour expulsion, mon fourbi est où?
+    - "Soudain, j'ai reçu un commandement de quitter les lieux par courrier, mais\
+      \ je n'ai rien fait ?"
+    - "J'ai des problèmes avec mon [proprio](person) qui dit qu'il peut porter plainte\
+      \ contre moi avec une action d'expulsion ou qc comme ça."
+    - Pouvez-vous me mettre dehors tout simplement ?
+    - "Parce que j'ai besoin d'un peu plus de temps, le [proprio](person) a porté\
+      \ plainte contre moi et j'ai un commandement de quitter les lieux sur le dos."
+    - "L'autre jour, il y avait un huissier devant la [porte](item) qui voulait libé\
+      rer ma [piaule](indoor_location), qu'est-ce qui se passe ?"
+    - "J'ai reçu un commandement de quitter les lieux parce que j'ai troublé la paix\
+      \ domestique "

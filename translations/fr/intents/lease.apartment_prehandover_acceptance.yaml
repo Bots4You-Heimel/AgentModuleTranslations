@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.lease/apartment_prehandover_acceptance:
+    - '|'

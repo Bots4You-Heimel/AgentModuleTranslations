@@ -13,7 +13,7 @@ fr:
     - "La [gouttière](item) n'est plus étanche !"
     - "La [gouttière](item) n'est plus étanche."
     - Le [meuble sous vasque](sanitary_item) fuit.
-    - "Le [tuyau de descente](item) à [l'entrée de la maison](outdoor_location) doit\
+    - "Le [tuyau de descente](item) à l'[entrée] de la maison](outdoor_location) doit\
       \ être étanché."
     - Il y a une [flaque](mess)  sous un [radiateur](sanitary_item).
     - "Un des [radiateurs](sanitary_item) a perdu de l'eau."
@@ -30,5 +30,5 @@ fr:
     - Le [radiateur au sous sol](sanitary_item) a une fuite.
     - Mon [lavabo](sanitary_item) fuit.
     - "Quelqu'un peut étancher [le tuyau de descente](item) ?"
-    - "Un des [radiatuers](sanitary_item) a perdu de l'eau."
-    - "Le [radiateur](sanitary_item) perd de l'eau."
+    - "Il y a une flaque d'eau au-dessous un [radiateur](sanitary_item)"
+    - Le [radiateur au sous sol](sanitary_item) a une fuite.

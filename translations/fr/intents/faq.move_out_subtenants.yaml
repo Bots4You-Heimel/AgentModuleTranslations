@@ -1,0 +1,14 @@
+fr:
+  intent:
+    faq/move_out_subtenants:
+    - "Quelles sont les conséquences d'un déménagement d'un [partenaire](person) pour\
+      \ le contrat de location ?"
+    - Que signifie le déménagement du [sous-locataire](person) pour le [bail de location)(document)
+    - Quelles sont les conséquences pour le loyer si le [conjoint](person) déménage ?
+    - Est-ce que le déménagement de mon [partenaire](person) a des conséquences pour moi ?
+    - Que se passe-t-il lorsque le [colocataire](person) a déménagé ?
+    - Le [contrat de location](document) doit-il être modifié lorsque le [partenaire](person) déménage ?
+    - Est-il nécessaire de modifier le [contrat de location](document) si des [locataires](person) déménagent ?
+    - Qui puis-je contacter lorsque le [sous-locataire](person) déménage ?
+    - Est-ce que je rencontre des difficultés à cause du déménagement de mon (colocataire](person) ?
+    - "Est-ce qu'il y a des problèmes si mon [compagnon](person) déménage ?"

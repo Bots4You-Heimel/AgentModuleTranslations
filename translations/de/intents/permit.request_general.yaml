@@ -1,0 +1,19 @@
+de:
+  intent:
+    ticket.permit/request_general:
+    - Bitte
+    - Anfrage
+    - Anforderung
+    - Antrag
+    - Anliegen
+    - Senioreneinstiegshilfe Montage Hilfe
+    - Ich habe ein Anliegen
+    - Ich brauche [Streusalz](item)
+    - Benötige [Klingelschild](item)
+    - Brauche [Namensschild](item)
+    - Ich benötige eine Genehmigung
+    - Ich benötige ein paar [Unterlagen](document)
+    - Ich brauche eine Genehmigung
+    - Ich brauche einen [Haltegriff](item) für das [Badezimmer](indoor_location)
+    - Schicken Sie mir einen [Haltegriff](item)
+    - Kann ich dich um etwas bitten?

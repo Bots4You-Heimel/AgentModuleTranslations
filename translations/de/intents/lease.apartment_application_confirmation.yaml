@@ -1,0 +1,23 @@
+de:
+  intent:
+    ticket.lease/apartment_application_confirmation:
+    - Wohnungszusage
+    - Zusage [Wohnung](indoor_location)
+    - Wohnungszusage erhalten
+    - '[Wohnung](indoor_location) zugesagt'
+    - Bestätigung [Wohnung](indoor_location)
+    - '[Mietvertrag](document) zusage'
+    - Wann kommt Wohnungszusage
+    - '[Wohnung](indoor_location) wurde zugesagt'
+    - Ich habe die Wohnungszusage noch nicht erhalten
+    - Ich warte noch auf die angekündigte Wohnungszusage
+    - Wann bekomme ich Bescheid ob ich die [Wohnung](indoor_location) bekomme?
+    - Wann kann ich mit einer Rückmeldung zu der [Wohnungsbesichtigung](indoor_location) rechnen?
+    - Wie lange dauert es bis ich weiß ob ich die [Wohnung](indoor_location) bekomm?
+    - Ich habe eine [Wohnung](indoor_location) besichtigt, wann meldet sich der [Vermieter](person) zurück?
+    - Wann entscheidet sich der [Vermieter](person) für einen Bewerber?
+    - Die [Wohnung](indoor_location) in der [Homburgerallee](street) war geil, wann bekomme ich ne Zusage?
+    - Habe eine [Wohnung](indoor_location) besichtigt und will wissen wann ich mit der Zusage rechnen kann?
+    - Der [Vermieter](person) hat mir die [Wohnung](indoor_location) zugesagt, aber ich vermisse noch die Zusage
+    - Kann ich demnächst mit einer Zusage der [Wohnung](indoor_location) rechnen?
+    - Ich warte da noch immer auf ne Absage oder Zusage wegen der [Wohnung](indoor_location) auf die ich mich Beworben habe.

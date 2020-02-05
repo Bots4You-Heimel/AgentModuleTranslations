@@ -1,0 +1,16 @@
+de:
+  intent:
+    ticket.permit/satellite_dish:
+    - Satellitenschüssel Anbringung
+    - Parabolantenne Installation
+    - Antennenschüssel anbringen
+    - Darf ich eine Satellitenschüssel anbringen?
+    - Ist die Anbringung einer Parabolantenne erlaubt?
+    - Ist das Anbringen einer Antennenschüssel gestattet?
+    - Dürfen [Mieter](person) eine Satellitenschüssel installieren?
+    - Brauche ich eine Erlaubnis für die Installation einer Parabolantenne?
+    - Bekomme ich Ihre Zustimmung für eine Antennenschüssel auf dem Balkon?
+    - Darf ich eine Parabolantenne am [Balkon](outdoor_location) aufhängen?
+    - Benötige ich eine Genehmigung für die Befestigung einer Satellitenschüssel?
+    - Erlauben Sie mir die Montage einer Antennenschüssel?
+    - Habe ich die Berechtigung eine Parabolantenne zu montieren?

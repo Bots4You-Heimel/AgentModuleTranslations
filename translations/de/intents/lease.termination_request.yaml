@@ -1,0 +1,34 @@
+de:
+  intent:
+    ticket.lease/termination_request.md:
+    - Kündigen
+    - Kündigung
+    - Kündigung Mietverhältnis
+    - Kündigung [Mietvertrag](document)
+    - Mietverhältnis kündigen
+    - Kündigung [Wohnung](indoor_location)
+    - '[Wohnung](indoor_location) kündigen'
+    - Mieto finito
+    - '[Mietvertrag](document) beenden'
+    - '[Zimmer](indoor_location) kündigen'
+    - '[Garage](outdoor_location) kündigen'
+    - Wir kündigen
+    - '[Garagenmietvertrag](indoor_location) beenden'
+    - Fristgemäße Kündigung
+    - Beenden der Miete
+    - Kündigung der [Mietwohnung](indoor_location)
+    - Raus aus [Mietvertrag](document)
+    - Wie muss ich kündigen?
+    - kündige mein Mietverhältnis
+    - Ende [Vertrag](document) für die [Garage](outdoor_location)
+    - Möchte so schnell wie möglich die [Wohnung](indoor_location) loswerden
+    - Ich muss umziehen und möchte aus meiner [Etage](indoor_location) ausziehen
+    - Bald möchte ich aus meiner [Wohnung](indoor_location) raus!
+    - Ordentliche Kündigung des [Appartments](indoor_location) zum frühesten Zeitpunkt
+    - Wir möchten Ihnen mitteilen, dass wir unser Mietverhältnis zum frühst möglichen Zeitpunk beenden wollen
+    - Ich möchte aus dem [Mietvertrag](document) raus
+    - Ich habe ihnen ein [Kündigungsschreiben](document) in  die Post gelegt
+    - Also ich mach dann mal Schluss mit meinem [Mietvertrag](document)
+    - Beendigung des [Mietvertrags](document) über ein [Zimmer](indoor_location)
+    - Hiemit kündige ich den [Vertrag](document) vom 31.12.2012 betreffen das vorbenannte Mietobjekt fristgerecht zum 1.8.2022 hilsweise zum nächst möglichen Termin.
+    - Ich teile mit, dass ich den [Mietvertrag](document) für den [Stellplatz](outdoor_location) so bald wie möglich zu Ende bringen will.

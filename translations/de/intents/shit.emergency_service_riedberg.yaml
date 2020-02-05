@@ -1,0 +1,13 @@
+de:
+  intent:
+    ticket.shit/emergency_service_riedberg:
+    - Notdienst [Riedberg](city)
+    - Notdienst [Frankfurt](city)
+    - '[Riedberg](city) Notfall'
+    - '[Frankfurt-Riedberg](city) Rohrbruch!'
+    - Heizungsnotdienst [Riedberg](city)
+    - Notfall [Heizung](sanitary_item) [Riedberg](city)
+    - '[Lüftung](item) notfall [Frankfurt](city)-Riedberg'
+    - '[Riedberg](city) sanitärer Notfall'
+    - Gasleck in [Frankfurt-Riedberg!](city)
+    - Heizungsnotdienst bestellen [Riedberg](city)

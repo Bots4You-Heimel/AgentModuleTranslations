@@ -1,0 +1,27 @@
+de:
+  intent:
+    ticket.damage_report/heating_waterlevel:
+    - Wasserstand
+    - Heizwasserstand
+    - Füllung [Heizung](sanitary_item)
+    - Heizkreislauf füllen
+    - '[Heizung](sanitary_item) auffüllen'
+    - '[Zentralheizung](sanitary_item) wasserstand'
+    - '[Heizkörper](sanitary_item) nachfüllen'
+    - Wasserstand Warmwasserkreislauf?
+    - Heizwasser nachfüllen
+    - Wasser [Heizkörper](sanitary_item) Stand
+    - Befüllung Gastherme
+    - '[Therme](sanitary_item) Wasser auffüllen'
+    - Warmwasser nachfüllen
+    - '[Heizung](sanitary_item) Wasserbefüllen'
+    - '[Heizung](sanitary_item) Wasser nachfüllen'
+    - Jemand muss Wasser nachfüllen im [Heizkeller](indoor_location)
+    - Wie füllt man Wasser in die [Gasheizung](sanitary_item)
+    - Da ist zu wenig Wasser in der [Heizung](sanitary_item).
+    - Der Wasserstand ist nicht ausreichend
+    - Die [Heizung](sanitary_item) hat nicht genug Wasser.
+    - Ich glaube da ist nicht genug Wasser in der zentralen [Heizanlage](sanitary_item)
+    - Die Wassermenge in den [Heizungsrohren](sanitary_item) muss erhöht werden!
+    - Der Wasserstand in der [Heizung](sanitary_item) ist zu niedrig
+    - Es ist wichtig, das da Wasser in den [Heizkörpern](sanitary_item) nachgefüllt ist

@@ -28,7 +28,7 @@ fr:
     - Mon [chauffage](sanitary_item) dans ma [chambre à coucher](indoor_location) est froid.
     - Les [radiateurs](sanitary_item) dans mon [appartement](indoor_location) sont froids.
     - Le [four](sanitary_item) de ma [cuisinière à gaz] ne chauffe pluls correctement.
-    - Il y a ue [flaque](mess)  sous mon [radiateur](sanitary_item).
+    - Il y a une [flaque](mess)  sous mon [radiateur](sanitary_item).
     - Un [radiateur](sanitary_item) dans mon appartement goutte.
     - "Je transpire comme un [cochon](animal) parce qu'il fait si chaud ici."
     - Il est très chaud et mal aéré ici

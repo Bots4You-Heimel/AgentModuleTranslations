@@ -1,0 +1,30 @@
+de:
+  intent:
+    ticket.shit/new_build_questions_frankfurt:
+    - Neubau [Frankfurt](city)
+    - '[Frankfurt](city) Neubau'
+    - Neubauwohnungen [Frankfurt](city)
+    - '[Wohnung](indoor_location) Neubau [Frankfurt](city)'
+    - Neubau frankfurter Raum
+    - Neubauhäuser in [Frankfurt](city)
+    - Neubauten bei [Frankfurt](city)
+    - aktuelle Neubauten [Frankfurt](city)
+    - '[Frankfurt](city) [Mietwohnung](indoor_location) neubau'
+    - Bauprojekte bei [Frankfurt](city)
+    - Gibt es Neubauten Raum [Frankfurt](city)?
+    - Neu gebaute [Wohnungen](indoor_location) um [Frankfurt](city)
+    - Interesse an Neubauten in [Frankfurt](city)
+    - Bewerbung für Neubauwohnung nahe [Frankfurt](city)
+    - Eine Eigentumswohnung in [Frankfurt](city), möglichst neubau
+    - Was baut ihr da gerade bei [Frankfurt](city)
+    - Ich bin auf der Suche nach Neubauwohnungen zur Miete im Umkreis von [Frankfurt](city)
+    - Habt ihr in der Nähe von [Frankfurt](city) auch Neubauhäuser zum Kauf im Angebot?
+    - Ich suche neue [Wohnungen](indoor_location) in der Gegend von [Frankfurt](city)
+    - Wie siehts mit neuen Eigentumswohnungen bei [Frankfurt](city) aus?
+    - ich würde mich gerne als [Mieter](person) einer Neubauwohnung in [Frankfurt](city) anmelden
+    - Kann ich mich hier für eine Neubau Eigentumswohnung bewerben? Bei [Frankfurt](city) suche ich
+    - Letztens gesehen dass ihr bei [Frankfurt](city) neue Häuser baut, wie und wo finde ich dazu mehr?
+    - Was für Neubauten macht ihr gerade bei [Frankfurt](city)?
+    - Für wen sind die neuen [Wohnungen](indoor_location) die ihr gerade bei [Frankfurt](city) baut gedacht?
+    - Gerade erfahren dass ihr nördlich von [Frankfurt](city) Häuser baut - wozu gibt es da mehr Infos?
+    - Bin an eurem Bauprojekt in der Nähe von [Frankfurt](city) vorbeigefahren, was hats damit auf sich?

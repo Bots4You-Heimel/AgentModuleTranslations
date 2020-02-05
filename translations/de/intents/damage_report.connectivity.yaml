@@ -1,0 +1,36 @@
+de:
+  intent:
+    ticket.damage_report/connectivity:
+    - Störung
+    - Emfangstörung
+    - Signalstörung
+    - Verbindungsstörung
+    - Signal gestört
+    - schlechtes Signal
+    - Emfang gestört
+    - schlechtes Signal
+    - schlechter Empfang
+    - keine Verbindung
+    - Telefonsignal gestört
+    - keine Telefonverbindung
+    - kein [Telefon](item)
+    - Telefonverbindung bricht ab
+    - Telefonieren nicht möglich
+    - '[Telefonanlage](item)  gestört'
+    - Da gibt es eine Störung
+    - kann nicht Telefonieren
+    - es knackt wenn ich telefoniere
+    - Aussetzer beim Telefonieren
+    - Telefondosen mit Breitbandkabelanschluss
+    - Habe Probleme mit der [Telefondose](appliance) mit breitband
+    - Ich glaube da liegt eine Störung vor
+    - Es tutet nicht, wenn ich mein [Telefon](item) einstecke
+    - Die Telefonverbindung bricht ständig weg
+    - Keine Verbindung bei [Telefondose](appliance) mit Breitbandanschluss
+    - Verbindungsstörung beim Breitband
+    - Schlechte Verbindung auf meiner Breitbanddose
+    - Es rauscht in der [Telefondose](appliance)
+    - Ständig sind da viele Aussetzer beim Telefonieren
+    - Seit kurzem ist die Qualität wenn ich telefoniere sehr schlecht
+    - beim telefoniere passieren viele Aussetzer so 1-2 Sekunden
+    - kann meinen Gesprächspartner wenn ich telefoniere nicht verstehen

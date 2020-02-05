@@ -1,0 +1,28 @@
+fr:
+  intent:
+    faq/rest_periods:
+    - repos de midi
+    - repos de de nuit / repos nocturne
+    - temps de repos
+    - temps de repos [heure]
+    - Que dois-je savoir sur les périodes de repos ?
+    - Quand sont les périodes de repos ?
+    - Quelles sont le périodes du repos de nuit ?
+    - Quelle périodes de repos dois-je respecter ?
+    - "C'est quand la sieste ? | Quand est le repos de midi ?"
+    - Quel temps de repos dois-je respecter ?
+    - Comment les périodes de repos sont-elles réglées ? | Les périodes de repos sont réglées comment ?
+    - Quand sont les périodes du temps ?
+    - De quand à quand est le repos nocturne dans la maison ?
+    - Quand commence officiellement le repos de la nuit ?
+    - Où puis-je me renseigner sur les périodes de repos ?
+    - Quand commence le repos de la nuit ?
+    - Comment le repos nocturne est réglé ?
+    - Y a-t-il des périodes spéciaux de repos nocturne ?
+    - Quand est-ce que le repose de nui commence ici ?
+    - Le repos de nuit est réglé quelque part ?
+    - Quels sont les temps de repos ?
+    - À quelle heure commence la période de repos ?
+    - À quelle [heure](item) commencent les périodes de repos ?
+    - Quelle est la durée des périodes de repos ?
+    - '|'

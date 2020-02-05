@@ -1,0 +1,43 @@
+fr:
+  intent:
+    ticket.damage_report/connectivity.internet:
+    - connexion Internet | réception Internet
+    - perturbation du réseau Internet
+    - pas de réseau | aucun réseau
+    - pas de connecion à Google
+    - "acune WI-FI | pas d'accès WI-FI | pas de réseau WIFI"
+    - WIFI perturbée
+    - connexion Internet lente
+    - connexion Internet perturbée
+    - réseau lente
+    - "perturbation de l'Internet"
+    - réseau Wi-Fi ne fonctionne pas
+    - pas de connexion à Internet | ne peux pas établir une connexion internet
+    - "Je n'ai pas internet. | Je n'ai pas de connexion Internet"
+    - Comment obtenir Internet ? | Comment se connecter à Internet ?
+    - Pas de connexion à Télécom
+    - Connexion Internet pas possible. | connexion échoué | connexion pas établie
+    - Je ne capte pas à Internet
+    - connexion internet faible
+    - La connexion Internet es faible. | La connexion Internet es mauvaise.
+    - Mon Internet est trop mauvais,
+    - Google ne charge pas
+    - Comment puis-je obtenir internet ? | Comment puis-je me connecter à internet ? | Comment est-ce que je peux obtenir une connexion internet ?
+    - Pouvez-vous me faire Internet ici ?
+    - "Nous n'avons pas accès à Internet depuis des jours."
+    - Mon Internet ne foncitonne pas
+    - Mon [ordinateur portable](item) ne peut pas se connecter à Internet. | Mon [ordinateur](item) ne se connecte pas à Internet.
+    - "Mon [ordinateur](item) n'a aucun réseau. | Mon [ordi](item) n'a pas de connexion\
+      \ au réseau."
+    - Mon [routeur](item) clignote.
+    - Je ne peux que surfer sur internet très lentement
+    - "J'ai besoin d'internet de toute urgence !"
+    - "Pourquoi je n'ai pas Internet ?"
+    - Pourquoi Internet est-il si lent ici ?
+    - "Mon Firefox n'établit pas la connexion à Google"
+    - Mon Internet Explorer fait rien
+    - Wi-Fi lente
+    - Mon Youtube ne fonctionne pas
+    - Comment puis-je obtenir Internet dans mon appartement ?
+    - "Le [routeur WLAN](item) ne peut pas se connecter, je pense qu'il y a un problè\
+      me avec Internet."

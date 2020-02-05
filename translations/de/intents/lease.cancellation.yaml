@@ -1,0 +1,23 @@
+de:
+  intent:
+    ticket.lease/cancellation:
+    - Vertragsrücktritt
+    - Vertragsstorno
+    - Mietvertragsstorno
+    - Mietvertragsrücktritt
+    - Storno [Vertrag](document)
+    - Widerruf [Mietvertrag](document)
+    - Miete abbrechen
+    - Rücktritt [Mietvertrag](document)
+    - Rücktritt vom [Vertrag](document)
+    - '[Vertrag](document) canceln'
+    - Vom Mietverhältnis zurücktreten
+    - doch nicht mieten
+    - Ich trete vom [Mietvertrag](document) zurück
+    - Vom Rücktrittsrecht gebrauch machen
+    - Tut mir leid, aber ich will die [Mietwohnung](indoor_location) lieber nicht haben
+    - Ich möchte vin meinem unterschrieben [Vertrag](document) für die [Garage](outdoor_location) zurücktreten
+    - Also ich möchte die [Wohnung](indoor_location), die ich mir bei euch angeschaut hatte, doch nicht
+    - Ich habe zwar gesagt, dass ich das [Zimmer](indoor_location) mieten möchte, habe aber etwas besseres gefunden
+    - In der Zwischenzeit alternative gefunden, werde daher [Appartment](indoor_location) nicht anmieten
+    - Ich kann leider die [Geschäftsräume](indoor_location) doch nicht anmieten

@@ -1,0 +1,42 @@
+de:
+  intent:
+    ticket.damage_report/connectivity.internet:
+    - Internetempfang
+    - Internetstörung
+    - Kein Netzwerk
+    - Kein Google
+    - Kein Wifi
+    - Wifi gestört
+    - Internet langsam
+    - Internet gestört
+    - langsames Netz
+    - Störung des Internets
+    - Wlan geht nicht
+    - Kann nicht ins Internet
+    - Habe kein Internet
+    - Wie kriege ich Internet
+    - Keine Verbindung zur Telekom
+    - Internetverbindung nicht möglich
+    - Kriege kein Internet
+    - Langsames Internet
+    - Das Internet ist langsam
+    - Mein Internet ist zu schlecht
+    - Google lädt nicht
+    - Wie kriege ich Internet
+    - Könnt ihr mir hier Internet hinmachen?
+    - Wir haben seit Tagen kein Internet hier
+    - Mein Internet funktioniert nicht
+    - Mein [Laptop](item) kriegt keine Verbindung
+    - Mein [Computer](item) hat kein Netzwerk
+    - Mein [Router](item)  blinkt
+    - Ich kann nur noch ganz langsam im Netz surfen
+    - Brauche hier dringend wieder Internet
+    - Warum hab ich kein Internet
+    - Warum ist das Internet hier so langsam
+    - Mein Firefox kommt nicht zu Google
+    - Mein Internet-Explorer macht nix
+    - Wifi langsam
+    - Mein Youtube funktioniert nicht
+    - Wie kriege ich hier Internet in die [Wohnung](indoor_location)?
+    - Der [Wlanrouter](item) kann keine Verbindung aufbauen, ich glaube es gibt eine Störung mit dem Internet
+    - Ich habe Paketverluste festgestellt und glaube daher, dass es ein Problem mit dem Netzwerk geben könnte

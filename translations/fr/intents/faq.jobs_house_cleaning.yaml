@@ -1,0 +1,23 @@
+fr:
+  intent:
+    faq/jobs_house_cleaning:
+    - devoir de nettoyage de la maison
+    - tâches du nettoyage des surfaces à usage collectif
+    - tâches nettoyage
+    - ampleur du nettoyage
+    - "Que devons-nous faire quand c'est à notre tour de balayer ?"
+    - "Et qu'est-ce qu'on doit nettoyer ?"
+    - Quels sont les devoirs de nettoyage ?
+    - Que doit faire ma meuf quand nous devons [nettoyer](mess) ?
+    - "Qu'est-ce qu'il faut faire quand c'est son tour de nettoyer ? "
+    - En quoi consiste le nettoyage de la maison ?
+    - Quels travaux font partie du nettoyage de la maison ?
+    - Quels sont les devoirs du nettoyage de la maison ?
+    - "Quelles tâches doivent être effectuées pour le nettoyage de la cage d'escalier\
+      \ ?"
+    - Quelles sont les obligations pour le nettoyage des couloirs ?
+    - "En quoi consiste le nettoyage de la [cage d'escalier](indoor_location) ?"
+    - "Qu'est-ce qu'il faut faire pour nettoyer le [couloir](indoor_location) ?"
+    - Pourquoi est-ce que le nettoyage du [couloir](indoor_location) est necessaire ?
+    - "Quelles sont les obligations à remplir en passant la serpillière dans [cage\
+      \ d'escalier](indoor_location) ?"

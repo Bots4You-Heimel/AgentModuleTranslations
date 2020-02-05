@@ -1,0 +1,4 @@
+en:
+  intent:
+    ticket.damage_report/lost:
+    - lost

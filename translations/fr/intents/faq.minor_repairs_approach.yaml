@@ -1,0 +1,23 @@
+fr:
+  intent:
+    faq/minor_repairs_approach:
+    - Procédure de réparation de petits dommages ?
+    - Quoi faire en cas de petits dommages ?
+    - Procédure pour les petits travaux de réparation
+    - Je peux faire des petits réparations sans autorisation ?
+    - Vous me payez des petites réparations ?
+    - "Que dois-je faire lorsqu'il s'agit de petites réparations ?"
+    - "Qu'est-ce qu'on fait pour réparer des petit choses qui sont cassées ?"
+    - Procédure pour les petits travaux ?
+    - Comment je procède en cas de petites réparations ?
+    - Comment on procède pour des petits travaux, qui ne sont pas importants ?
+    - Est-ce que vous paieriez aussi mes dépenses pour de petites réparations ?
+    - "On se mettrait d'accord si je faisais des petits travaux moi même ?"
+    - Puis-je choisir moi-même un[artisan](person) pour les petites réparations ?
+    - |+
+      Mon [garçon](person) a causé un petit dommage. Que faisons-nous par rapport à cette situation?
+
+    - "Qu'est-ce qu'on fait avec les réparation esthétiques ?"
+    - Si mes[enfants](person) cassent quelque chose, est-ce que je dois payer moi-même ?
+    - "Je peux appeler quelqu'un pour des petites réparations ?"
+    - Je pourrais aussi réparer de petites choses moi-même.

@@ -1,0 +1,25 @@
+fr:
+  intent:
+    ticket.lease/cancellation:
+    - résiliation du contrat
+    - annulation du contrat
+    - annulation du contrat de location
+    - résiliation du contrat de location
+    - annulation [contrat](document)
+    - révocation [contrat de location](document)
+    - 'annuler loyer '
+    - résiliation du [bail de location](document)
+    - résiliation du [contrat](document)
+    - annuler [contrat](document)
+    - résilier bail de location
+    - ne pas louer
+    - Je résilie le [contrat du bail](document)
+    - user le droit de résiliation | user le droit de désistement
+    - "Je suis désolé, mais je préférerais ne pas avoir l'[appartement](indoor_location)"
+    - Je voudrais résilier mon [contrat](document) signé pour le [garage](outdoor_location)
+    - "Je ne voudrais donc pas voir l'[appartement](indoor_location), que j'avais\
+      \ regardé chez vous"
+    - "Certes, j'ai dit que je voulais louer la [chambre](indoor_location), mais j'ai\
+      \ trouvé quelque chose de mieux."
+    - "Entre-temps, j'ai trouvé une alternative, donc je ne vais donc pas louer l'[appartement](indoor_location)"
+    - Malheureusement, je ne peux pas louer les [locaux commerciaux](indoor_location)

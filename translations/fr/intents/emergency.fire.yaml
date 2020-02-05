@@ -1,0 +1,30 @@
+fr:
+  intent:
+    ticket.emergency/fire:
+    - incendie
+    - feu
+    - sapeurs-pompiers | pompiers
+    - "dégât causé par l'incendie | dommage causé par le feu"
+    - "dégât d'incendie"
+    - incendie dans la cuisine | incendie de cuisine
+    - "incendie dans l'appartement | incendie d'appartement"
+    - Il y a eu un incendie |  Il y a eu un feu
+    - Mon [appartement](indoor_location) | Mon [appartement](indoor-Location] a brûlé
+    - Il y a eu un incendie ici
+    - Tout es carbonisé
+    - Beaucoup de choses sont carbonisées
+    - Un pot a brûlé
+    - '[appartement](indoor_location) braisé'
+    - Ma [cuisine] (indoor_location) est en flammes
+    - Ma [piaule](indoor_location) est en train de brûler
+    - Mon [logement](indoor_location) a été dommage par un feu dans le logement voisin
+    - Après le feu il y avait des dégâts
+    - Ma femme a oublié une [poêle](appliance) sur le feu et les pompiers devaient venit
+    - "Un feu s'est déclaré dans le [couloir](indoor_location)"
+    - Il y a eu un incendie parce que ma [fille](person) a joué avec le feu
+    - '[Lennart](named person) ne faisait pas attention et a tout a brûlé'
+    - "Le [canapé](item) s'enflamme"
+    - Le [salon](indoor_location) est en feu
+    - Mon [ordi](item) est en train de braiser
+    - "L'ascenseur est en feu"
+    - Il y a un grand incendie dans ma [chambre à coucher](indoor_location

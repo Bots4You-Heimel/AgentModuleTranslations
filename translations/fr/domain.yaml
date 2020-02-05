@@ -1,15 +1,14 @@
 fr:
   Domain:
-  - espace, zone, domaine, secteur
+  - espace| zone | domaine | secteur
   Heating:
   - chaleur
   AccessControl:
   - "contrôle d'accès"
   Firesafety:
-  - "prtection incendie, protection contre l'incendie, protection anti-incendie, protection\
-    \ anti-feu"
-  - "prtection incendie, protection contre l'incendie, protection anti-incendie, protection\
-    \ anti-feu"
+  - "protection incendie | protection contre l'incendie | protection anti-incendie\
+    \ |protection anti-feu"
+  - '|'
   Safety:
   - sécurité
   Sanitary:
@@ -23,13 +22,15 @@ fr:
   - tapis, moquette, sol moquette
   - linoléum
   - sol
-  - sol
+  - '|'
   - revêtement de sol
   - parquet, revêtement en planches
   - planchers poncés au pinceau
   - sol en bois, parquet, parquet en bois, plancher de bois
   - parquet
   - carreaux de sol
+  - parquet
+  - revêtement de sol stratifié, plancher laminé
   - parquet
   - revêtement de sol stratifié, plancher laminé
   WallCovering:
@@ -51,12 +52,22 @@ fr:
   - crépi décoratif, enduit décoratif
   - crépi de la façade, enduit de façade
   - crépi extérieur
+  - crépi | enduit
   - crépi, enduit
   Wallpaper:
-  - papier, papier peint, tapisserie
-  - "papier peint d'apprêt, papier à peindre gros grains"
+  - papier | papier peint | tapisserie
+  - "papier peint d'apprêt | papier à peindre gros grains"
   - paysage du papier peint
   - papier peint
-  - papier peint en tissu, tapisserie en tissu
-  - papier peint en tissu, tapisserie en tissu
+  - papier peint en tissu | tapisserie en tissu
+  - papier peint en tissu | tapisserie en tissu
   - papier peint avec des motifs
+  Tiling:
+  - carreau
+  - carreau
+  - carreau céramique
+  - mosaique
+  - '|'
+  - carreau céramique
+  - carreau de salle de bain
+  - carreau de cuisine

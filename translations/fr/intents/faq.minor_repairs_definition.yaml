@@ -1,0 +1,18 @@
+fr:
+  intent:
+    faq/minor_repairs_definition:
+    - quoi petite réparation
+    - robinetterie petite réparation
+    - Que sont les petites réparations ?
+    - explique petites réparations
+    - Explique-moi petits réparation
+    - '|'
+    - En quoi consistent les petites réparations ?
+    - '|'
+    - "L'[éclairage](appliance) dans la [cage d'escalier](indoor_location) devrait\
+      \ être remplacé, ça fait partie des petites réparations ?"
+    - "J'ai laissé réparer les poignées de fenêtre dans la [salle de bain](indoor_location),\
+      \ c'est une petite réparation ?"
+    - "Qu'est-ce qui fait partie des petites réparations dans l'appartement ?"
+    - "Qu'est-ce qui fait partie des petites réparationsà la maison ?"
+    - "La réparation de la chasse d'eau fait-elle partie des petites réparations ?"

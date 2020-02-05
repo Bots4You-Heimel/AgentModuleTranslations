@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.permit/renewal_general:
+    - modernisation

@@ -1,0 +1,28 @@
+de:
+  intent:
+    ticket.damage_report/lost:
+    - Verlustmeldung
+    - Fundmeldung
+    - verloren
+    - verlegt
+    - '[Schlüssel](item)  verloren'
+    - '[Schlüsselbund](item)  verlegt'
+    - '[Haustürtschlüssel](item)  unaufindbar'
+    - Verlust [Briefkastenschlüssel](item)
+    - '[Mietvertrag](document) verloren'
+    - Der [Schlüssel](item)  ist weg!
+    - Kann [Abrechnung](document) nicht finden
+    - Ich habe meinen [Eingangstürschlüssel](item)  verloren!
+    - Seit gestern habe ich den [Wohnungsschlüssel](item)  verloren
+    - Ich denke, dass ich im Urlaub den [Schlüssel](item)  verlegt habe
+    - Ich kann meine [Garagenfernbedienung](item)  nicht mehr finden
+    - Meine Frau hat den [Haustürschlüssel](item)  verlegt
+    - Den [Kloschlüssel](item)  können wir nicht finden
+    - Mein Mann hat seine [Postkastenschlüssel](item)  im Bus liegen gelassen
+    - Ich kann unsere [Nebenkostenabrechnung](document) nicht mehr finden
+    - Der [Chip](item)  für die [Schranke](item)  ist unauffindbar
+    - Wir haben alles abgesucht, können aber den [Garagendrücker](item) nicht finden
+    - Ich habe überall nachgesehen, der zweite [Müllchip](item) ist nirgendwo
+    - Unser [Mülltonnenschlüssel](item)  ist nirgends mehr findbar
+    - Was mache ich, wenn ich meinen [Schlüsselbund](item)  im Zug hab liegen lassen
+    - Mein [Sohn](person)  hat seinen [Parkchip](item)  irgendwo liegen lassen

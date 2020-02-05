@@ -1,0 +1,30 @@
+de:
+  intent:
+    ticket.damage_report/water_not_available:
+    - kein Wasser
+    - Wasser kommt nicht
+    - kein fließendes Wasser
+    - Wasser läuft nicht
+    - Leitungswasser kommt nicht
+    - Leitungswasser läuft nicht
+    - Nichts passiert wenn ich das Wasser aufdreh
+    - Kommt kein Wasser aus dem [Waschbecken](sanitary_item) im [Bad](indoor_location)
+    - Es kommt kein Wasser
+    - Es kommt kein Wasser mehr aus dem Hahn
+    - Aus dem [Wasserhahn](sanitary_item) läuft kein Wasser
+    - Aus dem [Wasserhahn](sanitary_item) kommt seit Tagen kein Wasser
+    - Leitungswasser kommt nicht mehr
+    - In der [Dusche](sanitary_item) kommt gar kein Wasser mehr
+    - Ausm duschkopf kommt nix mehr
+    - Im ganzen [Haus](indoor_location) läuft kein Wasser mehr
+    - Es läuft kein Wasser mehr bei mir
+    - Das Wasser im [Bad](indoor_location) läuft nicht
+    - In der [Küche](indoor_location) kommt kein Wasser aus dem Hahn
+    - Auf einma kommt nirgendwo [in meiner Wohnung](indoor_location) noch Wasser
+    - Bei mir und den [Nachbarn](person) neben mir läuft seit gestern das Wasser nicht mehr
+    - Wurde das Wasser abgedreht? Kommt nichts mehr seit heut morgen
+    - Obwohl ich alle Wasserhähne aufdrehe kommt kein Tropfen Wasser!
+    - Plötzlich war gestern
+    - Wenn ich den [Wasserhahn](sanitary_item) aufdrehe passiert nichts
+    - Seit gestern kommt kein Wasser mehr in der [Küche](indoor_location)
+    - Kein Wasser kommt wenn ich den Wasserhan aufdreh

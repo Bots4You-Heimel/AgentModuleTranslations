@@ -1,0 +1,9 @@
+fr:
+  intent:
+    faq/insurance_damage_event:
+    - comportement cas de dommage
+    - "Qu'est-ce que je fais en cas de sinistre ?"
+    - "Qu'est-ce qu'il faut faire en cas de sinistre survenu ?"
+    - "Qu'est-ce qui se passe en cas de dommage ?"
+    - "Comment se comporter en cas de sinistre d'assurance ? | Comment dois-je me\
+      \ comporter si un sinistre d'assurance se produit ?"

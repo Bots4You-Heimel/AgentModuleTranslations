@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.permit/ask_please_send_document:
+    - '[décomte de charges](document)'

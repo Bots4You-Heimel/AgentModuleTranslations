@@ -1,0 +1,32 @@
+de:
+  intent:
+    ticket.complaint/vandalism:
+    - Vandalismus
+    - '[Grafiti](mess)'
+    - '[Graffiti](mess)'
+    - '[Grafito](mess)'
+    - Parolen
+    - '[Graffiti-Sprühereien](mess)'
+    - Wandmalerei
+    - '[Schmierereien](mess)'
+    - Mutwillige Zerstörung
+    - Extra zestört
+    - Jugendliche Sprüher
+    - '[Wand](surface) beschprüht'
+    - Unerlaubte [Schmiererei](mess)
+    - Vandalismus melden
+    - Überall ist [Graffiti](mess)
+    - '[Wände](surface) voller [Schmierereien](mess)'
+    - Ich möchte Vandalismus melden
+    - Jemand muss die [Schmierereien](mess) im [Flur](indoor_location) wegmachen
+    - Wann beseitigt endlich jemand das [Grafiti](mess)
+    - Es hat jemand meine [Wohnungstüre](item) beschmiert!
+    - Jemand hat auf die [Hauswand](surface) [Hakenkreuze](mess) geschmiert
+    - Ich habe im [Treppenhaus](indoor_location) [rechtsradikale Sprüche](mess) gelesen
+    - Rechtsradikale Parolen an den [Wänden](surface)
+    - Auf meinem [Briefkasten](item) habe ich [Aufkleber](mess) und beleidigende [Kritzeleien](mess) gefunden
+    - Jemand hat mein [Klingelschild](item) bekritzelt
+    - Kann mal jemand die [Schmierereien](mess) beim [Spielplatz](outdoor_location) wegmachen
+    - Überall in den [Aufzügen](indoor_location) sind haben sich Menschen mit [Sprüchen](mess) verewigt
+    - Habe die [Nachbarskinder](person) beim [beschmieren](mess) des [Fahrstuhls](indoor_location) mit Edding erwischt
+    - Der [Junge](person) der [Gräbeners](named_person) hat den [Verteilerkasten](appliance) mit [Hakenkreuzen](mess) verziert

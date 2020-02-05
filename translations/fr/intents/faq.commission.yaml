@@ -1,0 +1,12 @@
+fr:
+  intent:
+    faq/commission:
+    - Dois-je payer une commission ?
+    - "Quels sont les frais de courtage ? | La commission de courtage s'élève à combien\
+      \ ? "
+    - "Combien d'argent dois-je payer pour les frais de courtage ?"
+    - 'Quel est le montant de la commission de courtage à payer ? '
+    - '|'
+    - Et les frais de courtage ?
+    - "Vous recevez une commission de courtage pour l'appartement ?"
+    - "Y a-t-il une commission ? | Est-ce qu'il y a un courtage ?"

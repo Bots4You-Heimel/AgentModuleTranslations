@@ -1,0 +1,13 @@
+de:
+  intent:
+    faq/stairwell_cleaning_company:
+    - '[Reinigungsfirma](company) für [Flure](indoor_location)?'
+    - Beauftragung [Putzfirma](company) [Treppenhaus](indoor_location)
+    - Wann beauftragt die [Unternehmensgruppe](company) eine externe [Firma](company) für die Treppenhausreinigung?
+    - Unter welchen Umständen wird eine [Firma](company) der Auftrag für die Hausflurreinigung erteilt?
+    - Kann eine [Reinigungsfirma](company) die Reinigung des [Treppenhauses](indoor_location) übernehmen?
+    - Kann eine [Firma](company) das [Treppenhaus](indoor_location) putzen?
+    - Können wir eine [Putzfirma](company) damit beauftragen, den [Hausflur](indoor_location) zu reinigen?
+    - Eine [Putzfrau](person) soll den [Hausflur](indoor_location) putzen
+    - Kann sich eine Reinigungskraft um das [Treppenhaus](indoor_location) kümmern?
+    - Wir wollen eine [Putzhilfe](person) für den [Flur](indoor_location) anstellen

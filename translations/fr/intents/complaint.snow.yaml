@@ -2,13 +2,13 @@ fr:
   intent:
     ticket.complaint/snow:
     - '[neige](mess) '
-    - sel, sel de déneigement
+    - sel | sel de déneigement
     - devoir de déblayer la neige, obligation de déblayer la neige
     - obligation de saler
     - plan de déneigement
     - 'pelleter la [neige](mess) '
     - 'pelleter la [neige](mess) , déblayer la [neige](mess) '
-    - saler, épandre du sel
+    - saler | épandre du sel
     - Le [voisn](person) ne sale pas
     - "La [neige](mess)  n'est pas déblayée"
     - Le [voisin](person) ne respecte pas son devoir de déneigement

@@ -1,0 +1,24 @@
+fr:
+  intent:
+    ticket.damage_report/water_damage:
+    - "dégâts causé par l'eau | dommage causé par l'eau | dégât d'eau"
+    - "pénétration d'humidité"
+    - "dommage d'humidité"
+    - "dégât causé par l'eau de pluie"
+    - "dégât  de la conduite d'eau"
+    - "signaler un dégât causé par l'eau"
+    - "[cave](indoor_location) rempli d'eau | [cave](indoor_location) inondée | [sous-sol]\
+      \ inondé"
+    - "éliminer les dégât d'eau"
+    - "Au [rez-de-chaussée](indoor_location) l'eau arrive jusqu'au genou"
+    - "Dégât de inondation dans l'[entrée](indoor_location)"
+    - "L'inondation a tout emporté ici"
+    - "Je voudrais signaler dégâts d'eau"
+    - "Il y a des dégâts causés par l'eau ici"
+    - "Il y a un dégât d'eau chez moi"
+    - "J'ai constaté un dégât causé par l'eau au [plafond du salon](surface)"
+    - "Les [Dubois](named person) ont causé un énorme dégât d'humidité"
+    - "La [cave](indoor_location) est humide à cause d'une fuite"
+    - "Ma [machine à laver](appliance) est fuit et l'eau s'est écoulé jusqu'au [appartement](indoor_location)\
+      \ dessous moi."
+    - La rupture de conduite a causé des dégâts dans ma [salle de bain(indoor_location)

@@ -1,0 +1,4 @@
+fr:
+  intent:
+    faq/stairwell_cleaning_company:
+    - '[société de nettoyage](company) pour [couloirs](indoor_location)'

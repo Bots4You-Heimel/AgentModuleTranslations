@@ -1,0 +1,21 @@
+de:
+  intent:
+    ticket.lease/apartment_visitation:
+    - '[Wohnungsbesichtigung](indoor_location)'
+    - '[Wohnung](indoor_location) besichtigen'
+    - '[Wohnungsbesichtigung](indoor_location) vereinbaren'
+    - neue [Wohnung](indoor_location) besichtigen
+    - Termin für [Wohnungsbesichtigung](indoor_location)
+    - Besichtigungstermin für [Wohnung](indoor_location)
+    - An wen muss ich mich für nen Besichtigungstermin wenden?
+    - Ich möchte gerne eine [Wohnung](indoor_location) besichtigen.
+    - Wo bekomme ich einen Termin zur Wohnungsbesichtigung?
+    - Wie kann ich einen Besichtigungstermin vereinbaren?
+    - Tolle [Wohnungen](indoor_location) habt ihr! Wann sind besichtigungszeiten?
+    - Ich will eines eurer Apartments mal besichtigen.
+    - brauche Termin um [Wohnung](indoor_location) anzuschauen
+    - Ich habe bei euch eine schöne Unterkunft gesehen, gern würd ich mir die mal genauer ansehen!
+    - Ich würde gerne das Apartment in der [Kullerstraße](street) was zum Verkauf steht besichtigen
+    - Die [Wohnung](indoor_location) in der [Heinestraße](street) sieht sehr gut aus, kann ich die mal besichtigen?
+    - Hab letztens ne [Wohnung](indoor_location) gesehen auf eurer Seite, kann ich mir die mal anschauen?
+    - Ich suche gerade eine neue Bleibe und bin bei euch fündig geworden - würde gerne zu einer Besichtigung kommen.

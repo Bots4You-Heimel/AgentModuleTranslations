@@ -1,0 +1,14 @@
+fr:
+  intent:
+    faq/household_insurance_sum:
+    - somme assurée
+    - "montant de l'assurance"
+    - somme assurée ménage
+    - aussurance vol somme
+    - "montant de l'assurance habitation"
+    - "Et quel est le montant maximum de l'assurance ménage ?"
+    - Comment la somme assurée est-elle calculée ?
+    - "Quel est le montant d'assurance ?"
+    - '|'
+    - "Combien paye l'assurance s'il y a un incendie ?"
+    - "couverture d'assurance ménage ? | Etendue d'assurance habitation ?"

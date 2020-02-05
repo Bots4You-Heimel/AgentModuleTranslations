@@ -1,0 +1,22 @@
+de:
+  intent:
+    ticket.damage_report/water_damage:
+    - Wasserschaden
+    - Durchfeuchtung
+    - Feuchteschaden
+    - Regenwasserschaden
+    - Leitungswasserschaden
+    - Wasserschaden melden
+    - '[Keller](indoor_location) vollgelaufen'
+    - Wasserschaden beseitigen
+    - Im [Erdgeschoss](indoor_location) steht knietief das Wasser
+    - Hochwasserschaden im [Hauseingang](indoor_location)
+    - Das Hochwasser hat hier alles weggespült
+    - Ich möche Wasserschäden anzeigen
+    - Hier gibt es Schäden durch Wasser
+    - Bei mir gibt es einen Wasserschaden
+    - Ich habe an der [Wohnzimmerdecke](surface) einen Wasserschaden festgestellt
+    - Die [Giesberts](named_person) haben hier einen riesigen Feuchteschaden gemacht
+    - Eine Undichtigkeit hat im [Keller](indoor_location) eine Durchfeuchtung verursacht
+    - Meine [Waschmaschine](appliance) ist ausgelaufen und das Wasser ist bis in die [Wohnung](indoor_location) unter mir gelaufen
+    - Durch den Rohrbruch gab es in meinem [Badezimmer](indoor_location) Wasserschäden

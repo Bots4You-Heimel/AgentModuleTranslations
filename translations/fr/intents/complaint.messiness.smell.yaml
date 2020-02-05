@@ -16,15 +16,16 @@ fr:
     - "Ça [sent](mess)  de la [pisse de chien](mess)  [dans l'ascenseur](indoor_location)"
     - "Ça [sent](mess)  de [urine](mess)  dans la [cage d'escalier](indoor_location)"
     - "[L'ascenseur](indoor_location) [sent](mess)  de [pisse](mess) "
+    - "Ça [sent](mess)  [l'urine](mess)  [dans toute la maison](indoor_location)"
     - Ça [sent](mess) [dans toute la maison](indoor_location)
-    - '[Toute la maison](indoor_location) [pue](mess)  de [fumée](mess)  '
-    - Chez les [voisins](person) ça [sent](mess)  mauvais.
-    - "Ça [pue](mess)  d'alcool ici."
+    - '[Toute la maison](indoor_location) [pue](mess)  de [fumée](mess) '
+    - 'Chez les [voisins](person) ça [sent](mess)  mauvais. '
+    - "Ça [pue](mess)  d'alcool ici. "
     - Ça [sent](mess)  de la bouffe dans le [couloir] (indoor_location) .
-    - Je ne peux plus supporter la [puanteur](mess)  ici.
-    - "Le [odeur](mess) chez les [Schröders](mess) n'est pas supportable."
-    - 'Chez les [voisins](person) au-dessus de moi ça [sent le renfermé](mess) '
-    - Les nouveaux [locataires](person) [sentent](mess)  mal
-    - "J'y [sens](mess)  [fumée de cigarette](mess) "
-    - "Dans [l'entrée](indoor_location) ça [sent le renfermé](mess) "
-    - 'Les [Levenez](named person) [sentent](mess)  [non lavés](mess) '
+    - ' Je ne peux plus supporter la [puanteur](mess)  ici. '
+    - "Le [odeur](mess)  chez les [Schröders](named person) n'est pas supportable. "
+    - 'Chez les [voisins](person) au-dessus de moi ça [sent le renfermé](mess)  '
+    - Les nouveaux [locataires](person) [sentent](mess) mal
+    - " J'y [sens](mess)  [fumée de cigarette](mess)  "
+    - "Dans l'[entrée]indoor_location) ça [sent le renfermé](mess)  "
+    - 'Les [Levenez](named person) [sentent](mess)  [non lavés](mess)  '

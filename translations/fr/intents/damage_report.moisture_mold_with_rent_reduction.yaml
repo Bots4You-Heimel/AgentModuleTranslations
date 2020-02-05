@@ -15,12 +15,26 @@ fr:
     - Il y a de la [moisissure](mess) chez moi et je vais réduire mon payement de loyer.
     - "Je ne paie pas de loyer jusqu'à ce que la [moisissure](mess)  soit éliminé\
       e."
-    - '[Taches de moisissure](mess) dans la [salle de bain](indoor_location). Réduction
+    - Je ne payera que la moitié du loyer, parce que la [moisissure](mess)  est toujours là.
+    - 'Reduire loyer à cause de [moisissure](mess)  '
+    - "Je réduis mon loyer parce que j'ai de la [moisissure](mess) ."
+    - '[appartement](indoor_location) moisi - réduction de loyer'
+    - '[Taches de moisissure](mess)  dans la [salle de bain](indoor_location]. Réduction
       de loyer.'
     - Puis-je réduire mon loyer en cas moisissure ?
     - "Je vourdrais retenir mon paiement de loyer parce que j'ai encore de la [moisissure](mess)\
-      \  dans [l'appartement](indoor_location)"
+      \  dans l'[appartement](indoor_location)"
     - "Malgré deux rappels, rien n'a été fait contre la [moisissure](mess)  dans la\
       \ [cuisine](indoor_location). Je vais réduire mon loyer."
     - "Quand quelqu'un vient pour les [taches de moisissure](mess)  dans man [appartement](indoor_location)\
       \ ? Si ça continue comme ça, je dois réduire le loyer."
+    - "J'attends depuis des semaines que quelqu'un s'occupe des [taches de moisissure](mess).\
+      \ Maintenant, je vais réduire le loyer."
+    - "Ce n'est pas possible que vous n'ayez pas encore envoyé quelqu'un à cause des\
+      \ [taches de moisissure](mess). Je réduis le loyer."
+    - "Comme vous n'avez toujours pas envoyé d'aide pour les [taches de moisissure](mess),\
+      \ je paierai moins de loyer à partir de maintenant."
+    - Mon [appartement](indoor_location) est insupportable à cause de la moisissure. A partir de maintenant, je réduis le loyer.
+    - "Je vous ai déjà écrit deux fois à cause des problèmes de moisissure dans mon\
+      \ [appartement](indoor_location). Maintenant je vais réduire le loyer, peut-ê\
+      tre quelqu'un s'en occupe."

@@ -1,0 +1,19 @@
+de:
+  intent:
+    ticket.shit/senior_toilet_facility:
+    - Seniorengerechte WC-Anlagen
+    - seniorengerechte Toiletten
+    - WC-Anlagen seniorengeeignet
+    - Altersgerechte Klos
+    - Sind WC-Anlagen seniorengerecht?
+    - '[Klo](sanitary_item) ist seniorengerecht?'
+    - '[WC](indoor_location) für Senioren'
+    - '[Badezimmer](indoor_location) altersgerecht ausgestattet?'
+    - Habt ihr Klos mit erhöhter Sitzposition?
+    - Bietet ihr seniorengerechte WC-Anlagen?
+    - Habt ihr Senioren bei eurer Badgestaltung berücksichtigt?
+    - Gibt es bei euch Toiletten die seniorengeeignet sind?
+    - Ich hoffe eure Toiletten sind seniorengerecht gestaltet!
+    - Welche [Wohnungen](indoor_location) sind mit altersgerechten WC-Anlagen ausgestattet?
+    - Sind eure [Wohnungen](indoor_location) mit seniorengechten Badezimmern ausgestattet?
+    - Ich brauche unbedingt Informationen über die altersgerechte Ausstattung eurer Badezimmer.

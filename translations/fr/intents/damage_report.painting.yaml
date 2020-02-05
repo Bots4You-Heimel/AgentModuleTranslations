@@ -5,7 +5,7 @@ fr:
     - '[papier peint] vieux'
     - "La couleur s'écaille"
     - peindre le [mur](surface)
-    - "tapisser [l'entrée](indoor_location)"
+    - "tapisser l'[entrée](indoor_location)"
     - Doit être peint
     - '[Peintre](person) doit venir'
     - "Quelqu'un devrait peintre "

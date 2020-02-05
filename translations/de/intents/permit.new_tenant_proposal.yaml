@@ -1,0 +1,20 @@
+de:
+  intent:
+    ticket.permit/tenant_proposal:
+    - '[Nachmieter](person)'
+    - Vorschlag [Nachmieter](person)
+    - '[Nachmieter](person) Vorschlag'
+    - Dürfen Nachmietervorschläge von mir kommen?
+    - Nominierung nächster [Mieter](person)
+    - Ich möchte jemanden als [Nachmieter](person) nominieren
+    - Kann ich einen [Nachmieter](person) vorschlagen?
+    - Ich will einen Vorschlag für einen [Nachmieter](person) abgeben
+    - Darf ich einen [Nachmieter](person) selber aussuchen?
+    - Der [Kollege](person) von mir will die [Wohnung](indoor_location) haben
+    - Kann ein [Bekannter](person) von mir meine [Wohnung](indoor_location) mieten?
+    - Ein [Freund](person) von mir will die [Wohnung](indoor_location) übernehmen
+    - Mein [Kumpel](person) hat Interesse an der [Wohnung](indoor_location)
+    - Ich möchte jemanden vorschlagen, der mein [Appartment](indoor_location) mieten würde, wenn ich ausgezogen bin
+    - Ich habe einen [Interessenten](person) für meine [Wohnung](indoor_location) gefunden, der sofort übernehmen würde.
+    - Ich kenne einen [Arbeitskollegen](person) der sich die [Wohnung](indoor_location) gerne näher anschauen will
+    - Ich kenne eine [Freundin](person), die an meiner Stelle in die [Wohnung](indoor_location) einziehen will

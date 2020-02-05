@@ -1,0 +1,22 @@
+de:
+  intent:
+    ticket.permit/stairwell_objects:
+    - Erlaubnis Lagerung [Flur](indoor_location)
+    - Dekoration [Treppenhaus](indoor_location)
+    - Gegenstände [Hausflur](indoor_location)
+    - Lagerung im [Eingangsbereich](indoor_location)
+    - Abstellen im [Flur](indoor_location) genehmigt?
+    - Darf ich eine [Vase](item) vor die [Tür](item) stellen?
+    - Kann man [Schuhe](item) im [Flur](indoor_location) haben
+    - Können die [Menzels](named_person) ihre [Fahrräder](item) im [Eingang](indoor_location) hinstellen
+    - Ist das abstellen von Dingen im [Flur](indoor_location) erlaubt?
+    - Dürfen wir einen [Schuhschrank](item) im [Hausflur](indoor_location) aufstellen?
+    - Darf mein [Nachbar](person) seine Wäsche im [Eingangsbreich](indoor_location) trocknen?
+    - Können wir [Pflanzen](plant) auf der [Treppe](item) hinstellen?
+    - Dürfen wir uns ein paar schöne Topfpflanzen vor die [Wohnungstüre](item) tun?
+    - Ist es erlaubt, Dinge im gemeinsamen [Flur](indoor_location) zu lagern
+    - Darf ich Gegenstände im [Treppenhaus](indoor_location) abstellen?
+    - Ist es erlaubt [Schuhe](mess) im [Hausflur](indoor_location) vor die [Wohnungstür](item) zu stellen?
+    - Kann ich einen [Schuhschrank](item) im [Flur](indoor_location) tun?
+    - Darf ich das [Treppenhaus](indoor_location) mit Blumen dekorieren?
+    - Sind Blumentöpfe auf den [Treppen](item) im [Flur](indoor_location) erlaubt?

@@ -1,0 +1,18 @@
+fr:
+  intent:
+    ticket.lease/termination_breakup:
+    - résiliation séparation
+    - résiliation [contrat de location](document) séparation
+    - résiliation à cause de divorce
+    - annulation du contrat après séparation
+    - "Ma femme m'a quitté, veuillez annuler le [contrat de location](document)"
+    - '[contrat de location](document) pour cause de séparation'
+    - '[contrat de location](docuement) doit être résilié en raison de divorce'
+    - "Veuillez annuler le bail, mon mari m'a quittée."
+    - "On s'est séparé et on ne veut plus l'[appartement](indoor_location)"
+    - "Sans mon ex l'[appartement](indoor_location) est trop grand pour moi, je veux\
+      \ résilier le [contrat](document)"
+    - "Je me suis récemment séparé de mon partenaire de vie et j'aimerais résilier\
+      \ notre [contrat de location](document)."
+    - Je me suis enfin débarrassé de ce [cochon](animal) ! Maintenant, seul le [contrat de location] (document) doit être annulé.
+    - "notre mariage n'a pas pu être sauvé, veuillez dissoudre le [contrat de location](document)"

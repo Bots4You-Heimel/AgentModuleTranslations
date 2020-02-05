@@ -1,0 +1,71 @@
+de:
+  intent:
+    ticket.lease/rent_review:
+    - Mietminderung
+    - Mietanpassung
+    - Miete verringern
+    - Minderung der Miete
+    - Anpassung der Miete
+    - Miete wird angepasst
+    - Verringerung der Miete
+    - Miete zu Hoch
+    - Weniger Miete sofort
+    - Ich fordere eine Minderung der Miete
+    - Die Höhe der Miete ist nicht ok
+    - Die Miete wurde um mehr als 20 Prozent erhöht, das ist nicht legal!
+    - Es wurd schon wieder eine Mieterhöhung angekündigt, so oft ist das doch nicht erlaubt!?
+    - Grad erst eingezogen und schon kommt ne Mieterhöhung, so geht das nich
+    - Nur ich bekomme eine Mieterhöhung, habe die [Nachbarn](person) gefragt und bei denen ist das nicht so!
+    - Es ist ungerecht dass ich schon wieder mehr Miete zahlen muss.
+    - Meine [Nachbarn](person) zahlen weniger als ich, wo bleibt meine Mietanpassung?
+    - Ich bin seit längerem der Meinung dass die Miete zu hoch ist und verringert werden sollte
+    - Bei dem schauerlichen Zustand meiner [Wohnung](indoor_location) kommen Sie mit keiner Mietanpassung durch.
+    - Bei dem Zustand meiner [Wohnung](indoor_location) können Sie unmöglich eine Mieterhöhung planen!
+    - Bei der schlechten Verfassung meiner [Wohnung](indoor_location) können Sie unmöglich die Miete erhöhen.
+    - Bei der Verfassung meiner [Wohnung](indoor_location) können Sie nicht auch noch die Miete erhöhen.
+    - Bei der Verfassung, in der meine [Wohnung](indoor_location) ist, können Sie keine Anpassung der Miete durchsetzen.
+    - Bei einer derartigen [Wohnung](indoor_location) können Sie keine Mietanpassung durchsetzen.
+    - Bei so einer [Wohnung](indoor_location) können Sie keine höhere Miete fordern.
+    - Dauernd soll meine Miete teurer werden, das geht gar nicht.
+    - Der schlechte Zustand meiner [Wohnung](indoor_location) widerspricht Ihrer gewollten Mieterhöhung.
+    - Der Zustand der [Wohnung](indoor_location) spricht gegen eine Anpassung der Miete.
+    - Der Zustand meiner [Wohnung](indoor_location) ist katastrophal, ich werde die Mieterhöhung nicht bezahlen.
+    - Der Zustand meiner [Wohnung](indoor_location) passt wirklich nicht zu der geforderten Mietanpassung.
+    - Die Höhe meiner Miete wird erneut angehoben und ich stimme dem nicht zu.
+    - Die Miete kann nicht schon wieder angehoben werden.
+    - Die Miete soll erhöht werden, wo kann ich Widerspruch einlegen?
+    - Die Miete soll noch mal erhöht werden und ich bin nicht einverstanden.
+    - Die Miete soll wiederholt angepasst werden, das kann nicht sein.
+    - Die neue Miete ist viel zu hoch. Ich stimme der Erhöhung nicht zu.
+    - Die neue Mieterhöhung ist nicht gerechtfertigt.
+    - Die Verfassung meiner [Wohnung](indoor_location) passt nicht zu Ihrer geplanten Mieterhöhung.
+    - Die Verfassung meiner [Wohnung](indoor_location) rechtfertigt keine Mieterhöhung.
+    - Die [Wohnung](indoor_location) ist mangelhaft und Sie fordern eine Mietanpassung.
+    - Die [Wohnung](indoor_location) ist so schlecht erhalten und Sie wollen noch die Miete nach oben korrigieren.
+    - Es kann nicht sein, dass die Miete schon wieder angehoben wird.
+    - Für diese minderwertige [Wohnung](indoor_location) können Sie nicht ernsthaft die Miete anpassen.
+    - Für so eine heruntergekommene [Wohnung](indoor_location) ist eine Mietanpassung absolut nicht gerechtfertigt.
+    - Ich akzeptiere die Mietanpassung nicht.
+    - Ich akzeptiere die neue Mieterhöhung nicht.
+    - Ich bin mit der Mieterhöhung nicht einverstanden.
+    - Ich finde die Erhöhung der Miete nicht okay.
+    - Ich lehne die Anpassung der Miete ab.
+    - Ich lehne die Erhöhung der Miete ab.
+    - Ich möchte die Mieterhöhung anfechten.
+    - Ich stimme der Mietanpassung nicht zu.
+    - Ich verstehe nicht, wie Sie für eine [Wohnung](indoor_location) in diesem Zustand noch eine höhere Miete verlangen wollen.
+    - Ich weigere mich, die Erhöhung der Miete zu akzeptieren.
+    - Ich weigere mich, eine höhere Miete zu bezahlen.
+    - Ich widerspreche der Mietanpassung.
+    - Ich will mich über die Mieterhöhung beschweren.
+    - Mein Mietpreis soll angehoben werden und ich will widersprechen.
+    - Meine Miete soll angepasst werden, das finde ich nicht richtig.
+    - Meine Miete wird erneut angehoben und ich möchte widersprechen.
+    - Meine [Wohnung](indoor_location) ist desolat und Sie wollen eine höhere Miete.
+    - Meine [Wohnung](indoor_location) ist in miserablem Zustand und Sie wollen eine Mietanpassung.
+    - Meine [Wohnung](indoor_location) ist in schlechtem Zustand und Sie wollen die Miete erhöhen.
+    - Meine [Wohnung](indoor_location) ist in so schlechter Verfassung und Sie erhöhen die Miete.
+    - Meine [Wohnung](indoor_location) ist unterdurchschnittlich und Sie erhöhen meine Miete!
+    - Sie können für eine solche [Wohnung](indoor_location) unmöglich eine Mietanpassung fordern.
+    - sie wollen schon wieder meine miete erhöhen, das ist nicht okay
+    - Wie es um meine [Wohnung](indoor_location) bestellt ist, können Sie keine Mieterhöhung fordern.

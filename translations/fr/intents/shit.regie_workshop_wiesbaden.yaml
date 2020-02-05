@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.shit/regie_workshop_wiesbaden:
+    - entretien [Wiesbaden](city)

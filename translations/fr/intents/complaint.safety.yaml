@@ -20,13 +20,13 @@ fr:
     - signaler un risque de blessure, signaler un risque de lésion
     - "J'ai peur"
     - "C'est dangereux"
-    - "[L'escalier](item) est [glissant](mess) "
+    - "L['escalier](item) est [glissant](mess) "
     - Il y manque une [lumière](item) dans la cave.
     - La [main courante](item) manque complètement.
     - La [sortie de véhicules](outdoor_location)  est peu sûr.
     - "(L'échelle](item) du [grenier](indoor_location) est trop dangereuse"
     - "Les [marches d'escalier](item) sont dangereuses."
-    - "[L'escalier](indoor_location) de la cave est risqué."
+    - "L['escalier](indoor_location) de la cave est risqué."
     - La situation me fait peur
     - "J'ai peur pour ma sécurité dans la [cage d'escalier](indoor_location)"
     - "J'ai peur des blessures"
@@ -36,7 +36,7 @@ fr:
     - "C'est un danger"
     - "Sans lumière, c'est dangereux."
     - "Sans barrières, c'est risqué."
-    - "Il y a un risque de chute sur [l'escalier](item) ."
+    - "Il y a un risque de chute sur l['escalier](item) ."
     - Le [escalier](item) est dangereux sans [éclairage](item).
     - "C'est tellement [glissant](mess)  que j'ai peur de glisser"
     - "J'ai peur de me briser tous les os"
@@ -48,7 +48,7 @@ fr:
     - Un jour un accident se passera sur les [escaliers](item) branlants.
     - "Nous avons besoin d'un bon [rampe d'escalier](item) de toute urgence pour des\
       \ raisons de sécurité."
-    - "La manque de la [main courante](item) de [l'escalier](item)  est un véritable\
+    - "La manque de la [main courante](item) de l['escalier](item)  est un véritable\
       \ problème de sécurité."
-    - "Sans [lumière](item) [l'escalier](item)représente un véritable risque d'accident."
+    - "Sans [lumière](item) l'[escalier](item)représente un véritable risque d'accident."
     - Chez nous il y manque une [lampe](item). Il y a un risque de trébucher.

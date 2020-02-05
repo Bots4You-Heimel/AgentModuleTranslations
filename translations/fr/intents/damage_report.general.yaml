@@ -68,7 +68,7 @@ fr:
       \ ?"
     - "S'il vous plaît, laissez remplacer le [compteur](sanitary_item) de mon [chauffage](sanitary_item)\
       \ dans mon [appartement](indoor_location)."
-    - Dans la [cuisine cuisine aménagée](indoor_location) la [plaque de cuisson](sanitary_item) ne fonctionne plus
+    - Dans la [cuisine aménagée](indoor_location) la [plaque de cuisson](sanitary_item) ne fonctionne plus
     - Qui peut réparer ma [cuisinière](sanitary_item) ?
     - "Les plaques de cuisson de ma [cuisinière](sanitary_item) ne s'allument plus."
     - Dans [le couloir](indoor_location) quelque chose est cassé.

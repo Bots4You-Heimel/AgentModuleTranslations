@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.shit/cash_deposit_by_payment_slip:
+    - paiement en espèces

@@ -1,0 +1,29 @@
+fr:
+  intent:
+    ticket.damage_report/heating_waterlevel:
+    - "niveau d'eau"
+    - "niveau d'eau dans le chauffage"
+    - "niveau d'eau [chauffage](sanitary_item)"
+    - 'remplir circuit de chauffage '
+    - remplir [chauffage](sanitary_item)
+    - "niveau d'eau du [chauffage central](sanitary_item)"
+    - remplir [radiateur](sanitary_item)
+    - "niveau du circuit d'eau chaude ?"
+    - "remettre de l'eau au chauffage"
+    - "niveau d'eau [radiateur](sanitary_item)"
+    - remplir chaudière à gaz
+    - "remettre de l'eau [chauffage thermiqe](sanitary_item)"
+    - "remettre de l'eau | remplir de l'eau"
+    - '[chauffage](sanitary_item) remplir eau'
+    - "[chauffage](sanitary_item) remettre de l'Eau"
+    - "Quelqu'un doit remettre de l'eau au [chaufferie](indoor_location)"
+    - "Comment on remet de l'eau au [chauffage à gaz](sanitary_item)"
+    - "Il n'y a pas assez d'eau dans le [chauffage](sanitary_item)"
+    - "Le niveau d'eau n'est pas suffisant"
+    - "Le [chauffage](sanitary_item) n'a pas assez de l'eau."
+    - "Je crois il n'y a pas assez de l'eau dans [l'installation de chauffage](sanitary_item)\
+      \ centrale"
+    - "La quantité de l'eau aux [tuyaux de chauffage](sanitary_item) doit être augmenté\
+      e !"
+    - "Le niveau d'eau dans le [chauffage](sanitary_item) est trop bas"
+    - "Il est important qu'on remts l'eau dans les [radiateurs](sanitary_item) "

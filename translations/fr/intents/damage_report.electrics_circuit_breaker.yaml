@@ -35,9 +35,11 @@ fr:
     - 'Il y manquent des [disjoncteurs](appliance) '
     - Où puis-je me procurer un nouveau[fusible](appliance) ?
     - Un [fusible] a sauté
+    - '|'
     - Il y a un défaut dans [le tableau électrique](appliance)
-    - "Le [fusible](appliance) pour la [cage d'escalier](indoor_location) a sauté"
+    - "Le [fusible](appliance) pour la [cage d'escalier](indoor_location) a sauté "
     - Je ne trouve pas la [boîte à fusibles](appliance) du [grenier](indoor_location)
-    - "Quelqu'und doit changer le [fusible](appliance) dans la [buanderie](indoor_location)."
-    - La [boîte à fusibles](appliance) a des [fusibles](appliance) grillés.
+    - "Quelqu'und doit changer le [fusible](appliance) dans la [buanderie](indoor_location). "
+    - 'Il y a des [fusibles](appliance) grillés dans la [boîte à fusibles](appliance)
+      . '
     - Les [fusibles](appliance) sautent du [boîte du compteur](appliance)

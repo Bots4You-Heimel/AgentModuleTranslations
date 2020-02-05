@@ -1,0 +1,54 @@
+fr:
+  intent:
+    ticket.financial/payment_by_installment:
+    - paiement échelonné | paiement à crédit | versement échelonné
+    - "[accord d'échelonnement](document) | [convention de paiement échelonné](document)"
+    - 'payer par versements '
+    - convenir paiement échelonné
+    - fractionner le paiement | échelonner ses versements
+    - paiement échelonné pour loyer
+    - payer loyer en versements | fractionner loyer
+    - '|'
+    - '|'
+    - "Pas assez d'argent pour loyer"
+    - Changer date de paiement du loyer | changer échéance de paiement du loyer
+    - Je dois payer mon loyer en plusieurs fois. | Je dois payer mon loyer en versements échelonnés.
+    - Il est possible de payer le loyer en versements partiels
+    - Il est possible de fractionner le paiement du loyer ?
+    - Le loyer peut aussi être payé en versements échelonnés ?
+    - Serait-il possible de répartir le loyer sur plusieurs mois ?
+    - "Ne peux pas payer le loyer d'un seul coup"
+    - Le loyer doit être divisé en deux paiements
+    - |+
+      Puis-je payer la créance supplémentaire en plusieurs versements ?
+
+    - "Je préférerais payer le loyer toutes les deux semaines, c'est possible ?"
+    - "Comment je dois régler le loyer, s'il est si élevé ?"
+    - Ne peux pas payer le loyer mensuellement
+    - Le [bailleur](person) a droit à des intérêts si je paie le loyer par versements échelonnés ?
+    - "c'est plus cher si je ne peux pas payer le loyer d'un coup"
+    - Je ne suis pas à fonds et je ne peux pas donner tout mon argent au [proprio](person) en une seule fois
+    - "Je veux convenir un [accord d'échelonnement](document) avec le [propriétaire](person)"
+    - Comme mon salaire est toujours viré plus tard, je voudrais payer le loyer en plusieurs fois
+    - "Je peux conclure un accord d'échelonnement avec le [propriétaire](person) si\
+      \ je veux payer le loyer en plusieurs fois ?"
+    - "Vous n'avez pas l'argent pour le loyer en une seule fois, quoi faire ?"
+    - "Je ne peux pas payer mon loyer d'un seul coup."
+    - "Comme mon salaire a été réduit, je ne peux payer le prochain loyer qu'en plusieurs\
+      \ versements."
+    - Est-il possible que je paie le loyer en plusieurs fois ?
+    - "Je voudrais convenir d'un paiement échelonné pour mon loyer."
+    - Il doit être possible que je paie mon loyer en plusieurs fois et pas en une seule fois
+    - "Malheureusement, je suis à court d'argent en ce moment, je peux payer le loyer\
+      \ en plusieurs fois ?"
+    - Je souhaite conclure un accord pour un paiement échelonné
+    - quelles sont les étapes pour payer le loyer en plusieurs fois ?
+    - "je voudrais payer mon loyer à d'autres dates"
+    - "Pour l'instant, je ne peux pas payer le loyer d'un seul coup, mais si je le\
+      \ divisais en trois parties, ça marcherait"
+    - Dorénavant, je veux payer le loyer en deux étapes
+    - À quels intervalles je peux payer les loyers ?
+    - Où est-ce que je peux voir quand il faut payer les traites du loyer ?
+    - "J'ai oublié le délai de paiement des versements de mon loyer."
+    - "J'attends toujours les allocations de chômage et je ne peux pas payer le loyer\
+      \ d'un seul coup"

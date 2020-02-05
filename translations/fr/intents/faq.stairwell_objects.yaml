@@ -1,0 +1,26 @@
+fr:
+  intent:
+    ticket.permit/stairwell_objects:
+    - autorisation stockage [couloir](indoor_location)
+    - "décoration [cage d'escaliers](indoor_location)"
+    - objets [couloir](indoor_location)
+    - "stockage dans l'[entrée]"
+    - Stationnement dans le [couloir](indoor_location) autorisé ?
+    - Je peux placer un [vase](item) devant la [porte](item) ?
+    - On peut laisser ses [chaussures](item) dans le [couloir](indoor_location)
+    - "Les [Duval] peuvent déposer leurs [vélos](item) dans l'[entrée](indoor_location)\
+      \ ?"
+    - Il est permis de déposer des objets dans le [couloir](indoor_location) ?
+    - On peut installer un [range-chaussures](item) dans le [couloir](indoor_location) ?
+    - "Est-ce que mon [voisin](person) peut faire sécher son linge dann l'[entrée](indor_location)\
+      \ ?"
+    - "Est-ce qu'on peut mettre des [plantes](plant) sur l'[escalier](item) ?"
+    - "Nous pouvons mettre de belles plantes en pot devant la [porte de l'appartement](item)\
+      \ ?"
+    - Est-il permis de stocker des objets dans le [couloir](indoor_location) commun ?
+    - "Je peux déposer des objets dans la [cage d'escalier](indoor_location) ?"
+    - "Il est permis de mettre ses [chaussures](mess) dans le [couloir](indoor_location]\
+      \ devant la  [porte d'appartement](item) ?"
+    - Je peux avoir une [armoire à chaussures](item) dans le [couloir](indoor_location) ?
+    - "Je peux décorer la [cage d'escalier](indoor_location) avec des fleurs ?"
+    - Les pots de fleurs sont autorisés sur [escaliers](item) du [couloir](indoor_location) ?

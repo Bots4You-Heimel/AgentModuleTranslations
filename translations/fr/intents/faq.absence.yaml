@@ -1,0 +1,15 @@
+fr:
+  intent:
+    faq/absence:
+    - "Que dois-je faire si je m'absente plus longtemps ?"
+    - Que dois-je prendre en compte avant mes vacances ?
+    - Je ne sera pas présent dans mon [appartement](indoor_location) pour une longue période de temps.
+    - "Quelles précautions dois-je prendre avant un long voyage dans l'[appartement](indoor_location)\
+      \ ?"
+    - Y a-t-il des mesures de sécurité pour protéger mon [appartement](indoor_location) contre le cambriolage ?
+    - Comment puis-je protéger mon [appartement](indoor_location) contre les cambrioleurs ?
+    - Comment quitter mon [appartement](indoor_location) avant le début de mes vacances ?
+    - Quelles mesures dois-je prendre avant le départ en voyage ?
+    - Quelles précautions de sécurité dois-je prendre pour protéger mon [appartement](indoor_location) contre le vol ?
+    - "Que dois-je préparer avant un long voyage dans l'[appartement](indoor_location)\
+      \ ?"

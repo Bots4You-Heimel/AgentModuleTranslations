@@ -1,0 +1,32 @@
+fr:
+  intent:
+    ticket.complaint/leaves:
+    - '[feuilles](mess) '
+    - '[feuillage](mess) '
+    - 'ratisser les [feuilles](mess) '
+    - '|'
+    - 'balayer les [feuilles](mess) '
+    - '|'
+    - "Des [feuilles](mess)  s'entrainent. | Il y a des [feuilles](mess) partout"
+    - '[feuilles](mess)  [pas balayés](mess) '
+    - 'Enlevez finalement ces [feuilles](mess) '
+    - 'Personne ne balaie les [feuilles](mess) '
+    - "Quelqu'un doit balayer les [feuilles](mess)  sur le [gazon](outdoor_location)"
+    - Il y a des [tas de feuilles mortes](mess)  partout, personne les mette dans la [poubelle](item)
+    - Il y a beaucou de [feuilles mortes](mess)  sur le [trottoir](outdoor_location)
+    - 'Le [jardin](outdoor_location) est couvert de [feuilles mortes](mess) '
+    - Le [feuillage](mess)  est répandu dans tout le [parking souterrain](outdoor_location)
+    - 'Le [chemin](outdoor_location) de la [maison](outdoor_location)est couvert de
+      [feuillage](mess) '
+    - "[Derrière la maison](outdoor_location) un [tapis de feuilles mortes](mess)\
+      \  s'est formé."
+    - Un [tapis de feuilles mortes](mess)  couvre le [jardin communautaire](outdoor_location)
+    - "Le [feuillage](mess)  de [l'abre](plant) est tombé sur la [voie piétonne](outdoor_location)."
+    - 'Il y a des [feuilles mortes](mess)  partout [devant le garage](outdoor_location) '
+    - 'Le [chemin](outdoor_location) devant la [porte de garage](outdoor_location)
+      est couvert de [feuillage](mess) '
+    - "J'ai presque glissé sur le [trottoir](outdoor_location) à cause de tout les\
+      \ [feuilles](mess) "
+    - Les [feuilles](mess)  de la [haie](plant) du [voisin](person) toment sur notre propriété
+    - "La [voie d'accès](outdoor_location) du [garage souterrain](outdoor_location)\
+      \ est couvert de [feuillage](mess)  des [abres](plant) à côté."

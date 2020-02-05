@@ -1,0 +1,4 @@
+en:
+  intent:
+    ticket.financial/payment_by_installment:
+    - 'pay in '

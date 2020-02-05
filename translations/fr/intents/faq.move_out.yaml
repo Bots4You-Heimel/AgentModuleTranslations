@@ -1,0 +1,16 @@
+fr:
+  intent:
+    faq/move_out:
+    - Que dois-je faire lorsque je déménage ?
+    - Que faut-il prendre en compte après le déménagement ?
+    - "Que dois-je savoir d'autre avant de déménager de mon [appartement](indoor_location)\
+      \ ?"
+    - "Que faut-il savoir pour si on quitte l'appartement ?"
+    - "Qu'est-ce qu'on doit faire si on déménage de son [appartement] ?"
+    - "A quoi faut-il faire attention lorsqu'on déménage ? | Que faut-il prendre en\
+      \ compte lors d'un déménagement ?"
+    - "Quels sont les travaux à effectuer dans l'[appartement](indoor_location)) avant\
+      \ le déménagement ?"
+    - Que faut-il faire avant de déménager ?
+    - '|'
+    - "Commentje prépare l'[appartement](indoor_location) avant de déménager ?"

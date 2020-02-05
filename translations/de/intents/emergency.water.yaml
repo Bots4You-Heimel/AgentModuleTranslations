@@ -1,0 +1,33 @@
+de:
+  intent:
+    ticket.emergency/water:
+    - Rohrbruch
+    - Wasserrohrbruch
+    - '[Wasserleitung](sanitary_item) spritzt'
+    - '[Wasserrohr](sanitary_item)  gebrochen'
+    - '[Wasserrohr](sanitary_item)  gebrochen'
+    - Es spritzt aus der [Wand](surface)
+    - Das [Rohr](sanitary_item) ist geplatzt
+    - Der Winter hat ein [Wasserrohr](sanitary_item) zum platzen gebracht
+    - Aus der [Wand](surface) kommt das Wasser geschossen
+    - Hier ist eine [Rohrleitung](sanitary_item) gebrochen
+    - Ich glaube, ich habe gerade in ein [Heizungsrohr](sanitary_item) gebohrt
+    - Da ist ein Loch im [Wasserrohr](sanitary_item)
+    - Aus dem [Wasserrohr](sanitary_item) spritzt das Wasser
+    - Hier ist ein Rohrbruch zu melden
+    - Es tritt Wasser aus ungewollten Öffnungen heraus
+    - Das [Abwasserrohr](sanitary_item) hat einen Riss, wo Wasser austritt
+    - An den [Heizungsleitungen](sanitary_item) fließt das Wasser raus
+    - Ein Wasserstrahl schießt aus der [Heizkörperleitung](sanitary_item) hinaus
+    - Aus den [Rohren](sanitary_item) strömt das Wasser überall raus
+    - Das Wasser fließt in Strömen aus undichten Stellen am [Rohr](sanitary_item) hinab
+    - Es tropt an mehreren Stellen des [Wasserrohrs](sanitary_item)
+    - Ich habe einen Nagel in die [Warmwasserleitung](sanitary_item) geschlagen
+    - Meine Frau hat ein Loch in die Leitung gehauen, jetzt kommt das Wasser
+    - Wir hatten einen Rohrbruch und mussten das Wasser abstellen
+    - Das Wasser rauscht aus einem großen Leck im [Rohr](sanitary_item)
+    - Wir suchen das Absperrventil, alles steht voll Wasser
+    - Wir brauchen dringend Hilfe, wir haben ein Loch im [Wasserrohr](sanitary_item)
+    - Die [Wasserleitung](sanitary_item) ist durch die Kälte geplatzt
+    - Wo kann man das Wasser abstellen, die ganze [Wohnung](indoor_location) ist schon voll Wasser
+    - Unter dem [Waschbecken](sanitary_item) läuft das ganze Abflusswasser aus dem [Siphon](sanitary_item) heraus

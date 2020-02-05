@@ -60,8 +60,8 @@ fr:
     - Les nouveaux [locataires](person) ont un [doberman](dog_breed) très menaçant et grand.
     - "Mon voisin a un énorme [chien de troupeau](dog_breed), bien que cela n'est\
       \ pas permis."
-    - "Pouvez-vous faire quelque chose contre le petit [chien](animal) de [l'appartement\
-      \ au-dessus de moi](indoor_location) qui aboie constamment ?"
+    - "Pouvez-vous faire quelque chose contre le petit [chien](animal) de l'[appartement](indoor_location)\
+      \ qui aboie constamment ?"
     - Un [chat](animal) a caché des [souris](animal) mortes [dans la buanderie](indoor_location).
     - Le nouveau [locataire](person) garde un [chien de combat](animal:Hund).
     - Le petit [chinchilla](animal) de mon [voisin](person) mord et jappe toujours.

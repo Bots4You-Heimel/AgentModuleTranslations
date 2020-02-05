@@ -1,2 +1,5 @@
-en: {
-  }
+en:
+  intent:
+    ticket.complaint/safety:
+    - fear
+    - unsafe

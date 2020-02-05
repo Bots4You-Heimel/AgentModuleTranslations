@@ -1,0 +1,53 @@
+fr:
+  intent:
+    ticket.lease/remove_additional_tenant:
+    - 'congédier [sous-locataire](person) '
+    - '[petit ami](person) déménagé'
+    - sous-location terminé
+    - enlever cocontractant
+    - '[colocataire](person) veut résilier'
+    - Le [sous-locataire] quitte
+    - '[partenaire](person) déménage'
+    - "[amie](person) s'en va"
+    - '[sous-locataire](person) a été congédié'
+    - '[petite amie](person) quitte [appartement](indoor_location)'
+    - '[partenaire](person) est déménagé'
+    - Un [colocataire](person) veut déménager
+    - Mon [amie](person) déménage
+    - "On n'a plus de [sous-locataire](person)."
+    - La sous-location est terminé chez moi.
+    - "L'[appartement] ne sera plus loué."
+    - "Je suis à nouveau seul [dans l'appartement](indoor_location)"
+    - Plus de [sous-locataire](person)
+    - "[ami](person] n'habite plus ici"
+    - Je ne sous-loue plus mon [appartement](indoor_location).
+    - Après une longue période, je vis à nouveau seul ici
+    - Mon [colocataire](person) veut déménager
+    - Je voudrais enlever un cocontractant du [contrat de location](document)
+    - "Je me suis séparée de mon petit ami, désormais j'y vis donc seule"
+    - '|'
+    - Veuillez enlever mon ex comme cocontractant, il ne vit plus ici !
+    - Mon frère peut enfin retourner à son propre logement et ne vit plus ici.
+    - "Mon [ami](person) s'est ramassé et a trouvé un nouveau logement"
+    - "Malheureusement, mon [sous-locataire](person) ne s'est pas bien comporté et\
+      \ j'ai dû le mettre dehors"
+    - "Veuillez rayer le [sous-locataire](person) [Dupont](person) du contrat, il\
+      \ n'habite plus ici"
+    - "Dès maintenant je ne loue plus l'[appartement](indoor_location), veuillez vous\
+      \ le rayer"
+    - "L'[appartement](indoor_location) que j'ai sous-loué devient disponible"
+    - "J'ai résilie la sous-location pour le mois prochain"
+    - Je viens de donner congé à mon [sous-locataire](person)
+    - "J'ai expulsé mon [locataire](personne)"
+    - Je voudrais signaler que mon [sous-locataire](person) déménage.
+    - Je  voudrais signaler que mon [sous-locataire](person) déménage le mois prochain.
+    - Mon [sous-locataire](person) déménage.
+    - Mon [sous-locataire](person) va déménager le mois prochain
+    - Mon [sous-locataire](person) déménage à la fin du mois.
+    - Mon [sous-locataire](person) déménage.
+    - Mon [appartement](indoor_location) sous-loué est de nouveau libre bientôt
+    - La sous-location est terminée.
+    - Je vis à nouveau seul dans mon appartement. Le [locataire](person) est parti.
+    - Mein [Untermieter](person) ist raus.
+    - Mon [locataire](person) a encore déménagé.
+    - Mon [locataire](person) est de nouveau parti.

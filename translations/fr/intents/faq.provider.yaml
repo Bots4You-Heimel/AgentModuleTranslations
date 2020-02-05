@@ -1,0 +1,32 @@
+fr:
+  intent:
+    faq/provider:
+    - distributeur de gaz | fournisseur de gaz
+    - choix du fournisseur de gaz
+    - changement du fournisseur  de gaz
+    - nouveau fournisseur  de gaz
+    - choisir fournisseur  de gaz
+    - changement du fournisseur  de gaz permis
+    - 'fournisseur de courant | producteur de courant '
+    - changer fournisseur de courant
+    - choix fournisseur courant
+    - choix libre du fournisseur gaz
+    - changement du fournisseur de gaz
+    - Je peux choisir un autre fournisseur de gaz
+    - Je veux un autre fournisseur de gaz
+    - Je voudrais passer à un autre fournisseur de gaz moins cher
+    - Le choix des fournisseurs de gaz est-il limité ?
+    - "Suis-je lié à la compagnie de gaz que j'ai ?"
+    - Je peux choisir le fournisseur de gaz ?
+    - La choix du fournisseur de gaz est-elle libre ?
+    - La choix du fournisseur de gaz est libre, non ?
+    - Je peux passer à Vattenfall ?
+    - "Je veux de l'électricité moins chère"
+    - "Puis-je obtenir le tarif du gaz auprès d'un autre fournisseur ?"
+    - Notre fournisseur de courant est beaucoup trop cher, je veux le changer !
+    - "Puis-je passer à RWE ? J'ai trouvé une offre moins chère pour l'électricité\
+      ."
+    - "J'ai trouvé un fournisseur de gaz moins cher, est-ce que je peux changer ?"
+    - Est-ce que je peux changer le fournisseur de gaz parce que mes charges sont trop élévés ?
+    - "Est-il permis de changer de fournisseur de gaz comme j'ai mon propre compteur\
+      \ de gaz ?"

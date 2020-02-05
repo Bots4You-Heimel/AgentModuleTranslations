@@ -1,0 +1,38 @@
+de:
+  intent:
+    ticket.complaint/power_thief:
+    - Stromklau
+    - Stromdiebstahl
+    - Strom-Betrug
+    - Strom geklaut
+    - Stromklau melden
+    - manipulierter [Stromzähler](appliance)
+    - '[Nachbar](person)  klaut Strom'
+    - Entziehung elektrischer Energie
+    - Stromklau nimmt zu
+    - ungewohnt hoher Stromverbrauch
+    - Stromdiebstahl [im Haus](indoor_location)
+    - Ich möchte melden, dass irgendein [Mieter](person) [im Haus](indoor_location) Strom klaut.
+    - Verdächtige [Kabel](item) im Flur, Stromklau?
+    - Ich denke meine [Nachbarn](person) beziehen ihren Strom von mir
+    - Die [Nachbarn](person) klauen meinen Strom!
+    - Was tun wenn Stromdiebstahl unter Verdacht?
+    - An meinem [Stromzähler](appliance) habe ich Magnete entdeckt
+    - Ich glaub die [Familie Krause](named_person) klaut mir den Strom
+    - Da will wer sein Stromproblem lösen indem er mir meinen klaut!
+    - '[Kabel](item) der [Stromzähler](appliance) wurden'
+    - Jemand hat an den [Stromzählern](appliance) rumgefummelt, klaut da wer Strom?
+    - '[Stromzähler](appliance) dreht weiter auch wenn ich die [Sicherungen](appliance)
+      meiner [Wohnung](indoor_location) ausschalte'
+    - Jemand hat sich an der Verkabelung der [Stromzähler](appliance) zu schaffen gemacht.
+    - Ich hab sämtlichen Strom in meiner [Wohnung](indoor_location) abgeschaltet und der [Stromzähler](appliance) dreht sich trotzdem weiter, überprüfen!
+    - Nach den Umbauten an der [Wohnung](indoor_location) letzten Jahres ist meine [Stromrechnung](document) stark angestiegen
+    - Im [Flur](indoor_location) sind lauter Mehrfachsteckdosen und Verlängerungskabel die zu den [Beyers](named_person) führen.
+    - Ich habe [Kabel](item) entdeckt die von den [Stromzählern](appliance) in die Kellerräume der [Nachbarn](person) führen, verdächtig!
+    - Ich kann mir die starken Abweichungen im Stromverbrauch nicht erklären
+    - Meine Stromverbrauch ist angeblich doppelt so hoch wie im Vorjahr, das kann doch nicht mit rechten Dingen zugehen!
+    - Der Zählerstand vom [Stromzähler](appliance) ist mächtig angestiegen obwohl ich im Urlaub war, da stimmt was nicht!
+    - Ich habe merkwürdige versteckte [Kabel](item) entdeckt, die in die [Wohnung](indoor_location) von [Herrn Kowick](named_person) führen.
+    - Ich habe Magneten an dem [Stromzähler](appliance) der [Nachbarn](person) entdeckt, was soll das
+    - Seitdem die Polen bei uns [im Haus](indoor_location)  wohnen ist der Stromzählerstand rapide angestiegen und ich denke die klauen meinen Strom!
+    - Den [Nachbarn](person) über mir wurde letztens der Strom abgeschaltet - jetzt läuft er wohl wieder und mein Zählerstand steigt täglich viel mehr. Das muss Stromdiebstahl sein!

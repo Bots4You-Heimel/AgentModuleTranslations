@@ -39,7 +39,7 @@ fr:
     - "Quelqu'un a volé toutes les [ampoules](appliance) du [couloir](indoor_location)."
     - "Les [ampoules](appliance) de la [cage d'escalier](indoor_location) ont été\
       \ volées."
-    - "[L'éclaireage extérieur](appliance) [devant l'entrée](outdoor_location) est\
+    - "L'[éclaireage extérieur](appliance) [devant l'entrée](outdoor_location) est\
       \ faible."
     - "La [lampe](outdoor_location) [d'entrée](appliance) a un mauvais contact."
     - "La [lumière](appliance) clignote dans [l'ascenseur](indoor_location)"
@@ -57,10 +57,10 @@ fr:
     - "Il est sombre dans [l'ascenseur](indoor_location)"
     - "La [lampe](appliance) ne s'allume pas"
     - La [lumière](indoor_location) clignote das la [cave](appliance)
-    - "La [lumière](appliance) à [l'escalier de la cave](indoor_location) ne s'allume\
+    - "La [lumière](appliance) à l'[escalier de la cave](indoor_location) ne s'allume\
       \ plus"
     - La [lampe](appliance) au [couloir](indoor_location) devrait être remplacée de toute urgence.
-    - "Veuillez remplacer [l'éclairage](appliance) dans la [cage d'escalier](indoor_location)."
+    - "Veuillez remplacer l'[éclairage](appliance) dans la [cage d'escalier](indoor_location)."
     - "La [lumière](appliance) ne fonctionne plus au [couloir](indoor_location), remplacez\
       \ le [tube néon] s'il vous plaît."
     - "La [lumière](appliance) dans la [cage d'escalier](indoor_location) clignote,\

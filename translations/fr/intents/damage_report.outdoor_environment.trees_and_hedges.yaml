@@ -11,12 +11,12 @@ fr:
     - rabattez [arbuste](plant)
     - Le [gazon](plant) doit être tondu.
     - La [pelouse](plant) devrait être tondue.
-    - "La [haie](plant) à côté de [l'entrée de la maison](outdoor_location) dépasse\
+    - "La [haie](plant) à côté de l'[entrée de la maison](outdoor_location) dépasse\
       \ le [trottoir](outdoor_location)"
-    - "Les [broussailles](plant) s'élèvent dans [l'entrée](outdoor_location)"
-    - "La [plante vivace](plant) de [l'entrée](outdoor_location) dépasse le [trottoir](outdoor_location)"
+    - "Les [broussailles](plant) s'élèvent dans l'[entrée](outdoor_location)"
+    - "La [plante vivace](plant) de l'[entrée](outdoor_location) dépasse le [trottoir](outdoor_location)"
     - Les [buissons](plant) de la [maison](outdoor_location) dépassent le [trottoir](outdoor_location)
-    - "La [haie](plant) à [l'entrée](outdoor_location) prend trop de place."
+    - "La [haie](plant) à l'[entrée](outdoor_location) prend trop de place."
     - 'Les [haies](plant) doivent être taillées. '
     - Laissez tailler les [abres](plant).
     - "Quelqu'un devrait tondre le [jardin](outdoor_location)"

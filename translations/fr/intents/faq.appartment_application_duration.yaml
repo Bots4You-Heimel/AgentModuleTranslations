@@ -1,0 +1,20 @@
+fr:
+  intent:
+    faq/appartment_application_duration:
+    - "[appartement](indoor_location) temps d'attente"
+    - '|'
+    - '[appartemen](indoor_location) attendre'
+    - Combien de temps dois-je attendre pour un [appartement](indoor_location) ?
+    - "Quel est le temps d'attente pour un logement ?"
+    - Combien de semaines dois-je attendre la réponse pour une [piaule](indoor_location) ?
+    - "Quand est-ce que je serai informé s'il y a un [appartement] (indoor_location)\
+      \ vacant ?"
+    - "Combien de temps faut-il pour qu'un logement  devienne disponible ?"
+    - "Quand est-ce que j'aurai de nouvelles informations sur les [appartements](indoor_location)\
+      \ vacants ?"
+    - Combien de jours dois-je attendre pour un [appartement](indoor_location) ?
+    - "Quels sont les temps d'attente habituels pour un [appartement](indoor_location)\
+      \ ?"
+    - "Quel est le délai d'attente pour des [appartements](indoor_location) chez vous\
+      \ ?"
+    - "Avez-vous des temps d'attentes longues pour vos [appartements](indoor_location)?"

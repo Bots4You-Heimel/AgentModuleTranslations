@@ -1,0 +1,63 @@
+fr:
+  intent:
+    ticket.damage_report/water_quality:
+    - "qualité de l'eau"
+    - pollution des eaux
+    - "contamination de l'eau"
+    - légionelles
+    - installation de dosage
+    - "sation d'épuration | installation de traitement d'eau"
+    - '[installation de dosage](sanitary_item)'
+    - qualité eau
+    - eau contaminée
+    - "qualité de l'eau insuffisante"
+    - eau potable marron
+    - eau potable polluée
+    - 'Eau [polluée](mess) '
+    - eau marron
+    - "eau contenant du plomb | plomb dans l'eau"
+    - eau chaude polluée de plomb
+    - "eau contenatn de l'arsenic"
+    - 'eau polluée '
+    - "qualité d'eau pas suffisante"
+    - eau du robinet sale
+    - 'eau chaude [sale](mess) '
+    - eau du robinet contaminée
+    - installation de dosage filtre
+    - installation de dosage défectueuse
+    - Bruits étranges de dosage
+    - appareil de dosage cassé
+    - eau marron
+    - eau pas potable | eau pas buvable
+    - "Substances toxique dans les conduites d'eau"
+    - "polluants dans l'eau potable"
+    - "germes dans l'eau du robinet"
+    - "chaux dans l'eau chaude"
+    - "trop de chlore das l'eau"
+    - "La teneur en cuivre dans l'eau du robinet est trop élevée"
+    - "remplacer les filtres de [l'installation de dosage](sanitary_item)"
+    - "la contamination de l'eau"
+    - K#eau est marron
+    - "La qualité de l'eau potable est insuffisante"
+    - "L'eau du robinet a un goût de plomb"
+    - "L'eau est de couleur brune."
+    - eau pas en ordre
+    - "L'eau n'est pas en ordre"
+    - "Quelque chose ne va pas avec l'eau"
+    - "L'eau n'a pas le même goût que d'habitude"
+    - "L'eau est bizarre"
+    - "J'ai fait analyser l'Eau et le rapport dit qu'ell contient du plomb"
+    - Hier des eaux brunes ont coulés de mon [robinet](sanitary_item)
+    - Je crois que les [conduites](sanitary_item) dans cette [maison](indoor_location) sond en plomb
+    - "L'eau dans la [douche](sanitary_item) doit être contaminé par des légionelles"
+    - "J'ai bu de l'eau et je me suis infecté par le choléra"
+    - "J'ai trouve des germes  dans l'eau"
+    - "Les filtres de [l'installation de dosage](sanitary_item) doivent être remplacé\
+      s"
+    - "Ici, l'eau est si sale qu'on ne le peut pas boire"
+    - "Ici on peu pas utiliser l'eau comme eau potable"
+    - "Un test dit que l'eau n'est pas [propre](mess) "
+    - On devrait remplacer le [filtre à eau](item) instamment
+    - La vieille [installation de dosage](sanitary_item) est finalement tombée en carafe
+    - "L'eau est trop dure, probablement [l'installation de dosage](sanitary_item)\
+      \ ne fonctionne plus"

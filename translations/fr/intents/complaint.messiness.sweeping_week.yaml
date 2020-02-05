@@ -2,3 +2,36 @@ fr:
   intent:
     ticket.complaint/messiness.sweeping_week:
     - 'semaine de balayage '
+    - nettoyage du Couloir
+    - service de nettoyage
+    - obligation de nettoyage
+    - plan de nettoyage
+    - 'respect du plan de nettoyage '
+    - infraction au plan de nettoyage, infraction à la semaine de balayage
+    - refus de nettoyer
+    - "non respect à l'obligation de nettayage"
+    - 'Le [voisin](person) [ne balaye pas](mess) '
+    - 'Le [locataire](person) [ne balaye pas](mess) '
+    - 'Le [voisin](person) [ne nettoie pas](mess) '
+    - Non-respect au service de nettoyage
+    - "Devoir de nettoyer n'a pas été respecté."
+    - Le [voisin](person) ne balaye oas le [couloir](indoor_location) !
+    - 'De nouveau, le [voisin](person) [ne nettoie pas](mess) '
+    - "Le [voisin](person) [n'a pas passé le chiffon humide](mess)  de nouveau."
+    - "De nouveau, les gens [de l'appartement au-dessus de moi](indoor_location) [n'ont\
+      \ pas balayé](mess) ."
+    - Le [locataire](person) au [RDC](indoor_location) ne nettoie pas son [bordel](mess) .
+    - "La semaine a déjà passé et l'['escalier](item)) est toujours [sale](mess) "
+    - Ici personne respecte le plan de nettoyage.
+    - 'Je suis le seul qui respecte le plan de nettoyage '
+    - Mes [voisins](person) refusent de nouveau de balayer le couloir.
+    - "La [locataire](person) du [étage mansardé](indoor_location) [n'a pas balayé\
+      ](mess)  de nouveau."
+    - Il est insupportable que je suis le seul, qui respecte le plan de nettoyage.
+    - Je suis le seul que nettoie le [couloir](indoor_location).
+    - Personne ne respecte le plan de nettoyage ici.
+    - Je suis le seul qui balaie.
+    - "Je suis le seul [dans la maison](indoor_location) qui s'occupe de la [nettoyage](mess)\
+      \ de la [cage d'escalier](indoor_location)"
+    - que mon [voisin](person) [ne nettoie pas](mess)  [le couloir](indoor_location).
+    - "Le [voisin](person) n'accomplit pas son devoir de nettoyer."

@@ -1,0 +1,24 @@
+de:
+  intent:
+    ticket.permit/lease_application_new_construction:
+    - Neubau mieten
+    - '[Wohnung](indoor_location) Bauprojekt anmieten'
+    - '[Garage](outdoor_location) Neubau mieten'
+    - Bewerbung Baustelle [Wohnung](indoor_location)
+    - Bewerbung Bau [Garage](outdoor_location)
+    - Bewerbung um [Appartment](indoor_location) in Bauvorhaben
+    - Will [souterrain](floor) [Wohnung](indoor_location) in dem [Haus](indoor_location) bekommen, was gerade gebaut wird!
+    - Möchten [Studentenwohnung](indoor_location) mieten in dem neuen Wohnheim
+    - Neue [Wohnung](indoor_location) aus Anzeige mieten
+    - Ich möchte bei Ihnen eine [Garage](outdoor_location) anmieten, wenn der Bau fertig ist
+    - Kann ich die [Doppelgarage](outdoor_location) aus ihrer Anzeige mieten, die noch im bau ist
+    - Bewerbung darum, die [Wohnung](indoor_location) zu mieten, die gerade fertig wird?
+    - Ich würde gerne die [Mietwohnung](indoor_location) in dem Neubau bekommen, die ich bei Ihnen gesehen habe.
+    - Wir haben uns dafür entschieden, dass wir gerne die [Wohnung](indoor_location) haben würden, die noch eine Baustelle ist.
+    - Wie kann ich mich um die [Dachgeschosswohnung](indoor_location) im dem neuen Bauvorhaben bewerben?
+    - Wir wollen zu den Bewerbern für die [Kellerwohnung](indoor_location) im Neubau gehören
+    - Wir würden gerne die [Wohnung](indoor_location) haben, wenn das Bauprojekt abgeschlossen ist
+    - Den [Mietvertrag](document) würden wir gerne haben, wenn fertig gebaut
+    - Ich würde gerne die [Dreizimmerwohnung](indoor_location) bekommen, die bald fertig ist.
+    - Ich will die [Garage](outdoor_location) in der [Parkstraße](street) gerne haben, wenn sie gebaut ist
+    - Die unfertige [Wohnung](indoor_location) in der [Badstraße](street) würden ich und meine [Familie](person) gerne mieten.

@@ -1,0 +1,19 @@
+fr:
+  intent:
+    faq/tips_ventilation_heating:
+    - bien aérer | aérer correctement | aération correcte
+    - bien chauffer | chauffer correctement | acclimater correctement
+    - À quoi dois-je faire attention en aérant et chauffant ? | À quoi dois-je faire attention lorsque je aère et chauffe ?
+    - À quoi dois-je veiller en aérant ?
+    - À quoi dois-je faire attention en chauffant ?
+    - Comment aérer correctement ?
+    - Comment chauffer correctement ?
+    - "Qu'est-ce qu'il y a à faire attention lorsque je aère ?"
+    - Vous avez des conseils pour une bonne aération ?
+    - "Comment j'obtiens un bon climat intérieur dans mon [appartement](indoor_location)\
+      \ ?"
+    - Quelle est la température optimale dans mon [appartement](indoor_location) ?
+    - "Quel peut être le taux d'humidité maximum de l'air dans mon [appartement](indoor_location)\
+      \ ?"
+    - Comment utiliser le [chauffage](sanitary_item) correctement ?
+    - "Comment créer un climat agréable dans l'[appartement](indoor_location) ?"

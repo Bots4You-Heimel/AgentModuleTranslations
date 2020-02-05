@@ -1,0 +1,7 @@
+fr:
+  intent:
+    faq/noise_household_level:
+    - volume normal | sourdine | volume bas
+    - définition volume normal
+    - Quel est le volume normal ?
+    - '|'

@@ -1,0 +1,47 @@
+fr:
+  intent:
+    ticket.damage_report/storm_damage:
+    - dégâts de tempête
+    - sinistre causé par tempête
+    - force du vent | vent de force
+    - ravages de la grêle
+    - "ravages de l'orage "
+    - branche [voiture](item)
+    - vent très forte dommage
+    - temête sinistre
+    - sinsitres de tempête à la [maison](outdoor_location)
+    - vent endommagement
+    - orage destruction | orage dévastation
+    - '[sapin](plant) renversé par le vent'
+    - sinsitre de tempête tuile
+    - '[toit](outdoor_location) dommage tempête'
+    - sinistre tempête au carton gourdonné
+    - vent très forte dommage au toit
+    - force de vent a arraché des tuiles
+    - dommage de tempête à la [gouttière](item)
+    - tempête [abre](plant) tombé
+    - "Un [érable](plant) s'est arraché du sol"
+    - Une branche est tombée sur ma [voiture](item)
+    - 'le dernière vent a arraché le [toit](outdoor_location) '
+    - Le vent a arraché quelques tuiles.
+    - Il semble que la tempête a causé des dommages au [toit](outdoor_location)
+    - "La tempête semble d'avoir endomagé le [toit](outdoor_location)"
+    - Le dernier orage a soufflé une tuile
+    - "À cause d'une tempête beaucoup de tuiles sont tombées du [toit](outdoor_location)"
+    - Lors de la dernière tempête un pot à fleurs a été arraché
+    - Un [abre](plant) a été renversé par le vent
+    - Il y a des dommages au clôture causé par la tempête
+    - Le vent a endommagé la [gouttière](item)
+    - 'Lors du dernier orage le [pare-vue](item) a été endommagé '
+    - 'Le vent arraché la décoration de Noël '
+    - La tempête a renversé un [abre](plant)
+    - La propriété a été endommagée par les conditions météorologiques extrêmes.
+    - La [façade extérieure](surface) a été endommagé par la tempête
+    - Mon [Audi](item) a été endommage par une chute de branche
+    - "L'orage a fait tomber une branche sur mon [break](item)"
+    - Le vent a renversé un [chêne](plant) au [jardin](outdoor_location)
+    - La foudre a frappé le [bouleau](plant) du [jardin de devant](outdoor_location)
+    - Lors de la grande tempête une branche longue est tombée sur le [toit](outdoor_location) de mon [BMW](item)
+    - Une branche du [pommier](plant) a été soufflé sur ma [bagnole](item)
+    - "Le vent soufflait si fort qu'il a renversé [l'if](plant)"
+    - "Le vent était si fort qu'il y a eu des dégâts."

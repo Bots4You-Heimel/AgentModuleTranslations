@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.shit/new_build_without_trades_list:
+    - nouvel immeuble sans [livre de performances standard spécial]

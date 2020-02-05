@@ -1,0 +1,37 @@
+fr:
+  intent:
+    ticket.damage_report/connectivity:
+    - perturbation
+    - perturbation de la réception
+    - perturbation du signal
+    - perturbation de connexion
+    - signal perturbé
+    - mauvais signal
+    - réception perturbée
+    - mauvais signal
+    - mauvaise réception
+    - pas de connexion | aucune connexion
+    - téléphone perturbé
+    - aucune ligne téléphonique | aucune liaison téléphonique | aucune connexion téléphonique
+    - aucun [téléphone](item) | pas de [téléphone](item)
+    - connexion téléphonique se suspend | ligne téléphonique coupée
+    - téléphoner pas possible
+    - '[installation téléphonique](item) perturbée'
+    - Il y a une perturbation.
+    - ne peux pas téléphoner | ne peut pas téléphoner
+    - ça craque quand je suis au téléphone | ça grésille quand je téléphone
+    - interruptions pendant la conversation au téléphone
+    - prise téléphonique avec accès à internet à haut débit
+    - "J'ai des problèmes avec la [prise téléphonique](appliance) avec accès à internet\
+      \ à haut débit"
+    - "Je crois qu'il y a une perturbation. | Je crois qu'il y a un problème"
+    - Le [téléphone](item) ne marche pas quand je le branche
+    - La ligne téléphonique est constamment coupée. | La connexion téléphonique est tojours suspendue.
+    - Aucune connexion de la [prise téléphonique](appliance)
+    - perturbation internet à haut débit | perturbation internet à large bande
+    - Mauvaise connexion
+    - Ça grésille dans la [prise téléphonique](appliance)
+    - "Il y a toujours d'interruptions pendant la conversation téléphonique"
+    - Récemment, la qualité de la ligne téléphoniques est très mauvaise.
+    - 'La ligne est interrompue de 1 à 2 secondes très souvent. '
+    - "Je n'entends pas mon interlocuteur sur téléphone."

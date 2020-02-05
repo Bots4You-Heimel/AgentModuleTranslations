@@ -1,0 +1,44 @@
+fr:
+  intent:
+    ticket.damage_report/water_pressure:
+    - "pression hydraulique | pression d'eau"
+    - "réducteur de pression | réducteur de pression d'eau"
+    - groupe de surpression
+    - groupe de surpression hydraulique
+    - "pression hydraulique insuffisante | pression d'eau insuffisante"
+    - pression trop basse
+    - "perssion hydraulique basse | pression d'eau faible"
+    - "La pression d'eau diminue"
+    - "pas de pression hydraulique | pas de pression d'eau"
+    - "à peine d'eau chaude | presque pas d'eau chaude"
+    - "régulateur de pression d'eau"
+    - "limiteur de pression d'eau"
+    - "L'eau coule à peine du [robinet](sanitary_item)"
+    - "pression d'eau faible"
+    - "La [baignoire](sanitary_item) a besoin de plus de pression d'eau chaude"
+    - problèmes de la pression hydraulique
+    - "conditions de pression de l'alimentation en eau"
+    - "régulateur de pression d'eau défectueux"
+    - 'groupe de surpression est cassé '
+    - installation pour pression hydraulique
+    - "groupe de surpression d'eau"
+    - Le groupe de surpression dans la [maison](indoor_location) est cassé
+    - "Le régulateur de pression d'eau ne fonctionne plus"
+    - "Le limiteur de pression d'eau est défectueux"
+    - "Les appareils qui règlent la pression d'eau sont cassées"
+    - Le groupe de surpression est foutu
+    - "Pas assez d'eau coule dans la [douche](sanitary_item)"
+    - "L'eau coule à peine du [robinet](sanitary_item)"
+    - Le [lavabo](sanitary_item) a presque pas de pression
+    - "Pourquoi l'eau chaude ne coule qu'en gouttes le soir ?"
+    - "Il ne coule pas assez de l'eau chez moi"
+    - "La [douche](sanitary_item) n'est qu'un filet d'eau"
+    - "Quand tout le monde se douchent le matin, l'eau chaude ne coule à peine"
+    - "La pression hydraulique n'est pas assez fort"
+    - "vitesse d'écoulement ici"
+    - "C'est possible que la pression d'eau a diminué ou est-ce que ma conduite est\
+      \ simplement bouchée"
+    - La pression hydraulique a diminué, ça devrait être à cause des groupes de surpression
+    - "Au [10ème étage](floor), nous n'avons presque plus de pression d'eau ici, les\
+      \ systèmes sont probablement en panne."
+    - "Dans notre tour ces systèmes de pression d'eau ne fonctionnent plus."

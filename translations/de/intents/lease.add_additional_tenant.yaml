@@ -1,0 +1,55 @@
+de:
+  intent:
+    ticket.lease/add_additional_tenant:
+    - untervermietet
+    - '[Untermieter](person)'
+    - Submieter
+    - Neuer [Untermieter](person)
+    - '[Wohnung](indoor_location) untervermieten'
+    - Habe geheiratet
+    - Neuer Vertragspartner
+    - '[Wohnung](indoor_location) untervermietet'
+    - Vertragspartner aufnehmen
+    - '[Freund](person) zieht dazu'
+    - neuen Vertragspartner eintragen
+    - '[Partner](person) wohnt hier'
+    - '[Freundin](person) wird dazuziehen'
+    - '[Untermieter](person) ist dazugezogen'
+    - '[Wohnung](indoor_location) wird untervermietet'
+    - Habe vor meine [Wohnung](indoor_location) unterzuvermieten.
+    - Kann ich mein Mietobject untervermieten
+    - Kann ein [Bekannter](person) von mir meine [Wohnung](indoor_location) mieten?
+    - Ich möchte Ihnen einen [Untermieter](person) mitteilen
+    - Ich will einen weiteren [Mieter](person) aufnehmen
+    - Vorübergehend will ich die [Wohnung](indoor_location) untervermieten.
+    - Bitte nehmen Sie meine [Partnerin](person) in den [Mietvertrag](document) auf
+    - mein [Freund](person) ist zu mir gezogen
+    - Ich möchte einen weiteren [Mitbewohner](person) hinzufügen
+    - Ich will einen weiteren [Mieter](person) aufnehmen
+    - Meine Frau wohnt jetzt bei mir
+    - Habe einem Bekannten versprochen dass er hier für ne Weile wohnen darf, geht klar oder?
+    - wie mache ich kenntlich dass jemand neues hier wohnt
+    - Vor zwei Wochen ist ein [Freund](person) zu mir gezogen
+    - Ich habe einen [Untermieter](person) geholt
+    - ein [Untermieter](person) soll demnächst dazuziehen
+    - endlich wohne ich nicht mehr alleine in dieser Bude!
+    - Sie hat ja gesagt! Nächste Woche zieht meine Verlobte bei mir ein
+    - wegen eines Schicksalsschlags habe ich meinem [Freund](person) vorübergehend angeboten bei mir zu wohnen, ist das ok?
+    - Für ein paar Monate bin ich unterwegs und will die [Wohnung](indoor_location) weitervermieten
+    - Demnächst wird jemand neues noch bei mir wohnen
+    - Ist es gestattet eine weitere Person bei mir wohnen zu lassen?
+    - Wegen mangelndem Geld würde ich gerne
+    - ich muss wissen ob ich die wohnung weitervermieten darf
+    - ein [Bekannter](person) wird demnächst bei mir dazuziehen
+    - ist erlaubt dass mein Vater für ne Weile bei mir wohnt?
+    - weil ich einsam bin würde ich gerne jemanden suchen der mit mir die [Wohnung](indoor_location) teilt
+    - Darf meine Schwester vorübergehend bei mir wohnen?
+    - es ist doch erlaubt noch jemand zweites [in der Wohnung](indoor_location) wohnen zu lassen?
+    - Weil ich beruflich unterwegs bin will ich meine [Wohnung](indoor_location) weitervermieten
+    - Ich bin für längere Zeit im Ausland und will jemandem die [Wohnung](indoor_location) weitervermieten
+    - Habe mich von meinem Mann getrennt und kann die [Wohnung](indoor_location) nicht alleine bezahlen, darf ich einen [Untermieter](person) suchen?
+    - Besteht die Möglichkeit andere Menschen mit in die [Wohnung](indoor_location) zu nehmen?
+    - '[Freund](person) ist eingezogen'
+    - '[Freundin](person) ist eingezogen'
+    - '[Partner](person) ist eingezogen'
+    - Eine [Freundin](person) möchte vorübergehend bei mir wohnen.

@@ -1,0 +1,21 @@
+de:
+  intent:
+    ticket.shit/cash_deposit_by_payment_slip:
+    - Barzahlung
+    - Bareinzahlung
+    - '[Zahlschein](document)'
+    - '[Erlagschein](document)'
+    - '[Zahlungsanweisung](document)'
+    - Bareinzahlung durch [zahlschein](document)
+    - Bareinzahlung mit [Zahlschein](document)
+    - Bareinzahlung durch Schein
+    - Einzahlung mit [Zahlschein](document)
+    - Was benötige ich für eine Barzahlung?
+    - Der [Vermieter](person) verlangt eine Barzahlung, wie kann ich das machen?
+    - Ich möchte die [Rechnung](document) in bar zahlen, geht das?
+    - kann ich das verlangte Geld irgendwie in bar bezahlen?
+    - Ist eine Bareinzahlung mit [Zahlschein](document) bei euch gestattet?
+    - wie hoch sind die Gebühren wenn ich bar die Miete zahle?
+    - wer trägt die kosten für Barzahlung der Miete?
+    - kann ich die Miete auch in bar zahlen?
+    - Was ist bei Barzahlung zu beachten?

@@ -1,0 +1,16 @@
+fr:
+  intent:
+    faq/clear_snow:
+    - '[neige](mess) pelleter'
+    - pelleter [neige](mess)
+    - enlever la [neige](mess)
+    - Dois-je enlever la [neige](mess) en hiver ?
+    - Je suis en charge du service hivernal ?
+    - Est-ce que les [locataires](person) doivent enlever la [neige](mess) ?
+    - Suis-je responsable pour le déblayage et de salage ?
+    - Qui doit pelleter la [neige](mess)
+    - "Qui s'occupe du du déblayage et de salage chez nous ?"
+    - "Qui est responsable pour l'enlèvement de la neige ?"
+    - Serai-je obligé de pelleter la [neige](mess)?
+    - "Les [locataires](mieter] sont-ils obligés d'enlever la neige ?"
+    - "Qui s'occupe de la béblayage et de salage ? "

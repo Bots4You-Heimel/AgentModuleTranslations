@@ -1,0 +1,115 @@
+de:
+  intent:
+    ticket.financial/invoice_protest:
+    - falsche [Rechnung](document)
+    - Nachforderung falsch
+    - '[Abrechnung](document) inkorrekt'
+    - Fehler in [Abrechnung](document)
+    - '[Nebenkostenabrechnung](document) ist falsch'
+    - Fehler in der [Rechnung](document)
+    - So viel habe ich nicht geheizit, die [Abrechnung](document) kann nicht richtig sein
+    - Nachforderung der Miete ist ungerechtfertigt
+    - Hab die miete bezahlt und trotzdem soll ich was zurückzahlen?
+    - Kann nicht sein dass ich eine Nachforderung zahlen soll!
+    - '[Betriebskostenabrechnung](document) kann nicht stimmen'
+    - Der Mieterhöhung habe ich widersprochen und trotzdem fordern sie das jetzt nach!
+    - Ich glaube ihnen ist da ein Fehler mit der [Abrechnung](document) unterlaufen
+    - Die Miete ist doch bezahlt, was soll das mit dem Brief und der Rückzahlung?
+    - Miete wurde überwiesen und trotzdem habe ich eine Mahnung erhalten, wieso das
+    - werde die geforderte Nachzahlung ignorieren weil bereits gezahlt
+    - Ich habe eine Nachforderung erhalten obwohl ich die Miete fristgerecht bezahlt hab!
+    - Warum sind meine Betriebskosten wieder so hoch?
+    - Klären Sie mich über meine Nebenkosten auf
+    - Wieso muss ich so viel für meine Betriebskosten zahlen?
+    - Meine [Abrechnung](document) hat falsche Beträge
+    - Die Zahlen auf der [Abrechnung](document) stimmen nicht.
+    - Meine [Abrechnung](document) stimmt nicht.
+    - Mich wundern die hohen Zahlen in der Betriebskostenrechnung
+    - Auf meiner [Abrechnung](document) ist ein Betrag zu hoch.
+    - Meine [Betriebskosten-Abrechnung](document) fällt zu hoch aus.
+    - Die Nebenkosten für meine [Wohnung](indoor_location) sind zu hoch veranschlagt.
+    - Meine Betriebskosten sind nicht vollständig
+    - In der [Abrechnung](document) sind einzelne Punkte, die ich nicht verstehe
+    - Meine [Nebenkostenabrechnung](document) enthält Beträge, die nicht korrekt sind.
+    - Die [Betriebskostenabrechnung](document) kann nicht stimmen. Die Nachzahlung ist viel zu hoch.
+    - Die [Heizkostenabrechnung](document) ist nicht korrekt
+    - Auf der [Abrechnung](document) fehlen Kostenpunkte, die sonst immer abgerechnet wurden.
+    - Auf der [Abrechnung](document) ist der Zählerstand nicht korrekt notiert.
+    - Auf meiner [abrechnung](document) ist ein betrag zu hoch.
+    - Auf meiner [Abrechnung](document) sind mehrere Kostenpunkte nicht richtig.
+    - Auf meiner [Abrechnung](document) steht ein falscher Zählerstand.
+    - Auf meiner [Nebenkostenabrechnung](document) ist ein Betrag zu niedrig.
+    - Auf meiner [Nebenkostenabrechnung](document) stimmt der Zählerstand nicht.
+    - Da ist ein betrag drin, der da nicht aufgeführt sein darf.
+    - Da ist ein Betrag enthalten, der über Nebenkosten nicht abgerechnet werden kann.
+    - Da sind zu hohe Kosten auf meiner [Abrechnung](document)
+    - Da stehen Beträge auf meiner [Abrechnung](document), die da nicht drauf gehören.
+    - Da stimmen mehrere Kostenpunkte auf der [Abrechnung](document) nicht.
+    - Da stimmt was nicht mit meinen Nebenkosten, die sind viel zu hoch.
+    - Der Betrag von meiner [Abrechnung](document) ist zu gering berechnet.
+    - Der Betrag von meiner [Abrechnung](document) stimmt nicht. Er ist zu niedrig.
+    - Der Zählerstand auf der [Abrechnung](document) ist nicht korrekt.
+    - Der Zählerstand auf der [Abrechnung](document) ist nicht richtig.
+    - Der Zählerstand auf der [Nebenkostenabrechnung](document) stimmt nicht.
+    - Der Zählerstand auf meiner [Abrechnung](document) stimmt nicht.
+    - Der Zählerstand ist anscheinend falsch notiert worden.
+    - Der Zählerstand ist falsch abgelesen worden.
+    - Die [Abrechnung](document) enthält falsche Zahlen.
+    - Die [Abrechnung](document) kam zu spät bei mir an.
+    - Die [Abrechnung](document) meiner Nebenkosten ist viel zu spät bei mir abgegeben worden.
+    - Die [Auflistung](document) der Betriebskosten ist lückenhaft.
+    - Die [Auflistung](document) meiner Nebenkosten ist unvollständig.
+    - Die Beträge auf der [Abrechnung](document) sind falsch.
+    - Die Beträge auf eminer [Abrechnung](document) sind viel zu hoch
+    - Die Beträge der [Abrechnung](document) sind falsch.
+    - Die [Betriebskostenabrechnung](document) kam viel zu spät und ich werde sie nicht bezahlen.
+    - Die [Betriebskostenabrechnung](document) war zu spät in der Post.
+    - Die Heizkosten sind laut [Abrechnung](document) doppelt so hoch wie im letzten Jahr. Da stimmt was nicht.
+    - Die Nebenkosten für meine [Wohnung](indoor_location) sind zu hoch veranschlagt.
+    - Die Nebenkosten sind in der [Abrechnung](document) nicht vollständig aufgeführt.
+    - Die Nebenkosten sind zu niedrig veranschlagt.
+    - Die [Nebenkostenabrechnung](document) ist mir zu spät [zugestellt](mess) worden.
+    - Die [Nebenkostenabrechnung](document) ist nicht vollständig.
+    - Die [Nebenkostenabrechnung](document) ist zu niedrig
+    - Die [Nebenkostenabrechnung](document) kam verspätet bei mir an.
+    - Die Zahlen auf der [Abrechnung](document) stimmen nicht.
+    - Einige Punkte auf der [Abrechnung](document) sind nicht korrekt.
+    - Einige Zahlen auf der [Abrechnung](document) sind nicht korrekt.
+    - Es fehlen einzelne Kostenpunkte auf meiner [Abrechnung](document).
+    - Etwas fehlt auf meiner [Nebenkostenabrechnung](document).
+    - Für die [Abrechnung](document) ist der [Zähler](sanitary_item) falsch abgelesen worden.
+    - In der [Abrechnung](document) sind einzelne Punkte, die ich nicht bezahlen werde
+    - In meiner [Abrechnung](document) ist ein Betrag, der da nicht hinein gehört.
+    - In meiner [Abrechnung](document) sind Beträge enthalten, die nicht umlagefähig sind.
+    - In meiner [Abrechnung](document) sind nicht alle Posten aufgeführt.
+    - In meiner [Nebenkostenabrechnung](document) steht ein Betrag, der da nicht reingehört.
+    - Irgendwas fehlt auf der [Nebenkostenabrechnung](document).
+    - Manche Punkte auf meiner [Abrechnung](document) stimmen nicht
+    - Mehrere Faktoren in meiner [Nebenkostenabrechnung](document) sind nicht richtig.
+    - Mehrere Kostenfaktoren auf meiner [Abrechnung](document) sind nicht korrekt.
+    - Mehrere Kostenpunkte auf meiner [Abrechnung](document) sind nicht korrekt.
+    - Mehrere Punkte auf meiner [Abrechnung](document) sind nicht korrekt.
+    - Mehrere Punkte auf meiner [Abrechnung](document) sind nicht richtig.
+    - Mehrere Punkte auf meiner [Betriebskostenabrechnung](document) sind nicht korrekt.
+    - Mehrere Punkte auf meiner [Nebenkostenabrechnung](document) sind nicht korrekt.
+    - Meine [Abrechnung](document) enthält einen falschen Zählerstand.
+    - Meine [Abrechnung](document) hat falsche Beträge
+    - Meine [Abrechnung](document) ist mir verspätet [zugestellt](mess) worden.
+    - Meine [Abrechnung](document) ist zu hoch, weil die [Zähler](sanitary_item) nicht mehr gültig geeicht sind.
+    - Meine [Abrechnung](document) ist zu hoch.
+    - Meine [Abrechnung](document) stimmt nicht.
+    - Meine [Betriebskosten Abrechnung](document) fällt zu hoch aus.
+    - Meine Betriebskosten sind nicht komplett enthalten.
+    - Meine Betriebskosten sind nicht vollständig
+    - Meine Betriebskosten sind niedriger als auf der [Abrechnung](document).
+    - Meine neben kosten [abrechnung](document) hat einen kostenpunkt, der da nicht drin stehen darf.
+    - meine nebenkosten sind höher als auf der abrechnung.
+    - Meine [Nebenkostenabrechnung](document) enthält Beträge, die nicht korrekt sind.
+    - Meine [Nebenkostenabrechnung](document) enthält Posten, die darüber nicht abgerechnet werden dürfen.
+    - Meine [Nebenkostenabrechnung](document) enthält Posten, die ich nicht bezahlen will
+    - Meine [Nebenkostenabrechnung](document) ist mir zu spät [zugestellt](mess) worden.
+    - meine [Nebenkostenabrechnung](document) ist zu niedrig
+    - Meine [Nebenkostenabrechnung](document) kam sehr spät.
+    - Meine [Nebenkostenabrechnung](document) kam viel zu spät.
+    - Mir wurden zu hohe Nebenkosten in [Rechnung](document) gestellt.
+    - Mit meiner Nebenkosten [abrechnung](document) stimmt was nicht

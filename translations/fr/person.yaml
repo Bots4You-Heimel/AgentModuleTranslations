@@ -6,9 +6,11 @@ fr:
   Carpenter:
   - menuiserie
   - menuisier
-  - menuisier
-  - charpentier
-  - charpentière
+  - menuiserie
+  - '|'
+  - 'charpentier '
+  - '|'
+  - '|'
   - charpentière
   - menusière
   Electrician:
@@ -34,6 +36,7 @@ fr:
   Locksmith:
   - service clé, service der serrurier, service de dépannage de serrures, service clé minute
   - service clé, service de serrurier
+  - service clé minute | clé minute | service de dépannage de serrures
   - crocheteur
   Painter:
   - peintre
@@ -45,6 +48,8 @@ fr:
   - plombier, ferblantier
   - entreprise de chauffage
   - chauffagiste
+  - chauffagiste
+  - installateur
   - plombier-zingueur
   - installateur
   - plomberie
@@ -60,23 +65,32 @@ fr:
   - consellier, personne responsable
   - consellière
   - gestionnaire immobilier
-  - secrétaire
+  - "gestionnaire d'objet "
+  - secretaire
   - consellière clientèle
   Janitor:
   - concierge
   - "gardien de l'immeuble, gardienne de l'immeuble"
+  - '|'
   - facility manager
   Cleaner:
   - femme de ménage
   - société de nettoyage
   - service de nettoyage
   - nettoyeur, nettoyeuse
-  - ' technicien de surface,  technicienne de surface '
-  - agent de nettoyage de bâtiments, argente de nettoyage de bâtiments
-  - entreprise de nettoyage
+  - spécialiste du nettoyag
+  - technicien de surface
+  - 'agent de nettoyage de bâtiments, argente de nettoyage de bâtiments '
+  - 'entreprise de nettoyage '
+  - service de nettoyage
   - aide ménagère
+  - '|'
+  - 'fée du nettoyage '
+  - '|'
   - femme de ménage
-  - fée du nettoyage
+  - '|'
+  - technicienne de surface
+  - '|'
   Tenant:
   - locataire
   - colocataire

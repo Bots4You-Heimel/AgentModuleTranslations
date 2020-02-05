@@ -1,0 +1,37 @@
+fr:
+  intent:
+    ticket.complaint/vandalism:
+    - vandalisme
+    - '[grafiti](mess) '
+    - '[graffiti](mess) '
+    - '[graffitti](mess) '
+    - paroles
+    - '[gribouillage](mess) '
+    - barbouillage | peinture murale
+    - '[barbouillages](mess)  | [gribouillages](mess)'
+    - destruction volontaire | destruction délibérée | démolition volontaire | démolition délibérée
+    - volontairement détruit | délibrement démolit | intentionellement cassé
+    - tagueur jeunes
+    - '[mur](surface) bombé'
+    - '[gribouillage](mess)  illicite | [barouillage](mess) non autorisé'
+    - signaler vandalisme
+    - '[graffiti](mess)  partout'
+    - '[murs](surface) plein de [graffitis](mess) '
+    - Je voudrais singaler du an acte de vandalisme
+    - "Quelqu'un doit enlever les [gribouillages](mess)  dans le [couloir](indoor_location)"
+    - Quand est-ce que le [graffiti](mess)  sera enlevé ?
+    - "Quelqu'un a fait des graffitis sur ma [porte de l'appartement](item) !"
+    - "Quelqu'un a barbouillé le [mur de la maison](surface) avec des [croix gammé\
+      es](mess)  "
+    - "J'ai lu des [paroles d'extrême droite](mess)  dans la [cage d'escalier](indoor_location)."
+    - "Paroles d'extrême droite sur les [murs](surface)"
+    - "J'ai trouve des [autocollants](mess)  et des [gribouillages](mess)  offensantes\
+      \ sur ma [boîte aux lettres](item)"
+    - "Quelqu'un a gribouillé ma [plaque de la sonnette](item)"
+    - "Quelqu'un peut enlever les [gribouillages](mess)  sur le [terrain de jeux](outdoor_location)\
+      \ ?"
+    - Des gens se sont immortalisés partout dans les [ascenseurs](indoor_location) avec des [dictons](mess) .
+    - "J'ai pincé les [enfants du voisin](person) en train de [gribouiller](mess)\
+      \  [l'ascenseur](indoor_location) avec feutre indélébile"
+    - 'Le [garçon](person) des [Creusot](named person) a décoré la [boîte de distribution](appliance)
+      avec des [swastikas](mess) '

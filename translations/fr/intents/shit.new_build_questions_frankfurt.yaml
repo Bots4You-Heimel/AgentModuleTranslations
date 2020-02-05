@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.shit/new_build_questions_frankfurt:
+    - nouvel immeuble [Francfort](city)

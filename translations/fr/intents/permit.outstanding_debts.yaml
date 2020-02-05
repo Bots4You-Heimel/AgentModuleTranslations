@@ -1,0 +1,30 @@
+fr:
+  intent:
+    ticket.permit/outstanding_debts:
+    - arriéré
+    - dettes de loyer | dette locative | impayé de loyer
+    - arriéré de loyer
+    - dettes | devoir
+    - 'conseil en matière de dette '
+    - annonce arriéré de loyer
+    - Je suis surdetté
+    - Je suis fauché | Je suis en déconfiture
+    - Je ne suis pas à fonds | Je suis à sec
+    - Comment puis-je me rendre au service de consultation en matière de dettes ?
+    - "J'ai besoin de conseils sur les dettes"
+    - Je ne peux pas payer le loyer
+    - Ce mois, je ne peux pas payer le loyer
+    - Nous voulons parler de notre arriéré de loyer
+    - Je ne peux plus payer mon loyer
+    - "J'ai un [tas](mess) de dettes"
+    - Je suis en retard de paiement de mon loyer
+    - "Je n'ai pas assez d'argent pour le prochain loyer"
+    - Ma montagne de dettes ne cesse de croître
+    - "Je dois de l'argent à beaucoup de gens"
+    - Je suis dans le rouge.
+    - "J'ai besoin de mettre mon compte à découvert"
+    - Je ne peux pas payer le loyer ce mois
+    - Je dois payer mon loyer plus tard
+    - Je ne peux pas régler le loyer
+    - "Mon compte bancaire n'est pas couvert pour le prochain paiement de la location"
+    - "Le prochain paiement de loyer est dû et je n'ai pas assez d'argent pour ça"

@@ -1,0 +1,97 @@
+de:
+  intent:
+    ticket.permit/renewal_general:
+    - Modernisierung
+    - Modernisieren
+    - Erneuern
+    - Erneuerung
+    - Wohnungsmodernisierung
+    - Instandsetzung
+    - Sanierung
+    - '[Gasanschluss](sanitary_item) [Frankfurt](city)'
+    - Modernisierungsarbeiten
+    - Badsanierung [Wiesbaden](city)
+    - Badsanierungen in [Wiesbaden](city)
+    - Bestandsmietern Badsanierung [Wiesbaden](city)
+    - Wann modernisiert
+    - '[Wohnung](indoor_location) instandsetzen'
+    - '[Wohnung](indoor_location) erneuern'
+    - '[Wohnung](indoor_location) verändern'
+    - '[Bad](indoor_location) erneuern'
+    - '[Küche](indoor_location) modernisiern'
+    - neuer [Backofen](appliance)
+    - '[Gasanschluss](sanitary_item) Gebiet [Frankfurt](city)'
+    - Küchenausstattung erneuerung
+    - '[Einbauküche](indoor_location) sanieren'
+    - '[Gasanschluss](sanitary_item) [Frankfurt](city)'
+    - '[Frankfurt](city) [Gasanschluss](sanitary_item)'
+    - Gasanschluß [Frankfurt](city)
+    - '[Frankfurt](city) Gasanschluß'
+    - Gas-Anschluss [Frankfurt](city)
+    - '[Frankfurt](city) Gas-Anschluss'
+    - Gas-Anschluß [Frankfurt](city)
+    - '[Frankfurt](city) Gas-Anschluß'
+    - '[Badewanne](sanitary_item) erneuern'
+    - '[Haltegriff](item) austauschen'
+    - Duschhaltegriff wechseln
+    - '[Heizkörper](sanitary_item) erneuern'
+    - '[Heizkörper](sanitary_item) austauschen'
+    - Bitte [Heizkörper](sanitary_item) auswechseln
+    - Einbau neues [Badezimmer](indoor_location)
+    - Renovierung der [Wohnung](indoor_location)
+    - Neuanlage des [Gartens](outdoor_location)
+    - Wann wird renoviert?
+    - Sanierung [Badezimmer](indoor_location)
+    - Neuer [Gasanschluss](sanitary_item)
+    - '[Gasleitung](sanitary_item) legen'
+    - Änderung an [Wohnung](indoor_location)
+    - Veränderung der [Wohnung](indoor_location)
+    - '[Namensschild](item) anbringen'
+    - Warte auf Sanierung
+    - Brauche jemanden, der mir mein [Briefkastenschild](item) anbringt
+    - '[Gasanschluss](sanitary_item) im Gebiet [Frankfurt](city)?'
+    - Neuer Gasanschluß in [Frankfurt](city)?
+    - Interesse an Gas-Anschluss in [Frankfurt](city)
+    - Bitte um Ersetzung der Heizungen in der [Wohnung](indoor_location)
+    - Laut [Vertrag](document) hätte die [Terrasse](outdoor_location) längst neu gemacht werden sollen
+    - Bitte neues schnelleres Internet
+    - Ich brauche einen Anschluss ans Gasnetz im Gebiet [Frankfurt](city)
+    - Die [Einbauschränke](item) sind uralt. Können die modernisiert werden?
+    - Es wird mal Zeit dass die [Steckdosen](appliance) neu gemacht werden
+    - Die [Küchenzeile](item) ist ausm letzten jahrhundert, austauschen
+    - Bei der hohen Miete kann doch mal ne neue [Haustür](item) her gell?
+    - Können endlich mal neue [Kabel](item) verlegt werden?
+    - Ich möchte meine Silikonfugen erneuern
+    - Darf ich meine [Wohnung](indoor_location) erneuern?
+    - Ich plane Erneuerungsarbeiten an meiner [Wohnung](indoor_location)
+    - Könnte jemand mein [Klingelschild](item) machen?
+    - Bald werde ich meine [Wohnung](indoor_location)  instand setzen
+    - Darf ich meine [Wohnung](indoor_location) verändern?
+    - Darf ich Änderungen an der [Wohnung](indoor_location) vornehmen
+    - Einstiegshilfe [Badewanne](sanitary_item)
+    - Könnte mir jemand eine Einstiegshilfe für die [Badewanne](sanitary_item) montieren?
+    - Ist es möglich, dass mir ein Badezimmerhaltegriff eingebaut werden könnte?
+    - Bestandsmietern Badsanierung in [Wiesbaden](city)
+    - Ich suche einen [Gasanschluss](sanitary_item) in Gebiet [Frankfurt](city)
+    - Ich würde mehr über den [Gasanschluss](sanitary_item) [Frankfurt](city) erfahren
+    - Wie läuft das mit dem Gasanschluß in [Frankfurt](city) ab?
+    - Wo gibt es Infos zu dem Gas-Anschluss in [Frankfurt](city)
+    - Habt ihr in Gebiet [Frankfurt](city) [Gasanschluss](sanitary_item) für mich?
+    - Badsanierungen bei Bestandsmietern in [Wiesbaden](city)
+    - '[Bad](indoor_location) sanieren bei Bestandsmietern in [Wiesbaden](city)'
+    - Die [Fliesen](surface) im [Bad](indoor_location) sind echt hässlich und außer Mode und sollten ausgetauscht werden
+    - Die alten [Durchlauferhitzer](sanitary_item) sind total ineffizient, bitte gegen neue austauschen
+    - Die Nebenkosten sind doch nur so hoch weil die [Boiler](appliance) so uralt sind, können die nicht mal auf den neuesten Stand gebracht werden?
+    - Wie sieht es denn mit einer Komplettsanierung vom [Badezimmer](indoor_location) aus?
+    - Bessern sie bitte die [Treppe](item) zu den [Garagen](outdoor_location) aus bevor noch jemand stürzt
+    - die [Herdplatten](appliance) sind nicht mehr zu retten, ich will einen neuen [Herd](appliance) beantragen
+    - der [Ofen](appliance) hat schon zu viele Gebrauchsspuren, kann der ausgetauscht werden?
+    - Der [Vermieter](person) wollte doch schon längst die [Treppen](item) im [Flur](indoor_location) erneuern oder?
+    - Seit 2 Jahren sind die [Treppengeländer](item) veraltet und eklig, bitte austauschen
+    - Die [Fenster](item) in meiner [Wohnung](indoor_location) müssen mal rundum erneuert werden, sind viel zu undicht weil alt etc.
+    - Die Erneuerung der [Einbauküche](indoor_location) ist echt überfällig, wo kann ich das beantragen?
+    - Meine [Küche](indoor_location) ist noch die gleiche wie aus den 80ern, wann wird da endlich mal was neu gemacht?
+    - Die [Nachbarn](person) haben neues Internet, aber bei mir sind noch die alten Anschlüsse.. wie lange noch?!
+    - Wann wird denn endlich mal das neue [Badezimmer](indoor_location) eingebaut?
+    - Das [Bad](indoor_location) unserer [Wohnung](indoor_location) bedarf einer Komplettsanierung, besonders die [Dusche](sanitary_item) ist nicht zumutbar!
+    - Darf ich [in meiner Wohnung](indoor_location) feste Einbauten vornehmen?

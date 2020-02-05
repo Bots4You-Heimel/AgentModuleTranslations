@@ -1,0 +1,35 @@
+fr:
+  intent:
+    ticket.lease/termination_request.md:
+    - "résilier | démissionner | suspendre | donner congé à quelqu'un"
+    - résiliation | suspension | démission | préavis
+    - résiliation du bail
+    - résiliation du [contrat de location](document)
+    - résilier bail de location | résilier contrat de location
+    - résiliation [logement](indoor_location) | résilier [appartement](indoor_location)
+    - résilier [logement](indoor_location) | résilier [appartement](indoor_location)
+    - 'terminer [contrat de location] '
+    - résilier [pièce](indoor_location) | résilier [chambre](indoor_location) | résilier [logement](indoor_location)
+    - résilier [garage](outdoor_location]
+    - On résilie | Nous résilions
+    - terminder [contrat de location](document) du [garage](indoor_location)
+    - résiliation en respectant le préavis | résiliation dans les délais
+    - Mettre fin au loyer
+    - résiliation du [logement en location](indoor_location)
+    - mettre fin au [contrat de location](document)
+    - Comment dois-je résilier ?
+    - Je résilie mon bail.
+    - fin du contrat de [location](document) pour le [garage](outdoor_location)
+    - Je voudrais me débarrasser de mon [appartement](indoor_location) dès que possible
+    - Je dois déménager et je veux quitter mon [étage](indoor_location)
+    - Bientôt, je veux quitter mon [appartement](indoor_location) !
+    - "résiliation normale de l'[appartement](indoor_location) dès que possible"
+    - Nous vous informons que nous souhaitons mettre fin à notre contrat de location le plus tôt possible
+    - Je voudrais sortir du [contrat de location](document)
+    - "J'ai mis un lettre de [résiliation](document) pour vous dans le courrier"
+    - Alors, je mets fin à mon [bail](document)
+    - "Cessation du [contrat de location](document) d'un [pièce](indoor_location)"
+    - "Par la présente, je résilie le [contrat](document) du 31.12.2012 concernant\
+      \ le bien locatif susmentionné en respectant le préavis jusqu'au 1.8.2022 à\
+      \ la prochaine date possible."
+    - Je vous informe que je veux terminer le [contrat de location](document) pour la place de stationnement dès que possible.

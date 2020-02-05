@@ -1,0 +1,43 @@
+de:
+  intent:
+    ticket.damage_report/water_pressure:
+    - Wasserdruck
+    - Druckminderer
+    - Druckerhöhungsanlagen
+    - Wasserdruckerhöhungsanlage
+    - ungenügender Wasserdruck
+    - Zu geringer Druck
+    - Niedriger Wasserdruck
+    - Wasserdruck lässt nach
+    - Kein Wasserdruck
+    - Kaum Warmwasser
+    - Druck anlagen
+    - Wasserdruck Anlage
+    - Anlagen Druckerhöhung
+    - Kaum Wasser kommt aus [Wasserhahn](sanitary_item)
+    - Flauer Wasserdruck
+    - Die [Badewanne](sanitary_item) braucht mehr Warmwasserdruck
+    - Probleme mit Wasserdruck
+    - Druckverhältnisse der Wasserversorgung
+    - Wasserdruck Anlage defekt
+    - Druckerhöhungsanlage ist kaputt
+    - Anlage für Wasserdruck
+    - Anlage zur Wasserdruckerhöhung
+    - Druckerhöhungsanlagen im [Haus](indoor_location) kaputt
+    - Wasserdruck Anlage geht nicht mehr
+    - Anlage für den Wasserdruck defekt
+    - Geräte die den Wasserdruck regulieren sind kaputt
+    - Die Druckerhöhungsanlagen tun nicht mehr
+    - Zu wenig Wasser kommt aus [Dusche](sanitary_item)
+    - Es kommt aus dem [Wasserhahn](sanitary_item) kaum Wasser
+    - Das [Waschbecken](sanitary_item) hat kaum Druck
+    - Wieso kommt das warme Wasser abends nur noch tröpfelnd?
+    - Es kommt bei mir zu wenig Wasser heraus
+    - Aus der [Dusche](sanitary_item) rinnt nur ein müdes Rinnsal
+    - Wenn morgens alle Duschen kommt kaum noch warmes Wasser raus
+    - Der Wasserdruck ist nicht hoch genug
+    - Fließgeschwindigkeit des Wassers hier
+    - Könnte es sein, dass der Wasserdruck niedriger geworden ist, oder ist hier einfach meine Leitung zu?
+    - Der Wasserdruck hat nachgelassen, die Druckerhöhungsanlagen müssen Schuld dran sein
+    - Im [10. Stock](floor) haben wir hier kaum noch Wasserdruck, die Anlagen dafür sind wohl kaputt
+    - In unserem Hochhaus funktionieren diese Anlagen für den Wasserdruck nicht mehr

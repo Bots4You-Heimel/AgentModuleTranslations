@@ -1,0 +1,28 @@
+fr:
+  intent:
+    ticket.damage_report/lost:
+    - déclaration de perte
+    - déclaration de découverte
+    - perdu | perdue
+    - égaré | égarée
+    - '[clé](item) perdu'
+    - '[trousseau](item) egaré'
+    - '[clé de porte de la maison](item) introuvable'
+    - perte de [clé de la bôite aux lettres](item)
+    - '[contrat de location](document)  perdu | [bail de location](document) perdu'
+    - La [clé](item) a disparu !
+    - 'Je ne peux pas trouver la [facture](document) '
+    - "J'ai perdu ma [clé de la porte de devant](item) !"
+    - "Depuis hier j'ai perdu la [clé de l'appartement](item)"
+    - "Je pense que j'ai égaré la [clé](item) pendant les vacances"
+    - Je ne peux plus trouver la [télécommande de la porte de garage](item)
+    - Ma femme a égaré la [clé de la porte de maison](item)
+    - On ne peut pas trouver la [clé aux toilettes](item)
+    - Mon mari a laissé sa [clé de la boîte aux lettres](item) dans le bus
+    - 'Je ne peux plus trouver notre [décompte de charges](document) '
+    - Le [jeton](item) pour la [barrière](item) est introuvable
+    - "Nous avons fouillé tout, mais on peut pas trouver [l'ouvre porte](item)"
+    - "J'ai cherché partout, le deuxième [jeton de déchets](item) est nulle part"
+    - "Notre [clé de poubelle](item) n'est pas trouvable"
+    - "Qu'est-ce que je fais si j'ai laissé mon [trousseau](item) dans le train ?"
+    - "Mon [fils](person) a laissé son [jeton de parking](item) n'importe où"

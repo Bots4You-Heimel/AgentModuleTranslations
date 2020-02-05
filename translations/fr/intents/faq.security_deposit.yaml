@@ -1,0 +1,35 @@
+fr:
+  intent:
+    faq/security_deposit:
+    - caution | dépôt de garantie
+    - dépôt de loyer
+    - "caution d'appartement"
+    - montant des dépôts
+    - Montant de la caution ? | Montant du dépôt de garantie ?
+    - Caution combien ? Dépôt de garantie combien ?
+    - caution restituée quand? | caution quand remboursée ?
+    - Quand payer caution ? Quand payer dépôt de garantie ?
+    - Combien de temps faudra-t-il pour rembourser ma caution ? | Combien de temps faudra-t-il pour rembourser mon dépôt de garantie ?
+    - Quand ma caution sera-t-elle remboursée ?
+    - Comment je peux laisser rembourser ma caution de loyer ?
+    - "J'aimerais que ma caution soit remboursée"
+    - Quand est-ce que ma caution sera remboursée ?
+    - Quand ma caution sera remboursée ?
+    - "Quand est-ce que j'aurai ma caution ?"
+    - Combien de temps faut-il pour recevoir mon cation ?
+    - Est-il possible de récupérer le dépot de garantie ?
+    - "J'ai besoin de mon dépot de garantie."
+    - "J'ai besoin d'argent et j'aimerais que mon dépôt de garantie soit remboursé\
+      ."
+    - Je peux récupérer une partie de mon dépôt de garantie ?
+    - Est-ce que je récupère la caution en espèces ?
+    - Je veux que ma caution soit payée en espèces.
+    - "Qui s'occupe de ma caution ? | Qui est responsable pour mon dépôt de garantie "
+    - "Dois-je payer un dépôt ? | Est-ce qu'il faut que je paye une caution?"
+    - Comment je peux récupérer ma caution ?
+    - Quand vais-je récupérer mon dépôt de garantie ?
+    - Quel est le montant du dépot de garantie à payer ?
+    - Je reçois un intérêt pour la caution déposée ?
+    - Est-ce que le [propriétaire](person) peut retenir le dépôt ?
+    - Quand puis-je escompter le remboursement de la caution ?
+    - Sur quel compte dois-je transférer la caution ?

@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.shit/emergency_service_riedberg:
+    - "service de garde [Riedberg](city) | service médical d'urgence [Riedberg](city)"

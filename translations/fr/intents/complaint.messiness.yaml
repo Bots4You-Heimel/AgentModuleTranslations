@@ -31,7 +31,7 @@ fr:
     - "C'est [sale](mess)  ici."
     - Il y a des [bouteilles de bière](mess)  dans le [couloir](indoor_location)!
     - Ça devrait être [plus propre](mess)  ici.
-    - "Tout [l'entrée](indoor_location) est [sale](mess) "
+    - "Tout l'[entrée](indoor_location) est [sale](mess) "
     - "Le [bac à sable](outdoor_location)  n'est [pas propre](mess) "
     - '[Mme Laurent](named person) a [sali](mess)  le [couloir](indoor_location)'
     - "[L'ascenseur](indoor_location) est [barbouillé](mess) "
@@ -40,7 +40,7 @@ fr:
     - Il y a [des résidus de peinture](mess)  dans la [cave à velo](indoor_location)
     - 'Il y a des [mégots de cigarette](mess) [devant la maison](outdoor_location)  '
     - Tout le [couloir](indoor_location) est [sale](mess) .
-    - "Il y a des [chaussures](mess)  dans [l'entrée](indoor_location)"
+    - "Il y a des [chaussures](mess)  dans l'[entrée](indoor_location)"
     - 'Il y a des [déchets électroniques](mess)  [derrière la maison](outdoor_location) '
     - Il y a des [ordures](mess)  partout.
     - Tout ici est [poussiéreux](mess) .
@@ -54,7 +54,7 @@ fr:
     - Pourquoi personne [ne nettoie pas](mess)  ici ?
     - Ça devrait être [plus propre](mess)  ici.
     - "Je n'ai jamais vu une tel [bordel](mess) ."
-    - " [L'escalier](item) [dans la maison] (indoor_location) doit être nettoyé."
+    - " L'[escalier](item) [dans la maison] (indoor_location) doit être nettoyé."
     - "La [cage d'escalier](indoor_location) doit être nettoyé."
     - "Vous devez nettoyer la [cage d'escalier](indoor_location)."
     - "La [cage d'escalier](indoor_location) est [sale](mess) "
@@ -90,53 +90,60 @@ fr:
       \ et [n'a pas nettoyé](mess) ."
     - Un des [voisins](person) a porté tout la boue du [jardin](outdoor_location)  [dans la maison](indoor_location)
     - En entrant [dans la maison](indoor_location) avec des chaussures [sales](mess:Dreck) les [locataires](person) du [5ème étage](floor) ont tout [sali](Mess:Schmutz)
-    - "Encore une fois, mes [voisins](person) ont complètement [sali](mess)  [l'escalier](indoor_location)"
+    - "Encore une fois, mes [voisins](person) ont complètement [sali](mess)  l'[escalier](indoor_location)"
     - "Les [enfants](person) continuent d'entrer [dans la maison](indoor_location)\
       \ avec des chaussures [sales](mess:Schmutz) et répandent tout au [couloir](indoor_location)."
     - Les [voisins](person) au-dessous moi [salissent](mess)  le [couloir](indoor_location) sans le nettoyer.
     - "Quelqu'un de [l'appartement au-dessus de moi] (indoor_location) a répandu de\
       \ la [saleté](mess)  [dans la cage d'escalier](indoor_location)"
-    - "Il y a encore une fois des [empreintes](mess)  des [enfants](person) à [l'entré\
+    - "Il y a encore une fois des [empreintes](mess)  des [enfants](person) à l'[entré\
       e](indoor_location)"
     - Le [voisin](person) au [rez-de-chaussée](floor) a [sali](mess)  tout le [couloir](indoor_location)
     - "Les [locataires](person) au-dessus de moi [salissent](mess)  la [cage d'escalier](indoor_location)"
     - Le [locataire](person) en bas a complètement [sali](mess)  le [palier](indoor_location).
     - Mes [voisins](person) du [troisième étage](floor) répandent regulièrement le sol forestier [dans la maison](indoor_location)
     - 'Les [enfants](person) de mes [voisins](person) ont à nouveau tout [sali](mess) '
-    - "Les [enfants](person) de [l'appartement en dessous de moi](indoor_location)\
-      \ ont [fait des [taches](mess)  de [crasse](mess)  sur les [murs](indoor_location)"
+    - "Les [enfants](person) de l'[appartement](indoor_location) ont [fait des [taches](mess)\
+      \  de [crasse](mess)  sur les [murs](indoor_location)"
     - Les [gosses](person:Kinder] de mes [voisins](person) répandent la [boue](mess)  de leurs chaussures partout.
     - Mon [voisin](person) nourrit des [pigeons](animal) qui [salissent](mess)  la [terrasse](outdoor_location)  partagée.
     - "Le [voisin](person) du [1er étage](floor) a [sali](mess) la [cage d'escalier](indoor_location)"
     - Le [voisin](person) ne balaie pas le [couloir]((indoor_location)
     - "Le [locataire](person) en bas de moi a [sali](mess)  la [cage d'escalier](indoor_location)."
-    - "[Monsieur Abdelaoui](named person) a déposé ses [sacs poubelle](mess)  au [couloir](indoor_location)\
-      \ et [n'a pas nettoyé]"
-    - '[Famille Rousseau](named person) a répandu tout la [crasse](mess)  du [jardin](outdoor_location)  [dans
-      la maison](indoor_location)'
-    - En entrant [dans la maison](indoor_location) avec des chaussures [sales](mess) [Mme Mercier](named person) du [5ème étage](floor) a tout [sali](mess) )
-    - "Encore une fois, [famille Dupont](named person) a complètement [sali](mess)\
-      \ [l'escalier](indoor_location)"
+    - Le [voisin](person) au-dessus de me [salit](mess)  tojours le [couloir](indoor_location)
+    - "Les [enfants](person) n'utilisent jamais le [paillasson](mess)  avant d'entrer\
+      \ dans la [maison](indoor_location)."
+    - "[Monsieur Abdelaoui](person) a déposé ses [sacs poubelle](mess)  au [couloir](indoor_location)\
+      \ et [n'a pas nettoyé](mess) "
+    - '[Famille Dupont](person) a répandu tout la [boue](mess)  du [jardin](outdoor_location)
+      [dans la maison](indoor_location)'
+    - '[Madame Favre](person) du [5ème étage](floor) est entrée dans la maison](indoor_location)
+      avec des [chaussures sales](mess)  et a tout [sali](mess) '
+    - "[Famille Pierre](named person) ont de nouveau entièrement [salé](mess) l'[escalier](item)"
     - "Les [gosses](person) continuent d'entrer [dans la maison](indoor_location)\
       \ avec des chaussures [salis](mess)  et répandent tout au [couloir](indoor_location)."
-    - La [racaille](person) du voisin [salit](mess)  le [couloir](indoor_location) sans le nettoyer.
+    - 'La [racaille](person) du [voisin](person) [salit](mess)  le [couloir](indoor_location)
+      sans le nettoyer. '
+    - "Quelqu'un de l'[appartement](indoor_location) au-dessus de moi a répandu la\
+      \ [salté](mess)  dans la [cage d'escalier](indoor_location)"
     - "Il y a encore une fois des [empreintes](mess) des [rejetons](person) à côté\
-      \ dans [l'entrée](indoor_location)"
-    - "[L'idiot](person) au [rez-de-chaussée](floor) a [sali](mess)  tout le [couloir](indoor_location)"
+      \ dans l'[entrée](indoor_location) "
+    - "[L'idiot](person) au [rez-de-chaussée](floor) a [sali](mess)  tout le [couloir](indoor_location) "
     - "La [famille Martinez](named person) au-dessus de moi [salit](mess)  la [cage\
       \ d'escalier](indoor_location)"
-    - Le [M. Blanchet](named person) a complètement [sali](mess)  le [pallier](indoor_location)
-    - La chère [Mme Grunewald](named person) au [troisième étage](floor) répand régulièrement toute la forêt [dans la maison](indoor_location).
-    - Les [gamins](person) de mes [voisins] ont à nouveau tout [sali](mess) .
-    - "Le [garçon](person) de [l'appartement en dessous de moi](indoor_location) a\
-      \ [fait des [taches](mess)  de [crasse](mess)  sur les [murs](indoor_location)"
-    - Les [gosses](person) de mes voisins répandent la [boue](mess)  de leurs [chaussures](mess)  partout.
-    - '[Monsieur Giroud](named person) nourrit des pigeons, qui [salissent](mess)  la
-      terrasse partagée.'
-    - "[Mme Villedieu](named person) du [13ème étage](floor) a [sali](mess)  la [cage\
+    - Le [Monsieur Mathieu](named person) a totalement [sali](mess)  le [palier](indoor_location)
+    - ' La chère [Mme Grunewald](named person) au [troisième étage](floor) répand
+      régulièrement toute la forêt [dans la maison](indoor_location). '
+    - De nouveau, la [racaille]((person) du [voisin](person)ont [salit](mess)  tout
+    - "Le [garçon](person) de l'[appartement](indoor_location) au dessous de mo a\
+      \ [sali](mess)  les [murs](surface) dans la [cage d'escalier](indoor_location)."
+    - Les [gosses](person) de mes [voisins](person) répandent la [boue](mess)  de leurs [chaussures](mess)  partout.
+    - '[Monsieur Loiseau](person) nourrit les pigeons qui [souillent](mess)  la [terrasse](outdoor_location)
+      commune.'
+    - " [Mme Villedieu](named person) du [13ème étage](floor) a [sali](mess)  la [cage\
       \ d'escalier](indoor_location)"
     - Le [couloir](indoor_location) est très [sale](mess)  et doit être nettoyé.
-    - "Le [couloir](indoor_location) en bas doit être nettoyé de toute urgence, c'est\
+    - " Le [couloir](indoor_location) en bas doit être nettoyé de toute urgence, c'est\
       \ complètement [sale](mess) ."
     - "Quelqu'un doit absolument nettoyer le [couloir](indoor_location), c'est trè\
       s [sale](mess) "

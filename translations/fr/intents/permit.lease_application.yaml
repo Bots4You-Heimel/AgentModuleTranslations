@@ -1,0 +1,32 @@
+fr:
+  intent:
+    ticket.permit/lease_application:
+    - "demande d'appartement | candidature pour un appartement"
+    - louer [appartement](indoor_location)
+    - louer [garage](outdoor_location)
+    - candidature [appartement](indoor_location)
+    - candidature [garage](outdoor_location)
+    - candidature pour un [appartement](indoor_location)
+    - '[appartement](indoor_location) libre où ?'
+    - poser candidature
+    - "Je veux l'[appartement](indoor_location) [rez-de-jardin](floor)"
+    - On veut louer un [logement étudiant](indoor_location)
+    - "louer [appartement](indoor_location) de l'annonce"
+    - 'poser candidature en réponse à une annonce de logement '
+    - Je voudrais louer un [garage](outdoor_location) chez vous
+    - Je peux louer le [garage double](outdoor_location) de votre Annonce ?
+    - "postuler à l'[appartement](indoor_location)"
+    - "Je voudrais prendre le [logement en location](indoor_location) que j'ai vu\
+      \ chez vous."
+    - "Nous avons décidé que nous aimerions avoir l'[appartement](indoor_location))."
+    - "J'ai besoin d'un [logement](indoor_location)"
+    - Je voudrais poser ma candidature pur une annonce de logement.
+    - Je souhaite poser ma candidature pour la [place de parking](outdoor_location)
+    - "Comment je peux poser une candidature à l'[appartement mansardé](indoor_location)"
+    - Nous voulons être parmi les candidats pour le [appartement de sous-sol cave](indoor_location)
+    - "Nous aimerions avoir l'[appartement](indoor_location)"
+    - Nous aimerions avoir le [contrat de location](document)
+    - "J'aimerais avoir l'[appartement](indoor_location) que j'ai regardé avec vous\
+      \ hier."
+    - "J'aimerais avoir le [garage](outdoor_location) situé au [Parkstraße](street)."
+    - Ma [famille](person) et moi aimerions louer un [appartement](indoor_location) dans la [Elisenstraße](street)

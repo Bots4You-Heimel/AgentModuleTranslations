@@ -1,0 +1,24 @@
+fr:
+  intent:
+    ticket.permit/tenant_proposal:
+    - '[locataire suivant](person) | [locataire qui va me succéder](person)'
+    - proposition [locataire suivant](person)
+    - '[locataire suivant](person) proposition'
+    - Je peux faire des suggestions pour les nouveaux locataires ?
+    - nomination [locataire](person) prochain
+    - "Je voudrais nommer quelqu'un comme [prochain locataire](person)."
+    - Je peux suggérer un [prochain locataire] (person) ?
+    - Je souhaite faire une proposition pour un [nouveau locataire].
+    - Je peux choisir moi-même un [nouveau locataire](person) ?
+    - "Mon [pote](person) veut l'[appartement](indoor_location) "
+    - "Est-ce qu'un de mes [amis](person) peut louer mon [appartement](indoor_location)\
+      \ ?"
+    - "Un [ami] à moi veut reprendre l'[appartement](indoor_location) "
+    - "Mon [pote](person) s'interesse à l'[appartement](indoor_location)"
+    - "Je voudrais proposer quelqu'un qui louerait mon [appartement](indoor_location)\
+      \ lorsque je déménagerais"
+    - "J'ai trouvé une [personne intéressée](person) pour mon [appartement](indoor_location)\
+      \ qui le prendrait immédiatement."
+    - "Je connais un [collège de travail](personne) qui aimerait visiter l'[appartement](indoor_location)"
+    - "Je connais une [amie](person) qui emménagerait dans [l'appartement](indoor_location)\
+      \ à ma place"

@@ -1,0 +1,26 @@
+fr:
+  intent:
+    ticket.emergency/blackout:
+    - panne de courant
+    - panne de courant générale
+    - panne de résau
+    - copure de courant
+    - "pas de couran | pas d'électricité"
+    - "copure d'électricité"
+    - tout noir
+    - tout sombre
+    - courant coupé
+    - Plus de courant
+    - '|'
+    - "L'alimentation électrique est coupée"
+    - Le réseau électrique est coupé
+    - Le courant est coupé partout
+    - Chez moi le courant est coupé
+    - Quelle est la meilleure façon de réagir à une panne de courant ?
+    - "Il n'y plus d'électricité dans la [maison](indoor_location)"
+    - Tout à coup le courant ne fontionne plus
+    - Le courant est coupé dans toute la [maison](indoor_location)
+    - "Je n'ai plus de jus dans mon [appartement](indoor_location)"
+    - "Tout à coup il n'y a plus d'électricité nulle part"
+    - On a une panne de courant ici !
+    - Tout à coup aucune [appareil électrique](appliance) fonctionne dans la [piaule](indoor_location).

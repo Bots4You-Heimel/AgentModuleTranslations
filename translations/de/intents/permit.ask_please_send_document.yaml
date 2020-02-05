@@ -1,0 +1,55 @@
+de:
+  intent:
+    ticket.permit/ask_please_send_document:
+    - '[Zuzugsgenehmigung](document)!'
+    - '[Mietbescheinigung](document)'
+    - '[Vermieterbescheinigung](document)'
+    - '[Betriebskostenabrechnung](document)'
+    - '[Fehlbelegungsbescheinigung](document)'
+    - '[Wohnungsgeberbescheinigung](document)!'
+    - '[Einzugsermächtigung](document)'
+    - '[Vermieterbescheinigung](document)'
+    - '[Mietschuldenfreiheitsbescheinigung](document).'
+    - '[Energieversorgungsgeräteliste](document)'
+    - Mieter-TÜV
+    - '[Energieversorgungsgeräte](appliance) [Liste](document)'
+    - '[Energieversorgungsgeräte](appliance) [Auflistung](document)'
+    - '[Energieversorgungsgeräte](appliance) [Liste](document)'
+    - welche Energiegeräte
+    - '[Liste](document) zu den Energieversorgungsgeräten'
+    - verwendete [Energieversorgungsgeräte](appliance)
+    - '[Auflistung](document) zusenden'
+    - '[Mietbescheinigung](document) senden'
+    - Zuschicken [Lastschriftverfahren](document) [Formular](document)
+    - '[Kopie](document) schicken'
+    - '[Mieter](person) TÜV'
+    - Brauche [Nebenkostenrechnung](document) zugeschickt!
+    - Brauche Kopien der notwendigen Dokumente für das [Lastschriftverfahren](document)
+    - Ich brauche eine [Einzugsermächtigung](document)
+    - Bitte schickt [Mietbescheinigung](document)
+    - Könnten Sie mir bitte eine [Dokument](document) zukommen lassen?
+    - Ich brauche etwas zugeschickt
+    - '[Liste](document) Apparate für Elektrizitätversorgung'
+    - '[Formular](document) SEPA-Mandat [Kopie](document)'
+    - SEPA [Formular](document) zuschicken
+    - '[Liste](document) der [Energieversorgungsgeräte](appliance)'
+    - Übermitteln Sie mir die [Vermieterbescheinigung](document).
+    - Ich brauche eine [Wohnungsgeberbescheinigung](document)
+    - Schicken Sie bitte eine [Kopie](document) der [Nebenkostenabrechnung](document)
+    - Bitte schicken Sie die [Zuzugsgenehmigung](document)
+    - Senden Sie die [Betriebskostenabrechnung](document) an meine Adresse
+    - Können Sie die [Nebenkostenabrechnung](document) per Post zusenden?
+    - Wer sendet mir die [Mietschuldenfreiheitsbescheinigung](document)?
+    - Lassen Sie mir die [Fehlbelegungsbescheinigung](document) zukommen
+    - Wie bekomme ich eine [Mietbescheinigung](document)?
+    - Könnte mir jemand eine [Bescheinigung](document) schicken
+    - Infos zu den Energieversrogungsgeräten
+    - Gibt es eine [Liste](document) aller Geräte zur Energieversorgung
+    - Gibt es andere Bezugsquellen für die Energieversorgung?
+    - Ich bitte um die Versendung einer [Kopie](document) meines [Mietvertrags](document)
+    - Ich benötige die [Unterlagen](document), um eine [Einzugsermächtigung](document) zu erteilen
+    - Ich muss eine [Kopie](document) des [Mietvertrags](document) an das Arbeitsamt übergeben
+    - Ihr müsstet mir nochmal eine [Mitbeischeinigung](document) schicken
+    - Bitte schick mir so schnell wie möglich die [Betriebskostenabrechnung](document)!
+    - Könnte mir jemand bitte bald nochmal die [Nebenkostenabrechnung](document) auf dem Postweg zukommen lassen?
+    - Bei mir zieht ein neuer [Untermieter](person) ein uch dafür bräuchte ich eine [Zuzugsgenehmigung](document)

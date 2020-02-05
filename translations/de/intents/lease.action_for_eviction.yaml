@@ -1,0 +1,32 @@
+de:
+  intent:
+    ticket.lease/action_for_eviction:
+    - Räumungsklage
+    - Zwangsräumung
+    - Rausschmiss
+    - Rausschmiß
+    - Räumungsklage erhalten
+    - Räumungsklage widersprechen
+    - Zwangsräumung angedroht
+    - Rausschmiss angekündigt
+    - drohende Räumungsklage
+    - Zwangsräumung Einspruch
+    - Räumungsklage in Post
+    - Zwangsräumung nicht rechtens
+    - Ihr wollt mich raus schmeißen
+    - Ich werde raus geschmissen!
+    - Ihr könnt uns doch nicht so einfach vor die [Tür](item) setzen!
+    - Wir sollen vor die [Tür](item) gesetzt werden
+    - Ich habe eine Räumungsklage erhalten
+    - Was kann ich bei einer Räumungsklage unternehmen?
+    - Mir wurde eine Räumungsklage zugesendet
+    - Der [Vermieter](person) droht mir mit einer Zwangsräumung
+    - ohne Ankündigung wurde meine [Wohnung](indoor_location) leer geräumt
+    - Räumungsklage erhalten obwohl ich die Miete jetzt doch gezahlt hab
+    - Meine [Wohnung](indoor_location) wurd leer geräumt wegen zwangsräumung, wo ist mein Zeug?
+    - Plötzlich habe ich ne Räumungsklage per post bekommen, hab doch nichts gemacht?
+    - Habe Stress mit meinem [Vermieter](person), der meint er kann mich verklagen mit ner Räumungsklage oder so
+    - Könnt ihr mich einfach raus schmeißen?
+    - Nur weil ich ein bisschen länger brauch hat mir der [Vermieter](person) ne Räumungsklage an den Hals gesetzt
+    - Da stand letztens ein Gerichtsvollzieher vor der [Tür](item) der meine [Bude](indoor_location) räumen wollte, was da los?
+    - habe eine Räumungsklage erhalten weil ich den Hausfrieden gestört haben soll aber das stimmt nicht!

@@ -1,0 +1,67 @@
+fr:
+  intent:
+    ticket.lease/rent_review:
+    - réduction de loyer
+    - révision du loyer | ajustement du loyer
+    - réduire loyer
+    - '|'
+    - '|'
+    - loyer est révisé
+    - '|'
+    - loyer trop élevé
+    - moins de loyer immédiatement | moins de loyer tout suite
+    - Je demande une réduction du loyer
+    - "Le montant du loyer n'est pas acceptable"
+    - "Le loyer a été augmenté de plus de 20 %, ce n'est pas légal !"
+    - "Une augmentation de loyer a encore été annoncée. Vous n'êtes pas autorisé à\
+      \ le faire si souvent !?"
+    - Je viens de emménager et il y a déjà une augmentation de loyer, ça ne va pas comme ça
+    - "Je suis le seul qui a reçu une augmentation de loyer, j'ai demandé aux [voisins](person)\
+      \ et ce ne pas le cas chez eux !"
+    - "Ce n'est pas juste que je doive à nouveau payer un loyer plus élevé."
+    - Mes [voisins] (personne) paient moins que moi, où est moa révision du loyer ?
+    - "Je suis depuis longtemps d'avis que le loyer est trop élevé et devrait être\
+      \ réduit"
+    - 'Mon appartement est dans un état horrible. Une augmentation du loyer ne prend
+      pas avec moi ! '
+    - "Avec l'état de mon [appartement](indoor_location), vous ne pouvez pas prévoir\
+      \ une augmentation de loyer !"
+    - Vu le mauvais état de mon [appartement](indoor_location), il est impossible que vous augmentez le loyer.
+    - "Vu l'état de mon [appartement](indoor_location), vous ne pouvez pas augmenter\
+      \ le loyer."
+    - Vu le mauvais état de mon [appartement](indoor_location), vous ne pouvez pas imposer une augmentation du loyer.
+    - Avec un tel [appartement](indoor_location), vous ne pouvez pas demander une révision du loyer.
+    - Avec un tel [appartement](indoor_location), vous ne pouvez pas demander un loyer plus élevé.
+    - "Le mauvais état de mon [appartement](indoor_location) est en contradiction\
+      \ avec l'augmentation de loyer que vous envisagez."
+    - "L'état de l'[appartement](indoor_location) s'oppose à une révision du loyer."
+    - "L'état de mon [appartement](indoor_location) est catastrophique, je ne paierai\
+      \ pas l'augmentation du loyer."
+    - "L'état de mon [appartement](indoor_location) ne correspond vraiment pas à la\
+      \ révision du loyer demandée."
+    - "Le montant de mon loyer sera à nouveau augmenté et je ne suis pas d'accord\
+      \ avec ça."
+    - Le loyer ne peut pas être augmenté à nouveau.
+    - Le loyer doit être augmenté, où est-ce que je peux faire opposition à ça ?
+    - "Le loyer doit être augmenté à nouveau et je ne suis pas d'accord."
+    - "Le loyer doit être révisé à plusieurs reprises, ce n'est pas possible !"
+    - "Le nouveau loyer est beaucoup trop élevé. Je ne suis pas d'accord avec cette\
+      \ augmentation."
+    - "La nouvelle augmentation de loyer n'est pas justifiée."
+    - "L'état de mon [appartement](indoor_location) ne correspond pas à l'augmentation\
+      \ de loyer prévue."
+    - "L'état de mon [appartement](indoor_location) ne justifie pas une augmentation\
+      \ de loyer."
+    - Le [appartement](indoor_location) est déficient et vous demandez un révision du loyer.
+    - "L'[appartement](indoor_location) est en très mauvais état et vous voulez augmenter\
+      \ le loyer."
+    - "Il n'est pas possible que le loyer soit augmenté à nouveau."
+    - Pour cet [appartement](indoor_location) inférieur, vous ne pouvez pas sérieusement réviser le loyer.
+    - "Pour un [appartement](indoor_location) si délabré, une révision du loyer n'est\
+      \ absolument pas justifié."
+    - "Je n'accepte pas la révision du loyer."
+    - "Je n'accepte pas la nouvelle augmentation de loyer."
+    - "Je ne suis pas d'accord avec l'augmentation du loyer."
+    - "Je trouve pas que l'augmentation du loyer est ok."
+    - "Je refuse l'révisiont du loyer."
+    - "Je refuse l'augmentation du loyer."

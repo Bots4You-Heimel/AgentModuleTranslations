@@ -1,0 +1,25 @@
+fr:
+  intent:
+    faq/emergency_contact:
+    - "numéro d'urgence"
+    - '|'
+    - "numéro de téléphone d'urgence"
+    - "message d'urgence"
+    - "contact d'urgence"
+    - "contact du service d'urgence"
+    - 'signaler une urgence '
+    - urgence numéro de téléphone
+    - '|'
+    - '|'
+    - '|'
+    - '|'
+    - "Qui puis-je appeler en cas d'urgence - en dehors des heures de bureau ?"
+    - "Qui puis-je appeler en cas d'urgence ?"
+    - "Qui puis-je appeler en dehors des heures d'ouverture ?"
+    - "Y a-t-il un numéro d'urgence ?"
+    - Je veux signaler une urgence
+    - "Quel est le numéro d'urgence ?"
+    - "À qui puis-je m'adresser en cas d'urgence ?"
+    - "Quel est le contac en cas d'urgence ?"
+    - "Où est-ce que je trouve le contact d'urgence ?"
+    - "On peut vous contacter en dehors des heures d'ouverture ?"

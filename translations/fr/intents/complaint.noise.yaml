@@ -4,56 +4,67 @@ fr:
     - atteinte à la tranquillité, tapage nocturne
     - volume
     - silence, repos, paix
-    - bruit de chantier
+    - '|'
     - pas de repos, pas de silence, pas de paix
-    - musique forte
-    - '[voisin](person) fort, [voisin](person) bruyant'
-    - Les travaux de construction me dérangent.
-    - '[voisin](person) trop fort, [voisin](person) trop bruyant'
-    - les [voisins](person) font du bruit
-    - "les [locataires](person) font la fête jusqu'au matin"
-    - Chantier trop bruyant
-    - Bruit [dans la maison](indoor_location)
-    - "C'est trop bruyant ici."
-    - Les [voisins](person) sont trop bruyant !
-    - Mes [voisins](person)  écoutent de la musique forte.
-    - Personne respecte le temps de repos !?
-    - Les [voisins] (person) tondent la [pelouse](outdoor_location) pendant la période de repos.
-    - Les [locataires](person) du [rez-de-chaussée](floor) tondent regulièrement la [pelouse](outdoor_location) pendant des jours fériés.
-    - Les [locataires] (person) au-dessus de moi tondent la [pelouse](outdoor_location)  pendant les heures de midi.
-    - "J'ai l'impression d'être le seul à respecter les périodes de repos."
-    - Les [locataires](person) au-dessus de moi se baignent régulièrement pendant la nuit.
-    - "C'est le milieu de la nuit et on se douche dans [l'appartement au-dessus de\
-      \ moi](indoor_location)."
-    - "Pendant la nuit, j'entends constamment du bruit de la salle de bains dans [l'appartement\
+    - 'bruit de chantier '
+    - 'musique forte  '
+    - '[voisin](person) fort, [voisin](person) bruyant '
+    - travaux dérangent
+    - '[voisin](person) trop fort'
+    - 'Les travaux de construction me dérangent. '
+    - '[voisins](person) trop bruyant'
+    - 'les [voisins](person) font du bruit  '
+    - 'Bruit [dans la maison](indoor_location) '
+    - "C'est trop bruyant ici. "
+    - 'Les [voisins](person) sont trop bruyant !  '
+    - 'Mes [voisins](person)  écoutent de la musique forte.  '
+    - 'Personne respecte le temps de repos !? '
+    - 'Les [voisins] (person) tondent la [pelouse](outdoor_location) pendant la période
+      de repos. '
+    - Les [locataires](person) du [rez-de-chaussée](indoor_location) tondent régulièrement la [pelouse](outdoor_location) pendant des jours fériés.
+    - 'Les [locataires] (person) au-dessus de moi tondent la [pelouse](outdoor_location)  pendant
+      les heures de midi. '
+    - "J'ai l'impression d'être le seul à respecter les périodes de repos.  "
+    - 'Les [locataires](person) au-dessus de moi se baignent régulièrement pendant
+      la nuit. '
+    - "C'est au milieu de la nuit et on se douche à nouveau dans l'[appartement](indoor_location)\
+      \ au-dessus de moi."
+    - "De l'appartement [situé en dessous de moi](indoor_location), j'entends constamment\
+      \ le bruit de la salle de bain pendant la nuit."
+    - Mes [voisins](personne) se douchent et se baignent dans la nuit, on peut entendre cela [dans toute la maison](indoor_location).
+    - " C'est le milieu de la nuit et on se douche dans l'[appartement au-dessus de\
+      \ moi](indoor_location). "
+    - "Pendant la nuit, j'entends constamment du bruit de la salle de bains dans l'[appartement\
       \ en dessous de moi](indoor_location)"
     - "Mes [voisins](person) se douchent et se baignent pendant la nuit et on l'entend\
-      \ [dans toute la maison](indoor_location)"
+      \ [dans toute la maison](indoor_location) "
     - "Chaque fois quand je suis en train de m'endormir, j'entends les [voisins](person)\
-      \ prenant une douche."
+      \ prenant une douche. "
     - Les [enfants](person) de mes [voisins](person) crient et piétinaient toujours.
-    - Mes [voisins](person) sont trop bruyants et ne respectent pas les périodes de repos.
-    - Mes [voisins](person) regardent constamment la télévision trop fort.
-    - Les [locataires] (person) au-dessus de moi mettent leur télé toujours trop fort.
-    - "J'entend toujour la télé de mes [voisins](person) au-dessous moi."
-    - Les [voisins](person) au-dessus de moi font constamment du bruit pendant les périodes de repos.
+    - ' Mes [voisins](person) sont trop bruyants et ne respectent pas les périodes
+      de repos. '
+    - 'Les [locataires] (person) au-dessus de moi mettent leur télé toujours trop
+      fort. '
     - "Personne [dans la maison](indoor_location) ne s'intéresse aux temps de repos,\
-      \ on ne peut jamais dormir d'une traite !"
-    - Les gens de la [coloc](indoor_location) au-dessus de moi font une grande fête et moi je ne peux pas dormir.
-    - La musique de mes [voisins](person) est beaucoup trop forte.
+      \ on ne peut jamais dormir d'une traite ! "
+    - 'Les gens de la [coloc](indoor_location) au-dessus de moi font une grande fête
+      et moi je ne peux pas dormir. '
+    - ' La musique de mes [voisins](person) est beaucoup trop forte. '
     - Mes [voisins](person) au-dessus de moi piétinent constamment.
-    - Les [enfants](person) de mes [voisins](person) ne se reposent pas.
-    - Je ne peux pas dormir parce que les autres sont constamment si forts.
+    - Les [enfants] (personne) de mes [voisins] (personne) ne se calment pas.
+    - Je ne peux pas dormir parce que les autres sont toujours très bruyants.
     - Les gens au-dessus de moi crient toujours.
-    - Les nouveaux [locataires](person) baisent si fort que je ne peux pas entendre ma télé.
-    - "Il y a tant de bruit que j'ai besoin des bouchons d'oreilles."
+    - 'Les nouveaux [locataires](person) baisent si fort que je ne peux pas entendre
+      ma [télé](appliance). '
+    - "Il y a tant de bruit que j'ai besoin des bouchons d'oreilles. "
     - "Pendant la nuit, il faut que j'utilise des bouchons d'oreilles pour dormir,\
-      \ parce que mes [voisins](person) sont si bruyants."
+      \ parce que mes [voisins](person) sont si bruyants. "
     - "Les [Cadillion](named person) ne se reposent jamais. Jusqu'à tard dans la nuit,\
-      \ j'entends du piétinement et des cris."
-    - Ici on fait la fête au-dessus de moi. Je vais appeler la [police](person) tout de suite.
-    - "J'ai appelé la [police](person) parce que la [famille Cadillion](named person)\
-      \ est si bruyant."
-    - Les [gamins](person) de [famille Lambert](named person) font beaucoup de bruit
-    - "C'est si bruyant que je n'arrive pas à dormir."
-    - Les [Simon](named person) sont toujours trop bruyants.
+      \ j'entends du piétinement et des cris.   "
+    - ' Ici on fait la fête au-dessus de moi. Je vais appeler la [police](person)
+      tout de suite. '
+    - "J'ai appelé la [police](person) parce que la [famille Delonge](named_person)\
+      \ est très bruyante."
+    - Les [enfants](person) de la [famille Dubois] font un vrai boucan
+    - Il est si bruyant que je ne peux pas dormir.
+    - Les [Duval](named_person) sontr toujours trop bruyants.

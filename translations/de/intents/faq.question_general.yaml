@@ -1,0 +1,29 @@
+de:
+  intent:
+    ' faq/question_general':
+    - Frage
+    - FAQ
+    - Habe da eine Frage
+    - Wie ist das mit
+    - Warum ist das so?
+    - Was ist ein?
+    - Ich habe eine Frage
+    - Kannst du mir eine Frage beantworten?
+    - Kennst du die Antwort?
+    - Kannst du meine Fragen beantworten?
+    - Ich brauche Antworten
+    - Geben Sie mir ein paar Informationen
+    - Ich will ein paar Sachen klären
+    - Wir haben ein bisschen Gesprächsbedarf
+    - Wir müssen reden
+    - Ich habe Diskussionsbedarf
+    - Ich muss dir einige Fragen stellen
+    - Mir ist einiges unklar
+    - Verschaffe mir Klarheit
+    - Ich will ein langes Gespräch mit dir führen
+    - Die Sache hat Gesprächsstoff
+    - Was für [Energieversorgungsgeräte](appliance)
+    - Erhalten wir im [Haus](indoor_location) Wärme und so durch Ferngas oder Fernwärme oder was
+    - Ich will wissen welche Geräte hier für die Stromversorgung benutzt werden
+    - Sag mir mal welche Apparate für die Stromzufuhr verwendet werden
+    - Muss wissen welche Geräte genau für die Energieversorgung zuständig sind

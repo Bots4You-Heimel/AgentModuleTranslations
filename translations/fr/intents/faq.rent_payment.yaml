@@ -1,0 +1,20 @@
+fr:
+  intent:
+    faq/rent_payment:
+    - paiement du loyer | paiement de loyer
+    - loyer
+    - payer le loyer
+    - "Payer jusqu'à quand ?"
+    - "loyer jusqu'à quand"
+    - délai virement loyer
+    - délai loyer payer
+    - "Payer loyer jusqu'à quand ?"
+    - Quand est-ce que je peux transférer mon loyer au plus tard ?
+    - "Jusqu'à quand le loyer peut être transféré ?"
+    - Quand doit-on avoir payé
+    - Payer le loyer au plus tard quand ?
+    - "Loyer jusqu'à quand au plus tard ?"
+    - Payement loyer réception de paiement
+    - Quand le loyer doit-il être sur votre compte ?
+    - "Jusqu'à quand dois-je avoir payé le loyer mensuel ?"
+    - "Le transfert du loyer mensuel aurait dû être effectué jusqu'à quand ?"

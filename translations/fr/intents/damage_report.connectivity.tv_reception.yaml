@@ -1,0 +1,50 @@
+fr:
+  intent:
+    ticket.damage_report/connectivity.tv_reception:
+    - réception de la télévision
+    - réception télévisée
+    - réception TV
+    - signal de télévision | signal télévisuel
+    - signal satellite
+    - réception satellite
+    - '[télévision](appliance) pertubrée'
+    - Pas de réception de la télévision
+    - perturbation câble | perturbation télévision par câbles
+    - perturbation signal télévision
+    - "mauvaise qualité d'image TV"
+    - mauvaise qualité signal télévision
+    - grésillement [téléviseur](appliance)
+    - bruit numérique [télé](appliance)
+    - '|'
+    - '[neige](mess)  au [télé](appliance)'
+    - Je ne peux pas reragerder la télévision
+    - '[téléviseur](appliance) ne capte rien'
+    - '[télé](appliance) ne marche pas'
+    - mauvaise image [télé](appliance)
+    - '[télé](appliance) perturbé'
+    - seulement diffuseurs publics | chaînes de service public | chaînes puibliques
+    - pas de réception des chaînes privées
+    - '[téléviseur](appliance) a un mauvaise image'
+    - Mon [télé](appliance) a un mauvaise image
+    - Je ne capte rien par (câble](item)
+    - "Le [téléviseur plasma](appliance) n'a plus de réception"
+    - "Je ne peux plus regarder la télé parce que j'ai un image de mauvaise qualité"
+    - "[Dans tout la maison](indoor_location) la réception de la télévision n'est\
+      \ pas bonne"
+    - "Je ne capte plus des bonnes chaînes | Je ne capte plus des chaînes d'un image\
+      \ de bonne qualité"
+    - "Je n'ai pas de réception satellite"
+    - Votre installation satellite est foutu. | Votre système de réception par satellite est foutu.
+    - "cette installation satellite n'a plus de réception"
+    - réception satellite perdue
+    - Je capte un image de mauvaise qualité par le câble au [salon](indoor_location)
+    - Je ne capte plus des chaînes HD
+    - Je ne peux plus capter Canal+
+    - "Je crois qu'il y a une interférence TV."
+    - La réception de M6 et Arte est perturbée
+    - "Je pense [l'amplificateur de réception](item) est cassé."
+    - "[L'amplificateur](item) pour le câble ne fonctionne plus"
+    - Je ne capte pas un bon image sur mon nouveau [téléviseur grand écran](item) ultra HD
+    - "Je viens d'acheter un nouveau [téléviseur](appliance) [LCD](appliance) mais\
+      \ il n'a aucune réception"
+    - "Il n'y a aucun signal sur la boîte de câble pour le [téléviseur](appliance)"

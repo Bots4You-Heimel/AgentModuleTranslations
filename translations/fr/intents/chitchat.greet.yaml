@@ -1,0 +1,155 @@
+fr:
+  intent:
+    chitchat.are_you_a_chatbot:
+    - Es-tu un chatbot ?
+    - Tu es un chatter bot ?
+    chitchat.are_you_a_man:
+    - Es-tu un homme ou une femme ?
+    - Tu es un homme ?
+    - Tu es une femme ?
+    chitchat.are_you_a_robot:
+    - Es-tu un robot ?
+    - Es-tu un être humain ?
+    - Es-tu une machine ?
+    - Tu es un logiciel ?
+    - tu es une personne ?
+    - Parle-je avec une machine ?
+    - Est-ce que je parle avec un logiciel ?
+    - Je parle avec un être humain ?
+    - Es-tu une personne ?
+    - Tu es un ordinateur ?
+    - tu es réel ?
+    - Es-tu un logiciel ?
+    - tu es un bot ?
+    - es-tu réel ?
+    - Es-ce que tu es un logiciel ?
+    - Es-tu une IA ?
+    - Es-tu une AI ?
+    - "À qui j'écris en ce moment ?"
+    - "J'écris avec une intelligence artificielle ?"
+    chitchat.goodbye:
+    - salut
+    - au revoir
+    - ciao
+    - '|'
+    - bye
+    - à tout
+    - '|'
+    - "à tout à l'heure"
+    - amuse-toi | amuset-vous
+    - je me déconnecte
+    chitchat.greet:
+    - Bonjour
+    - Salut
+    - Coucou
+    - '|'
+    - '|'
+    - coucou
+    - bon matin
+    - bonsoir
+    - bonjour
+    - hello
+    - '|'
+    - '|'
+    chitchat.how_are_you:
+    - comment ça va ?
+    - ça va ?
+    - '|'
+    - Tout va bien ?
+    - comment vas-tu ?
+    - ça roule ?
+    chitchat.how_do_you_look:
+    - A quoi tu ressembles ?
+    - apparence | apparence physique
+    - '|'
+    - Comment puis-je vous imaginer ?
+    chitchat.i_love_you:
+    - "Je t'aime"
+    - "je t'aime"
+    - '|'
+    - '|'
+    chitchat.tell_me_a_joke:
+    - Raconte-moi une blague,
+    - raconte moi une blague
+    - tu peux faire une joke ?
+    - Tu es drôle ?
+    - sois drôle
+    - sortir des blagues
+    chitchat.thanks:
+    - merci
+    - remerciement
+    - mercie bien
+    - ok
+    - oké oké
+    - oké
+    - super
+    - superbe
+    - fantastique
+    - excellent
+    - '[propre](mess) '
+    - parfait
+    - '|'
+    - "bien | tout va bien | d'accord"
+    chitchat.what_are_you_doing:
+    - "Qu'est-ce que tu fais en ce moment ?"
+    - "Qu'est-ce que tu fais ?"
+    - Quoi fais-tu ?
+    - Tu fais quoi ?
+    - Tu es en train de faire quoi ?
+    chitchat.what_can_you_do:
+    - "Qu'est-ce que tu peux faire ?"
+    - Que peux-tu faire ?
+    - '|'
+    - Quelles sont tes compétences ?
+    - de quoi êtes-vous capable ?
+    - quelles sont tes capacités ?
+    - "qu'est-ce que tu peux faire, toi ?"
+    chitchat.what_is_your_favorite_color:
+    - Quelle est ta couleur préférée ?
+    - couleur
+    - couleur préferée
+    - Tu aimes le rouge ?
+    - quelle couleur aimes-tu ?
+    - quelle couleur préfères-tu?
+    - tu aimes quelles couleurs ?
+    chitchat.what_is_your_favorite_food:
+    - quel est ton plat préféré ?
+    - Que aimes tu manger ?
+    - De quoi tu te nourris ?
+    - bon appétit
+    - profites-en
+    chitchat.where_do_you_come_from:
+    - "D'où viens-tu ?"
+    - '|'
+    - "D'où viens tu, toi?"
+    - '|'
+    - "d'où"
+    - "D'u est-ce que tu viens ?"
+    - "dis-moi, d'où viens-tu ?"
+    - "toi, d'où viens tu ?"
+    - '|'
+    - "Tu viens d'ou ?"
+    chitchat.where_do_you_live:
+    - Où est-ce que tu habites ?
+    - Où es-tu ?
+    - Où est ta résidence ?
+    - Où est ton poste de travail ?
+    - Où vives-tu? | Où est-ce que tu vives ?
+    chitchat.who_are_you:
+    - 'Qui es-tu ? '
+    - Qui êtes-vous ?
+    - Qui toi ?
+    - "Qu'est.ce que tu es ?"
+    - Qui étais-tu ?
+    - Qui étais-tu déjà ?
+    - Qui étiez-vous déjà ?
+    - '|'
+    - "Comment tu t'appelles ? "
+    - 'Comment appelez-vous ? | Quel est votre nom ? '
+    - Quel est ton nom ?
+    - "C'est quoi ton nom ?"
+    chitchat.who_developed_you:
+    - "Qui t'a développé ?"
+    - "qui t'a créé ?"
+    - programmeur | programmeuse
+    - Qui a écrit ton code ?

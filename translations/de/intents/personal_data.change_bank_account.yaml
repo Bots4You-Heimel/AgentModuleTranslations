@@ -1,0 +1,23 @@
+de:
+  intent:
+    ticket.personal_data/change_bank_account:
+    - Bankverbindung
+    - Konto
+    - Kontoänderung
+    - Bankverbindung ändern
+    - Anderes Konto
+    - Änderung Konto
+    - Andere Kontonummer angeben
+    - IBAN Ändern
+    - Konto wechsel
+    - Neue Kontonummer
+    - Miete Bankverbindung
+    - Andere Kontonummer
+    - Einzug anderes Konto
+    - Habe neues Konto
+    - Neues Konto für Miete
+    - Bitte ziehen sie die Miete in Zukunft von einem andern Konto ab
+    - Mein neues Konto hat die Iban [DE27 1007 7777 0209 2997 00](iban). Ab jetzt soll die Miete von da abgezogen werden
+    - Ich habe ein anderes Konto bei der [Sparkasse Hamburg](bank), vom dem die Miete nun abgehen soll
+    - Ab nächsten Monat sollen alle Kosten von dem Konto [AL90208110080000001039531801](iban) mit Bic [AUDFDE21](bic) abgehen
+    - Lastschrifen von anderem Konto

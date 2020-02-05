@@ -1,0 +1,31 @@
+fr:
+  intent:
+    ' faq/question_general':
+    - question | demande
+    - 'FAQ, '
+    - "J'aurais une question"
+    - 'Comment '
+    - "Pourquoi est-ce que c'est comme ça ? | Pourquoi c'est comme ça ?"
+    - "Qu'est-ce qu'un ?"
+    - "J'ai une question"
+    - Peux-tu répondre à une question pour moi ?
+    - Tu connais la réponse ?
+    - Tu peux répondre à mes questions ?
+    - "J'ai besoin de réponses"
+    - Donnez-moi quelques informations sur
+    - Je veux régler quelque chose
+    - "Il faut qu'on parle un peu."
+    - "Il faut qu'on parle"
+    - Je voudrais discuter
+    - Il faut que je te pose quelques questions.
+    - Je ne suis pas sûr de certaines choses.
+    - Renseigne-moi
+    - Je veux avoir une longue discussion avec toi
+    - Ce sujet fournit matière à discuter
+    - "Quels [blocs d'alimentation](appliance) ?"
+    - Dans la [maison], on y reçoit chauffage et tout ça par chauffage urbaine ou par gaz en gros ou quoi?
+    - "Je veux savoir quels appareils sont utilisés pour l'alimentation électrique\
+      \ ici"
+    - "Dites-moi quels appareils sont utilisés pour l'alimentation électrique."
+    - "Je dois savoir, quels appareils sont responsables pour l'alimentation en é\
+      nergie"

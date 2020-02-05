@@ -1,0 +1,16 @@
+fr:
+  intent:
+    faq/landlord_confirmation:
+    - "[attestation de logement](document) | [déclaration d'hébergement](document)\
+      \ | [justificatif de domicile](document)"
+    - reception [attestation de logement](document)
+    - Quand et où est-ce que je reçois une [attestation de logement](document)
+    - "Quand est-ce qe je reçois [l'attestation de logement](document)"
+    - "Où est-ce que j'obtiens une [attestation de logement](document) ?"
+    - "Comment je reçois [l'attestation de logement](document)"
+    - "Quand reçois-je [l'attestation de logement](document) de vous ?"
+    - "Comment est-ce que je peux obtenir une [déclaration d'hébergement](document)\
+      \ ?"
+    - "Où est-ce que je peux venir chercher [l'attestation de logement](document)\
+      \ ?"
+    - "Qui puis-je demandaer à propos de [l'attestation de logement](document) ?"

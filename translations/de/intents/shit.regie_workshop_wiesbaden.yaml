@@ -1,0 +1,17 @@
+de:
+  intent:
+    ticket.shit/regie_workshop_wiesbaden:
+    - Instandhaltung [Wiesbaden](city)
+    - Reparaturen [Wiesbaden](city)
+    - Regiewerkstatt [Wiesbaden](city)
+    - '[Wiesbaden](city) Instandhaltungsarbeiten'
+    - Zuständigkeit [Wiesbaden](city) Reparaturen
+    - '[Wiesbaden](city) sanitäre Reparaturen'
+    - Wer ist dafür zuständig die Sanitärobjekte in [Wiesbaden](city) zu reparieren?
+    - Wie erreiche ich die Regie Werkstatt [Wiesbaden](city)?
+    - Ich habe eine Frage an die [Handwerker](person) in [Wiesbaden](city)
+    - Wer repariert die Armaturen im [Bad](indoor_location) meiner [Wohnung](indoor_location) in [Wiesbaden](city)?
+    - Ich brauche Kontakt zur Regiewerkstatt [Wiesbaden](city).
+    - Wer ist für die Reparatur meiner [Dusche](sanitary_item) zuständig? In [Wiesbaden](city) bin ich
+    - Ich will Kontakt zu den Handwerkern in [Wiesbaden](city) die meine [Toilette](sanitary_item) reparieren sollen
+    - Könnt ihr mir die mailadresse der regiewerkstatt in [Wiesbaden](city) durchgeben?

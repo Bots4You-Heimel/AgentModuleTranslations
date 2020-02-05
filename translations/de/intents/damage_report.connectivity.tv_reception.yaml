@@ -1,0 +1,47 @@
+de:
+  intent:
+    ticket.damage_report/connectivity.tv_reception:
+    - Fernsehempfang
+    - Fernseherempfang
+    - Tv-Emfpang
+    - Fernsehsignal
+    - Satellitensignal
+    - Satellitenempfang
+    - '[Fernseher](appliance) gestört'
+    - Kein Fernsehempfang
+    - Empfangsstörung Kabelfernsehen
+    - Störung Fernsehsignal
+    - schlechtes Tv Bild
+    - schlechtes Fernsehsignal
+    - Rauschen [Fernseher](appliance)
+    - Bildrauschen [Glotze](appliance)
+    - Kein Fernsehempfang
+    - '[Schnee](mess) im [Fernseher](appliance)'
+    - Kann nicht fernsehen
+    - '[Fernseher](appliance) empfängt nix'
+    - '[Glotze](appliance) läuft nicht'
+    - Schlechtes Bild [Glotze](appliance)
+    - '[Glotze](appliance) gestört'
+    - Nur öffentlich rechtliche
+    - Keine Privatsender empfang
+    - '[Ferseher](appliance) hat schlechtes Bild'
+    - Meine [Glotze](appliance) hat ein schlechtes Bild
+    - Ich kriege kein Bild über die [Kabeldose](item)
+    - Der [Plasmafernseher](appliance) hat keinen Empfang mehr
+    - Ich kann nicht mehr fernsehen, weil ich kein gutes Bild habe
+    - '[Im ganzen Haus](indoor_location) ist der Fernsehempfang nicht so gut'
+    - Ich kriege keine guten Sender mehr rein
+    - Ich habe keinen Satellitenempfang
+    - eure SAT-Anlage ist im Arsch
+    - diese SAT-Anlage hat keinen empfang mehr
+    - Satellitenempfang weg
+    - Durch die Dose im [Wohnzimmer](indoor_location) kriege ich ein schlechtes Bild
+    - Ich kriege keine HD Fernsehsender mehr rein
+    - Ich kann kein Pro7 mehr empfangen
+    - Ich glaube da liegt eine Störung des Fernsehempfangs vor
+    - Der Empfang von Sat1 und Kabel1 ist gestört
+    - Ich glaube der [Empfangsverstärker](item) ist kaputt
+    - Der [Verstärker](item) für das Kabelfernsehen geht nicht mehr
+    - Ich kriege kein gutes Bild auf meinem neuen Ultrahd [Breitbildfernseher](item)
+    - Gerade habe ich mir einen neuen [LCD](appliance) [Ferseher](appliance) gekauft, aber der kriegt keinen Empfang
+    - Aus der Dose kommt kein Signal für den [Fernseher](appliance)

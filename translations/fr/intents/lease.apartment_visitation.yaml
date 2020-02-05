@@ -1,0 +1,22 @@
+fr:
+  intent:
+    ticket.lease/apartment_visitation:
+    - "[inspection de logement](indoor_location) | [visite de l'appartement](indoor_location)"
+    - visiter [logement](indoor_location) | inspecter [logement](indoor_location)
+    - convenir une [inspection de logement](indoor_location)
+    - visiter nouveau [logement](indoor_location)
+    - convenir rendez-vous pour une  [inspection du logement](indoor_location)
+    - visite pour [logement](indoor_location) | visite pour [appartement](indoor_location)
+    - Qui est responsable pour fixer un rendez-vous pour une visite ?
+    - Je voudrais bien visiter un [appartement](indoor_location).
+    - "Comment recevoir un rendez-vous pour une visite de l'appartement ?"
+    - Comment je peux convenir un rendez-vous pour une visite ?
+    - Vous avez des [appartements](indoor_location) super ! Quelles sont les horaires de visite ?
+    - Je veux voir un de vos appartements.
+    - "besoin d'un rendez-vous pour visiter [appartement](indoor_location)"
+    - "J'ai vu un beau logement avec vous, j'aimerais y jeter un coup d'œil de plus\
+      \ près !"
+    - "J'aimerais visiter l'appartement dans la [Kullerstraße](street) qui est en\
+      \ vente."
+    - "L'[appartement](indoor_location) dans la [rue de Heine](street) a l'aire trè\
+      s bien, je peux le visiter ?"

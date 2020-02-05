@@ -10,12 +10,12 @@ de:
   - Zentralheizung
   - Heizungsanlage
   - Wärmetauscher
-  - ''
-  - Heizkessel
+  - HIeizkessel
   - Umlaufpumpe
   - Warmwasserspeicher
   - Boiler
   - Heizpumpe
+  - Wärmespeicher
   - Wärmespeicher
   - Wärmepumpe
   GasCentralHeating:

@@ -1,0 +1,23 @@
+fr:
+  intent:
+    faq/baby_buggy_box:
+    - landau box
+    - poussette box
+    - place poussette | place landau
+    - emplacement poussette
+    - où rentrer poussette | où garer poussette | où rentrer landau | où garer landau
+    - garer landeau en sécurité | garer pousette en sécurité
+    - emplacement landau
+    - '|'
+    - Où est-ce que je peux garer le landau ?
+    - "Est-ce qu'il y a un endroit sûr pour la pousette ?"
+    - Je voudrais verrouiller le landau quelque part
+    - Avez-vous un emplacement pour les pousettes ?
+    - Où dois- je verrouiller mon landau ?
+    - Comment puis-je protéger ma poussette contre le vol ?
+    - "J'ai peur que le landau pour mon bébé sera volé"
+    - "Malheureusement, je n'arrive pas à faire entrer la poussette dans notre [appartement](indoor_location)"
+    - Une de mes connaissances a une boîte pour son landau à son [appartement](indoor_location], vous avez quelque chose comme ça aussi ?
+    - "La [porte d'entrée](outdoor_location) est toujours ouverte, donx je ne veux\
+      \ pas laisser le landau au [couloir](indoor_location). Pui-je le garer ailleurs\
+      \ ?"

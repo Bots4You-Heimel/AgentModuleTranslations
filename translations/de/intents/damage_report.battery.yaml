@@ -1,0 +1,39 @@
+de:
+  intent:
+    ticket.damage_report/battery:
+    - Batterie
+    - Akku
+    - Batteriepack
+    - Akkupack
+    - Knopfzelle
+    - Akku tauschen
+    - Batterie wechseln
+    - Neue Batterie
+    - Batteriewechsel
+    - Akkuwechsel
+    - Batterie leer
+    - Akku Kapazität erschöpft
+    - Batterie muss getauscht werden
+    - braucht einen neuen Akku
+    - könnte eine neue Batterie gebrauchen
+    - die Batterie ist leer
+    - neue Bleibatterie
+    - neue AA Batterie
+    - neue Batteriezelle
+    - Temperaturregler leer
+    - Der Temperaturregler ist leer
+    - Die [Uhr](item) im [Flur](indoor_location) bräuchte eine neue Batterie
+    - Die Batterie von meinem [Heizkostenzähler](sanitary_item) im [Bad](indoor_location) ist leer
+    - Mein [HKV](sanitary_item) hat keinen Saft mehr
+    - Ich brauche eine neue Batterie für meine [Klingel](item)
+    - Der [Heizkostenverteiler](sanitary_item) braucht mal eine neue Batterie
+    - Der Akku vom [Rasenmäher](item)  lädt nicht mehr
+    - Der [Rauchmelder](item)  hat gepiept, weil er eine neue Batterie braucht
+    - Die [Brandmeldeanlage](item)  braucht einen neuen Notstromakku
+    - Die [Rauchmelder](item)  hier bräuchten mal neue Batterien!
+    - Die [Brandmelder](item)  im [Treppenhaus](indoor_location) müssten neue 9-Volt-Block-Batterie bekommen
+    - Der [Laubbläser](item)  braucht einen neues Akkupack
+    - Wer bezahlt mir neue Batterien für die Melder?
+    - Die Knopfzelle für den [Messer](item) am [Heizkörper](sanitary_item) muss ausgetauscht werden
+    - Warum tauscht niemand die Batterien aus?
+    - Wer ist dafür zuständig, die Akkus auszutauschen?

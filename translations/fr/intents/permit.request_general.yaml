@@ -1,0 +1,4 @@
+fr:
+  intent:
+    ticket.permit/request_general:
+    - 'demande | prière | requête '

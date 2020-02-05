@@ -1,0 +1,24 @@
+fr:
+  intent:
+    ' faq/lease_cancellation_period':
+    - délai-congé | délai de résiliation | délai de préavis
+    - délai de préavis [appartement](indoor_location) date
+    - bail fin quand
+    - Quand peut-on résilier son [logement](indoor_location) au plus tôt ?
+    - Quelle est la durée du préavis ?
+    - Quand résiliation du [bail](document) ?
+    - Quel est le délai de préavis ?
+    - Quel est le délai de préavis pour une résiliation de bail ?
+    - "Jusq'au quand dois-je envoyer mon [avis de résiliation](document) ?"
+    - Quand est-ce que la résiliation doit être arriver chez vous ?
+    - lettre de résiliation, quand envoyer au plus tard ?
+    - délai de préavis [bail](document) résilier
+    - "fin [contrat de location](document) jusqu'à quand ?"
+    - "Jusqu'à quand envyoer résiliation [bail](document) ?"
+    - date déménagement en cas de résiliation
+    - En cas de résiliation, quel est le délai de préavis ?
+    - Combien de temps dois-je attendre avant de pouvoir quitter le logement ?
+    - Dans combien de temps puis-je résilier mon [appartement](indoor_location)  ?
+    - Comment je peux rompre mon [bail](document) ?
+    - Il me faut combien de temps pour résilier mon [garage](outdoor_location)
+    - Quelle est la date au plus tôt pour mettre fin à mon bail ?

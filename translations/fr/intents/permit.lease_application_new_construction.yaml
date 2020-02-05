@@ -1,0 +1,12 @@
+fr:
+  intent:
+    ticket.permit/lease_application_new_construction:
+    - Louer un nouveau bâtiment
+    - louer [appartement](indoor_location) projet de construction
+    - louer [garage](indoor_location) nouveau bâtiment
+    - candidature chantier [appartement](indoor_location)
+    - candidature construction [garage](outdoor_location)
+    - candidature pour un [appartement](indoor_location) en projet de construction
+    - "Je veux obtenir l'[appartement](indoor_location)) de [sous-sol](floor) qui\
+      \ est en train d'être construit dans cette maison !"
+    - Je veux louer un [appartement étudiant](indoor_location) dans la nouvelle résidence universitaire.

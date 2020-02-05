@@ -1,0 +1,16 @@
+fr:
+  intent:
+    ' faq/lease_cancellation':
+    - 'résilier [appartement](indoor_location) '
+    - Comment résilier [contrat](document) ?
+    - Comment dois-je procéder pour résilier le contrat ?
+    - Comment puis je résilier ?
+    - Et si je voudrais résilier ?
+    - Comment on résilie le [contrat](document)
+    - Il faut envoyer la résilation par poste ?
+    - Comment est-ce que je peux résilier le [contrat](document) ?
+    - Comment se passe la résiliation ?
+    - De quoi dois-je tenir compte si je veux résilier ??
+    - Et si je voulais quitter mon [appartement](document) rapidement ?
+    - Que dois-je faire pour mettre fin à mon [bail] rapidement ?
+    - "Qu'est-ce qu'il faut faire  pour résilier le bail de location ?"
